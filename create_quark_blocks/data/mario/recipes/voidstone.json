@@ -14,9 +14,6 @@
       "item": "minecraft:blackstone"
     },
     {
-      "item": "minecraft:basalt"
-    },
-    {
       "fluid": "minecraft:lava",
       "nbt": {},
       "amount": 100
