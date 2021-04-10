@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "buzzier_bees"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "buzzier_bees:bluebell"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:blue_dye",
+      "count": 2
+    }
+  ],
+  "processingTime": 50
+}
