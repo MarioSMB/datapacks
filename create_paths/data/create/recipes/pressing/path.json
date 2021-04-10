@@ -1,0 +1,24 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "environmental"
+    }
+  ],
+  "type": "create:pressing",
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:grass_block"
+      },
+      {
+        "item": "minecraft:dirt"
+      }
+    ]
+  ],
+  "results": [
+    {
+      "item": "minecraft:grass_path"
+    }
+  ]
+}
