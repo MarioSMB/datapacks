@@ -2,13 +2,13 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "buzzier_bees"
+      "modid": "environmental"
     }
   ],
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "buzzier_bees:columbine"
+      "item": "environmental:purple_hibiscus"
     }
   ],
   "results": [
@@ -17,7 +17,7 @@
       "count": 2
     },
     {
-      "item": "minecraft:white_dye",
+      "item": "minecraft:purple_dye",
       "count": 1,
       "chance": 0.1
     }
