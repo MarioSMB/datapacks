@@ -9,13 +9,13 @@
   "ingredients": [
     [
       {
-        "item": "betterendforge:shadow_moss"
+        "item": "betterendforge:shadow_grass"
       }
     ]
   ],
   "results": [
     {
-      "item": "betterendforge:shadow_moss_path"
+      "item": "betterendforge:shadow_grass_path"
     }
   ]
 }
