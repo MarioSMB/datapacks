@@ -1,7 +1,7 @@
 {
   "type": "environmental:sawing",
   "ingredient": {
-    "tag": "biomesoplenty:willow_log"
+    "tag": "biomesoplenty:willow_logs"
   },
   "result": "biomesoplenty:willow_fence",
   "count": 4,
