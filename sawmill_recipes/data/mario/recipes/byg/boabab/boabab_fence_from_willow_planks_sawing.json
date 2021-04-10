@@ -1,0 +1,14 @@
+{
+  "type": "byg:sawing",
+  "ingredient": {
+    "item": "byg:boabab_planks"
+  },
+  "result": "byg:boabab_fence",
+  "count": 1,
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"byg"
+    }
+  ]
+}

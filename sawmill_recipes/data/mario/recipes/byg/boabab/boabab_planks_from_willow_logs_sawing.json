@@ -1,0 +1,14 @@
+{
+  "type": "byg:sawing",
+  "ingredient": {
+    "tag": "byg:boabab_logs"
+  },
+  "result": "byg:boabab_planks",
+  "count": 4,
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"byg"
+    }
+  ]
+}
