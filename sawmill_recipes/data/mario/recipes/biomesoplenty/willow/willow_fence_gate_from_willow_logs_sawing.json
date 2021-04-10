@@ -1,5 +1,5 @@
 {
-  "type": "biomesoplenty:sawing",
+  "type": "environmental:sawing",
   "ingredient": {
     "tag": "biomesoplenty:willow_log"
   },

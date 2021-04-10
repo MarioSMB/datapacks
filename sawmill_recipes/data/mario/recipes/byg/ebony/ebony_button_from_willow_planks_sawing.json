@@ -1,5 +1,5 @@
 {
-  "type": "byg:sawing",
+  "type": "environmental:sawing",
   "ingredient": {
     "item": "byg:ebony_planks"
   },
