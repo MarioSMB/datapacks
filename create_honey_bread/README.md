@@ -1,2 +1,2 @@
 # data pack info
-Replaces the honey bread recipe from Buzzier Bees with a spout recipe similar to honeyed apples
+Allows honey bread from Buzzier Bees to be created with a spout recipe similar to honeyed apples
