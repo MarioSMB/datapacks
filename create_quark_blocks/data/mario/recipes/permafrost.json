@@ -8,13 +8,18 @@
   "type": "create:compacting",
   "ingredients": [
     {
-      "item": "minecraft:gravel"
+      "item": "minecraft:snowball"
     },
     {
-      "item": "minecraft:dirt"
+      "item": "minecraft:snowball"
     },
     {
-      "item": "minecraft:ice"
+      "tag": "forge:cobblestone"
+    },
+    {
+      "fluid": "minecraft:water",
+      "nbt": {},
+      "amount": 100
     }
   ],
   "results": [
