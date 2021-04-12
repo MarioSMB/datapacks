@@ -5,23 +5,11 @@
       "modid": "quark"
     }
   ],
-  "type": "create:compacting",
-  "ingredients": [
-    {
-      "item": "minecraft:soul_sand"
-    },
-    {
-      "item": "minecraft:blackstone"
-    },
-    {
-      "fluid": "minecraft:lava",
-      "nbt": {},
-      "amount": 100
-    }
-  ],
-  "results": [
-    {
-      "item": "quark:basalt"
-    }
-  ]
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:blackstone"
+  },
+  "result": "quark:basalt",
+  "experience": 0.0,
+  "cookingtime": 200
 }
