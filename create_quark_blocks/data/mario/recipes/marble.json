@@ -5,20 +5,11 @@
       "modid": "quark"
     }
   ],
-  "type": "create:compacting",
-  "ingredients": [
-    {
-      "item": "create:limestone"
-    },
-    {
-      "fluid": "minecraft:lava",
-      "nbt": {},
-      "amount": 100
-    }
-  ],
-  "results": [
-    {
-      "item": "quark:marble"
-    }
-  ]
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "create:limestone"
+  },
+  "result": "quark:marble",
+  "experience": 0.0,
+  "cookingtime": 200
 }
