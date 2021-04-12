@@ -8,10 +8,10 @@
   "type": "create:compacting",
   "ingredients": [
     {
-      "tag": "forge:gems/quartz"
+      "item": "minecraft:flint"
     },
     {
-      "tag": "forge:gems/quartz"
+      "item": "minecraft:flint"
     },
     {
       "item": "minecraft:sand"
