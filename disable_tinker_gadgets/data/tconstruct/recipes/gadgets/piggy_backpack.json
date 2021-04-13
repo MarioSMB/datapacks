@@ -5,7 +5,7 @@
       "value":
         {
           "type": "forge:mod_loaded",
-          "flag": "minecraft"
+          "modid": "minecraft"
         }
     }
   ],
