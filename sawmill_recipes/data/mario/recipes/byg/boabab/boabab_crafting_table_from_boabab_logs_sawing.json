@@ -1,9 +1,9 @@
 {
   "type": "environmental:sawing",
   "ingredient": {
-    "tag": "byg:boabab_logs"
+    "tag": "byg:baobab_logs"
   },
-  "result": "byg:boabab_crafting_table",
+  "result": "byg:baobab_crafting_table",
   "count": 1,
   "conditions":[
     {

@@ -1,9 +1,9 @@
 {
   "type": "environmental:sawing",
   "ingredient": {
-    "item": "byg:boabab_planks"
+    "item": "byg:baobab_planks"
   },
-  "result": "byg:boabab_stairs",
+  "result": "byg:baobab_stairs",
   "count": 1,
   "conditions":[
     {
