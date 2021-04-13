@@ -7,7 +7,7 @@
   ],
   "key": {
     "#": {
-      "item": "byg:cypress_logs"
+      "tag": "byg:cypress_logs"
     }
   },
   "result": {
