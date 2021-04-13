@@ -14,10 +14,8 @@
       "item": "minecraft:warped_wart_block"
     }
   ],
-  "results": [
-    {
-      "item": "byg:blue_netherrack",
-      "count": 2
-    }
-  ]
+  "result": {
+    "item": "byg:blue_netherrack",
+    "count": 2
+  }
 }
