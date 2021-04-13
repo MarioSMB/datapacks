@@ -7,12 +7,12 @@
   ],
   "key": {
     "#": {
-      "tag": "byg:aspen_logs"
+      "tag": "mario:chest_planks"
     }
   },
   "result": {
     "item": "minecraft:chest",
-    "count": 4
+    "count": 1
   },
   "conditions": [
     {
@@ -20,11 +20,11 @@
       "values": [
         {
           "type": "quark:flag",
-          "flag": "wood_to_chest_recipes"
+          "flag": "variant_chests"
         },
         {
-          "type": "quark:flag",
-          "flag": "variant_chests"
+          "type": "forge:mod_loaded",
+          "modid": "biomesoplenty"
         },
         {
           "type": "forge:mod_loaded",
