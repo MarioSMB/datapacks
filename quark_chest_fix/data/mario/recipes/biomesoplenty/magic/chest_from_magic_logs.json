@@ -28,7 +28,7 @@
         },
         {
           "type": "forge:mod_loaded",
-          "flag": "biomesoplenty"
+          "modid": "biomesoplenty"
         }
       ]
     }
