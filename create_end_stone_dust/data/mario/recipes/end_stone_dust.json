@@ -1,17 +1,8 @@
 {
   "conditions": [
     {
-      "type": "forge:and",
-      "values": [
-        {
-          "type": "forge:mod_loaded",
-          "modid": "betterendforge"
-        },
-        {
-          "type": "forge:mod_loaded",
-          "modid": "byg"
-        }
-      ]
+      "type": "forge:mod_loaded",
+      "modid": "betterendforge"
     }
   ],
   "type": "create:crushing",
@@ -28,10 +19,6 @@
     {
       "item": "betterendforge:endstone_dust",
       "chance": 0.5
-    },
-    {
-      "item": "byg:end_sand",
-      "chance": 0.75
     }
   ],
   "processingTime": 150
