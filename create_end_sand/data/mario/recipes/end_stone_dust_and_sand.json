@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "betterendforge"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "byg"
+        }
+      ]
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:end_stone"
+    }
+  ],
+  "results": [
+    {
+      "item": "betterendforge:endstone_dust",
+      "count": 3
+    },
+    {
+      "item": "betterendforge:endstone_dust",
+      "chance": 0.5
+    },
+    {
+      "item": "byg:end_sand",
+      "chance": 0.75
+    }
+  ],
+  "processingTime": 150
+}
