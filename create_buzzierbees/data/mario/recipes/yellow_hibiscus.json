@@ -8,7 +8,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "environmental:daybloom"
+      "item": "environmental:yellow_hibiscus"
     }
   ],
   "results": [
