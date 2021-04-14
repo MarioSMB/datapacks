@@ -2,10 +2,8 @@
   "replace": false,
   "values": [
     "minecraft:tube_coral",
-    "minecraft:tube_coral_fan"
-  ],
-  "optional": [
-  	"#upgrade_aquatic:acan_fans_corals",
-  	"#upgrade_aquatic:petal_fans_corals"
+    "minecraft:tube_coral_fan",
+    "#upgrade_aquatic:acan_fans_corals",
+    "#upgrade_aquatic:petal_fans_corals"
   ]
 }
