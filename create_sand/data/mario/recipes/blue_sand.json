@@ -8,15 +8,16 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "tag": "mario:blue_corals"
+      "item": "create:dolomite"
     },
     {
-      "item": "minecraft:sand"
+      "item": "minecraft:lapis_lazuli"
     }
   ],
   "results": [
     {
       "item": "byg:blue_sand"
     }
-  ]
+  ],
+  "heatRequirement": "heated"
 }

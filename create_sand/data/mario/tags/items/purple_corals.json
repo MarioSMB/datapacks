@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "minecraft:bubble_coral",
-    "minecraft:bubble_coral_fan",
-    "#upgrade_aquatic:silk_fans_corals"
-  ]
-}

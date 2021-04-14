@@ -8,7 +8,10 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "tag": "mario:purple_corals"
+      "tag": "forge:nuggets/iron"
+    },
+    {
+      "tag": "forge:nuggets/iron"
     },
     {
       "item": "minecraft:sand"

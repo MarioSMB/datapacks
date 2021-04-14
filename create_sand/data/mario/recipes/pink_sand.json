@@ -5,14 +5,19 @@
       "modid": "byg"
     }
   ],
-  "type": "create:mixing",
+  "type": "create:crushing",
   "ingredients": [
-    {
-      "tag": "mario:pink_corals"
-    },
-    {
-      "item": "minecraft:sand"
-    }
+    [
+      {
+        "item": "minecraft:brain_coral"
+      },
+      {
+        "item": "minecraft:bubble_coral"
+      },
+      {
+        "item": "minecraft:fire_coral"
+      }
+    ],
   ],
   "results": [
     {
