@@ -5,18 +5,17 @@
       "modid": "byg"
     }
   ],
-  "type": "create:mixing",
+  "type": "create:crushing",
   "ingredients": [
     {
       "tag": "forge:gems/quartz"
-    },
-    {
-      "item": "minecraft:sand"
     }
   ],
   "results": [
     {
-      "item": "byg:white_sand"
+      "item": "byg:white_sand",
+      "count": 1
     }
-  ]
+  ],
+  "processingTime": 150
 }
