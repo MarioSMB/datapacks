@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:stone"
+    }
+  ],
+  "result": [
+    {
+      "item": "minecraft:button",
+      "count": 4
+    }
+  ]
+}
