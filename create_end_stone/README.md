@@ -1,2 +1,2 @@
 # data pack info
-End Stone can be crafted by pressing lava, a popped chorus fruit, flint and a cobblestone block
+End Stone can be crafted by pressing lava, 2 popped chorus fruits and a cobblestone block
