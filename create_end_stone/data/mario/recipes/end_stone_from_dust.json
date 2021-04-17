@@ -8,13 +8,13 @@
   "type": "create:compacting",
   "ingredients": [
     {
-      "item": "minecraft:end_stone"
+      "item": "betterendforge:endstone_dust"
     },
     {
       "item": "minecraft:sand"
     },
     {
-      "item": "minecraft:end_stone"
+      "item": "betterendforge:endstone_dust"
     },
     {
       "item": "minecraft:sand"
