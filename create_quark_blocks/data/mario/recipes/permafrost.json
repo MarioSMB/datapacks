@@ -14,7 +14,7 @@
       "item": "minecraft:snowball"
     },
     {
-      "tag": "forge:cobblestone"
+      "item": "minecraft:gravel"
     },
     {
       "fluid": "minecraft:water",

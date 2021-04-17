@@ -1,5 +1,5 @@
 {
-  "type": "create:mixing",
+  "type": "create:compacting",
   "ingredients": [
     {
       "item": "create:powdered_obsidian"
@@ -7,14 +7,9 @@
     {
       "item": "create:powdered_obsidian"
     },
-    [
-      {
-        "tag": "forge:cobblestone"
-      },
-      {
-        "item": "minecraft:gravel"
-      }
-    ],
+    {
+      "item": "minecraft:gravel"
+    },
     {
       "fluid": "minecraft:lava",
       "nbt": {},
