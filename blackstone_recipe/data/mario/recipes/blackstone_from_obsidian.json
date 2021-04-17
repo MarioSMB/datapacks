@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:casting_basin",
+  "cast": [
+    {
+      "tag": "forge:cobblestone"
+    },
+    {
+      "item": "minecraft:gravel"
+    }
+  ],
+  "cast_consumed": true,
+  "fluid": {
+    "name": "tconstruct:molten_obsidian",
+    "amount": 250
+  },
+  "result": "minecraft:blackstone",
+  "cooling_time": 90
+}
