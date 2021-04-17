@@ -1,2 +1,2 @@
 # data pack info
-Allows the creation of ice by spouting water into a block of snow
+Allows the creation of ice by washing snow

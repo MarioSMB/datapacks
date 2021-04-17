@@ -1,13 +1,8 @@
 {
-  "type": "create:filling",
+  "type": "create:splashing",
   "ingredients": [
     {
       "item": "minecraft:snow"
-    },
-    {
-      "fluid": "minecraft:water",
-      "nbt": {},
-      "amount": 500
     }
   ],
   "results": [
