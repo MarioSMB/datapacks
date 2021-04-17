@@ -1,14 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredients": [
-    {
-      "tag": "forge:stone"
-    }
-  ],
-  "results": [
-    {
-      "item": "minecraft:stone_button",
-      "count": 4
-    }
-  ]
+  "ingredient": {
+    "item": "minecraft:stone"
+  },
+  "result": "minecraft:stone_button",
+  "count": 4
 }
