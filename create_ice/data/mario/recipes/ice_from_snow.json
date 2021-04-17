@@ -1,8 +1,19 @@
 {
-  "type": "create:splashing",
+  "type": "create:compacting",
   "ingredients": [
     {
+      "item": "minecraft:snowball"
+    },
+    {
+      "item": "minecraft:snowball"
+    },
+    {
       "item": "minecraft:snow"
+    },
+    {
+      "fluid": "minecraft:water",
+      "nbt": {},
+      "amount": 100
     }
   ],
   "results": [
