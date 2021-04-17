@@ -5,21 +5,18 @@
       "modid": "betterendforge"
     }
   ],
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "DG",
-    "GD"
-  ],
-  "key": {
-    "D": {
+  "type": "create:compacting",
+  "ingredients": [
+    {
       "item": "betterendforge:endstone_dust"
     },
-    "G": {
+    {
       "item": "minecraft:sand"
     }
-  },
-  "result": {
-    "item": "minecraft:end_stone",
-    "count": 1
-  }
+  ],
+  "results": [
+    {
+      "item": "minecraft:end_stone"
+    }
+  ]
 }
