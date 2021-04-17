@@ -11,7 +11,7 @@
   "cast_consumed": true,
   "fluid": {
     "name": "tconstruct:molten_obsidian",
-    "amount": 250
+    "amount": 500
   },
   "result": "minecraft:blackstone",
   "cooling_time": 90
