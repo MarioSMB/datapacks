@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:cyan_wool"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:string",
+      "count": 2
+    },
+    {
+      "item": "minecraft:string",
+      "chance": 0.5
+    },
+    {
+      "item": "minecraft:cyan_dye",
+      "chance": 0.05
+    }
+  ],
+  "processingTime": 100
+}
