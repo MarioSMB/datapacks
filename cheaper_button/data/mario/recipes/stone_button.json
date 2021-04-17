@@ -1,8 +1,10 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:stone"
-  },
+  "ingredients": [
+    {
+      "item": "minecraft:stone"
+    }
+  ],
   "results": [
     {
       "item": "minecraft:stone_button",
