@@ -2,7 +2,7 @@
   "type": "minecraft:stonecutting",
   "ingredients": [
     {
-      "item": "minecraft:stone"
+      "tag": "forge:stone"
     }
   ],
   "results": [
