@@ -8,13 +8,13 @@
   "type": "create:compacting",
   "ingredients": [
     {
-      "item": "minecraft:flint"
+      "item": "minecraft:clay_ball"
     },
     {
-      "item": "minecraft:flint"
+      "item": "minecraft:clay_ball"
     },
     {
-      "item": "minecraft:sand"
+      "item": "minecraft:red_sand"
     },
     {
       "fluid": "minecraft:lava",
