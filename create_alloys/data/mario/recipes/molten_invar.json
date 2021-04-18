@@ -23,7 +23,7 @@
       "type": "forge:and"
     }
   ],
-  "inputs": [
+  "ingredients": [
     {
       "fluid": "tconstruct:molten_iron",
       "nbt": {},

@@ -6,7 +6,7 @@
     }
   ],
   "type": "create:mixing",
-  "inputs": [
+  "ingredients": [
     {
       "fluid": "minecraft:water",
       "nbt": {},
