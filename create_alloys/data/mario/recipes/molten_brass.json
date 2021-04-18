@@ -2,6 +2,7 @@
   "type": "create:mixing",
   "conditions": [
     {
+      "type": "forge:and",
       "values": [
         {
           "value": {
@@ -21,8 +22,7 @@
         	"value": {
     	      "type": "forge:mod_loaded",
     	      "modid": "tconstruct"
-    	    },
-    	    "type": "forge:and"
+    	    }
         }
       ]
     }
