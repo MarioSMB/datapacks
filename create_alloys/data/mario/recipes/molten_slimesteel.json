@@ -26,7 +26,7 @@
   "results": [
     {
       "fluid": "tconstruct:molten_slimesteel",
-      "count": 288
+      "amount": 288
     }
   ],
   "heatRequirement": "heated"

@@ -38,7 +38,7 @@
   "results": [
     {
       "fluid": "tconstruct:molten_pewter",
-      "count": 288
+      "amount": 288
     }
   ],
   "heatRequirement": "heated"

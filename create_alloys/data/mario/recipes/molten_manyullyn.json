@@ -21,7 +21,7 @@
   "results": [
     {
       "fluid": "tconstruct:molten_manyullyn",
-      "count": 576
+      "amount": 576
     }
   ],
   "heatRequirement": "superheated"

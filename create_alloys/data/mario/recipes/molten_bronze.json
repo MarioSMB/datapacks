@@ -38,7 +38,7 @@
   "results": [
     {
       "fluid": "tconstruct:molten_bronze",
-      "count": 576
+      "amount": 576
     }
   ],
   "heatRequirement": "heated"

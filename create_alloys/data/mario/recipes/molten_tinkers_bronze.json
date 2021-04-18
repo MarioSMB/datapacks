@@ -21,7 +21,7 @@
   "results": [
     {
       "fluid": "tconstruct:molten_tinkers_bronze",
-      "count": 576
+      "amount": 576
     }
   ],
   "heatRequirement": "heated"
