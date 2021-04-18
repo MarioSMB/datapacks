@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "create:mixing",
+  "inputs": [
+    {
+      "fluid": "tconstruct:molten_copper",
+      "nbt": {},
+      "amount": 432
+    },
+    {
+      "fluid": "tconstruct:molten_glass",
+      "nbt": {},
+      "amount": 1000
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_tinkers_bronze",
+    "amount": 576
+  },
+  "heatRequirement": "heated"
+}

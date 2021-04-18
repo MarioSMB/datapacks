@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "create:mixing",
+  "inputs": [
+    {
+      "fluid": "tconstruct:molten_iron",
+      "nbt": {},
+      "amount": 144
+    },
+    {
+      "fluid": "tconstruct:sky_slime",
+      "nbt": {},
+      "amount": 250
+    },
+    {
+      "fluid": "tconstruct:seared_stone",
+      "nbt": {},
+      "amount": 144
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_slimesteel",
+    "amount": 288
+  },
+  "heatRequirement": "heated"
+}
