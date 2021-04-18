@@ -23,9 +23,11 @@
       "amount": 1000
     }
   ],
-  "result": {
-    "fluid": "tconstruct:molten_hepatizon",
-    "amount": 288
-  },
+  "results": [
+    {
+      "fluid": "tconstruct:molten_hepatizon",
+      "count": 288
+    }
+  ],
   "heatRequirement": "superheated"
 }

@@ -18,9 +18,11 @@
       "amount": 144
     }
   ],
-  "result": {
-    "fluid": "tconstruct:molten_rose_gold",
-    "amount": 576
-  },
+  "results": [
+    {
+      "fluid": "tconstruct:molten_rose_gold",
+      "count": 576
+    }
+  ],
   "heatRequirement": "heated"
 }

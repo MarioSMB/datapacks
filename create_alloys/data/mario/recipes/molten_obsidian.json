@@ -18,9 +18,11 @@
       "amount": 100
     }
   ],
-  "result": {
-    "fluid": "tconstruct:molten_obsidian",
-    "amount": 100
-  },
+  "results": [
+    {
+      "fluid": "tconstruct:molten_obsidian",
+      "count": 100
+    }
+  ],
   "heatRequirement": "heated"
 }

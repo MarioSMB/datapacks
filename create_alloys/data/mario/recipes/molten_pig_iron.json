@@ -23,9 +23,11 @@
       "amount": 250
     }
   ],
-  "result": {
-    "fluid": "tconstruct:molten_pig_iron",
-    "amount": 288
-  },
+  "results": [
+    {
+      "fluid": "tconstruct:molten_pig_iron",
+      "count": 288
+    }
+  ],
   "heatRequirement": "heated"
 }

@@ -18,9 +18,11 @@
       "amount": 1000
     }
   ],
-  "result": {
-    "fluid": "tconstruct:molten_tinkers_bronze",
-    "amount": 576
-  },
+  "results": [
+    {
+      "fluid": "tconstruct:molten_tinkers_bronze",
+      "count": 576
+    }
+  ],
   "heatRequirement": "heated"
 }

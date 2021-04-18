@@ -35,9 +35,11 @@
       "amount": 144
     }
   ],
-  "result": {
-    "fluid": "tconstruct:molten_bronze",
-    "amount": 576
-  },
+  "results": [
+    {
+      "fluid": "tconstruct:molten_bronze",
+      "count": 576
+    }
+  ],
   "heatRequirement": "heated"
 }

@@ -35,9 +35,11 @@
       "amount": 144
     }
   ],
-  "result": {
-    "fluid": "tconstruct:molten_constantan",
-    "amount": 288
-  },
+  "results": [
+    {
+      "fluid": "tconstruct:molten_constantan",
+      "count": 288
+    }
+  ],
   "heatRequirement": "heated"
 }

@@ -23,9 +23,11 @@
       "amount": 250
     }
   ],
-  "result": {
-    "fluid": "tconstruct:molten_queens_slime",
-    "amount": 288
-  },
+  "results": [
+    {
+      "fluid": "tconstruct:molten_queens_slime",
+      "count": 288
+    }
+  ],
   "heatRequirement": "superheated"
 }

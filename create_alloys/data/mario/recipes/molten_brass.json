@@ -35,9 +35,11 @@
       "amount": 144
     }
   ],
-  "result": {
-    "fluid": "tconstruct:molten_brass",
-    "amount": 576
-  },
+  "results": [
+    {
+      "fluid": "tconstruct:molten_brass",
+      "count": 576
+    }
+  ],
   "heatRequirement": "heated"
 }

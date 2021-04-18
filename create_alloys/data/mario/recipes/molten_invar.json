@@ -35,9 +35,11 @@
       "amount": 144
     }
   ],
-  "result": {
-    "fluid": "tconstruct:molten_invar",
-    "amount": 432
-  },
+  "results": [
+    {
+      "fluid": "tconstruct:molten_invar",
+      "count": 432
+    }
+  ],
   "heatRequirement": "heated"
 }

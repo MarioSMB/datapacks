@@ -18,9 +18,11 @@
       "amount": 64
     }
   ],
-  "result": {
-    "fluid": "tconstruct:molten_netherite",
-    "amount": 16
-  },
+  "results": [
+    {
+      "fluid": "tconstruct:molten_netherite",
+      "count": 16
+    }
+  ],
   "heatRequirement": "superheated"
 }
