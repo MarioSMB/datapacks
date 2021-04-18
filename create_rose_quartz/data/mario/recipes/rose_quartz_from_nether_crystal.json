@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "biomesoplenty"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:nether_crystal"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:rose_quartz",
+      "chance": 0.1
+    }
+  ],
+  "processingTime": 350
+}
