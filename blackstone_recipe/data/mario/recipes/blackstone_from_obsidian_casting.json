@@ -5,7 +5,7 @@
       "tag": "forge:cobblestone"
     },
     {
-      "item": "minecraft:basalt"
+      "item": "minecraft:gravel"
     }
   ],
   "cast_consumed": true,
