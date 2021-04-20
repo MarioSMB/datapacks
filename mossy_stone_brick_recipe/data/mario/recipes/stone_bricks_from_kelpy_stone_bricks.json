@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "byg"
+    }
+  ],
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "upgrade_aquatic:kelpy_stone_bricks"
+  },
+  "result": "minecraft:stone_bricks",
+  "experience": 0.0,
+  "cookingtime": 100
+}
