@@ -13,10 +13,6 @@
     {
       "item": "minecraft:string",
       "chance": 0.5
-    },
-    {
-      "item": "minecraft:white_dye",
-      "chance": 0.05
     }
   ],
   "processingTime": 100
