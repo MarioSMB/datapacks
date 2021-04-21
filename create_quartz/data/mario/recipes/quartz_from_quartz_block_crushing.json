@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:quartz_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:quartz",
+      "count": 3
+    },
+    {
+      "item": "minecraft:quartz",
+      "chance": 0.5
+    }
+  ],
+  "processingTime": 150
+}
