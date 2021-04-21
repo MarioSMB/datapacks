@@ -14,9 +14,7 @@
       "tag": "forge:sand/colorless"
     }
   ],
-  "results": [
-    {
-      "item": "byg:quartzite_sand"
-    }
-  ]
+  "result": {
+    "item": "byg:quartzite_sand"
+  }
 }
