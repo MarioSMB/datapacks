@@ -1,2 +1,2 @@
 # data pack info
-Allows chocolate fluid interactions with some Neapolitan items
+Adds some extra compatibility tweaks between Neapolitan and Create
