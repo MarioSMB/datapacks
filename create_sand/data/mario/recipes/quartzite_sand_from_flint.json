@@ -1,0 +1,24 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "byg"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:flint",
+    },
+    {
+      "item": "minecraft:flint",
+    },
+    {
+      "tag": "forge:sand/colorless"
+    }
+  ],
+  "result": {
+    "item": "byg:quartzite_sand"
+  },
+  "heatRequirement": "heated"
+}
