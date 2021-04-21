@@ -1,7 +1,11 @@
 {
   "replace": false,
   "values": [
+    "#mario:cakes",
     "#neapolitan:ice_creams",
-    "#mario:milkshakes"
+    "neapolitan:milk_bottle",
+    "#mario:milkshakes",
+    "neapolitan:strawberry_scones",
+    "neapolitan:strawberry_banana_smoothie"
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "neapolitan:vanilla_cake",
+    "neapolitan:chocolate_cake",
+    "neapolitan:strawberry_cake",
+    "neapolitan:banana_cake",
+    "neapolitan:mint_cake",
+    "neapolitan:adzuki_cake"
+  ]
+}
