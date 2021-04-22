@@ -1,0 +1,20 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "forge:stone"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:cobblestone",
+      "count": 1
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "count": 1,
+      "chance": 0.25
+    }
+  ],
+  "processingTime": 100
+}
