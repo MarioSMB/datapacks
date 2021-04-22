@@ -14,6 +14,11 @@
       "item": "minecraft:cobblestone",
       "count": 1,
       "chance": 0.25
+    },
+    {
+      "item": "minecraft:gravel",
+      "count": 1,
+      "chance": 0.05
     }
   ],
   "processingTime": 100
