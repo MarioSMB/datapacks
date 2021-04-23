@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "savageandravage"
+    }
+  ],
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "savageandravage:creeper_spores"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "savageandravage:blast_proof_plating"
+    }
+  ]
+}
