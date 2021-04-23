@@ -8,10 +8,10 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "item": "minecraft:flint",
+      "item": "minecraft:flint"
     },
     {
-      "item": "minecraft:flint",
+      "item": "minecraft:flint"
     },
     {
       "tag": "forge:sand/colorless"
