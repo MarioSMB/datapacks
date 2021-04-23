@@ -9,11 +9,6 @@
     {
       "item": "minecraft:cobblestone",
       "count": 1
-    },
-    {
-      "item": "minecraft:gravel",
-      "count": 1,
-      "chance": 0.1
     }
   ],
   "processingTime": 100
