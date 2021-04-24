@@ -1,8 +1,8 @@
 {
   "replace": false,
   "values": [
-  	"forge:immovable",
-  	"forge:relocation_not_supported",
+  	"#forge:immovable",
+  	"#forge:relocation_not_supported",
     "minecraft:spawner"
   ]
 }
