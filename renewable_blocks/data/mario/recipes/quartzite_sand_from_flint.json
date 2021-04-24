@@ -17,8 +17,10 @@
       "tag": "forge:sand/colorless"
     }
   ],
-  "result": {
-    "item": "byg:quartzite_sand"
-  },
+  "results": [
+    {
+      "item": "byg:quartzite_sand"
+    }
+  ],
   "heatRequirement": "heated"
 }
