@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "tconstruct:casts/single_use/pickaxe_head"
+    },
+    {
+      "fluid": "tconstruct:molten_hepatizon",
+      "nbt": {},
+      "amount": 288
+    }
+  ],
+    "results": [
+    {
+      "item": "tconstruct:pickaxe_head",
+      "nbt":
+      {
+        "Material": "tconstruct:hepatizon"
+      }
+    }
+  ]
+}

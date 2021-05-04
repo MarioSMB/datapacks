@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "tconstruct:casts/single_use/sword_blade"
+    },
+    {
+      "fluid": "tconstruct:molten_pig_iron",
+      "nbt": {},
+      "amount": 288
+    }
+  ],
+    "results": [
+    {
+      "item": "tconstruct:sword_blade",
+      "nbt":
+      {
+        "Material": "tconstruct:pig_iron"
+      }
+    }
+  ]
+}

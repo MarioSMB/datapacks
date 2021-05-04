@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "tconstruct:casts/single_use/small_axe_head"
+    },
+    {
+      "fluid": "tconstruct:molten_lead",
+      "nbt": {},
+      "amount": 288
+    }
+  ],
+    "results": [
+    {
+      "item": "tconstruct:small_axe_head",
+      "nbt":
+      {
+        "Material": "tconstruct:lead"
+      }
+    }
+  ]
+}

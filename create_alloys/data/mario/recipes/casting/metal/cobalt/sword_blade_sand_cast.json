@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "tconstruct:casts/single_use/sword_blade"
+    },
+    {
+      "fluid": "tconstruct:molten_cobalt",
+      "nbt": {},
+      "amount": 288
+    }
+  ],
+    "results": [
+    {
+      "item": "tconstruct:sword_blade",
+      "nbt":
+      {
+        "Material": "tconstruct:cobalt"
+      }
+    }
+  ]
+}

@@ -8,20 +8,20 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "tconstruct:casts/single_use/broad_axe_head"
+      "tag": "tconstruct:casts/single_use/tool_binding"
     },
     {
-      "fluid": "tconstruct:molten_cobalt",
+      "fluid": "tconstruct:molten_knightslime",
       "nbt": {},
-      "amount": 1000
+      "amount": 144
     }
   ],
     "results": [
     {
-      "item": "tconstruct:broad_axe_head",
+      "item": "tconstruct:tool_binding",
       "nbt":
       {
-        "Material": "tconstruct:cobalt"
+        "Material": "tconstruct:knightslime"
       }
     }
   ]
