@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "tconstruct:blank_red_sand_cast"
+    },
+    {
+      "item": "tconstruct:hammer_head"
+    }
+  ],
+  "results": [
+    {
+      "item": "tconstruct:hammer_head_red_sand_cast"
+    },
+    {
+      "item": "tconstruct:hammer_head"
+    }
+  ]
+}

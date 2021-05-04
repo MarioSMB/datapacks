@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "tconstruct:blank_red_sand_cast"
+    },
+    {
+      "item": "tconstruct:broad_axe_head"
+    }
+  ],
+  "results": [
+    {
+      "item": "tconstruct:broad_axe_head_red_sand_cast"
+    },
+    {
+      "item": "tconstruct:broad_axe_head"
+    }
+  ]
+}

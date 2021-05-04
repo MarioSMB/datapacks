@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "tconstruct:blank_sand_cast"
+    },
+    {
+      "item": "minecraft:flint"
+    }
+  ],
+  "results": [
+    {
+      "item": "tconstruct:gem_sand_cast"
+    },
+    {
+      "item": "minecraft:flint"
+    }
+  ]
+}

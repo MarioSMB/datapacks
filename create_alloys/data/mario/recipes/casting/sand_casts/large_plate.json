@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "tconstruct:blank_sand_cast"
+    },
+    {
+      "item": "tconstruct:large_plate"
+    }
+  ],
+  "results": [
+    {
+      "item": "tconstruct:large_plate_sand_cast"
+    },
+    {
+      "item": "tconstruct:large_plate"
+    }
+  ]
+}
