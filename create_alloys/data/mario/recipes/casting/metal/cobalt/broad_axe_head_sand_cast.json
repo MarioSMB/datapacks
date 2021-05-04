@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "tconstruct:casts/single_use/broad_axe_head"
+    },
+    {
+      "fluid": "tconstruct:molten_cobalt",
+      "nbt": {},
+      "amount": 1000
+    }
+  ],
+    "results": [
+    {
+      "item": "tconstruct:broad_axe_head",
+      "nbt":
+      {
+        "Material": "tconstruct:cobalt"
+      }
+    }
+  ]
+}
