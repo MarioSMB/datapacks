@@ -1,2 +1,27 @@
 # data pack info
-Adds support for creating blocks from several mods, mainly focused on Create integration
+Adds support for creating blocks from several mods, mainly focused on Create integration:
+- Disables coloured glass from coloured sand (BYG) for compatibility
+- Dark scoria (Create) can instead be made by compacting powdered obsidian, soul sand and lava, or by casting molten obsidian into soul sand
+- Black sand (BYG) can be made by crushing basalt
+- Blackstone can be made by casting molten obsidian into a gravel or cobblestone block, or by compacting powdered obsidian, gravel and lava
+- Blue netherrack (BYG) can be made by crafting a warped wart block with netherrack
+- Blue sand (BYG) can be made by mixing dolomite (Create) with lapis lazuli
+- Cobbedstone (Quark) can be made by mixing cobblestone and cobweb in a mechanical mixer
+- Stone can be crushed to produce cobblestone
+- Dacite (BYG) can be made by compacting flint, quartzite sand and lava
+- Crushing end stone produces up to 4 end stone dust (BetterEndForge)
+- Crafting 2 end stone dust and 2 sand together makes end stone, allowing renewable end stone
+- Gilded blackstone can be made by mixing 8 gold nuggets with a block of blackstone in a heated mechanical mixer
+- Jasper (Quark) can be made by compacting clay balls with red sand and lava
+- Magmatic stone (BYG) can be made by casting molten magma cream into gravel or cobblestone, or by compacting gravel and molten magma cream
+- Marble (Quark) can be made by smelting Create's limestone
+- Mossy netherrack (BYG) can be made by crafting netherrack and vines together
+- Smoking a kelpy stone brick (Upgrade Aquatic) produces a mossy stone brick (temporary)
+- Netherrack can be made by casting blood into gravel or cobblestone, or by compacting blood and gravel
+- Permafrost (Quark) can be made by compacting snowballs, gravel and water
+- Pink sand (BYG) can be made by crushing some corals
+- Purple sand (BYG) can be made by mixing 2 iron nuggets and a sand block in a mechanical mixer
+- Quartzite sand (BYG) can be made by crafting sand and quartz together, or by mixing flint and sand in a heated mechanical mixer
+- Slate (Quark) can be made by compacting clay balls, gravel and lava
+- Voidstone (Quark) can be made by smelting blackstone
+- White sand (BYG) can be made by crushing quartz
