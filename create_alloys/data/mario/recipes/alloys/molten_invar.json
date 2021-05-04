@@ -1,0 +1,47 @@
+{
+  "type": "create:mixing",
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "value": {
+            "tag": "forge:ingots/invar",
+            "type": "forge:tag_empty"
+          },
+          "type": "forge:not"
+        },
+        {
+          "value": {
+            "tag": "forge:ingots/nickel",
+            "type": "forge:tag_empty"
+          },
+          "type": "forge:not"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "tconstruct"
+        }
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "fluid": "tconstruct:molten_iron",
+      "nbt": {},
+      "amount": 288
+    },
+    {
+      "fluid": "tconstruct:molten_nickel",
+      "nbt": {},
+      "amount": 144
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tconstruct:molten_invar",
+      "amount": 432
+    }
+  ],
+  "heatRequirement": "heated"
+}

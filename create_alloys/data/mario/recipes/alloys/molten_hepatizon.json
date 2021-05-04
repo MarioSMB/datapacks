@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluid": "tconstruct:molten_copper",
+      "nbt": {},
+      "amount": 288
+    },
+    {
+      "fluid": "tconstruct:molten_cobalt",
+      "nbt": {},
+      "amount": 144
+    },
+    {
+      "fluid": "tconstruct:molten_obsidian",
+      "nbt": {},
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tconstruct:molten_hepatizon",
+      "amount": 288
+    }
+  ],
+  "heatRequirement": "superheated"
+}
