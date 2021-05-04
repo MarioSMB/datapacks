@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "tconstruct:casts/multi_use/ingot"
+    },
+    {
+      "name": "tconstruct:molten_iron",
+      "amount": 144
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "tconstruct:axe_head_cast"
+    }
+  ]
+}
