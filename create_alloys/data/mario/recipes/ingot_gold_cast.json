@@ -11,9 +11,10 @@
       "tag": "tconstruct:casts/multi_use/ingot"
     },
     {
-      "name": "tconstruct:molten_iron",
+      "fluid": "tconstruct:molten_iron",
+      "nbt": {},
       "amount": 144
-    }
+    },
   ],
   "results": [
     {
