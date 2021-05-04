@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "tconstruct:blank_sand_cast"
+    },
+    {
+      "item": "tconstruct:pickaxe_head"
+    }
+  ],
+  "results": [
+    {
+      "item": "tconstruct:pickaxe_head_sand_cast"
+    },
+    {
+      "item": "tconstruct:pickaxe_head"
+    }
+  ]
+}

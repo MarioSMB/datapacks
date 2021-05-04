@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "forge:sand/red"
+    }
+  ],
+  "results": [
+    {
+      "item": "tconstruct:blank_red_sand_cast",
+      "count": 4
+    }
+  ],
+  "processingTime": 50
+}
