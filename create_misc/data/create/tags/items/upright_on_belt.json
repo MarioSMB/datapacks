@@ -1,6 +1,11 @@
 {
   "replace": false,
   "values": [
-    "autumnity:foul_soup"
+    "autumnity:foul_soup",
+    "minecraft:bowl",
+    "minecraft:beetroot_soup",
+    "minecraft:dragon_breath",
+    "minecraft:mushroom_stew",
+    "minecraft:rabbit_stew"
   ]
 }

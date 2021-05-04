@@ -12,3 +12,4 @@ Various improvements to Create's integration with different mods:
 - Compacting snowballs, water and a snow block produces an ice block
 - Foul soup (Autumnity) stands upright on Create's mechanical belts
 - Spawners can no longer be moved by contraptions
+- Minecraft food items in bowls stand upright on Create's mechanical belts
