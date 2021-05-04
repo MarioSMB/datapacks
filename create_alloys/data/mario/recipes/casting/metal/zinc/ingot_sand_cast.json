@@ -30,7 +30,7 @@
   ],
   "results": [
     {
-      "tag": "forge:ingots/zinc"
+      "item": "create:zinc_nugget"
     }
   ]
 }

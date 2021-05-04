@@ -30,7 +30,7 @@
   ],
   "results": [
     {
-      "tag": "forge:ingots/brass"
+      "item": "create:brass_ingot"
     }
   ]
 }

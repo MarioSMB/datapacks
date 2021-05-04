@@ -8,7 +8,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "item": "minecraft:touch"
+      "item": "minecraft:torch"
     },
     {
       "fluid": "tconstruct:molten_iron",

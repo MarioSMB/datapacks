@@ -11,7 +11,7 @@
       "item": "tconstruct:blood_congealed_slime"
     },
     {
-      "fluidTag": "tconstruct:blood_slime",
+      "fluidTag": "tconstruct:blood",
       "amount": 1250
     }
   ],

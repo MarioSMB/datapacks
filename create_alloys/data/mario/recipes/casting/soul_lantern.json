@@ -8,7 +8,7 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "item": "minecraft:soul_touch"
+      "item": "minecraft:soul_torch"
     },
     {
       "fluid": "tconstruct:molten_iron",
