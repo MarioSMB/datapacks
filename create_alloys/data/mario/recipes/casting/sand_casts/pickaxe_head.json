@@ -5,7 +5,7 @@
       "modid": "tconstruct"
     }
   ],
-  "type": "create:mixing",
+  "type": "create:compacting",
   "ingredients": [
     {
       "item": "tconstruct:blank_sand_cast"
