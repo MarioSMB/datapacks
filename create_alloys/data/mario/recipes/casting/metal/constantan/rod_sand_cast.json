@@ -1,0 +1,36 @@
+{
+  "type": "create:filling",
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "value": {
+            "tag": "forge:rods/constantan",
+            "type": "forge:tag_empty"
+          },
+          "type": "forge:not"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "tconstruct"
+        }
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "tag": "tconstruct:casts/single_use/rod"
+    },
+    {
+      "fluid": "tconstruct:molten_constantan",
+      "nbt": {},
+      "amount": 72
+    }
+  ],
+  "results": [
+    {
+      "tag": "forge:rods/constantan"
+    }
+  ]
+}

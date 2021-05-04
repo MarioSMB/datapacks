@@ -1,0 +1,24 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:melon_slice"
+    },
+    {
+      "fluid": "tconstruct:molten_gold",
+      "nbt": {},
+      "amount": 128
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:glistering_melon_slice"
+    }
+  ]
+}

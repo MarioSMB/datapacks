@@ -1,0 +1,36 @@
+{
+  "type": "create:filling",
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "value": {
+            "tag": "forge:plates/zinc",
+            "type": "forge:tag_empty"
+          },
+          "type": "forge:not"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "tconstruct"
+        }
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "tag": "tconstruct:casts/single_use/plate"
+    },
+    {
+      "fluid": "tconstruct:molten_zinc",
+      "nbt": {},
+      "amount": 144
+    }
+  ],
+  "results": [
+    {
+      "tag": "forge:plates/zinc"
+    }
+  ]
+}

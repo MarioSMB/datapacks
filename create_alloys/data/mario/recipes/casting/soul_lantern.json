@@ -1,0 +1,24 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:soul_touch"
+    },
+    {
+      "fluid": "tconstruct:molten_iron",
+      "nbt": {},
+      "amount": 128
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:soul_lantern"
+    }
+  ]
+}

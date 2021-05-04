@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    [
+      {
+        "tag": "minecraft:planks"
+      },
+      {
+        "tag": "minecraft:non_flammable_wood"
+      }
+    ],
+    {
+      "fluid": "tconstruct:molten_blaze",
+      "nbt": {},
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "item": "tconstruct:blazewood"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "type": "create:filling",
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "value": {
+            "tag": "forge:coins/lead",
+            "type": "forge:tag_empty"
+          },
+          "type": "forge:not"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "tconstruct"
+        }
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "tag": "tconstruct:casts/single_use/coin"
+    },
+    {
+      "fluid": "tconstruct:molten_lead",
+      "nbt": {},
+      "amount": 48
+    }
+  ],
+  "results": [
+    {
+      "tag": "forge:coins/lead"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "tconstruct:ender_congealed_slime"
+    },
+    {
+      "fluidTag": "tconstruct:ender_slime",
+      "amount": 1250
+    }
+  ],
+  "results": [
+    {
+      "item": "tconstruct:ender_slime"
+    }
+  ]
+}

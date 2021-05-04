@@ -8,20 +8,17 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "tag": "tconstruct:casts/multi_use/ingot"
+      "item": "minecraft:carrot"
     },
     {
-      "fluid": "tconstruct:molten_iron",
+      "fluid": "tconstruct:molten_gold",
       "nbt": {},
-      "amount": 144
+      "amount": 128
     }
   ],
   "results": [
     {
-      "item": "minecraft:iron_ingot"
-    },
-    {
-      "item": "tconstruct:ingot_cast"
+      "item": "minecraft:golden_carrot"
     }
   ]
 }

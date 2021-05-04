@@ -11,14 +11,14 @@
       "tag": "tconstruct:casts/single_use/ingot"
     },
     {
-      "fluid": "tconstruct:molten_iron",
+      "fluid": "tconstruct:molten_manyullyn",
       "nbt": {},
       "amount": 144
     }
   ],
-  "results": [
+    "results": [
     {
-      "item": "minecraft:iron_ingot"
+      "item": "tconstruct:manyullyn_ingot"
     }
   ]
 }
