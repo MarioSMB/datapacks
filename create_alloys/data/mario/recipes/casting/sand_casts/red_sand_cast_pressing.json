@@ -5,17 +5,15 @@
       "modid": "tconstruct"
     }
   ],
-  "type": "create:cutting",
+  "type": "create:pressing",
   "ingredients": [
     {
-      "tag": "forge:sand/colorless"
+      "tag": "forge:sand/red"
     }
   ],
   "results": [
     {
-      "item": "tconstruct:blank_sand_cast",
-      "count": 4
+      "item": "tconstruct:blank_red_sand_cast"
     }
-  ],
-  "processingTime": 50
+  ]
 }
