@@ -10,10 +10,10 @@
       "item": "minecraft:magma_cream"
     },
     "G": {
-      "tag": "forge:cobblestone"
+      "item": "byg:cryptic_stone"
     }
   },
   "result": {
-    "item": "byg:magmatic_stone"
+    "item": "byg:cryptic_magma_block"
   }
 }
