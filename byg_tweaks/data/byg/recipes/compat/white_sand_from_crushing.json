@@ -2,13 +2,13 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "byg"
+      "modid": "create"
     }
   ],
   "type": "create:crushing",
   "ingredients": [
     {
-      "tag": "forge:gems/quartz"
+      "item": "byg:quartzite_sand"
     }
   ],
   "results": [
@@ -17,5 +17,5 @@
       "count": 1
     }
   ],
-  "processingTime": 150
+  "processingTime": 100
 }

@@ -2,24 +2,21 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "byg"
+      "modid": "create"
     }
   ],
   "type": "create:mixing",
   "ingredients": [
     {
-      "tag": "forge:nuggets/iron"
+      "item": "minecraft:flint"
     },
     {
-      "tag": "forge:nuggets/iron"
-    },
-    {
-      "item": "minecraft:sand"
+      "tag": "forge:sand/colorless"
     }
   ],
   "results": [
     {
-      "item": "byg:purple_sand"
+      "item": "byg:quartzite_sand"
     }
   ]
 }

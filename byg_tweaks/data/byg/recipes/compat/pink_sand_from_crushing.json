@@ -2,7 +2,7 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "byg"
+      "modid": "create"
     }
   ],
   "type": "create:crushing",
@@ -12,10 +12,13 @@
         "item": "minecraft:brain_coral"
       },
       {
+        "item": "minecraft:brain_coral_fan"
+      },
+      {
         "item": "minecraft:bubble_coral"
       },
       {
-        "item": "minecraft:fire_coral"
+        "item": "minecraft:bubble_coral_fan"
       }
     ]
   ],
