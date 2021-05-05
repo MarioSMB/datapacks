@@ -22,7 +22,7 @@
       "chance": 0.25
     },
     {
-      "item": "minecraft:cryptic_stone",
+      "item": "byg:cryptic_stone",
       "chance": 0.125
     }
   ],
