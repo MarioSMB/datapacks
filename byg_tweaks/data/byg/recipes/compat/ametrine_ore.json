@@ -8,16 +8,16 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "ametrine_ore"
+      "item": "byg:ametrine_ore"
     }
   ],
   "results": [
     {
-      "item": "ametrine_gems",
+      "item": "byg:ametrine_gems",
       "count": 2
     },
     {
-      "item": "ametrine_gems",
+      "item": "byg:ametrine_gems",
       "chance": 0.25
     },
     {
