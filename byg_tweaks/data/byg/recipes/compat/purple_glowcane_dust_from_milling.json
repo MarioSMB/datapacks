@@ -5,19 +5,19 @@
       "modid": "create"
     }
   ],
-  "type": "create:crushing",
+  "type": "create:milling",
   "ingredients": [
     {
-      "item": "byg:pink_glowcane"
+      "item": "byg:purple_glowcane"
     }
   ],
   "results": [
     {
-      "item": "byg:pink_glowcane_dust",
+      "item": "byg:purple_glowcane_dust",
       "count": 2
     },
     {
-      "item": "byg:pink_glowcane_dust",
+      "item": "byg:purple_glowcane_dust",
       "chance": 0.25
     }
   ],
