@@ -13,11 +13,11 @@
   ],
   "results": [
     {
-      "item": "minecaft:glowstone_dust",
+      "item": "minecraft:glowstone_dust",
       "count": 2
     },
     {
-      "item": "minecaft:glowstone_dust",
+      "item": "minecraft:glowstone_dust",
       "chance": 0.5
     },
     {
