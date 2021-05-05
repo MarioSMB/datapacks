@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "byg:pervaded_netherrack"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecaft:glowstone_dust",
+      "count": 2
+    },
+    {
+      "item": "minecaft:glowstone_dust",
+      "chance": 0.5
+    },
+    {
+      "item": "minecraft:netherrack",
+      "chance": 0.12
+    }
+  ],
+  "processingTime": 150
+}

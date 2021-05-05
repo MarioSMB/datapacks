@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "byg:anthracite_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "byg:anthracite",
+      "count": 2
+    },
+    {
+      "item": "byg:anthracite",
+      "chance": 0.5
+    },
+    {
+      "item": "byg:brimstone",
+      "chance": 0.12
+    }
+  ],
+  "processingTime": 150
+}
