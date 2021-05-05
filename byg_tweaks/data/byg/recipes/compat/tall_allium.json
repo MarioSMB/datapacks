@@ -8,16 +8,16 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "byg:pink_allium_flower_bush"
+      "item": "byg:tall_allium"
     }
   ],
   "results": [
     {
-      "item": "minecraft:pink_dye",
+      "item": "minecraft:purple_dye",
       "count": 3
     },
     {
-      "item": "minecraft:green_dye",
+      "item": "minecraft:purple_dye",
       "count": 2,
       "chance": 0.05
     },
