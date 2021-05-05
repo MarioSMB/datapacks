@@ -5,7 +5,7 @@
       "modid": "biomesoplenty"
     }
   ],
-  "type": "create:crushing",
+  "type": "create:sandpaper_polishing",
   "ingredients": [
     {
       "item": "biomesoplenty:nether_crystal"
@@ -13,9 +13,7 @@
   ],
   "results": [
     {
-      "item": "create:rose_quartz",
-      "chance": 0.1
+      "item": "create:polished_rose_quartz"
     }
-  ],
-  "processingTime": 350
+  ]
 }
