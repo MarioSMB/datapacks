@@ -5,7 +5,7 @@ Various improvements to Create's integration with different mods:
 - Blast proof plating (Savage and Ravage) can be made by compacting a gold ingot and Creeper spores
 - Crushing prismarine produces up to 4 prismarine shards
 - Filling a prismarine shard with potion of night vision produces a prismarine crystal
-- Nether crystals (BoP) can be crushed for a low chance to produce rose quartz (Create)
+- Nether crystals (BoP) can be polished to produce polished rose quartz (Create)
 - Crushing a quartz block produces up to 4 quartz
 - Crushing Nether crystal blocks produces up to 4 Nether crystals
 - Miling necrotic bones (TConstruct) roduces bone meal and a chance at black dye
