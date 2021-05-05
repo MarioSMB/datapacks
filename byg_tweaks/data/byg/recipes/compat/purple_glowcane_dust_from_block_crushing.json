@@ -8,17 +8,17 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "byg:blue_glowcane"
+      "item": "byg:purple_glowcane_block"
     }
   ],
   "results": [
     {
-      "item": "byg:blue_glowcane_dust",
-      "count": 2
+      "item": "byg:purple_glowcane_dust",
+      "count": 3
     },
     {
-      "item": "byg:blue_glowcane_dust",
-      "chance": 0.25
+      "item": "byg:purple_glowcane_dust",
+      "chance": 0.5
     }
   ],
   "processingTime": 150
