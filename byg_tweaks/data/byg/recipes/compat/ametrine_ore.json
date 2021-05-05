@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ametrine_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "ametrine_gems",
+      "count": 2
+    },
+    {
+      "item": "ametrine_gems",
+      "chance": 0.25
+    },
+    {
+      "item": "byg:cobbled_ether_stone",
+      "chance": 0.125
+    }
+  ],
+  "processingTime": 500
+}

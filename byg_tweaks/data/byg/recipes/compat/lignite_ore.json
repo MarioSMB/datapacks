@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "byg:lignite_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "byg:lignite",
+      "count": 2
+    },
+    {
+      "item": "byg:lignite",
+      "count": 2,
+      "chance": 0.5
+    },
+    {
+      "item": "byg:cobbled_ether_stone",
+      "chance": 0.125
+    }
+  ],
+  "processingTime": 300
+}
