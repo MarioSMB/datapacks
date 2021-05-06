@@ -13,6 +13,10 @@
   ],
   "results": [
     {
+      "item": "minecraft:cyan_dye",
+      "count": 2
+    },
+    {
       "item": "minecraft:magenta_dye",
       "chance": 0.25
     },
@@ -23,10 +27,6 @@
     {
       "item": "minecraft:light_gray_dye",
       "chance": 0.75
-    },
-    {
-      "item": "minecraft:cyan_dye",
-      "count": 2
     }
   ],
   "processingTime": 50
