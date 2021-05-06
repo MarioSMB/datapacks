@@ -8,7 +8,7 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "byg:lignite_ore"
+      "tag": "forge:ores/lignite"
     }
   ],
   "results": [
@@ -20,10 +20,6 @@
       "item": "byg:lignite",
       "count": 2,
       "chance": 0.5
-    },
-    {
-      "item": "byg:cobbled_ether_stone",
-      "chance": 0.125
     }
   ],
   "processingTime": 300

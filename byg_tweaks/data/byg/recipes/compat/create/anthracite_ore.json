@@ -8,7 +8,7 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "byg:anthracite_ore"
+      "tag": "forge:ores/anthracite"
     }
   ],
   "results": [
@@ -19,10 +19,6 @@
     {
       "item": "byg:anthracite",
       "chance": 0.5
-    },
-    {
-      "item": "byg:brimstone",
-      "chance": 0.12
     }
   ],
   "processingTime": 150

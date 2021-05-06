@@ -8,7 +8,7 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "byg:ametrine_ore"
+      "tag": "forge:ores/ametrine"
     }
   ],
   "results": [
@@ -19,10 +19,6 @@
     {
       "item": "byg:ametrine_gems",
       "chance": 0.25
-    },
-    {
-      "item": "byg:cobbled_ether_stone",
-      "chance": 0.125
     }
   ],
   "processingTime": 500
