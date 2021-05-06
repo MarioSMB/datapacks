@@ -1,5 +1,5 @@
 # data pack info
-Various fixes and adjustments to improve mod compatibility:
+Various fixes and adjustments to improve mod compatibility. Most notable changes:
 - Signs can be made from the various wood types, workaround for #348
 - The following items are craftable with appropriate recipes: magmatic stone, blue netherrack, cryptic magma block, embur gel ball, mossy netherrack and quartzite sand
 - Willow vines from BoP can be used in place of vines to make mossy netherrack and mossy stone
