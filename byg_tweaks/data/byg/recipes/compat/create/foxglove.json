@@ -22,7 +22,7 @@
     },
     {
       "item": "minecraft:light_gray_dye",
-      "chance": 0.75
+      "chance": 0.25
     }
   ],
   "processingTime": 50
