@@ -7,7 +7,7 @@
   ],
   "type": "tconstruct:casting_table",
   "cast": {
-    "item": "minecraft:glowstone"
+    "item": "minecraft:glowstone_dust"
   },
   "cast_consumed": true,
   "fluid": {
