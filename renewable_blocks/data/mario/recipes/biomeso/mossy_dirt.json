@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "biomesoplenty"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "subwild"
+        }
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:dirt"
+    },
+    {
+      "item": "minecraft:vine"
+    }
+  ],
+  "result": {
+    "item": "subwild:mossy_dirt"
+  }
+}
