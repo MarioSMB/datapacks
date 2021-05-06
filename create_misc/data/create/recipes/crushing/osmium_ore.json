@@ -1,0 +1,28 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "forge:ores/osmium"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:crushed_osmium_ore"
+    },
+    {
+      "item": "create:crushed_osmium_ore",
+      "count": 2,
+      "chance": 0.3
+    }
+  ],
+  "processingTime": 400,
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:ores/osmium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

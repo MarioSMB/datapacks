@@ -1,0 +1,28 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "forge:ores/zinc"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:crushed_zinc_ore"
+    },
+    {
+      "item": "create:crushed_zinc_ore",
+      "count": 2,
+      "chance": 0.3
+    }
+  ],
+  "processingTime": 350,
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:ores/zinc",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

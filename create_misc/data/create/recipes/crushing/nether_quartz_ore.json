@@ -1,0 +1,29 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "forge:ores/quartz"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:quartz",
+      "count": 2
+    },
+    {
+      "item": "minecraft:quartz",
+      "count": 4,
+      "chance": 0.5
+    }
+  ],
+  "processingTime": 350,
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:ores/quartz",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

@@ -1,14 +1,8 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    }
-  ],
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "byg:cryptic_redstone_ore"
+      "tag": "forge:ores/redstone"
     }
   ],
   "results": [
@@ -20,11 +14,16 @@
       "item": "minecraft:redstone",
       "count": 6,
       "chance": 0.25
-    },
-    {
-      "item": "byg:cryptic_stone",
-      "chance": 0.125
     }
   ],
-  "processingTime": 300
+  "processingTime": 300,
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:ores/redstone",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
 }
