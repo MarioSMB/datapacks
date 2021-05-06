@@ -17,7 +17,7 @@
   "cast_consumed": true,
   "fluid": {
     "name": "tconstruct:magma_cream",
-    "amount": 500
+    "amount": 1000
   },
   "result": "byg:magmatic_stone",
   "cooling_time": 90
