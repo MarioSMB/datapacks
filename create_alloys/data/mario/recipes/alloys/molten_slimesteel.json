@@ -8,9 +8,7 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "fluid": "tconstruct:molten_iron",
-      "nbt": {},
-      "amount": 144
+      "tag": "forge:ingots/iron"
     },
     {
       "fluid": "tconstruct:sky_slime",
