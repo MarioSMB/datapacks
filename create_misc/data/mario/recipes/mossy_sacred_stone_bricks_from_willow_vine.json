@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "biomesoplenty"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "toadterror"
+        }
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "toadterror:sacred_stone_bricks"
+    },
+    {
+      "item": "biomesoplenty:willow_vine"
+    }
+  ],
+  "result": {
+    "item": "toadterror:mossy_sacred_stone_bricks"
+  }
+}
