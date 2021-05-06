@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "tconstruct:casting_table",
+  "fluid": {
+    "name": "tconstruct:molten_obsidian",
+    "amount": 250
+  },
+  "result": "create:powdered_obsidian",
+  "cooling_time": 41
+}

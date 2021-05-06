@@ -8,6 +8,18 @@
   "type": "create:mixing",
   "ingredients": [
     {
+      "item": "create:powdered_obsidian"
+    },
+    {
+      "item": "create:powdered_obsidian"
+    },
+    {
+      "item": "create:powdered_obsidian"
+    },
+    {
+      "item": "create:powdered_obsidian"
+    },
+    {
       "fluid": "tconstruct:molten_copper",
       "nbt": {},
       "amount": 288
@@ -16,9 +28,6 @@
       "fluid": "tconstruct:molten_cobalt",
       "nbt": {},
       "amount": 144
-    },
-    {
-      "item": "minecraft:obsidian"
     }
   ],
   "results": [
