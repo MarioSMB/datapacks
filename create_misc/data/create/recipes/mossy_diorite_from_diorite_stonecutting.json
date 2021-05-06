@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "minecraft:diorite"
+      "item": "create:diorite_bricks"
     },
     {
       "item": "minecraft:vine"

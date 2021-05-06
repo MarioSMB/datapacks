@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "create:dark_scoria"
+      "item": "create:dark_scoria_bricks"
     },
     {
       "item": "minecraft:vine"

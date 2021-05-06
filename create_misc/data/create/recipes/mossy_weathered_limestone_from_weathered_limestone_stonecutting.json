@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "create:weathered_limestone"
+      "item": "create:weathered_limestone_bricks"
     },
     {
       "item": "minecraft:vine"

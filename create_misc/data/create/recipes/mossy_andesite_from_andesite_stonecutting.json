@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "minecraft:andesite"
+      "item": "create:andesite_bricks"
     },
     {
       "item": "minecraft:vine"
