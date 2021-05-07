@@ -33,7 +33,7 @@
                   "condition": "minecraft:survives_explosion"
                 }
               ],
-              "name": "subwild:mossy_cobblestone"
+              "name": "minecraft:mossy_cobblestone"
             }
           ]
         }
