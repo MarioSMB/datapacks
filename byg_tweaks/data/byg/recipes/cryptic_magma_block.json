@@ -1,19 +1,20 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    " X ",
-    "XGX",
-    " X "
+    "###",
+    "#E#",
+    "###"
   ],
   "key": {
-    "X": {
-      "item": "minecraft:magma_cream"
-    },
-    "G": {
+    "#": {
       "item": "byg:cryptic_stone"
+    },
+    "E": {
+      "item": "minecraft:lava_bucket"
     }
   },
   "result": {
-    "item": "byg:cryptic_magma_block"
+    "item": "byg:cryptic_magma_block",
+    "count": 8
   }
 }
