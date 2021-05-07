@@ -1,8 +1,17 @@
 {
   "conditions": [
     {
-      "type": "forge:mod_loaded",
-      "modid": "biomesoplenty"
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "biomesoplenty"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "byg"
+        }
+      ]
     }
   ],
   "type": "minecraft:crafting_shapeless",
