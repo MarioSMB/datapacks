@@ -13,9 +13,7 @@
       "amount": 432
     },
     {
-      "fluid": "tconstruct:molten_glass",
-      "nbt": {},
-      "amount": 1000
+      "tag": "forge:glass/colorless"
     }
   ],
   "results": [
