@@ -1,12 +1,12 @@
 {
   "replace": false,
   "values": [
-    "#mario:cakes",
+    "#neapolitan:cakes",
+    "#neapolitan:ice_creams",
+    "#neapolitan:milkshakes",
     "neapolitan:adzuki_curry",
     "neapolitan:adzuki_stew",
-    "#neapolitan:ice_creams",
     "neapolitan:milk_bottle",
-    "#mario:milkshakes",
     "neapolitan:strawberry_scones",
     "neapolitan:strawberry_banana_smoothie",
     "neapolitan:vanilla_pudding"
