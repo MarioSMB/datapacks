@@ -5,7 +5,7 @@
       "values": [
         {
           "value": {
-            "tag": "forge:honey",
+            "fluidTag": "forge:honey",
             "type": "forge:tag_empty"
           },
           "type": "forge:not"
