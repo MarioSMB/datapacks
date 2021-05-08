@@ -8,7 +8,7 @@
   "type": "create:splashing",
   "ingredients": [
     {
-      "item": "subwild:molten_red_sandstone"
+      "tag": "subwild:molten_blocks"
     }
   ],
   "results": [
