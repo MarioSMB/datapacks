@@ -1,0 +1,27 @@
+{
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "value": {
+            "tag": "forge:honey",
+            "type": "forge:tag_empty"
+          },
+          "type": "forge:not"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "tconstruct"
+        }
+      ]
+    }
+  ],
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "tag": "forge:honey",
+    "amount": 1000
+  },
+  "result": "minecraft:honey_block",
+  "cooling_time": 50
+}
