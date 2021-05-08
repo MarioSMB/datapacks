@@ -5,7 +5,7 @@
       "modid": "quark"
     }
   ],
-  "type": "create:mixing",
+  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "tag": "forge:cobblestone"
@@ -14,9 +14,7 @@
       "item": "minecraft:cobweb"
     }
   ],
-  "results": [
-    {
-      "item": "quark:cobbedstone"
-    }
-  ]
+  "result": {
+    "item": "quark:cobbedstone"
+  }
 }

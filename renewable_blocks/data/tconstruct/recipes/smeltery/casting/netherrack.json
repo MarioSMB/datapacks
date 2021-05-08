@@ -1,4 +1,10 @@
 {
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
   "type": "tconstruct:casting_basin",
   "cast": [
     {
@@ -10,9 +16,9 @@
   ],
   "cast_consumed": true,
   "fluid": {
-    "name": "tconstruct:molten_obsidian",
+    "name": "tconstruct:blood",
     "amount": 500
   },
-  "result": "minecraft:blackstone",
+  "result": "minecraft:netherrack",
   "cooling_time": 90
 }
