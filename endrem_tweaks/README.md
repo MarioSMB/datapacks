@@ -1,2 +1,5 @@
 # data pack info
-Various tweaks and improvements for the End Remastered mod
+Various recipe tweaks and improvements:
+- Fix an error in the end crystal ore loot table
+- Add Create crushing recipes for end crystal ore and horse armor
+- Allow crafting end crystal blocks from 9 end crystal fragments and turning it back into fragments again
