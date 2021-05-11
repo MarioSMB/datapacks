@@ -2,10 +2,10 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "minecraft:clay_ball"
+      "tag": "forge:cobblestone"
     },
     {
-      "tag": "forge:cobblestone"
+      "item": "minecraft:clay_ball"
     }
   ],
   "result": {
