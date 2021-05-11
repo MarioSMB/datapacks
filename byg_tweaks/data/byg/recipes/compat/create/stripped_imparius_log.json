@@ -1,0 +1,21 @@
+{
+  "conditions": [
+      {
+      "type": "forge:mod_loaded",
+      "modid": "byg"
+    }
+  ],
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "byg:stripped_imparius_stem"
+    }
+  ], 
+  "results": [
+    {
+      "item": "byg:imparius_planks",
+      "count": 5
+    }
+  ],
+  "processingTime": 100
+}
