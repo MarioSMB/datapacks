@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "alexsmobs"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "fluid": "create:potion",
+      "nbt": {
+        "Bottle": "REGULAR",
+        "Potion": "alexsmobs:lava_vision"
+      },
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "fluid": "create:potion",
+      "nbt": {
+        "Bottle": "REGULAR",
+        "Potion": "alexsmobs:long_lava_vision"
+      },
+      "amount": 1000
+    }
+  ],
+  "heatRequirement": "heated"
+}

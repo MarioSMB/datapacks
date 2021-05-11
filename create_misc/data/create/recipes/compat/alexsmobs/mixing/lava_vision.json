@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "alexsmobs"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "alexsmobs:bone_serpent_tooth"
+    },
+    {
+      "fluid": "minecraft:lava",
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "fluid": "create:potion",
+      "nbt": {
+        "Bottle": "REGULAR",
+        "Potion": "alexsmobs:lava_vision"
+      },
+      "amount": 1000
+    }
+  ],
+  "heatRequirement": "heated"
+}

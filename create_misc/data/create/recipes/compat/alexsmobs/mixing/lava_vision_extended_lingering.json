@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "alexsmobs"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:dragon_breath"
+    },
+    {
+      "fluid": "create:potion",
+      "nbt": {
+        "Bottle": "REGULAR",
+        "Potion": "alexsmobs:long_lava_vision"
+      },
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "fluid": "create:potion",
+      "nbt": {
+        "Bottle": "LINGERING",
+        "Potion": "alexsmobs:long_lava_vision"
+      },
+      "amount": 1000
+    }
+  ],
+  "heatRequirement": "heated"
+}
