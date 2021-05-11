@@ -1,8 +1,6 @@
 {
   "replace": false,
   "values": [
-    "#tconstruct:blood",
-    "#tconstruct:earth_slime",
     "#tconstruct:liquid_soul",
     "#tconstruct:magma_cream",
     "#tconstruct:molten_aluminum",
@@ -43,9 +41,6 @@
     "#tconstruct:molten_tungsten",
     "#tconstruct:molten_uranium",
     "#tconstruct:molten_zinc",
-    "#tconstruct:seared_stone",
-    "#tconstruct:sky_slime",
-    "#tconstruct:slime",
-    "#tconstruct:slimelike"
+    "#tconstruct:seared_stone"
   ]
 }

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#tconstruct:blood",
+    "#tconstruct:earth_slime",
+    "#tconstruct:sky_slime",
+    "#tconstruct:slime",
+    "#tconstruct:slimelike"
+  ]
+}
