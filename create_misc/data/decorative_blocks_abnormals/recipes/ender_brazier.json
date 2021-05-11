@@ -1,0 +1,30 @@
+{
+  "group": "decorative_blocks_abnormals",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "020",
+    " 0 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_bars"
+    },
+    "1": {
+      "tag": "minecraft:coals"
+    },
+    "2": {
+      "tag": "endergetic:ender_fire_base_blocks"
+    }
+  },
+  "result": {
+    "item": "decorative_blocks_abnormals:ender_brazier",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "endergetic"
+    }
+  ]
+}
