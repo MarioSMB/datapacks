@@ -35,7 +35,7 @@
       "fluid": "cofh_core:potion",
       "nbt": {
         "CustomPotionEffects": [],
-        "CustomPotionColor": 16569592,
+        "CustomPotionColor": 14078101,
         "display": {
           "Name": {
             "text": "Vanilla Milkshake"
