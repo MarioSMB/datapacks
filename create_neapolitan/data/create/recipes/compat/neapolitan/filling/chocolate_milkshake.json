@@ -23,10 +23,10 @@
       "fluid": "cofh_core:potion",
       "nbt": {
         "CustomPotionEffects": [],
-        "CustomPotionColor": 15793920,
+        "CustomPotionColor": 12012289,
         "display": {
           "Name": {
-            "text": "Banana Milkshake"
+            "text": "Chocolate Milkshake"
           }
         }
       },
@@ -35,7 +35,7 @@
   ],
   "results": [
     {
-      "item": "neapolitan:banana_milkshake",
+      "item": "neapolitan:chocolate_milkshake",
       "count": 1
     }
   ]
