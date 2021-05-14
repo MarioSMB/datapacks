@@ -3,7 +3,7 @@
   "ingredient": {
     "item": "atmospheric:stripped_rosewood_log"
   },
-  "result": "decorative_blocks:rosewood_beam",
+  "result": "decorative_blocks_abnormals:rosewood_beam",
   "count": 1,
   "conditions": [
     {

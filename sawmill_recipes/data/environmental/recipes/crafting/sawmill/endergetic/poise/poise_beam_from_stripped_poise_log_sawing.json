@@ -3,7 +3,7 @@
   "ingredient": {
     "item": "endergetic:stripped_poise_wood"
   },
-  "result": "decorative_blocks:poise_beam",
+  "result": "decorative_blocks_abnormals:poise_beam",
   "count": 1,
   "conditions": [
     {

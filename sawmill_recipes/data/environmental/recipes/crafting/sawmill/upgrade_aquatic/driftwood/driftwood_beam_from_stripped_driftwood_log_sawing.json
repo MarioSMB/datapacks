@@ -3,7 +3,7 @@
   "ingredient": {
     "item": "upgrade_aquatic:stripped_driftwood_log"
   },
-  "result": "decorative_blocks:driftwood_beam",
+  "result": "decorative_blocks_abnormals:driftwood_beam",
   "count": 1,
   "conditions": [
     {
