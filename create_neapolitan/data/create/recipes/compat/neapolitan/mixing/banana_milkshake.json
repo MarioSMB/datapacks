@@ -28,7 +28,8 @@
           "Name": {
             "text": "Vanilla Milkshake"
           }
-        }
+        },
+        "amount": 1000
       }
     }
   ],
