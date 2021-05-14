@@ -17,15 +17,13 @@
   "type": "create:filling",
   "ingredients": [
     {
+      "item": "minecraft:glass_bottle"
+    },
+    {
       "fluid": "cofh_core:potion",
       "nbt": {
         "CustomPotionEffects": [],
-        "CustomPotionColor": 16772608,
-        "display": {
-          "Name": {
-            "text": "Banana Milkshake"
-          }
-        }
+        "CustomPotionColor": 15793920,
       },
       "amount": 250
     }

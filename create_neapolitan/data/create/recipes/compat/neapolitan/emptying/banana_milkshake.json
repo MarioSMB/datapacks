@@ -22,10 +22,13 @@
   ],
   "results": [
     {
+      "item": "minecraft:glass_bottle"
+    },
+    {
       "fluid": "cofh_core:potion",
       "nbt": {
         "CustomPotionEffects": [],
-        "CustomPotionColor": 16772608,
+        "CustomPotionColor": 15793920,
         "display": {
           "Name": {
             "text": "Banana Milkshake"
