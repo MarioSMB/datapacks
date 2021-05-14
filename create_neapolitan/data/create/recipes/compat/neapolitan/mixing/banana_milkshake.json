@@ -40,7 +40,9 @@
         "CustomPotionEffects": [],
         "CustomPotionColor": 16777045,
         "display": {
-          "Name": "Banana Milkshake"
+          "Name": {
+            "text": "Banana Milkshake"
+          }
         }
       },
       "amount": 1000
