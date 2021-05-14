@@ -3,7 +3,7 @@
   "ingredient": {
     "tag": "endergetic:poise_stems"
   },
-  "result": "decorative_blocks_abnormals:dead_palisade",
+  "result": "decorative_blocks_abnormals:poise_palisade",
   "count": 4,
   "conditions": [
     {
