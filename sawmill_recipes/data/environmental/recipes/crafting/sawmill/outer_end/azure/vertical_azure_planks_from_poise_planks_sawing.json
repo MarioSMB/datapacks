@@ -3,7 +3,7 @@
   "ingredient": {
     "item": "outer_end:azure_planks"
   },
-  "result": "outer_end:vertical_azure_planks",
+  "result": "outer_end:azure_vertical_planks",
   "count": 1,
   "conditions":[
     {
