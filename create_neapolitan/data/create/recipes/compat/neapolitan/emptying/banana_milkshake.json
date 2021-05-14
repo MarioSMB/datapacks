@@ -14,7 +14,7 @@
       ]
     }
   ],
-  "type": "create:draining",
+  "type": "create:emptying",
   "ingredients": [
     {
       "item": "neapolitan:banana_milkshake"
