@@ -17,7 +17,7 @@
   "type": "create:emptying",
   "ingredients": [
     {
-      "item": "neapolitan:banana_milkshake"
+      "item": "neapolitan:strawberry_milkshake"
     }
   ],
   "results": [
@@ -28,10 +28,10 @@
       "fluid": "cofh_core:potion",
       "nbt": {
         "CustomPotionEffects": [],
-        "CustomPotionColor": 15662955,
+        "CustomPotionColor": 15616448,
         "display": {
           "Name": {
-            "text": "Banana Milkshake"
+            "text": "Strawberry Milkshake"
           }
         }
       },

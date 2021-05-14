@@ -14,28 +14,37 @@
       ]
     }
   ],
-  "type": "create:emptying",
+  "type": "create:mixing",
   "ingredients": [
     {
-      "item": "neapolitan:banana_milkshake"
-    }
-  ],
-  "results": [
-    {
-      "item": "minecraft:glass_bottle"
+      "item": "neapolitan:strawberries"
     },
     {
       "fluid": "cofh_core:potion",
       "nbt": {
         "CustomPotionEffects": [],
-        "CustomPotionColor": 15662955,
+        "CustomPotionColor": 16569592,
         "display": {
           "Name": {
-            "text": "Banana Milkshake"
+            "text": "Vanilla Milkshake"
           }
         }
       },
-      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "fluid": "cofh_core:potion",
+      "nbt": {
+        "CustomPotionEffects": [],
+        "CustomPotionColor": 15616448,
+        "display": {
+          "Name": {
+            "text": "Strawberry Milkshake"
+          }
+        }
+      },
+      "amount": 1000
     }
   ]
 }

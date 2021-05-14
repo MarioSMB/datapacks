@@ -14,13 +14,8 @@
       ]
     }
   ],
-  "type": "create:emptying",
+  "type": "create:filling",
   "ingredients": [
-    {
-      "item": "neapolitan:banana_milkshake"
-    }
-  ],
-  "results": [
     {
       "item": "minecraft:glass_bottle"
     },
@@ -28,14 +23,20 @@
       "fluid": "cofh_core:potion",
       "nbt": {
         "CustomPotionEffects": [],
-        "CustomPotionColor": 15662955,
+        "CustomPotionColor": 16569592,
         "display": {
           "Name": {
-            "text": "Banana Milkshake"
+            "text": "Vanilla Milkshake"
           }
         }
       },
       "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "neapolitan:vanilla_milkshake",
+      "count": 1
     }
   ]
 }

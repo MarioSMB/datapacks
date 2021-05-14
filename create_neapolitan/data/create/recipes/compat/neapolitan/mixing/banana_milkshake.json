@@ -17,20 +17,19 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "item": "neapolitan:dried_vanilla_pods"
-    },
-    {
-      "item": "neapolitan:ice_cubes"
-    },
-    {
-      "item": "minecraft:sugar"
-    },
-    {
       "item": "neapolitan:banana"
     },
     {
-      "fluidTag": "forge:milk",
-      "amount": 1000
+      "fluid": "cofh_core:potion",
+      "nbt": {
+        "CustomPotionEffects": [],
+        "CustomPotionColor": 16569592,
+        "display": {
+          "Name": {
+            "text": "Vanilla Milkshake"
+          }
+        }
+      },
     }
   ],
   "results": [
@@ -38,7 +37,7 @@
       "fluid": "cofh_core:potion",
       "nbt": {
         "CustomPotionEffects": [],
-        "CustomPotionColor": 15793920,
+        "CustomPotionColor": 15662955,
         "display": {
           "Name": {
             "text": "Banana Milkshake"
