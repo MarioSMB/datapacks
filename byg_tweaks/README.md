@@ -6,3 +6,4 @@ Various fixes and adjustments to improve mod compatibility. Most notable changes
 - Glowcane and ores can be crushed in a Create crusher to produce reliable amounts of their material
 - Flowers can be crushed in a Create millstone to produce more of their dyes
 - Dacite is given a renewable recipe, matching other Create stone recipes
+- All stone-based blocks have fixed crafting recipes
