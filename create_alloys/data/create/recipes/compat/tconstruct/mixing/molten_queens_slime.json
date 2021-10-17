@@ -16,7 +16,7 @@
       "tag": "forge:ingots/gold"
     },
     {
-      "fluid": "tconstruct:magma_cream",
+      "fluid": "tconstruct:magma",
       "nbt": {},
       "amount": 250
     }

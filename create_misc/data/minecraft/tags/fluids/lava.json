@@ -1,10 +1,11 @@
 {
   "replace": false,
   "values": [
+    "#tconstruct:blazing_blood",
     "#tconstruct:liquid_soul",
-    "#tconstruct:magma_cream",
+    "#forge:magma",
+    "#tconstruct:metal_like",
     "#tconstruct:molten_aluminum",
-    "#tconstruct:molten_blaze",
     "#tconstruct:molten_brass",
     "#tconstruct:molten_bronze",
     "#tconstruct:molten_clay",
