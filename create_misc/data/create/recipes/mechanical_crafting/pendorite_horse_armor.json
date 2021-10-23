@@ -1,0 +1,28 @@
+{
+  "conditions": [
+      {
+      "type": "forge:mod_loaded",
+      "modid": "byg"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    " LPP",
+    "PPP ",
+    "SLS "
+  ],
+  "key": {
+    "P": {
+      "item": "byg:pendorite_ingot"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "byg:pendorite_horse_armor"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "conditions": [
+      {
+      "type": "forge:mod_loaded",
+      "modid": "byg"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    " LAA",
+    "AAA ",
+    "SLS "
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:gems/ametrine"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "byg:ametrine_horse_armor"
+  }
+}
