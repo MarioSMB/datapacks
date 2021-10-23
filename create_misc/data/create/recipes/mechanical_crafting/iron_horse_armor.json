@@ -2,8 +2,8 @@
   "type": "create:mechanical_crafting",
   "pattern": [
     " LII",
-    "III",
-    "SLS"
+    "III ",
+    "SLS "
   ],
   "key": {
     "D": {
