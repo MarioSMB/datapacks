@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "byg:dacite_bricks"
-  },
-  "result": "byg:dacite_tile",
-  "count": 1
-}

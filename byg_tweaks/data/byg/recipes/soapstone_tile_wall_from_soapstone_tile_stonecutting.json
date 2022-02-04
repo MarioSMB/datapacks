@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "byg:soapstone_tile"
-  },
-  "result": "byg:soapstone_tile_wall",
-  "count": 1
-}
