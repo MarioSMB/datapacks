@@ -1,0 +1,31 @@
+{
+  "parent": "dungeons_plus:adventure/find_bigger_dungeon",
+  "display": {
+    "icon": {
+      "item": "minecraft:packed_ice"
+    },
+    "title": {
+      "translate": "dungeons_plus:advancements.adventure.find_snowy_temple.title"
+    },
+    "description": {
+      "translate": "dungeons_plus:advancements.adventure.find_snowy_temple.description"
+    },
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "structure": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "dungeons_plus:snowy_temple"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "structure"
+    ]
+  ]
+}

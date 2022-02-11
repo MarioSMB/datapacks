@@ -1,0 +1,31 @@
+{
+  "parent": "dungeons_plus:adventure/find_tower",
+  "display": {
+    "icon": {
+      "item": "minecraft:spawner"
+    },
+    "title": {
+      "translate": "dungeons_plus:advancements.adventure.find_bigger_dungeon.title"
+    },
+    "description": {
+      "translate": "dungeons_plus:advancements.adventure.find_bigger_dungeon.description"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "structure": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "dungeons_plus:bigger_dungeon"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "structure"
+    ]
+  ]
+}
