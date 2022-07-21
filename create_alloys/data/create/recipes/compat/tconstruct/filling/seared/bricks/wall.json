@@ -11,7 +11,7 @@
       "item": "minecraft:stone_brick_wall"
     },
     {
-      "fluid": "tconstruct:molten_clay",
+      "fluidTag": "tconstruct:molten_clay",
       "nbt": {},
       "amount": 500
     }

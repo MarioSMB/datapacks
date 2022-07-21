@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluidTag": "forge:molten_copper",
+      "nbt": {},
+      "amount": 90
+    },
+    {
+      "fluidTag": "tconstruct:molten_amethyst",
+      "nbt": {},
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tconstruct:molten_amethyst_bronze",
+      "amount": 90
+    }
+  ],
+  "heatRequirement": "heated"
+}

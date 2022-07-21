@@ -27,20 +27,20 @@
   ],
   "ingredients": [
     {
-      "fluid": "tconstruct:molten_iron",
+      "fluidTag": "forge:molten_iron",
       "nbt": {},
-      "amount": 144
+      "amount": 90
     },
     {
-      "fluid": "tconstruct:molten_lead",
+      "fluidTag": "forge:molten_lead",
       "nbt": {},
-      "amount": 144
+      "amount": 90
     }
   ],
   "results": [
     {
       "fluid": "tconstruct:molten_pewter",
-      "amount": 288
+      "amount": 180
     }
   ],
   "heatRequirement": "heated"

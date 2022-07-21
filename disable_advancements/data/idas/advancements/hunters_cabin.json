@@ -1,0 +1,30 @@
+{
+  "parent": "idas:idas_root",
+  "display": {
+    "icon": {
+      "item": "alexsmobs:moose_antler"
+    },
+    "title": {
+      "translate": "Hunter's Cabin"
+    },
+    "description": {
+      "translate": "The Huntsman of the Woods"
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 50
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "in_hunters_cabin"
+    ]
+  ]
+}

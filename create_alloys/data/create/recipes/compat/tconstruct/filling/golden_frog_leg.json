@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "quark:flag",
+          "flag": "frogs"
+        },
+        {
+          "type": "quark:flag",
+          "flag": "frog_brewing"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "tconstruct"
+        }
+      ]
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "quark:frog_leg"
+    },
+    {
+      "fluidTag": "forge:molten_gold",
+      "nbt": {},
+      "amount": 128
+    }
+  ],
+  "results": [
+    {
+      "item": "quark:golden_frog_leg"
+    }
+  ]
+}

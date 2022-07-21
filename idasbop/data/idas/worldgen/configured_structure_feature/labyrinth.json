@@ -1,0 +1,36 @@
+{
+  "type": "idas:idas_jigsaw_structure",
+  "config": {
+    "start_pool": "idas:labyrinth/boplabyrinth_entrance",
+    "size": 3,
+    "center_y_offset": -11,
+    "min_y_allowed": 70,
+    "structure_set_avoid_radius_check": 5,
+    "structure_set_to_avoid": [
+      "minecraft:villages",
+      "idas:pillager_fortress",
+      "idas:wizardtower",
+      "idas:enchantingtower",
+      "idas:castle",
+      "idas:cottage",
+      "idas:brickhouse",
+      "idas:hauntedhouse",
+      "idas:abandonedhouse",
+      "dungeons_arise:abandoned_temple",
+      "dungeons_arise:bandit_towers",
+      "dungeons_arise:bandit_village",
+      "dungeons_arise:ceryneian_hind",
+      "dungeons_arise:foundry",
+      "dungeons_arise:mining_system",
+      "dungeons_arise:plague_asylum",
+      "dungeons_arise:scorched_mines",
+      "dungeons_arise:shiraz_palace",
+      "dungeons_arise:typhon",
+      "dungeons_arise:wishing_well",
+      "terralith:fortified_village"
+    ]
+  },
+  "biomes": "#idas:has_structure/labyrinth_biomes",
+  "adapt_noise": false,
+  "spawn_overrides": {}
+}

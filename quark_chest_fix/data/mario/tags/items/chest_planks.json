@@ -1,6 +1,17 @@
 {
   "replace": false,
   "values": [
+    "biomesoplenty:cherry_planks",
+    "biomesoplenty:dead_planks",
+    "biomesoplenty:fir_planks",
+    "biomesoplenty:hellbark_planks",
+    "biomesoplenty:jacaranda_planks",
+    "biomesoplenty:magic_planks",
+    "biomesoplenty:mahogany_planks",
+    "biomesoplenty:palm_planks",
+    "biomesoplenty:redwood_planks",
+    "biomesoplenty:umbran_planks",
+    "biomesoplenty:willow_planks",
     "byg:aspen_planks",
     "byg:blue_enchanted_planks",
     "byg:baobab_planks",
@@ -29,18 +40,6 @@
     "byg:sythian_planks",
     "byg:willow_planks",
     "byg:witch_hazel_planks",
-    "byg:zelkova_planks",
-    "biomesoplenty:cherry_planks",
-    "biomesoplenty:cherry_planks",
-    "biomesoplenty:fir_planks",
-    "biomesoplenty:hellbark_planks",
-    "biomesoplenty:jacaranda_planks",
-    "biomesoplenty:magic_planks",
-    "biomesoplenty:mahogany_planks",
-    "biomesoplenty:palm_planks",
-    "biomesoplenty:redwood_planks",
-    "biomesoplenty:umbran_planks",
-    "biomesoplenty:willow_planks",
-    "#mario:quark_planks"
+    "byg:zelkova_planks"
   ]
 }

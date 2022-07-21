@@ -8,23 +8,23 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "fluid": "tconstruct:molten_cobalt",
+      "fluidTag": "forge:molten_cobalt",
       "nbt": {},
-      "amount": 144
+      "amount": 90
     },
     {
-      "tag": "forge:ingots/gold"
+      "fluidTag": "forge:molten_gold",
+      "nbt": {},
+      "amount": 90
     },
     {
-      "fluid": "tconstruct:magma",
-      "nbt": {},
-      "amount": 250
+      "item": "minecraft:magma_cream"
     }
   ],
   "results": [
     {
       "fluid": "tconstruct:molten_queens_slime",
-      "amount": 288
+      "amount": 180
     }
   ],
   "heatRequirement": "superheated"

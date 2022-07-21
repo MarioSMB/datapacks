@@ -8,32 +8,32 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "item": "create:powdered_obsidian"
+      "tag": "forge:gems/quartz"
     },
     {
-      "item": "create:powdered_obsidian"
+      "tag": "forge:gems/quartz"
     },
     {
-      "item": "create:powdered_obsidian"
+      "tag": "forge:gems/quartz"
     },
     {
-      "item": "create:powdered_obsidian"
+      "tag": "forge:gems/quartz"
     },
     {
-      "fluid": "tconstruct:molten_copper",
+      "fluidTag": "forge:molten_copper",
       "nbt": {},
-      "amount": 288
+      "amount": 180
     },
     {
-      "fluid": "tconstruct:molten_cobalt",
+      "fluidTag": "forge:molten_cobalt",
       "nbt": {},
-      "amount": 144
+      "amount": 90
     }
   ],
   "results": [
     {
       "fluid": "tconstruct:molten_hepatizon",
-      "amount": 288
+      "amount": 180
     }
   ],
   "heatRequirement": "superheated"

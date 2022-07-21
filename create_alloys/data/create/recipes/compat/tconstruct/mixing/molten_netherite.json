@@ -8,20 +8,20 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "fluid": "tconstruct:molten_debris",
+      "fluidTag": "tconstruct:molten_debris",
       "nbt": {},
-      "amount": 64
+      "amount": 40
     },
     {
-      "fluid": "tconstruct:molten_gold",
+      "fluidTag": "forge:molten_gold",
       "nbt": {},
-      "amount": 64
+      "amount": 40
     }
   ],
   "results": [
     {
       "fluid": "tconstruct:molten_netherite",
-      "amount": 16
+      "amount": 10
     }
   ],
   "heatRequirement": "superheated"

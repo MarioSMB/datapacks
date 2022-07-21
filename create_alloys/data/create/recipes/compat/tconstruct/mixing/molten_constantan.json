@@ -27,20 +27,20 @@
   ],
   "ingredients": [
     {
-      "fluid": "tconstruct:molten_copper",
+      "fluidTag": "forge:molten_copper",
       "nbt": {},
-      "amount": 144
+      "amount": 90
     },
     {
-      "fluid": "tconstruct:molten_nickel",
+      "fluidTag": "forge:molten_nickel",
       "nbt": {},
-      "amount": 144
+      "amount": 90
     }
   ],
   "results": [
     {
       "fluid": "tconstruct:molten_constantan",
-      "amount": 288
+      "amount": 180
     }
   ],
   "heatRequirement": "heated"

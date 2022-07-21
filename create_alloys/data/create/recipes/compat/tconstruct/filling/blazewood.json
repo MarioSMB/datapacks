@@ -16,7 +16,7 @@
       }
     ],
     {
-      "fluid": "tconstruct:blazing_blood",
+      "fluidTag": "tconstruct:blazing_blood",
       "nbt": {},
       "amount": 100
     }

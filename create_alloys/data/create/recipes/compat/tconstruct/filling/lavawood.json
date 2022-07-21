@@ -1,0 +1,24 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "minecraft:planks"
+    },
+    {
+      "fluid": "minecraft:lava",
+      "nbt": {},
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "item": "tconstruct:lavawood"
+    }
+  ]
+}

@@ -25,10 +25,6 @@
         {
           "type": "forge:mod_loaded",
           "modid": "biomesoplenty"
-        },
-        {
-          "type": "forge:mod_loaded",
-          "modid": "byg"
         }
       ]
     }

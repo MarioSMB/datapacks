@@ -11,7 +11,7 @@
       "item": "minecraft:carrot"
     },
     {
-      "fluid": "tconstruct:molten_gold",
+      "fluidTag": "forge:molten_gold",
       "nbt": {},
       "amount": 128
     }

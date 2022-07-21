@@ -8,23 +8,23 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "tag": "forge:ingots/iron"
+      "fluidTag": "forge:molten_iron",
+      "nbt": {},
+      "amount": 90
     },
     {
-      "fluid": "tconstruct:sky_slime",
+      "tag": "forge:slimeball/sky"
+    },
+    {
+      "fluidTag": "tconstruct:seared_stone",
       "nbt": {},
       "amount": 250
-    },
-    {
-      "fluid": "tconstruct:seared_stone",
-      "nbt": {},
-      "amount": 144
     }
   ],
   "results": [
     {
       "fluid": "tconstruct:molten_slimesteel",
-      "amount": 288
+      "amount": 180
     }
   ],
   "heatRequirement": "heated"

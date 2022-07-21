@@ -1,0 +1,90 @@
+{
+    "display": {
+        "icon": {
+            "item": "biomesoplenty:fir_sapling"
+        },
+        "title": {
+            "translate": "advancements.biomesoplenty.root.title"
+        },
+        "description": {
+            "translate": "advancements.biomesoplenty.root.description"
+        },
+        "background": "biomesoplenty:textures/gui/advancements/backgrounds/biomesoplenty.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+	"requirements": [
+        [
+			"bamboo_grove",
+			"bayou",
+			"bog",
+			"boreal_forest",
+			"cherry_blossom_grove",
+			"clover_patch",
+			"cold_desert",
+			"coniferous_forest",
+			"crag",
+			"crystalline_chasm",
+			"dead_forest",
+			"dryland",
+			"dune_beach",
+			"erupting_inferno",
+			"field",
+			"fir_clearing",
+			"floodplain",
+			"forested_field",
+			"fungal_jungle",
+			"glowing_grotto",
+			"grassland",
+			"highland",
+			"highland_moor",
+			"jade_cliffs",
+			"lavender_field",
+			"lavender_forest",
+			"lush_desert",
+			"lush_savanna",
+			"maple_woods",
+			"marsh",
+			"mediterranean_forest",
+			"muskeg",
+			"mystic_grove",
+			"old_growth_dead_forest",
+			"old_growth_woodland",
+			"ominous_woods",
+			"orchard",
+			"origin_valley",
+			"pasture",
+			"prairie",
+			"pumpkin_patch",
+			"rainbow_hills",
+			"rainforest",
+			"redwood_forest",
+            "rocky_rainforest",
+			"rocky_shrubland",
+			"scrubland",
+			"seasonal_forest",
+			"shrubland",
+			"snowy_coniferous_forest",
+			"snowy_fir_clearing",
+			"snowy_maple_woods",
+			"spider_nest",
+			"tropics",
+			"tundra",
+			"undergrowth",
+			"visceral_heap",
+			"volcanic_plains",
+			"volcano",
+			"wasteland",
+			"wetland",
+			"withered_abyss",
+			"wooded_scrubland",
+			"wooded_wasteland",
+			"woodland"
+        ]
+    ]
+}

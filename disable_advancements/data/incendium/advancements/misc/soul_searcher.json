@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:netherite_boots",
+      "nbt": "{Enchantments:[]}"
+    },
+    "title": {
+      "translate": "Soul Searcher"
+    },
+    "description": {
+      "translate": "Discover every single Incendium biome"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 1000
+  },
+  "parent": "incendium:misc/root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

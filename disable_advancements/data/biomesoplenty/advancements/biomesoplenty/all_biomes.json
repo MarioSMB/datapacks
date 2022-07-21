@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "biomesoplenty:bop_icon"
+        },
+        "title": {
+            "translate": "advancements.biomesoplenty.all_biomes.title"
+        },
+        "description": {
+            "translate": "advancements.biomesoplenty.all_biomes.description"
+        },
+        "frame": "challenge",
+		"show_toast": true,
+        "announce_to_chat": true
+    },
+	"parent": "biomesoplenty:biomesoplenty/root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+	"rewards": {
+		"experience": 1000,
+		"loot": ["biomesoplenty:advancements/all_biomes"]
+	}
+}

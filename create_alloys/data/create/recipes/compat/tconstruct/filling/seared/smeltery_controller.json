@@ -11,7 +11,7 @@
       "item": "tconstruct:seared_heater"
     },
     {
-      "fluid": "tconstruct:molten_copper",
+      "fluidTag": "forge:molten_copper",
       "nbt": {},
       "amount": 576
     }

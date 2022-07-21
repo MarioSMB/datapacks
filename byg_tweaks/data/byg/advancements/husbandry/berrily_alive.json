@@ -1,0 +1,28 @@
+{
+  "parent": "byg:husbandry/root",
+  "display": {
+    "icon": {
+      "item": "byg:blueberries"
+    },
+    "title": {
+      "translate": "byg.advancements.husbandry.berrily_alive.title"
+    },
+    "description": {
+      "translate": "byg.advancements.husbandry.berrily_alive.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "blue_berry"
+    ]
+  ]
+}

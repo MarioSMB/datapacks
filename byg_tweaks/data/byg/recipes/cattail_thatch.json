@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "byg:cattail_sprout"
+    }
+  },
+  "result": {
+    "item": "byg:cattail_thatch"
+  }
+}

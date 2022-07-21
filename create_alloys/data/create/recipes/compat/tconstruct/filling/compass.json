@@ -8,10 +8,10 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "item": "minecraft:redstone"
+      "tag": "forge:dusts/redstone"
     },
     {
-      "fluid": "tconstruct:molten_iron",
+      "fluidTag": "forge:molten_iron",
       "nbt": {},
       "amount": 576
     }

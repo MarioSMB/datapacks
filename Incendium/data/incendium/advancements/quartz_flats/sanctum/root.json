@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:quartz_block",
+      "nbt": "{Enchantments:[{}]}"
+    },
+    "title": {
+      "translate": "An Illager Refuge?"
+    },
+    "description": {
+      "translate": "The Illagers' Sanctum might not be so holy..."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "incendium:quartz_flats/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "location": {
+          "feature": "incendium:sanctum"
+        }
+      }
+    }
+  }
+}

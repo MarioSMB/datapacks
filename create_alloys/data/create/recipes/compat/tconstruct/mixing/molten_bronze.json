@@ -27,12 +27,12 @@
   ],
   "ingredients": [
     {
-      "fluid": "tconstruct:molten_copper",
+      "fluidTag": "forge:molten_copper",
       "nbt": {},
-      "amount": 432
+      "amount": 270
     },
     {
-      "fluid": "tconstruct:molten_tin",
+      "fluidTag": "forge:molten_tin",
       "nbt": {},
       "amount": 144
     }
@@ -40,7 +40,7 @@
   "results": [
     {
       "fluid": "tconstruct:molten_bronze",
-      "amount": 576
+      "amount": 360
     }
   ],
   "heatRequirement": "heated"

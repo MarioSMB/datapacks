@@ -10,7 +10,7 @@
     {
       "fluid": "minecraft:water",
       "nbt": {},
-      "amount": 100
+      "amount": 50
     },
     {
       "fluid": "minecraft:lava",

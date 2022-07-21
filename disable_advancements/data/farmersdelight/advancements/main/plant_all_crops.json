@@ -1,0 +1,82 @@
+{
+  "parent": "farmersdelight:main/plant_rice",
+  "display": {
+    "icon": {
+      "item": "farmersdelight:cabbage"
+    },
+    "title": {
+      "translate": "farmersdelight.advancement.plant_all_crops"
+    },
+    "description": {
+      "translate": "farmersdelight.advancement.plant_all_crops.desc"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "wheat"
+    ],
+    [
+      "beetroot"
+    ],
+    [
+      "carrot"
+    ],
+    [
+      "potato"
+    ],
+    [
+      "cabbage"
+    ],
+    [
+      "tomato"
+    ],
+    [
+      "onion"
+    ],
+    [
+      "rice"
+    ],
+    [
+      "melon"
+    ],
+    [
+      "pumpkin"
+    ],
+    [
+      "sweet_berries"
+    ],
+    [
+      "sugar_cane"
+    ],
+    [
+      "cocoa"
+    ],
+    [
+      "nether_wart"
+    ],
+    [
+      "chorus_flower"
+    ],
+    [
+      "brown_mushroom"
+    ],
+    [
+      "red_mushroom"
+    ],
+    [
+      "glow_berries"
+    ]
+  ]
+}
