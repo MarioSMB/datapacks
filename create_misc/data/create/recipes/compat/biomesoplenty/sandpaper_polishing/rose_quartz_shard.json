@@ -8,7 +8,7 @@
   "type": "create:sandpaper_polishing",
   "ingredients": [
     {
-      "item": "biomesoplenty:rose_quartz_cluster"
+      "item": "biomesoplenty:rose_quartz_shard"
     }
   ],
   "results": [
