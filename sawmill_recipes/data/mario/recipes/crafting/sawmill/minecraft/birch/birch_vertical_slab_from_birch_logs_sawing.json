@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "minecraft:birch_logs"
+  },
+  "result": "quark:birch_vertical_slab",
+  "count": 8,
+  "conditions":[
+    {
+      "type":"quark:flag",
+      "flag":"vertical_slabs"
+    }
+  ]
+}

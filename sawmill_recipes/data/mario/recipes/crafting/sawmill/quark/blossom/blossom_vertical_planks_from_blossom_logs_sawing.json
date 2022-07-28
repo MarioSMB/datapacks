@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "quark:blossom_logs"
+  },
+  "result": "quark:vertical_blossom_planks",
+  "count": 4,
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "quark:flag",
+          "flag": "vertical_planks"
+        },
+        {
+          "type": "quark:flag",
+          "flag": "blossom_trees"
+        }
+      ]
+    }
+  ]
+}

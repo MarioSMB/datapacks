@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "quark:blossom_planks"
+  },
+  "result": "quark:blossom_fence",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "blossom_trees"
+    }
+  ]
+}

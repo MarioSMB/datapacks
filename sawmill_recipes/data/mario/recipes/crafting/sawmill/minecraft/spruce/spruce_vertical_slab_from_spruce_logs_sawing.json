@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "minecraft:spruce_logs"
+  },
+  "result": "quark:spruce_vertical_slab",
+  "count": 8,
+  "conditions":[
+    {
+      "type":"quark:flag",
+      "flag":"vertical_slabs"
+    }
+  ]
+}

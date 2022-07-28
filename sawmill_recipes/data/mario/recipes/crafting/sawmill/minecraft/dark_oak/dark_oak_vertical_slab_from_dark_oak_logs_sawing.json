@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "minecraft:dark_oak_logs"
+  },
+  "result": "quark:dark_oak_vertical_slab",
+  "count": 8,
+  "conditions":[
+    {
+      "type":"quark:flag",
+      "flag":"vertical_slabs"
+    }
+  ]
+}

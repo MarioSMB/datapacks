@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "minecraft:jungle_logs"
+  },
+  "result": "quark:vertical_jungle_planks",
+  "count": 4,
+  "conditions":[
+    {
+      "type":"quark:flag",
+      "flag":"vertical_planks"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "minecraft:acacia_logs"
+  },
+  "result": "quark:acacia_ladder",
+  "count": 8,
+  "conditions":[
+    {
+      "type":"quark:flag",
+      "flag":"variant_ladders"
+    }
+  ]
+}

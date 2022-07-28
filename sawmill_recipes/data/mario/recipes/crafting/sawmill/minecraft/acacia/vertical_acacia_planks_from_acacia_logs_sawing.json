@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "minecraft:acacia_logs"
+  },
+  "result": "quark:vertical_acacia_planks",
+  "count": 4,
+  "conditions":[
+    {
+      "type":"quark:flag",
+      "flag":"vertical_planks"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "minecraft:birch_logs"
+  },
+  "result": "quark:vertical_birch_planks",
+  "count": 4,
+  "conditions":[
+    {
+      "type":"quark:flag",
+      "flag":"vertical_planks"
+    }
+  ]
+}

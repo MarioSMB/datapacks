@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:stripped_crimson_stem"
+  },
+  "result": "cfm:stripped_crimson_upgraded_gate",
+  "count": 1,
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"cfm"
+    }
+  ]
+}

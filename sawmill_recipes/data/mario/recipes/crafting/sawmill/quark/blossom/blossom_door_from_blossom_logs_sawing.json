@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "quark:blossom_logs"
+  },
+  "result": "quark:blossom_door",
+  "count": 2,
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "blossom_trees"
+    }
+  ]
+}

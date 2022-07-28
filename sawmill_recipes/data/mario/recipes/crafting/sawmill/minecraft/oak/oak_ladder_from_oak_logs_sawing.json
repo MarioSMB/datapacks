@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "minecraft:oak_logs"
+  },
+  "result": "minecraft:ladder",
+  "count": 8,
+  "conditions":[
+    {
+      "type":"quark:flag",
+      "flag":"variant_ladders"
+    }
+  ]
+}

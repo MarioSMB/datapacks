@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "azalea_wood"
+    }
+  ],
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "quark:blossom_trapdoor"
+    }
+  ],
+  "tool": {
+    "type": "farmersdelight:tool_action",
+    "action": "axe_dig"
+  },
+  "result": [
+    {
+      "item": "quark:blossom_planks"
+    }
+  ]
+}
