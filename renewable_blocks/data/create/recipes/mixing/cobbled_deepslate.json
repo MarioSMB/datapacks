@@ -2,15 +2,15 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "item": "minecraft:gravel"
+      "item": "minecraft:cobblestone"
     },
     {
-      "item": "minecraft:dirt"
+      "item": "minecraft:basalt"
     }
   ],
   "results": [
     {
-      "item": "minecraft:coarse_dirt",
+      "item": "minecraft:cobbled_deepslate",
       "count": 2
     }
   ]
