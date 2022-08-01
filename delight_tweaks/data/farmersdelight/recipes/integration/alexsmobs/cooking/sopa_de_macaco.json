@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "alexsmobs"
+    }
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "item": "alexsmobs:banana_peel"
+    },
+    {
+      "item": "minecraft:bone"
+    }
+  ],
+  "result": {
+    "item": "alexsmobs:sopa_de_macaco"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "experience": 0.5,
+  "cookingtime": 200
+}
