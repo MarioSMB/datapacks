@@ -1,0 +1,19 @@
+{
+  "group": "quark:glass_shard",
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "glass_shard"
+    }
+  ],
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "quark:shards"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_glass",
+    "amount": 250
+  },
+  "temperature": 750,
+  "time": 15
+}
