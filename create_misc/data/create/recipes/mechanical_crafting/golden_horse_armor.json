@@ -1,7 +1,8 @@
 {
   "type": "create:mechanical_crafting",
   "pattern": [
-    " LGG",
+    "  G ",
+    "GLGG",
     "GGG ",
     "SLS "
   ],

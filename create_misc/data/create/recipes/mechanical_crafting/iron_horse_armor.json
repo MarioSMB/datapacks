@@ -1,7 +1,8 @@
 {
   "type": "create:mechanical_crafting",
   "pattern": [
-    " LII",
+    "  I ",
+    "ILII",
     "III ",
     "SLS "
   ],
