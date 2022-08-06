@@ -1,0 +1,19 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "alexsmobs"
+    }
+  ],
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "alexsmobs:maggot"
+    }
+  ],
+  "results": [
+    {
+      "item": "alexsmobs:mosquito_larva"
+    }
+  ]
+}
