@@ -11,6 +11,9 @@
       "tag": "forge:crops/corn"
     },
     {
+      "tag": "forge:crops/corn"
+    },
+    {
       "item": "create:wheat_flour"
     },
     {
@@ -21,7 +24,8 @@
   ],
   "results": [
     {
-      "item": "corn_delight:tortilla_raw"
+      "item": "corn_delight:tortilla_raw",
+      "count": 3
     }
   ]
 }
