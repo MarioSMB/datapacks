@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "create:bar_of_chocolate"
+    }
+  ],
+  "result": {
+    "item": "create:chocolate_glazed_berries"
+  },
+  "container": {
+    "item": "minecraft:sweet_berries"
+  },
+  "experience": 0.2,
+  "cookingtime": 200
+}
