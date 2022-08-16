@@ -1,0 +1,19 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "corn_delight:corn"
+    }
+  ],
+  "results": [
+    {
+      "item": "corn_delight:tortilla_raw"
+    }
+  ]
+}

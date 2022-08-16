@@ -1,31 +1,22 @@
 {
   "conditions": [
     {
-      "type": "forge:mod_loaded",
-      "modid": "create"
+      "type": "forge:not",
+      "value":
+        {
+          "type": "forge:mod_loaded",
+          "modid": "minecraft"
+        }
     }
   ],
-  "type": "create:mixing",
-  "ingredients": [
-    {
-      "tag": "forge:crops/corn"
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:air"
+        }
     },
-    {
-      "tag": "forge:crops/corn"
-    },
-    {
-      "item": "create:wheat_flour"
-    },
-    {
-      "fluid": "minecraft:water",
-      "nbt": {},
-      "amount": 250
-    }
-  ],
-  "results": [
-    {
-      "item": "corn_delight:tortilla_raw",
-      "count": 3
-    }
-  ]
+    "result": {}
 }
