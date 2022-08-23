@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "forge:milk"
+    },
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:eggs"
+    }
+  ],
+  "result": {
+    "item": "supplementaries:pancake",
+    "count": 3
+  },
+  "experience": 0.35,
+  "cookingtime": 200,
+  "conditions": [
+    {
+      "type": "supplementaries:flag",
+      "flag": "pancake"
+    }
+  ]
+}

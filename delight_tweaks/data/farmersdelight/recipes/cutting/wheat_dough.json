@@ -2,7 +2,7 @@
   "type": "farmersdelight:cutting",
   "ingredients": [
     {
-      "item": "create:dough"
+      "tag": "forge:dough"
     }
   ],
   "tool": {

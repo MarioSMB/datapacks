@@ -1,0 +1,23 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "farmersrespite:coffee"
+    },
+    {
+      "fluidTag": "forge:honey",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "farmersrespite:strong_coffee"
+    }
+  ],
+  "conditions": [
+    {
+      "modid": "farmersrespite",
+      "type": "forge:mod_loaded"
+    }
+  ]
+}

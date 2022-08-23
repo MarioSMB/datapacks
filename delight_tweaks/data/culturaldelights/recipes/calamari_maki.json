@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "culturaldelights"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:dried_kelp"
+    },
+    {
+      "item": "farmersdelight:cooked_rice"
+    },
+    {
+      "tag": "culturaldelights:pickles"
+    },
+    {
+      "item": "culturaldelights:raw_calamari"
+    },
+    {
+      "item": "culturaldelights:raw_calamari"
+    }
+  ],
+  "result": {
+    "item": "culturaldelights:calamari_maki",
+    "count": 2
+  }
+}

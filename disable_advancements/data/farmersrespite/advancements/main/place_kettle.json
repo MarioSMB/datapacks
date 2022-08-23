@@ -1,0 +1,31 @@
+{
+  "parent": "farmersdelight:main/place_campfire",
+  "display": {
+    "icon": {
+      "item": "farmersrespite:kettle"
+    },
+    "title": {
+      "translate": "It's Tea-time!"
+    },
+    "description": {
+      "translate": "Put down a Kettle and start brewing tea!"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "kettle": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "farmersrespite:kettle"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "kettle"
+    ]
+  ]
+}

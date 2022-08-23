@@ -1,0 +1,19 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "culturaldelights"
+    }
+  ],
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "forge:crops/corn"
+    }
+  ],
+  "results": [
+    {
+      "item": "culturaldelights:corn_dough"
+    }
+  ]
+}

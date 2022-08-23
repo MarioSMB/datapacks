@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "culturaldelights:avocado_logs"
+  },
+  "result": "quark:vertical_jungle_planks",
+  "count": 4,
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type":"forge:mod_loaded",
+          "modid":"culturaldelights"
+        },
+        {
+          "type": "quark:flag",
+          "flag": "vertical_planks"
+        }
+      ]
+    }
+  ]
+}

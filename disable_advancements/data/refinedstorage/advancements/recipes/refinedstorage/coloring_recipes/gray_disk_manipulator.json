@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "refinedstorage:coloring_recipes/gray_disk_manipulator"
+    ]
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "refinedstorage:controller",
+      "has_the_recipe"
+    ]
+  ]
+}

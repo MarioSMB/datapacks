@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "refinedstorage:coloring_recipes/brown_wireless_transmitter"
+    ]
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "refinedstorage:controller",
+      "has_the_recipe"
+    ]
+  ]
+}

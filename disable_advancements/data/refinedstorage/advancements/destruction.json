@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "refinedstorage:destructor"
+    },
+    "title": {
+      "translate": "advancements.refinedstorage.destruction"
+    },
+    "description": {
+      "translate": "advancements.refinedstorage.destruction.description"
+    }
+  },
+  "parent": "refinedstorage:importing",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

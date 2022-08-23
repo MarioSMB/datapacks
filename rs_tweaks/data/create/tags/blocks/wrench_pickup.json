@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"refinedstorage:cable","required":false},
+    {"id":"#refinedstorage:grid","required":false},
+    {"id":"#refinedstorage:crafting_grid","required":false},
+    {"id":"#refinedstorage:controller","required":false},
+    {"id":"refinedstorage:external_storage","required":false}
+  ]
+}
+

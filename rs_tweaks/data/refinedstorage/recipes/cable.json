@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "refinedstorage"
+    }
+  ],
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "create:fluid_pipe"
+    },
+    {
+      "item": "create:andesite_alloy"
+    }
+  ],
+  "results": [
+    {
+      "item": "refinedstorage:cable"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "refinedstorage:relay"
+    },
+    "title": {
+      "translate": "advancements.refinedstorage.conditional_connecting"
+    },
+    "description": {
+      "translate": "advancements.refinedstorage.conditional_connecting.description"
+    }
+  },
+  "parent": "refinedstorage:connecting",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

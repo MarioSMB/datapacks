@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "culturaldelights:avocado_logs"
+  },
+  "result": "minecraft:jungle_button",
+  "count": 4,
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"culturaldelights"
+    }
+  ]
+}

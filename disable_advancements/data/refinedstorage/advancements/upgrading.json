@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "refinedstorage:upgrade"
+    },
+    "title": {
+      "translate": "advancements.refinedstorage.upgrading"
+    },
+    "description": {
+      "translate": "advancements.refinedstorage.upgrading.description"
+    }
+  },
+  "parent": "refinedstorage:root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

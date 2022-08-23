@@ -2,7 +2,7 @@
   "type": "farmersdelight:cooking",
   "ingredients": [
     {
-      "item": "create:dough"
+      "tag": "forge:dough"
     },
     {
       "tag": "forge:crops/cabbage"

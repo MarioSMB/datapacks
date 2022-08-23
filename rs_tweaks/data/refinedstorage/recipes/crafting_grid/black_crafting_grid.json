@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "refinedstorage"
+    }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "refinedstorage"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "refinedstorage:black_grid"
+    },
+    {
+      "item": "create:precision_mechanism"
+    },
+    {
+      "tag": "forge:workbenches"
+    }
+  ],
+  "result": {
+    "item": "refinedstorage:black_crafting_grid"
+  }
+}

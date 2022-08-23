@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "refinedstorage:constructor"
+    },
+    "title": {
+      "translate": "advancements.refinedstorage.construction"
+    },
+    "description": {
+      "translate": "advancements.refinedstorage.construction.description"
+    }
+  },
+  "parent": "refinedstorage:exporting",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "parent": "tconstruct:tools/tinker_tool",
+  "display": {
+    "icon": {
+      "item": "tconstruct:manyullyn_ingot"
+    },
+    "title": {
+      "translate": "advancements.tconstruct.tools.material_master.title"
+    },
+    "description": {
+      "translate": "advancements.tconstruct.tools.material_master.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "wood"
+    ],
+    [
+      "flint"
+    ],
+    [
+      "rock"
+    ],
+    [
+      "bone"
+    ],
+    [
+      "necrotic_bone"
+    ],
+    [
+      "leather"
+    ],
+    [
+      "string"
+    ],
+    [
+      "vine"
+    ],
+    [
+      "iron"
+    ],
+    [
+      "seared_stone"
+    ],
+    [
+      "scorched_stone"
+    ],
+    [
+      "copper"
+    ],
+    [
+      "slimewood"
+    ],
+    [
+      "chain"
+    ],
+    [
+      "skyslime_vine"
+    ],
+    [
+      "rose_gold"
+    ],
+    [
+      "slimesteel"
+    ],
+    [
+      "nahuatl"
+    ],
+    [
+      "bronze"
+    ],
+    [
+      "pig_iron"
+    ],
+    [
+      "cobalt"
+    ],
+    [
+      "darkthread"
+    ],
+    [
+      "manyullyn"
+    ],
+    [
+      "hepatizon"
+    ],
+    [
+      "queens_slime"
+    ],
+    [
+      "blazing_bone"
+    ],
+    [
+      "ancient_hide"
+    ],
+    [
+      "enderslime_vine"
+    ]
+  ]
+}

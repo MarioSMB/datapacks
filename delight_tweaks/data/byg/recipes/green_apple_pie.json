@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "byg"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "aaa",
+    "xOx"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:dough"
+    },
+    "a": {
+      "item": "byg:green_apple"
+    },
+    "x": {
+      "item": "minecraft:sugar"
+    },
+    "O": {
+      "item": "farmersdelight:pie_crust"
+    }
+  },
+  "result": {
+    "item": "byg:green_apple_pie"
+  }
+}

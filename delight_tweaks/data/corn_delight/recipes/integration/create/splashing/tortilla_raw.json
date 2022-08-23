@@ -2,7 +2,7 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "create"
+      "modid": "corn_delight"
     }
   ],
   "type": "create:splashing",

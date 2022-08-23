@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "refinedstorage:creative_controller"
+    },
+    "title": {
+      "translate": "itemGroup.refinedstorage"
+    },
+    "description": {
+      "translate": "advancements.refinedstorage.controlling.description"
+    },
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true,
+    "background": "refinedstorage:textures/gui/advancements.png"
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

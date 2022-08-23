@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "refinedstorage:detector"
+    },
+    "title": {
+      "translate": "advancements.refinedstorage.detecting"
+    },
+    "description": {
+      "translate": "advancements.refinedstorage.detecting.description"
+    }
+  },
+  "parent": "refinedstorage:root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

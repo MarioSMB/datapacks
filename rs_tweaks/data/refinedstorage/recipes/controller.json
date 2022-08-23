@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "refinedstorage"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EPE",
+    "SMS",
+    "ESE"
+  ],
+  "key": {
+    "E": {
+      "item": "create:andesite_alloy"
+    },
+    "P": {
+      "item": "create:precision_mechanism"
+    },
+    "S": {
+      "item": "create:cogwheel"
+    },
+    "M": {
+      "item": "create:brass_casing"
+    }
+  },
+  "result": {
+    "item": "refinedstorage:controller"
+  }
+}

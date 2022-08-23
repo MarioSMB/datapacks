@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "refinedstorage:crafting_grid"
+    },
+    "title": {
+      "translate": "advancements.refinedstorage.upgrading_your_grid"
+    },
+    "description": {
+      "translate": "advancements.refinedstorage.upgrading_your_grid.description"
+    }
+  },
+  "parent": "refinedstorage:viewing_items",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

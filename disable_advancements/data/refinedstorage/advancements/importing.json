@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "refinedstorage:importer"
+    },
+    "title": {
+      "translate": "advancements.refinedstorage.importing"
+    },
+    "description": {
+      "translate": "advancements.refinedstorage.importing.description"
+    }
+  },
+  "parent": "refinedstorage:root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

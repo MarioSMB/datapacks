@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "culturaldelights"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:dried_kelp"
+    },
+    {
+      "item": "farmersdelight:cooked_rice"
+    },
+    {
+      "tag": "culturaldelights:pickles"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "tag": "forge:raw_fishes/cod"
+    }
+  ],
+  "result": {
+    "item": "culturaldelights:cod_maki",
+    "count": 3
+  }
+}

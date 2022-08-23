@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "refinedstorage:crafting_monitor"
+    },
+    "title": {
+      "translate": "advancements.refinedstorage.monitoring"
+    },
+    "description": {
+      "translate": "advancements.refinedstorage.monitoring.description"
+    }
+  },
+  "parent": "refinedstorage:autocrafting",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

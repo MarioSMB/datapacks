@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"quark:redstone_randomizer","required":false}
+  ]
+}
+
