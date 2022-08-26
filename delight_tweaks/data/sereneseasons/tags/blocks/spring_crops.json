@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"culturaldelights:avocado_sapling","required":false},
+    {"id":"culturaldelights:cucumbers","required":false},
+    {"id":"farmersrespite:small_tea_bush","required":false},
+    {"id":"farmersrespite:tea_bush","required":false}
+  ]
+}

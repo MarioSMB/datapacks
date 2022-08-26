@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"farmersrespite:small_tea_bush","required":false},
+    {"id":"farmersrespite:tea_bush","required":false}
+  ]
+}

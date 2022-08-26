@@ -17,14 +17,14 @@
       "tag": "culturaldelights:pickles"
     },
     {
-      "item": "culturaldelights:raw_calamari"
+      "item": "minecraft:carrot"
     },
     {
-      "item": "culturaldelights:raw_calamari"
+      "tag": "forge:raw_fishes/cod"
     }
   ],
   "result": {
-    "item": "culturaldelights:calamari_maki",
-    "count": 2
+    "item": "culturaldelights:cod_roll",
+    "count": 3
   }
 }

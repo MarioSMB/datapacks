@@ -8,16 +8,16 @@
   "type": "farmersrespite:brewing",
   "ingredients": [
     {
-      "tag": "minecraft:leaves"
+      "item": "minecraft:melon_slice"
+    },
+    {
+      "item": "minecraft:sugar"
     }
   ],
   "result": {
-    "item": "create:builders_tea"
-  },
-  "container": {
-    "item": "farmersdelight:milk_bottle"
+    "item": "farmersdelight:melon_juice"
   },
   "experience": 0.35,
-  "brewingtime": 2400,
+  "brewingtime": 100,
   "needwater": true
 }
