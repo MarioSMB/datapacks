@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:brown_mushroom"
+      },
+      {
+        "item": "biomesoplenty:toadstool"
+      },
+      {
+        "item": "byg:wood_blewit"
+      },
+      {
+        "item": "byg:weeping_milkcap"
+      }
+    ]
+    [
+      {
+        "item": "minecraft:red_mushroom"
+      },
+      {
+        "item": "byg:imparius_mushroom"
+      },
+      {
+        "item": "biomesoplenty:glowshroom"
+      },
+      {
+        "item": "byg:green_mushroom"
+      }
+    ]
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "minecraft:mushroom_stew"
+  }
+}
