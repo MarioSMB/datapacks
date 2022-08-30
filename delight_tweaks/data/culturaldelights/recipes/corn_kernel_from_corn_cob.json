@@ -1,0 +1,17 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "culturaldelights"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "culturaldelights:corn_cob"
+    }
+  ],
+  "result": {
+    "item": "culturaldelights:corn_kernels"
+  }
+}
