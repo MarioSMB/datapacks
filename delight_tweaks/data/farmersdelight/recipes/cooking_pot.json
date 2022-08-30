@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bSb",
+    "iWi",
+    "iii"
+  ],
+  "key": {
+    "b": [
+      {
+        "item": "minecraft:brick"
+      },
+      {
+        "item": "minecraft:nether_brick"
+      },
+      {
+        "item": "byg:blue_nether_brick"
+      },
+      {
+        "item": "byg:yellow_nether_brick"
+      }
+    ],
+    "i": {
+      "tag": "forge:ingots/iron"
+    },
+    "S": {
+      "item": "minecraft:wooden_shovel"
+    },
+    "W": [
+      {
+        "item": "minecraft:water_bucket"
+      },
+      {
+        "item": "minecraft:bucket"
+      }
+    ]
+  },
+  "result": {
+    "item": "farmersdelight:cooking_pot"
+  }
+}
