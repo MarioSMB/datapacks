@@ -3,6 +3,7 @@
   "values": [
     "#forge:seeds/corn",
     "#forge:seeds/cucumber",
-    "#forge:seeds/eggplant"
+    "#forge:seeds/eggplant",
+    "#forge:seeds/white_puffball"
   ]
 }

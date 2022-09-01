@@ -7,9 +7,14 @@
   ],
   "type": "farmersdelight:cooking",
   "ingredients": [
-    {
-      "item": "minecraft:brown_mushroom"
-    },
+    [
+      {
+        "item": "minecraft:brown_mushroom"
+      },
+      {
+        "tag": "forge:crops/white_puffball"
+      }
+    ],
     {
       "item": "alexsmobs:banana_peel"
     },
