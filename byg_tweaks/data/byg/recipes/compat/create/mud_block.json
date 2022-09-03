@@ -1,0 +1,25 @@
+{
+  "conditions": [
+      {
+      "type": "forge:mod_loaded",
+      "modid": "byg"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "byg:mud_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "byg:mud_ball",
+      "count": 3
+    },
+    {
+      "item": "byg:mud_ball",
+      "chance": 0.5
+    }
+  ],
+  "processingTime": 50
+}
