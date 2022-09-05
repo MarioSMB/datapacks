@@ -12,6 +12,6 @@
     "item": "farmersrespite:green_tea"
   },
   "experience": 0.35,
-  "brewingtime": 1200,
+  "brewingtime": 100,
   "needwater": true
 }
