@@ -4,6 +4,7 @@
     {"id":"culturaldelights:avocado_sapling","required":false},
     {"id":"culturaldelights:avocado_pit","required":false},
     {"id":"culturaldelights:cucumber_seeds","required":false},
-    {"id":"farmersrespite:tea_seeds","required":false}
+    {"id":"farmersrespite:tea_seeds","required":false},
+    {"id":"supplementaries:flax_seeds","required":false}
   ]
 }
