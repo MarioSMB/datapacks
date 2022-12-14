@@ -1,9 +1,9 @@
 {
   "replace": false,
   "values": [
-    "farmersdelight:cabbage",
-    "farmersdelight:cabbage_leaf",
-    "farmersdelight:rice_panicle",
+    {"id":"farmersdelight:cabbage","required":false},
+    {"id":"farmersdelight:cabbage_leaf","required":false},
+    {"id":"farmersdelight:rice_panicle","required":false},
     {"id":"culturaldelights:avocado_sapling","required":false},
     {"id":"culturaldelights:avocado_pit","required":false},
     {"id":"culturaldelights:corn_kernels","required":false},

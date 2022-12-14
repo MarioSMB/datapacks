@@ -1,4 +1,10 @@
 {
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "bSb",
@@ -12,12 +18,6 @@
       },
       {
         "item": "minecraft:nether_brick"
-      },
-      {
-        "item": "byg:blue_nether_brick"
-      },
-      {
-        "item": "byg:yellow_nether_brick"
       }
     ],
     "i": {

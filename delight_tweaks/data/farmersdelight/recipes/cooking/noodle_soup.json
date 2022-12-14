@@ -10,14 +10,9 @@
     {
       "item": "minecraft:dried_kelp"
     },
-    [
-      {
-        "tag": "forge:raw_pork"
-      },
-      {
-        "tag": "forge:crops/white_puffball"
-      }
-    ]
+    {
+      "tag": "forge:raw_pork"
+    }
   ],
   "result": {
     "item": "farmersdelight:noodle_soup"

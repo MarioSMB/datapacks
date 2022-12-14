@@ -7,8 +7,17 @@
   "count": 8,
   "conditions": [
     {
-      "type": "quark:flag",
-      "flag": "blossom_trees"
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "quark"
+        },
+        {
+          "type": "quark:flag",
+          "flag": "blossom_trees"
+        }
+      ]
     }
   ]
 }

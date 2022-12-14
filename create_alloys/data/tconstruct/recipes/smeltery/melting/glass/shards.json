@@ -2,8 +2,17 @@
   "group": "quark:glass_shard",
   "conditions": [
     {
-      "type": "quark:flag",
-      "flag": "glass_shard"
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "quark"
+        },
+        {
+          "type": "quark:flag",
+          "flag": "glass_shard"
+        }
+      ]
     }
   ],
   "type": "tconstruct:melting",

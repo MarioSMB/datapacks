@@ -1,4 +1,19 @@
 {
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "farmersrespite"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "farmersdelight"
+        }
+      ]
+    }
+  ],
   "type": "create:filling",
   "ingredients": [
     {
@@ -12,12 +27,6 @@
   "results": [
     {
       "item": "farmersrespite:long_apple_cider"
-    }
-  ],
-  "conditions": [
-    {
-      "modid": "farmersrespite",
-      "type": "forge:mod_loaded"
     }
   ]
 }

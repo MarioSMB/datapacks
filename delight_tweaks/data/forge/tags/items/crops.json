@@ -5,7 +5,6 @@
     "#forge:crops/corn",
     "#forge:crops/cucumber",
     "#forge:crops/eggplant",
-    "#forge:crops/tea",
-    "#forge:crops/white_puffball"
+    "#forge:crops/tea"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values": [
-    "alexsdelight:cooked_loose_moose_rib",
-    "alexsmobs:cooked_moose_ribs"
+    {"id":"alexsdelight:cooked_loose_moose_rib","required":false},
+    {"id":"alexsmobs:cooked_moose_ribs","required":false}
   ]
 }

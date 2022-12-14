@@ -16,8 +16,17 @@
   ],
   "conditions": [
     {
-      "modid": "farmersrespite",
-      "type": "forge:mod_loaded"
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "farmersrespite"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "farmersdelight"
+        }
+      ]
     }
   ]
 }

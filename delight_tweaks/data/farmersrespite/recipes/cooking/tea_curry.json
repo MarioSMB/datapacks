@@ -1,4 +1,10 @@
 {
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersrespite"
+    }
+  ],
   "type": "farmersdelight:cooking",
   "ingredients": [
     {
@@ -7,14 +13,9 @@
     {
       "item": "farmersrespite:yellow_tea_leaves"
     },
-    [
-      {
-        "tag": "forge:raw_chicken"
-      },
-      {
-        "tag": "forge:crops/white_puffball"
-      }
-    ],
+    {
+      "tag": "forge:raw_chicken"
+    },
     {
       "tag": "forge:crops/cabbage"
     },

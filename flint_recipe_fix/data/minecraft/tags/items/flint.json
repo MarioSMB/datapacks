@@ -1,7 +1,6 @@
 {
   "replace": false,
   "values": [
-    "minecraft:flint",
-    "byg:therium_shard"
+    "minecraft:flint"
   ]
 }

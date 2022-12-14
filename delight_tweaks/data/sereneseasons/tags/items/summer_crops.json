@@ -1,8 +1,8 @@
 {
   "replace": false,
   "values": [
-    "farmersdelight:rice_panicle",
-    "farmersdelight:tomato",
+    {"id":"farmersdelight:rice_panicle","required":false},
+    {"id":"farmersdelight:tomato","required":false},
     {"id":"culturaldelights:avocado_sapling","required":false},
     {"id":"culturaldelights:avocado_pit","required":false},
     {"id":"culturaldelights:cucumber_seeds","required":false},

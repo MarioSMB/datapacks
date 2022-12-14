@@ -1,8 +1,17 @@
 {
   "conditions": [
     {
-      "type": "quark:flag",
-      "flag": "azalea_wood"
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "quark"
+        },
+        {
+          "type": "quark:flag",
+          "flag": "azalea_wood"
+        }
+      ]
     }
   ],
   "type": "farmersdelight:cutting",

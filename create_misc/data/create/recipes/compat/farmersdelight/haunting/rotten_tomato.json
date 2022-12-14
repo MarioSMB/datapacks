@@ -2,7 +2,7 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "alexsmobs"
+      "modid": "farmersdelight"
     }
   ],
   "type": "create:haunting",

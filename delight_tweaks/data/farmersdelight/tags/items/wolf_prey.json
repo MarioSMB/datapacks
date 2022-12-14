@@ -1,6 +1,6 @@
 {
   "replace": false,
   "values": [
-    "alexsmobs:kangaroo_meat"
+    {"id":"alexsmobs:kangaroo_meat","required":false}
   ]
 }

@@ -22,8 +22,17 @@
   "cookingtime": 200,
   "conditions": [
     {
-      "type": "supplementaries:flag",
-      "flag": "pancake"
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "supplementaries"
+        },
+        {
+          "type": "supplementaries:flag",
+          "flag": "pancake"
+        }
+      ]
     }
   ]
 }
