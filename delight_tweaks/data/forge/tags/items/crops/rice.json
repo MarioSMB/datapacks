@@ -1,6 +1,6 @@
 {
   "replace": false,
   "values": [
-    "farmersdelight:rice_panicle"
+    {"id":"farmersdelight:rice_panicle","required":false}
   ]
 }

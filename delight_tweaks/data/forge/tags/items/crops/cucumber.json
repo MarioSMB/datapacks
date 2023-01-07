@@ -1,6 +1,6 @@
 {
   "replace": false,
   "values": [
-    "culturaldelights:cucumber"
+    {"id":"culturaldelights:cucumber","required":false}
   ]
 }

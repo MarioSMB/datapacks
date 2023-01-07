@@ -1,8 +1,8 @@
 {
   "replace": false,
   "values": [
-    "farmersrespite:black_tea_leaves",
-    "farmersrespite:green_tea_leaves",
-    "farmersrespite:yellow_tea_leaves"
+    {"id":"farmersrespite:black_tea_leaves","required":false},
+    {"id":"farmersrespite:green_tea_leaves","required":false},
+    {"id":"farmersrespite:yellow_tea_leaves","required":false}
   ]
 }

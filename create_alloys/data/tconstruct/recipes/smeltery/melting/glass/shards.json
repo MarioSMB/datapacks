@@ -9,6 +9,10 @@
           "modid": "quark"
         },
         {
+          "type": "forge:mod_loaded",
+          "modid": "tconstruct"
+        },
+        {
           "type": "quark:flag",
           "flag": "glass_shard"
         }

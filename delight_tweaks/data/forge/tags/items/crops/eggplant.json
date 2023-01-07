@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values": [
-    "culturaldelights:eggplant",
-    "culturaldelights:white_eggplant"
+    {"id":"culturaldelights:eggplant","required":false},
+    {"id":"culturaldelights:white_eggplant","required":false}
   ]
 }
