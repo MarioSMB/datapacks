@@ -1,0 +1,29 @@
+{
+    "display": {
+        "title": {
+            "text": "Sweet Dreams",
+            "color": "green"
+        },
+        "description": {
+            "text": "Find a Mushroom Village"
+        },
+        "icon": {
+            "item": "minecraft:crimson_fence"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+    "requirements": [
+        [
+            "location0"
+        ]
+    ],
+    "parent": "dungeons_arise:find_mushroom_house"
+}

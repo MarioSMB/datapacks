@@ -1,0 +1,29 @@
+{
+    "display": {
+        "title": {
+            "text": "Wild Tales",
+            "color": "dark_purple"
+        },
+        "description": {
+            "text": "Find an Illager Fort"
+        },
+        "icon": {
+            "item": "minecraft:snowball"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+    "requirements": [
+        [
+            "location0"
+        ]
+    ],
+    "parent": "dungeons_arise:find_illager_campsite"
+}

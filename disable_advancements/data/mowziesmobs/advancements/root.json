@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "mowziesmobs:logo"
+    },
+    "title": {
+      "translate": "advancements.mowziesmobs.root.title"
+    },
+    "description": {
+      "translate": "advancements.mowziesmobs.root.description"
+    },
+    "background": "minecraft:textures/block/stone.png",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
