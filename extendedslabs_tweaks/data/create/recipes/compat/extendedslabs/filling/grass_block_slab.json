@@ -1,0 +1,24 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"extendedslabs"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "extendedslabs:dirt_slab"
+    },
+    {
+      "fluid": "minecraft:water",
+      "nbt": {},
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "extendedslabs:grass_block_slab"
+    }
+  ]
+}

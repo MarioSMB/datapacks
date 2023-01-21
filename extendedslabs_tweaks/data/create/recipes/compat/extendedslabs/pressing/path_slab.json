@@ -1,0 +1,24 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"extendedslabs"
+    }
+  ],
+  "type": "create:pressing",
+  "ingredients": [
+    [
+      {
+        "item": "extendedslabs:grass_block_slab"
+      },
+      {
+        "item": "extendedslabs:dirt_slab"
+      }
+    ]
+  ],
+  "results": [
+    {
+      "item": "extendedslabs:dirt_path_slab"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value":
+        {
+          "type": "forge:mod_loaded",
+          "modid": "minecraft"
+        }
+    }
+  ],
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:air"
+        }
+    },
+    "result": {}
+}
