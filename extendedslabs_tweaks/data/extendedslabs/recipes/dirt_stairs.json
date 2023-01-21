@@ -1,23 +1,22 @@
 {
-  "conditions":[
+  "conditions": [
     {
-      "type":"forge:mod_loaded",
-      "modid":"extendedslabs"
+      "type": "forge:not",
+      "value":
+        {
+          "type": "forge:mod_loaded",
+          "modid": "minecraft"
+        }
     }
   ],
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "#  ",
-    "## ",
-    "###"
-  ],
-  "key": {
-    "#": {
-      "item": "minecraft:dirt"
-    }
-  },
-  "result": {
-    "item": "extendedslabs:dirt_stairs",
-    "count": 4
-  }
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:air"
+        }
+    },
+    "result": {}
 }

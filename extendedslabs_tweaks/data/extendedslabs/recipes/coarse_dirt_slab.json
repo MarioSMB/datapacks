@@ -7,8 +7,6 @@
   ],
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "#  ",
-    "## ",
     "###"
   ],
   "key": {
@@ -18,6 +16,6 @@
   },
   "result": {
     "item": "extendedslabs:coarse_dirt_slab",
-    "count": 4
+    "count": 6
   }
 }
