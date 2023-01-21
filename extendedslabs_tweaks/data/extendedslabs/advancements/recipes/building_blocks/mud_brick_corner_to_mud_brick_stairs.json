@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "extendedslabs:mud_brick_corner_to_mud_brick_stairs"
+    ]
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

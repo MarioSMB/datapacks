@@ -1,0 +1,17 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"darkerdepths"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extendedslabs:vertical_aridrock_brick_slab"
+    }
+  ],
+  "result": {
+    "item": "darkerdepths:aridrock_bricks_slab"
+  }
+}

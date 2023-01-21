@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:lumiere_vertical_slab_from_lumiere_block_stonecutting"
+    ]
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

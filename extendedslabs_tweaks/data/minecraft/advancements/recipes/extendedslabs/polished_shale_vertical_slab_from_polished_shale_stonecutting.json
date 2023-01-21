@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:polished_shale_vertical_slab_from_polished_shale_stonecutting"
+    ]
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

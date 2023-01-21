@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "extendedslabs:aridrock_bricks_stairs_to_aridrock_brick_corner"
+    ]
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

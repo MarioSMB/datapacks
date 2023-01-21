@@ -1,0 +1,14 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"tconstruct"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "tconstruct:mud_bricks"
+  },
+  "result": "tconstruct:mud_bricks_stairs",
+  "count": 1
+}

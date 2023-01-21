@@ -19,16 +19,13 @@
     "experience": 100
   },
   "criteria": {
-    "in_tinkers_workshop": {
-      "trigger": "minecraft:location",
-      "conditions": {
-        "feature": "idas:tinkers_workshop"
-      }
+    "impossible": {
+      "trigger": "minecraft:impossible"
     }
   },
   "requirements": [
     [
-      "in_tinkers_workshop"
+      "impossible"
     ]
   ]
 }

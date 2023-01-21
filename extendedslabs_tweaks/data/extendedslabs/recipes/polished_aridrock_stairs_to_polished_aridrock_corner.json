@@ -1,0 +1,17 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"darkerdepths"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "darkerdepths:polished_aridrock_stairs"
+    }
+  ],
+  "result": {
+    "item": "extendedslabs:polished_aridrock_corner"
+  }
+}

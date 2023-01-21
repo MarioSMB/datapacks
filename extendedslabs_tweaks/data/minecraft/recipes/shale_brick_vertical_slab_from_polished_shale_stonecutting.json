@@ -1,0 +1,14 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"darkerdepths"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "darkerdepths:polished_shale"
+  },
+  "result": "extendedslabs:vertical_shale_brick_slab",
+  "count": 2
+}

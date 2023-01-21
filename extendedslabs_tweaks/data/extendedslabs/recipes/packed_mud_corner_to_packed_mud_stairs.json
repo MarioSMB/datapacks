@@ -1,0 +1,17 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"wildbackport"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extendedslabs:packed_mud_corner"
+    }
+  ],
+  "result": {
+    "item": "extendedslabs:packed_mud_stairs"
+  }
+}

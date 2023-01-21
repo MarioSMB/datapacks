@@ -14,13 +14,18 @@
         "announce_to_chat": true
     },
 	"parent": "biomesoplenty:biomesoplenty/root",
+	"rewards": {
+		"experience": 1000,
+		"loot": ["biomesoplenty:advancements/all_biomes"]
+	},
   "criteria": {
     "impossible": {
       "trigger": "minecraft:impossible"
     }
   },
-	"rewards": {
-		"experience": 1000,
-		"loot": ["biomesoplenty:advancements/all_biomes"]
-	}
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
 }

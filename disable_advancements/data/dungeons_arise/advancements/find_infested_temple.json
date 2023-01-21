@@ -22,7 +22,7 @@
   },
     "requirements": [
         [
-            "location0"
+            "impossible"
         ]
     ],
     "parent": "dungeons_arise:find_abandoned_temple"

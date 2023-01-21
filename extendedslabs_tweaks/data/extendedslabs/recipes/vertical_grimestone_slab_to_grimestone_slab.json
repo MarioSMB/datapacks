@@ -1,0 +1,17 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"darkerdepths"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extendedslabs:vertical_grimestone_slab"
+    }
+  ],
+  "result": {
+    "item": "darkerdepths:grimestone_slab"
+  }
+}

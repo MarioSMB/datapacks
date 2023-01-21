@@ -26,19 +26,7 @@
   },
   "requirements": [
     [
-      "minecraft:nether_wastes"
-    ],
-    [
-      "minecraft:soul_sand_valley"
-    ],
-    [
-      "minecraft:warped_forest"
-    ],
-    [
-      "minecraft:crimson_forest"
-    ],
-    [
-      "minecraft:basalt_deltas"
+      "impossible"
     ]
   ]
 }

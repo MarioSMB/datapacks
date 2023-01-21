@@ -1,0 +1,17 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"galosphere"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "galosphere:lumiere_slab"
+    }
+  ],
+  "result": {
+    "item": "extendedslabs:vertical_lumiere_slab"
+  }
+}

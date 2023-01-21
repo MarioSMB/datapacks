@@ -1,0 +1,14 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"galosphere"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "galosphere:amethyst_bricks"
+  },
+  "result": "extendedslabs:vertical_amethyst_brick_slab",
+  "count": 2
+}

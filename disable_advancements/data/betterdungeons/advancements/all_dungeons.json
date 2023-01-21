@@ -21,16 +21,7 @@
   },
   "requirements": [
     [
-      "in_better_monster_room"
-    ],
-    [
-      "in_better_zombie_dungeon"
-    ],
-    [
-      "in_better_skeleton_dungeon"
-    ],
-    [
-      "in_better_spider_dungeon"
+      "impossible"
     ]
   ]
 }

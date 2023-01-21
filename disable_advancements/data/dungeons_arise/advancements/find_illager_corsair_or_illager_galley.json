@@ -23,8 +23,7 @@
   },
   "requirements": [
     [
-      "location0",
-      "location1"
+      "impossible"
     ]
   ]
 }

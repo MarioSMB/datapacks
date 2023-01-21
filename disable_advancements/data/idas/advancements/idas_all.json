@@ -25,31 +25,7 @@
   },
   "requirements": [
     [
-      "in_labyrinth"
-    ],
-    [
-      "in_pillager_fortress"
-    ],
-    [
-      "in_castle"
-    ],
-    [
-      "in_abandonedhouse"
-    ],
-    [
-      "in_brickhouse"
-    ],
-    [
-      "in_wizardtower"
-    ],
-    [
-      "in_enchantingtower"
-    ],
-    [
-      "in_hauntedhouse"
-    ],
-    [
-      "in_cottage"
+      "impossible"
     ]
   ]
 }

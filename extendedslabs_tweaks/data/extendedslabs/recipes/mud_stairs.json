@@ -1,0 +1,23 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"wildbackport"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "wildbackport:mud"
+    }
+  },
+  "result": {
+    "item": "extendedslabs:mud_stairs",
+    "count": 4
+  }
+}

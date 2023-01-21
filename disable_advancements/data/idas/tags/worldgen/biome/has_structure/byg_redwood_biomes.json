@@ -1,0 +1,6 @@
+{
+  "replace": true,
+  "values": [
+    {"id":"byg:redwood_thicket","required":false}
+  ]
+}

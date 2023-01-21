@@ -1,0 +1,14 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"galosphere"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "galosphere:smooth_amethyst"
+  },
+  "result": "extendedslabs:vertical_smooth_amethyst_slab",
+  "count": 2
+}

@@ -1,0 +1,23 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"darkerdepths"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "darkerdepths:polished_grimestone"
+    }
+  },
+  "result": {
+    "item": "extendedslabs:vertical_polished_grimestone_slab",
+    "count": 6
+  }
+}

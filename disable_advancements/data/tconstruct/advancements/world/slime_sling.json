@@ -23,16 +23,7 @@
   },
   "requirements": [
     [
-      "earth"
-    ],
-    [
-      "sky"
-    ],
-    [
-      "ichor"
-    ],
-    [
-      "ender"
+      "impossible"
     ]
   ]
 }

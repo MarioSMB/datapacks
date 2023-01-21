@@ -1,0 +1,14 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"galosphere"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "darkerdepths:aridrock_bricks"
+  },
+  "result": "extendedslabs:vertical_aridrock_brick_slab",
+  "count": 2
+}

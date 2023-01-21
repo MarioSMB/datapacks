@@ -1,0 +1,17 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"galosphere"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extendedslabs:vertical_allurite_slab"
+    }
+  ],
+  "result": {
+    "item": "galosphere:allurite_slab"
+  }
+}
