@@ -245,7 +245,7 @@
               "count": {
                 "type": "minecraft:uniform",
                 "min": 1,
-                "max": 3
+                "max": 1
               }
             }
           ]

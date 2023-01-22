@@ -1,0 +1,23 @@
+{
+  "parent": "tconstruct:world/tinkers_gadgetry",
+  "display": {
+    "icon": {
+      "item": "tconstruct:ichor_slime_ball"
+    },
+    "title": {
+      "translate": "advancements.tconstruct.world.slime_collector.title"
+    },
+    "description": {
+      "translate": "advancements.tconstruct.world.slime_collector.description"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "tconstruct"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "oreganized"
+        }
+      ]
+    }
+  ],
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "type": "forge:nbt",
+    "item": "oreganized:silver_mirror",
+    "count": 1
+  },
+  "result": {
+    "fluid": "tconstruct:molten_gold",
+    "amount": 450
+  },
+  "temperature": 700,
+  "time": 160,
+  "byproducts": [
+    {
+      "fluid": "tconstruct:molten_silver",
+      "amount": 180
+    }
+  ]
+}

@@ -11,9 +11,9 @@
       "translate": "farmersdelight.advancement.plant_all_crops.desc"
     },
     "frame": "challenge",
-    "show_toast": true,
-    "announce_to_chat": true,
-    "hidden": false
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
   },
   "rewards": {
     "experience": 100

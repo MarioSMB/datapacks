@@ -168,20 +168,6 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 2,
-          "name": "minecraft:amethyst_shard",
-          "functions": [
-            {
-              "function": "minecraft:limit_count",
-              "limit": {
-                "min": 1,
-                "max": 5
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
           "weight": 1,
           "name": "minecraft:golden_apple",
           "functions": [
@@ -230,8 +216,8 @@
             {
               "function": "minecraft:limit_count",
               "limit": {
-                "min": 2,
-                "max": 5
+                "min": 1,
+                "max": 1
               }
             }
           ]
