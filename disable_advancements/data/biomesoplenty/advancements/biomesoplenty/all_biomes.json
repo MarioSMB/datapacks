@@ -10,8 +10,8 @@
             "translate": "advancements.biomesoplenty.all_biomes.description"
         },
         "frame": "challenge",
-		"show_toast": true,
-        "announce_to_chat": true
+		"show_toast": false,
+        "announce_to_chat": false
     },
 	"parent": "biomesoplenty:biomesoplenty/root",
 	"rewards": {

@@ -147,8 +147,8 @@
             {
               "function": "minecraft:limit_count",
               "limit": {
-                "min": 2,
-                "max": 5
+                "min": 1,
+                "max": 3
               }
             }
           ]
@@ -161,8 +161,8 @@
             {
               "function": "minecraft:limit_count",
               "limit": {
-                "min": 2,
-                "max": 5
+                "min": 1,
+                "max": 2
               }
             }
           ]
@@ -175,8 +175,8 @@
             {
               "function": "minecraft:limit_count",
               "limit": {
-                "min": 2,
-                "max": 7
+                "min": 1,
+                "max": 2
               }
             }
           ]
@@ -189,8 +189,8 @@
             {
               "function": "minecraft:limit_count",
               "limit": {
-                "min": 3,
-                "max": 10
+                "min": 1,
+                "max": 5
               }
             }
           ]
@@ -203,8 +203,8 @@
             {
               "function": "minecraft:limit_count",
               "limit": {
-                "min": 3,
-                "max": 10
+                "min": 1,
+                "max": 4
               }
             }
           ]
@@ -217,8 +217,8 @@
             {
               "function": "minecraft:limit_count",
               "limit": {
-                "min": 3,
-                "max": 10
+                "min": 1,
+                "max": 4
               }
             }
           ]
@@ -231,8 +231,8 @@
             {
               "function": "minecraft:limit_count",
               "limit": {
-                "min": 3,
-                "max": 7
+                "min": 1,
+                "max": 3
               }
             }
           ]
@@ -245,8 +245,8 @@
             {
               "function": "minecraft:limit_count",
               "limit": {
-                "min": 3,
-                "max": 5
+                "min": 1,
+                "max": 3
               }
             }
           ]
