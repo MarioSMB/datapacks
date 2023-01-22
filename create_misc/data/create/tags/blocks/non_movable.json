@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "minecraft:spawner"
+    "minecraft:spawner",
+    {"id":"quark:monster_box","required":false}
   ]
 }
