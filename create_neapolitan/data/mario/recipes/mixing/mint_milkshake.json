@@ -1,0 +1,51 @@
+{
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "cofh_core"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "neapolitan"
+        }
+      ]
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "neapolitan:mint_leaves"
+    },
+    {
+      "fluid": "cofh_core:potion",
+      "nbt": {
+        "CustomPotionEffects": [],
+        "CustomPotionColor": 15656848,
+        "display": {
+          "Name": {
+            "text": "Vanilla Milkshake"
+          }
+        }
+      },
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "fluid": "cofh_core:potion",
+      "nbt": {
+        "CustomPotionEffects": [],
+        "CustomPotionColor": 9633551,
+        "display": {
+          "Name": {
+            "text": "Mint Milkshake"
+          }
+        }
+      },
+      "amount": 1000
+    }
+  ]
+}

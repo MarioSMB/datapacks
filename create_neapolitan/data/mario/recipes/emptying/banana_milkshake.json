@@ -1,0 +1,41 @@
+{
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "cofh_core"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "neapolitan"
+        }
+      ]
+    }
+  ],
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "neapolitan:banana_milkshake"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "fluid": "cofh_core:potion",
+      "nbt": {
+        "CustomPotionEffects": [],
+        "CustomPotionColor": 15662955,
+        "display": {
+          "Name": {
+            "text": "Banana Milkshake"
+          }
+        }
+      },
+      "amount": 250
+    }
+  ]
+}

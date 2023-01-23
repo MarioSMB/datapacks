@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "neapolitan"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "neapolitan:ice_cubes"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "neapolitan:strawberries"
+    },
+    {
+      "fluidTag": "forge:milk",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "neapolitan:strawberry_ice_cream"
+    }
+  ]
+}

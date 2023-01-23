@@ -1,0 +1,51 @@
+{
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "cofh_core"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "neapolitan"
+        }
+      ]
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create:bar_of_chocolate"
+    },
+    {
+      "fluid": "cofh_core:potion",
+      "nbt": {
+        "CustomPotionEffects": [],
+        "CustomPotionColor": 15656848,
+        "display": {
+          "Name": {
+            "text": "Vanilla Milkshake"
+          }
+        }
+      },
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "fluid": "cofh_core:potion",
+      "nbt": {
+        "CustomPotionEffects": [],
+        "CustomPotionColor": 12012289,
+        "display": {
+          "Name": {
+            "text": "Chocolate Milkshake"
+          }
+        }
+      },
+      "amount": 1000
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "neapolitan"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "neapolitan:ice_cubes"
+    },
+    {
+      "fluid": "create:chocolate",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "neapolitan:chocolate_ice_cream"
+    }
+  ]
+}
