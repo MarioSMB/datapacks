@@ -5,7 +5,7 @@
       "values": [
         {
           "type": "forge:mod_loaded",
-          "modid": "cofh_core"
+          "modid": "kubejs"
         },
         {
           "type": "forge:mod_loaded",
@@ -25,16 +25,8 @@
       "item": "minecraft:glass_bottle"
     },
     {
-      "fluid": "cofh_core:potion",
-      "nbt": {
-        "CustomPotionEffects": [],
-        "CustomPotionColor": 9633551,
-        "display": {
-          "Name": {
-            "text": "Mint Milkshake"
-          }
-        }
-      },
+      "fluid": "kubejs:mint_milkshake",
+      "nbt": {},
       "amount": 250
     }
   ]

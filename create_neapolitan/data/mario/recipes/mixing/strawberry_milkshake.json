@@ -5,7 +5,7 @@
       "values": [
         {
           "type": "forge:mod_loaded",
-          "modid": "cofh_core"
+          "modid": "kubejs"
         },
         {
           "type": "forge:mod_loaded",
@@ -20,31 +20,15 @@
       "item": "neapolitan:strawberries"
     },
     {
-      "fluid": "cofh_core:potion",
-      "nbt": {
-        "CustomPotionEffects": [],
-        "CustomPotionColor": 15656848,
-        "display": {
-          "Name": {
-            "text": "Vanilla Milkshake"
-          }
-        }
-      },
+      "fluid": "kubejs:vanilla_milkshake",
+      "nbt": {},
       "amount": 1000
     }
   ],
   "results": [
     {
-      "fluid": "cofh_core:potion",
-      "nbt": {
-        "CustomPotionEffects": [],
-        "CustomPotionColor": 15616448,
-        "display": {
-          "Name": {
-            "text": "Strawberry Milkshake"
-          }
-        }
-      },
+      "fluid": "kubejs:strawberry_milkshake",
+      "nbt": {},
       "amount": 1000
     }
   ]

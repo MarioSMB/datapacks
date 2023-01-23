@@ -14,21 +14,24 @@
       ]
     }
   ],
-  "type": "create:filling",
+  "type": "create:mixing",
   "ingredients": [
     {
-      "item": "minecraft:glass_bottle"
+      "fluid": "create:chocolate",
+      "nbt": {},
+      "amount": 250
     },
     {
       "fluid": "kubejs:vanilla_milkshake",
       "nbt": {},
-      "amount": 250
+      "amount": 1000
     }
   ],
   "results": [
     {
-      "item": "neapolitan:vanilla_milkshake",
-      "count": 1
+      "fluid": "kubejs:chocolate_milkshake",
+      "nbt": {},
+      "amount": 1000
     }
   ]
 }
