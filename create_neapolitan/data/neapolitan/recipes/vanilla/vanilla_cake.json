@@ -19,7 +19,7 @@
       "item": "minecraft:sugar"
     },
     "c": {
-      "item": "create:bar_of_chocolate"
+      "item": "neapolitan:dried_vanilla_pods"
     },
     "e": {
       "tag": "forge:eggs"
@@ -29,6 +29,6 @@
     }
   },
   "result": {
-    "item": "neapolitan:chocolate_cake"
+    "item": "neapolitan:vanilla_cake"
   }
 }

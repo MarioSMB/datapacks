@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " mm",
+    "imm",
+    "-i "
+  ],
+  "key": {
+    "m": {
+      "item": "minecraft:melon_slice"
+    },
+    "i": {
+      "item": "minecraft:snowball"
+    },
+    "-": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "farmersdelight:melon_popsicle"
+  },
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "farmersdelight"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "neapolitan"
+        }
+      ]
+    }
+  ]
+}

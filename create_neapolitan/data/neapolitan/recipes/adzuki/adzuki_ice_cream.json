@@ -5,28 +5,26 @@
       "modid": "neapolitan"
     }
   ],
-  "type": "create:mixing",
+  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "minecraft:bowl"
     },
     {
-      "item": "neapolitan:strawberries"
+      "item": "neapolitan:roasted_adzuki_beans"
     },
     {
-      "item": "neapolitan:dried_vanilla_pods"
+      "tag": "forge:milk"
     },
     {
       "item": "minecraft:snowball"
     },
     {
-      "fluid": "create:chocolate",
-      "amount": 250
+      "item": "minecraft:sugar"
     }
   ],
-  "results": [
-    {
-      "item": "neapolitan:neapolitan_ice_cream"
-    }
-  ]
+  "result": {
+    "item": "neapolitan:adzuki_ice_cream",
+    "count": 1
+  }
 }

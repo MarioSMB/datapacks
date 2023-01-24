@@ -12,8 +12,8 @@
       "translate": "advancements.adventure.kill_all_mobs.description"
     },
     "frame": "challenge",
-    "show_toast": true,
-    "announce_to_chat": true,
+    "show_toast": false,
+    "announce_to_chat": false,
     "hidden": true
   },
   "rewards": {

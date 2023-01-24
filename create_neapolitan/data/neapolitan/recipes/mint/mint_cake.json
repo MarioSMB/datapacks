@@ -19,7 +19,7 @@
       "item": "minecraft:sugar"
     },
     "c": {
-      "item": "create:bar_of_chocolate"
+      "item": "neapolitan:mint_leaves"
     },
     "e": {
       "tag": "forge:eggs"
@@ -29,6 +29,6 @@
     }
   },
   "result": {
-    "item": "neapolitan:chocolate_cake"
+    "item": "neapolitan:mint_cake"
   }
 }

@@ -1,0 +1,43 @@
+{
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "brewinandchewin"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "farmersdelight"
+        }
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "fff",
+    "mtp",
+    " w "
+  ],
+  "key": {
+    "w": {
+      "tag": "forge:dough"
+    },
+    "m": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "t": {
+      "item": "farmersdelight:tomato"
+    },
+    "p": {
+      "item": "farmersdelight:beef_patty"
+    },
+    "f": {
+      "item": "brewinandchewin:flaxen_cheese_wedge"
+    }
+  },
+  "result": {
+    "item": "brewinandchewin:pizza"
+  }
+}

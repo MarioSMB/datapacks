@@ -1,0 +1,31 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "neapolitan:adzuki_beans"
+    },
+    {
+      "tag": "forge:fruits/banana"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "farmersdelight:pumpkin_slice"
+    }
+  ],
+  "result": {
+    "item": "neapolitan:adzuki_curry"
+  },
+  "experience": 0.35,
+  "cookingtime": 200,
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "neapolitan"
+    }
+  ]
+}
