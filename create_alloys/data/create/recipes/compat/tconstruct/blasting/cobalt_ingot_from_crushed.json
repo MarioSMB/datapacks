@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "create"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "kubejs"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "tconstruct"
+        }
+      ]
+    }
+  ],
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "kubejs:crushed_cobalt_ore"
+  },
+  "result": "tconstruct:cobalt_ingot",
+  "experience": 0.1,
+  "cookingtime": 100
+}
