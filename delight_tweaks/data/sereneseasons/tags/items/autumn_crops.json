@@ -7,6 +7,7 @@
     {"id":"culturaldelights:avocado_sapling","required":false},
     {"id":"culturaldelights:avocado_pit","required":false},
     {"id":"culturaldelights:corn_kernels","required":false},
-    {"id":"farmersrespite:tea_seeds","required":false}
+    {"id":"farmersrespite:tea_seeds","required":false},
+    {"id":"atmospheric:foul_berry_pips","required":false}
   ]
 }

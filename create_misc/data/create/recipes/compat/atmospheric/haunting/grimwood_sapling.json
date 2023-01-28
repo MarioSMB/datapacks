@@ -1,0 +1,19 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "atmospheric"
+    }
+  ],
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "tag": "atmospheric:rosewood_sapling"
+    }
+  ],
+  "results": [
+    {
+      "item": "atmospheric:grimwood_sapling"
+    }
+  ]
+}

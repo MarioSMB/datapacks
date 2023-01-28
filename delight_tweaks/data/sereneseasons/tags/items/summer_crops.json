@@ -8,6 +8,8 @@
     {"id":"culturaldelights:cucumber_seeds","required":false},
     {"id":"culturaldelights:corn_kernels","required":false},
     {"id":"culturaldelights:eggplant_seeds","required":false},
-    {"id":"farmersrespite:tea_seeds","required":false}
+    {"id":"farmersrespite:tea_seeds","required":false},
+    {"id":"atmospheric:aloe_kernels","required":false},
+    {"id":"atmospheric:passion_vine","required":false}
   ]
 }

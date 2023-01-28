@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "tconstruct:greenheart_logs"
+  },
+  "result": "tconstruct:greenheart_trapdoor",
+  "count": 1,
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"tconstruct"
+    }
+  ]
+}

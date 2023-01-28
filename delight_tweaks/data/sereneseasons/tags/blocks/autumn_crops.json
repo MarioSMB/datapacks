@@ -5,6 +5,9 @@
     {"id":"culturaldelights:corn","required":false},
     {"id":"culturaldelights:corn_upper","required":false},
     {"id":"farmersrespite:small_tea_bush","required":false},
-    {"id":"farmersrespite:tea_bush","required":false}
+    {"id":"farmersrespite:tea_bush","required":false},
+    {"id":"atmospheric:foul_berry_bush_pips","required":false},
+    {"id":"atmospheric:foul_berry_bush","required":false},
+    {"id":"atmospheric:tall_foul_berry_bush","required":false}
   ]
 }

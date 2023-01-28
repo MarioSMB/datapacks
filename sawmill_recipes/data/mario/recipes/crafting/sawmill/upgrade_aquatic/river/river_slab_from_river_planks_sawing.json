@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "upgrade_aquatic:river_planks"
+  },
+  "result": "upgrade_aquatic:river_slab",
+  "count": 2,
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"upgrade_aquatic"
+    }
+  ]
+}

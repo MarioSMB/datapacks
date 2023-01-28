@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "upgrade_aquatic"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "kubejs"
+        }
+      ]
+    }
+  ],
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "upgrade_aquatic:mulberry_pie"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  },
+  "result": [
+    {
+      "item": "kubejs:mulberry_pie_slice",
+      "count": 4
+    }
+  ]
+}

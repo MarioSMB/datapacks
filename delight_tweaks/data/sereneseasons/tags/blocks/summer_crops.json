@@ -7,6 +7,10 @@
     {"id":"culturaldelights:eggplants","required":false},
     {"id":"culturaldelights:cucumbers","required":false},
     {"id":"farmersrespite:small_tea_bush","required":false},
-    {"id":"farmersrespite:tea_bush","required":false}
+    {"id":"farmersrespite:tea_bush","required":false},
+    {"id":"atmospheric:aloe_vera","required":false},
+    {"id":"atmospheric:tall_aloe_vera","required":false},
+    {"id":"atmospheric:barrel_cactus","required":false},
+    {"id":"atmospheric:passion_vine","required":false}
   ]
 }

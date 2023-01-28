@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "atmospheric:rosewood_logs"
+  },
+  "result": "atmospheric:rosewood_button",
+  "count": 4,
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"atmospheric"
+    }
+  ]
+}

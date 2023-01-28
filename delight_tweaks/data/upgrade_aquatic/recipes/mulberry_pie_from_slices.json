@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "upgrade_aquatic"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "kubejs"
+        }
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "kubejs:mulberry_pie_slice"
+    }
+  },
+  "result": {
+    "item": "upgrade_aquatic:mulberry_pie"
+  }
+}

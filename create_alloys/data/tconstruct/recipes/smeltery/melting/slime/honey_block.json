@@ -1,0 +1,27 @@
+{
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "create"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "tconstruct"
+        }
+      ]
+    }
+  ],
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "minecraft:honey_block"
+  },
+  "result": {
+    "fluid": "create:honey",
+    "amount": 1000
+  },
+  "temperature": 1,
+  "time": 94
+}
