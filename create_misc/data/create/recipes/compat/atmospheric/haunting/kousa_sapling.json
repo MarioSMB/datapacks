@@ -8,7 +8,7 @@
   "type": "create:haunting",
   "ingredients": [
     {
-      "tag": "atmospheric:yucca_sapling"
+      "item": "atmospheric:yucca_sapling"
     }
   ],
   "results": [
