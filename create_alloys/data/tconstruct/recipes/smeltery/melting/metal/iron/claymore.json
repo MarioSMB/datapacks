@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "simplyswords"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "tconstruct"
+        }
+      ]
+    }
+  ],
+  "type": "tconstruct:damagable_melting",
+  "ingredient": [
+    {
+      "item": "simplyswords:iron_claymore"
+    },
+    {
+      "item": "simplyswords:iron_greathammer"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_iron",
+    "amount": 540,
+    "unit_size": 10
+  },
+  "temperature": 800,
+  "time": 124
+}

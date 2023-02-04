@@ -1,0 +1,40 @@
+{
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "simplyswords"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "tconstruct"
+        }
+      ]
+    }
+  ],
+  "type": "tconstruct:damagable_melting",
+  "ingredient": [
+    {
+      "item": "simplyswords:netherite_claymore"
+    },
+    {
+      "item": "simplyswords:netherite_greathammer"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_netherite",
+    "amount": 90,
+    "unit_size": 10
+  },
+  "temperature": 1250,
+  "time": 74,
+  "byproducts": [
+    {
+      "fluid": "tconstruct:molten_diamond",
+      "amount": 600,
+      "unit_size": 25
+    }
+  ]
+}

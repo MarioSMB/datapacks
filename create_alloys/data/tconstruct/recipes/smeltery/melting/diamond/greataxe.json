@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "simplyswords"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "tconstruct"
+        }
+      ]
+    }
+  ],
+  "type": "tconstruct:damagable_melting",
+  "ingredient": [
+    {
+      "item": "simplyswords:diamond_greataxe"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_diamond",
+    "amount": 500,
+    "unit_size": 25
+  },
+  "temperature": 1450,
+  "time": 137
+}

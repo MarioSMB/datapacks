@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "simplyswords"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "tconstruct"
+        }
+      ]
+    }
+  ],
+  "type": "tconstruct:damagable_melting",
+  "ingredient": [
+    {
+      "item": "simplyswords:iron_sai"
+    },
+    {
+      "item": "simplyswords:iron_spear"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_iron",
+    "amount": 90,
+    "unit_size": 10
+  },
+  "temperature": 800,
+  "time": 60
+}
