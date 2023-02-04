@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"quark:polished_calcite","required":false},
+    {"id":"quark:calcite_stairs","required":false},
+    {"id":"quark:polished_calcite_stairs","required":false},
+    {"id":"quark:calcite_bricks","required":false},
+    {"id":"quark:calcite_bricks_stairs","required":false},
+    {"id":"quark:chiseled_calcite_bricks","required":false},
+    {"id":"quark:calcite_pillar","required":false},
+    {"id":"quark:calcite_bricks_wall","required":false},
+    {"id":"quark:calcite_wall","required":false}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"quark:polished_tuff","required":false},
+    {"id":"quark:polished_tuff_stairs","required":false},
+    {"id":"quark:tuff_bricks","required":false},
+    {"id":"quark:tuff_bricks_stairs","required":false},
+    {"id":"quark:chiseled_tuff_bricks","required":false},
+    {"id":"quark:tuff_pillar","required":false},
+    {"id":"quark:tuff_bricks_wall","required":false},
+    {"id":"quark:tuff_wall","required":false}
+  ]
+}

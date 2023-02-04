@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"quark:andesite_bricks","required":false},
+    {"id":"quark:andesite_bricks_stairs","required":false},
+    {"id":"quark:chiseled_andesite_bricks","required":false},
+    {"id":"quark:andesite_pillar","required":false},
+    {"id":"quark:andesite_bricks_wall","required":false}
+  ]
+}
