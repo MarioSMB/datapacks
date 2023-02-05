@@ -1,0 +1,11 @@
+{
+  "conditions": [
+    {
+      "profession": "mca:miner",
+      "satisfaction_boost": 20
+    }
+  ],
+  "items": {
+    "tconstruct:pickaxe": 20
+  }
+}

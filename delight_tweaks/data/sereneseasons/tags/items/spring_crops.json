@@ -5,6 +5,10 @@
     {"id":"culturaldelights:avocado_pit","required":false},
     {"id":"culturaldelights:cucumber_seeds","required":false},
     {"id":"farmersrespite:tea_seeds","required":false},
-    {"id":"supplementaries:flax_seeds","required":false}
+    {"id":"supplementaries:flax_seeds","required":false},
+    {"id":"neapolitan:strawberry_pips","required":false},
+    {"id":"neapolitan:adzuki_beans","required":false},
+    {"id":"neapolitan:mint_sprout","required":false},
+    {"id":"neapolitan:banana_frond","required":false}
   ]
 }

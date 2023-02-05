@@ -11,6 +11,8 @@
     {"id":"atmospheric:aloe_vera","required":false},
     {"id":"atmospheric:tall_aloe_vera","required":false},
     {"id":"atmospheric:barrel_cactus","required":false},
-    {"id":"atmospheric:passion_vine","required":false}
+    {"id":"atmospheric:passion_vine","required":false},
+    {"id":"neapolitan:vanilla_vine","required":false},
+    {"id":"neapolitan:adzuki_sprouts","required":false}
   ]
 }

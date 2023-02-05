@@ -10,6 +10,9 @@
     {"id":"culturaldelights:eggplant_seeds","required":false},
     {"id":"farmersrespite:tea_seeds","required":false},
     {"id":"atmospheric:aloe_kernels","required":false},
-    {"id":"atmospheric:passion_vine","required":false}
+    {"id":"atmospheric:passion_vine","required":false},
+    {"id":"neapolitan:vanilla_pods","required":false},
+    {"id":"neapolitan:adzuki_beans","required":false},
+    {"id":"neapolitan:banana_frond","required":false}
   ]
 }
