@@ -1,6 +1,6 @@
 {
   "replace": false,
   "values": [
-    "culturaldelights:eggplant_seeds"
+    {"id":"culturaldelights:eggplant_seeds","required":false}
   ]
 }

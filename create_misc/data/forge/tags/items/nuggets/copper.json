@@ -1,6 +1,6 @@
 {
   "replace": true,
   "values": [
-    "create:copper_nugget"
+    {"id":"create:copper_nugget","required":false}
   ]
 }

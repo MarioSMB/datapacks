@@ -1,6 +1,6 @@
 {
   "replace": false,
   "values": [
-    "culturaldelights:cucumber_seeds"
+    {"id":"culturaldelights:cucumber_seeds","required":false}
   ]
 }
