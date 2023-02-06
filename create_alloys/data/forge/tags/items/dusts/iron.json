@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"create:crushed_iron_ore","required":false},
+  ]
+}
