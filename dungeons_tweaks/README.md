@@ -1,2 +1,2 @@
 # data pack info
-Tweaks some aspects of the Dungeons Suite mods
+Temporary fixer-upper datapack for some issues affecting current versions of the Dungeons Suite mods

@@ -1,2 +1,2 @@
 # data pack info
-Fixes some issues with Extended Slabs +
+Temporary fixer-upper datapack for some issues affecting current versions of Extended Slabs +
