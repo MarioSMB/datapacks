@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:cooked_beef",
+    {"id":"#alexsdelight:cooked_moose","required":false}
+  ]
+}

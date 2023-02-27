@@ -1,3 +1,8 @@
 {
-	"parent":"bettercombat:hammer"
+  "parent":"bettercombat:hammer",
+  "attributes": {
+    "attack_range": 3.5,
+    "two_handed": true,
+    "category": "greathammer"
+  }
 }

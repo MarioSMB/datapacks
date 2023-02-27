@@ -5,10 +5,6 @@
       "values": [
         {
           "type": "forge:mod_loaded",
-          "modid": "alexsdelight"
-        },
-        {
-          "type": "forge:mod_loaded",
           "modid": "farmersdelight"
         }
       ]
@@ -22,14 +18,9 @@
     {
       "tag": "forge:crops/onion"
     },
-    [
-      {
-        "item": "minecraft:cooked_beef"
-      },
-      {
-        "tag": "alexsdelight:cooked_moose"
-      }
-    ],
+    {
+      "tag": "farmersdelight:barbecue_stick_meats"
+    },
     {
       "item": "minecraft:cooked_chicken"
     },
