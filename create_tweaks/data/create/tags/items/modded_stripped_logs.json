@@ -8,6 +8,9 @@
     {"id":"atmospheric:stripped_aspen_log","required":false},
     {"id":"atmospheric:stripped_grimwood_log","required":false},
     {"id":"autumnity:stripped_maple_log","required":false},
+    {"id":"environmental:stripped_willow_log","required":false},
+    {"id":"environmental:stripped_cherry_log","required":false},
+    {"id":"environmental:stripped_wisteria_log","required":false},
     {"id":"upgrade_aquatic:stripped_driftwood_log","required":false},
     {"id":"upgrade_aquatic:stripped_river_log","required":false}
   ]

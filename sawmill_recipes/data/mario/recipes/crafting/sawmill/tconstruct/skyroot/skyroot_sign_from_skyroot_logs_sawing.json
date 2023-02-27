@@ -1,8 +1,14 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": {
-    "tag": "minecraft:dark_oak_logs"
+    "tag": "tconstruct:skyroot_logs"
   },
-  "result": "minecraft:dark_oak_sign",
-  "count": 2
+  "result": "tconstruct:skyroot_sign",
+  "count": 2,
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"tconstruct"
+    }
+  ]
 }

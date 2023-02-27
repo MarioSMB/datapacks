@@ -1,14 +1,14 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": {
-    "tag": "tconstruct:bloodshroom_logs"
+    "tag": "atmospheric:kousa_logs"
   },
-  "result": "tconstruct:bloodshroom_sign",
+  "result": "atmospheric:kousa_sign",
   "count": 2,
   "conditions":[
     {
       "type":"forge:mod_loaded",
-      "modid":"tconstruct"
+      "modid":"atmospheric"
     }
   ]
 }

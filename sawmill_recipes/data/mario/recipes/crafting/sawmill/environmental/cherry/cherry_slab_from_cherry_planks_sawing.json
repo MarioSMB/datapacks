@@ -1,14 +1,14 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": {
-    "tag": "tconstruct:bloodshroom_logs"
+    "item": "environmental:cherry_planks"
   },
-  "result": "tconstruct:bloodshroom_sign",
+  "result": "environmental:cherry_slab",
   "count": 2,
   "conditions":[
     {
       "type":"forge:mod_loaded",
-      "modid":"tconstruct"
+      "modid":"environmental"
     }
   ]
 }

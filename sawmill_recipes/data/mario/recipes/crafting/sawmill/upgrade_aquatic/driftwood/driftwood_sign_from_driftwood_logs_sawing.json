@@ -1,14 +1,14 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": {
-    "tag": "tconstruct:bloodshroom_logs"
+    "tag": "upgrade_aquatic:driftwood_logs"
   },
-  "result": "tconstruct:bloodshroom_sign",
+  "result": "upgrade_aquatic:driftwood_sign",
   "count": 2,
   "conditions":[
     {
       "type":"forge:mod_loaded",
-      "modid":"tconstruct"
+      "modid":"upgrade_aquatic"
     }
   ]
 }

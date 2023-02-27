@@ -1,14 +1,14 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": {
-    "tag": "tconstruct:bloodshroom_logs"
+    "tag": "environmental:cherry_logs"
   },
-  "result": "tconstruct:bloodshroom_sign",
-  "count": 2,
+  "result": "environmental:cherry_button",
+  "count": 4,
   "conditions":[
     {
       "type":"forge:mod_loaded",
-      "modid":"tconstruct"
+      "modid":"environmental"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": {
-    "tag": "tconstruct:bloodshroom_logs"
+    "item": "environmental:willow_planks"
   },
-  "result": "tconstruct:bloodshroom_sign",
-  "count": 2,
+  "result": "environmental:willow_fence",
+  "count": 1,
   "conditions":[
     {
       "type":"forge:mod_loaded",
-      "modid":"tconstruct"
+      "modid":"environmental"
     }
   ]
 }

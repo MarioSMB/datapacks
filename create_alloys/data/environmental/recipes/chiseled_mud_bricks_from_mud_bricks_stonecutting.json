@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "tconstruct"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "environmental"
+        }
+      ]
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "tconstruct:mud_bricks"
+  },
+  "result": "environmental:chiseled_mud_bricks",
+  "count": 1
+}

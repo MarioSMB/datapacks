@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "environmental:vertical_wisteria_planks"
+  },
+  "result": "environmental:wisteria_planks",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type":"forge:mod_loaded",
+          "modid":"environmental"
+        },
+        {
+          "type": "blueprint:quark_flag",
+          "flag": "vertical_planks"
+        }
+      ]
+    }
+  ]
+}
