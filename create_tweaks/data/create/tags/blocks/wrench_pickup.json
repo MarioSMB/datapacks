@@ -1,7 +1,8 @@
 {
   "replace": false,
   "values": [
-    {"id":"quark:redstone_randomizer","required":false}
+    {"id":"quark:redstone_randomizer","required":false},
+    {"id":"uppers:upper","required":false}
   ]
 }
 
