@@ -1,9 +1,9 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": {
-    "item": "minecraft:glowstone"
+    "item": "infernalexp:dimstone"
   },
-  "result": "infernalexp:smooth_dullstone_vertical_slab",
+  "result": "infernalexp:smooth_dimstone_vertical_slab",
   "count": 2,
   "conditions": [
     {

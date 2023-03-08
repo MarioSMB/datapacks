@@ -2,13 +2,13 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "infernalexp"
+      "modid": "biomesoplenty"
     }
   ],
   "type": "minecraft:stonecutting",
   "ingredient": {
-    "item": "minecraft:glowstone"
+    "item": "biomesoplenty:white_sandstone"
   },
-  "result": "infernalexp:smooth_dimstone_stairs",
+  "result": "biomesoplenty:smooth_white_sandstone_stairs",
   "count": 1
 }

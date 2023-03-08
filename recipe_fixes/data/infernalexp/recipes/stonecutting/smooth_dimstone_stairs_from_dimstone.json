@@ -7,8 +7,8 @@
   ],
   "type": "minecraft:stonecutting",
   "ingredient": {
-    "item": "minecraft:glowstone"
+    "item": "infernalexp:dimstone"
   },
-  "result": "infernalexp:smooth_dullstone_stairs",
+  "result": "infernalexp:smooth_dimstone_stairs",
   "count": 1
 }
