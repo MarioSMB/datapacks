@@ -1,7 +1,0 @@
-{
-  "replace": true,
-  "values": [
-    {"id":"create:flowing_honey","required":false},
-    {"id":"create:honey","required":false}
-  ]
-}

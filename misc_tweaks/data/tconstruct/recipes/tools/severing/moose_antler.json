@@ -1,9 +1,0 @@
-{
-  "type": "tconstruct:ageable_severing",
-  "entity": {
-    "type": "alexsmobs:moose"
-  },
-  "adult_result": {
-    "item": "alexsmobs:moose_antler"
-  }
-}

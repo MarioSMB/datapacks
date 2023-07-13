@@ -1,6 +1,0 @@
-{
-  "replace": true,
-  "values": [
-    {"id":"create:crushed_gold_ore","required":false}
-  ]
-}

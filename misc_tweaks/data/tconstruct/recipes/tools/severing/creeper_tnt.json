@@ -1,7 +1,0 @@
-{
-  "type": "tconstruct:severing",
-  "entity": {
-    "type": "minecraft:creeper"
-  },
-  "result": "savage_and_ravage:creeper_spores"
-}

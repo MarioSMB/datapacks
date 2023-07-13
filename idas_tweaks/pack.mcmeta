@@ -1,7 +1,0 @@
-{
-    "pack": {
-        "description": "IDAS Tweaks",
-        "pack_format": 9,
-        "_comment": "Disables certain structures to improve performance"
-    }
-}
