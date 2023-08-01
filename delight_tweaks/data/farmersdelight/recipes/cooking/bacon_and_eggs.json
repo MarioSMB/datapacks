@@ -1,0 +1,52 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    [
+      {
+        "tag": "forge:cooked_bacon"
+      },
+      {
+        "tag": "forge:raw_bacon"
+      }
+    ],
+    [
+      {
+        "tag": "forge:cooked_bacon"
+      },
+      {
+        "tag": "forge:raw_bacon"
+      }
+    ],
+    [
+      {
+        "tag": "forge:eggs"
+      },
+      {
+        "item": "farmersdelight:fried_egg"
+      }
+    ],
+    [
+      {
+        "tag": "forge:eggs"
+      },
+      {
+        "item": "farmersdelight:fried_egg"
+      }
+    ]
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "farmersdelight:bacon_and_eggs"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}

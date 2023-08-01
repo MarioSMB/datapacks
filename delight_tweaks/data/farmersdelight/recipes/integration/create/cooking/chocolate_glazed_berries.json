@@ -8,9 +8,16 @@
   "type": "farmersdelight:cooking",
   "ingredients": [
     {
-      "item": "create:bar_of_chocolate"
+      "item": "minecraft:cocoa_beans"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "forge:milk"
     }
   ],
+  "recipe_book_tab": "misc",
   "result": {
     "item": "create:chocolate_glazed_berries"
   },

@@ -1,16 +1,12 @@
 {
   "conditions": [
     {
-      "type": "forge:and",
-      "values": [
-        {
-          "type": "forge:mod_loaded",
-          "modid": "farmersdelight"
-        }
-      ]
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
     }
   ],
   "type": "minecraft:crafting_shapeless",
+  "category": "misc",
   "ingredients": [
     {
       "tag": "forge:crops/tomato"
@@ -18,21 +14,31 @@
     {
       "tag": "forge:crops/onion"
     },
-    {
-      "tag": "farmersdelight:barbecue_stick_meats"
-    },
-    {
-      "item": "minecraft:cooked_chicken"
-    },
-    {
-      "item": "minecraft:stick"
-    },
+    [
+      {
+        "tag": "forge:cooked_beef"
+      },
+      {
+        "tag": "forge:cooked_pork"
+      },
+      {
+        "tag": "forge:cooked_chicken"
+      },
+      {
+        "tag": "forge:cooked_mutton"
+      },
+      {
+        "tag": "forge:cooked_fishes"
+      },
+      {
+        "item": "minecraft:cooked_rabbit"
+      }
+    ],
     {
       "item": "minecraft:stick"
     }
   ],
   "result": {
-    "item": "farmersdelight:barbecue_stick",
-    "count": 2
+    "item": "farmersdelight:barbecue_stick"
   }
 }

@@ -2,6 +2,8 @@
   "replace": false,
   "values": [
     "#forge:cooked_mutton",
-    {"id":"alexsmobs:cooked_kangaroo_meat","required":false}
+    "#forge:raw_mutton",
+    {"id":"alexsmobs:cooked_kangaroo_meat","required":false},
+    {"id":"alexsmobs:kangaroo_meat","required":false}
   ]
 }

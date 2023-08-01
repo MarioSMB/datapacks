@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    [
+      {
+        "tag": "forge:raw_beef"
+      },
+      {
+        "tag": "forge:cooked_beef"
+      }
+    ],
+    {
+      "item": "minecraft:carrot"
+    },
+    [
+      {
+        "item": "minecraft:potato"
+      },
+      {
+        "item": "minecraft:baked_potato"
+      }
+    ]
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "farmersdelight:beef_stew"
+  }
+}

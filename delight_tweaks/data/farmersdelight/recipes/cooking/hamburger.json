@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    [
+      {
+        "item": "farmersdelight:beef_patty"
+      },
+      {
+        "item": "farmersdelight:minced_beef"
+      }
+    ],
+    {
+      "tag": "forge:salad_ingredients"
+    },
+    {
+      "tag": "forge:crops/tomato"
+    },
+    {
+      "tag": "forge:crops/onion"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "item": "farmersdelight:hamburger"
+  },
+  "container": {
+    "item": "minecraft:bread"
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}

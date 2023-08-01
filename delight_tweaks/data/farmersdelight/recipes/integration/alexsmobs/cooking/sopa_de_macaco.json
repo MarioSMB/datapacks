@@ -17,6 +17,7 @@
       "item": "minecraft:bone"
     }
   ],
+  "recipe_book_tab": "meals",
   "result": {
     "item": "alexsmobs:sopa_de_macaco"
   },

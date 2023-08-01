@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "irons_spellbooks"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "irons_spellbooks:frozen_bone"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 3,
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "chance": 0.25,
+      "item": "minecraft:white_dye"
+    },
+    {
+      "chance": 0.25,
+      "count": 3,
+      "item": "minecraft:bone_meal"
+    }
+  ]
+}

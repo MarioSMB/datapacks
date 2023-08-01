@@ -3,16 +3,6 @@
   "values": [
     {"id":"farmersdelight:rice_panicle","required":false},
     {"id":"farmersdelight:tomato","required":false},
-    {"id":"culturaldelights:avocado_sapling","required":false},
-    {"id":"culturaldelights:avocado_pit","required":false},
-    {"id":"culturaldelights:cucumber_seeds","required":false},
-    {"id":"culturaldelights:corn_kernels","required":false},
-    {"id":"culturaldelights:eggplant_seeds","required":false},
-    {"id":"farmersrespite:tea_seeds","required":false},
-    {"id":"atmospheric:aloe_kernels","required":false},
-    {"id":"atmospheric:passion_vine","required":false},
-    {"id":"neapolitan:vanilla_pods","required":false},
-    {"id":"neapolitan:adzuki_beans","required":false},
-    {"id":"neapolitan:banana_frond","required":false}
+    {"id":"hauntedharvest:corn","required":false}
   ]
 }

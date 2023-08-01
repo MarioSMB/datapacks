@@ -1,0 +1,37 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:baked_potato"
+      },
+      {
+        "item": "minecraft:potato"
+      }
+    ],
+    {
+      "tag": "forge:crops/onion"
+    },
+    {
+      "tag": "forge:crops/onion"
+    },
+    {
+      "tag": "farmersdelight:shepherds_pie_meats"
+    },
+    {
+      "tag": "farmersdelight:shepherds_pie_meats"
+    },
+    {
+      "tag": "forge:milk"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "farmersdelight:shepherds_pie_block"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}

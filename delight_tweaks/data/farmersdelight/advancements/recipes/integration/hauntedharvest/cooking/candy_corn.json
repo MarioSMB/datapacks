@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_corn_for_candy": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "hauntedharvest:corn"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "farmersdelight:integration/hauntedharvest/cooking/candy_corn"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_corn_for_candy",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "farmersdelight:integration/hauntedharvest/cooking/candy_corn"
+    ]
+  },
+  "sends_telemetry_event": false
+}

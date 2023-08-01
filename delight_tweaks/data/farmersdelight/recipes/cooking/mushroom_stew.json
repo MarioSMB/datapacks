@@ -8,6 +8,7 @@
       "tag": "forge:mushrooms"
     }
   ],
+  "recipe_book_tab": "meals",
   "result": {
     "item": "minecraft:mushroom_stew"
   },

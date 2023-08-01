@@ -1,12 +1,5 @@
 {
   "replace": false,
   "values": [
-    {"id":"culturaldelights:avocado_sapling","required":false},
-    {"id":"culturaldelights:cucumbers","required":false},
-    {"id":"farmersrespite:small_tea_bush","required":false},
-    {"id":"farmersrespite:tea_bush","required":false},
-    {"id":"neapolitan:strawberry_bush","required":false},
-    {"id":"neapolitan:adzuki_sprouts","required":false},
-    {"id":"neapolitan:mint","required":false}
   ]
 }

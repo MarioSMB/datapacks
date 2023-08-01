@@ -2,6 +2,18 @@
   "replace": false,
   "values": [
     "#forge:cooked_beef",
-    {"id":"#alexsdelight:cooked_moose","required":false}
+    "#forge:raw_beef",
+    "#forge:cooked_pork",
+    "#forge:raw_pork",
+    "#forge:cooked_chicken",
+    "#forge:raw_chicken",
+    "minecraft:cooked_rabbit",
+    "minecraft:rabbit",
+    "#forge:cooked_fishes",
+    "#forge:raw_fishes",
+    "#forge:cooked_mutton",
+    "#forge:raw_mutton",
+    {"id":"alexsmobs:cooked_kangaroo_meat","required":false},
+    {"id":"alexsmobs:kangaroo_meat","required":false}
   ]
 }

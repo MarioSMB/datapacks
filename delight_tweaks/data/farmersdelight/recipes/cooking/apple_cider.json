@@ -1,12 +1,8 @@
 {
   "conditions": [
     {
-      "type": "forge:not",
-      "value":
-        {
-          "type": "forge:mod_loaded",
-          "modid": "farmersrespite"
-        }
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
     }
   ],
   "type": "farmersdelight:cooking",
@@ -21,6 +17,7 @@
       "item": "minecraft:sugar"
     }
   ],
+  "recipe_book_tab": "drinks",
   "result": {
     "item": "farmersdelight:apple_cider"
   },

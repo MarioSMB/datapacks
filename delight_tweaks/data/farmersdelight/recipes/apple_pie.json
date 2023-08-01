@@ -6,11 +6,7 @@
     }
   ],
   "type": "minecraft:crafting_shaped",
-  "pattern": [
-    " # ",
-    "aaa",
-    "xOx"
-  ],
+  "category": "misc",
   "key": {
     "#": {
       "tag": "forge:dough"
@@ -25,7 +21,13 @@
       "item": "farmersdelight:pie_crust"
     }
   },
+  "pattern": [
+    " # ",
+    "aaa",
+    "xOx"
+  ],
   "result": {
     "item": "farmersdelight:apple_pie"
-  }
+  },
+  "show_notification": true
 }

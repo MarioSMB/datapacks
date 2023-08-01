@@ -1,0 +1,32 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "farmersdelight:kelp_roll_slice"
+    },
+    {
+      "item": "farmersdelight:kelp_roll_slice"
+    },
+    {
+      "item": "farmersdelight:salmon_roll"
+    },
+    {
+      "item": "farmersdelight:salmon_roll"
+    },
+    {
+      "item": "farmersdelight:cod_roll"
+    },
+    {
+      "item": "farmersdelight:cod_roll"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "farmersdelight:rice_roll_medley_block"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}

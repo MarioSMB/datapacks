@@ -1,0 +1,7 @@
+{
+  "values": [
+    {"id":"create:crushing_wheel","required":false},
+    {"id":"create:water_wheel","required":false},
+    {"id":"create:water_wheel_structure","required":false}
+  ]
+}

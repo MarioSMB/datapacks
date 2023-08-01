@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:salad_ingredients"
+    },
+    [
+      {
+        "tag": "forge:crops/tomato"
+      },
+      {
+        "tag": "forge:crops/corn"
+      }
+    ],
+    [
+      {
+        "item": "minecraft:beetroot"
+      },
+      {
+        "item": "minecraft:carrot"
+      }
+    ],
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:mixed_salad"
+  }
+}

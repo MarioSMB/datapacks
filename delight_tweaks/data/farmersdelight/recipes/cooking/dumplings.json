@@ -15,16 +15,26 @@
         "tag": "forge:raw_chicken"
       },
       {
+        "tag": "forge:cooked_chicken"
+      },
+      {
         "tag": "forge:raw_pork"
       },
       {
+        "tag": "forge:cooked_pork"
+      },
+      {
         "tag": "forge:raw_beef"
+      },
+      {
+        "tag": "forge:cooked_beef"
       },
       {
         "item": "minecraft:brown_mushroom"
       }
     ]
   ],
+  "recipe_book_tab": "misc",
   "result": {
     "item": "farmersdelight:dumplings",
     "count": 2
