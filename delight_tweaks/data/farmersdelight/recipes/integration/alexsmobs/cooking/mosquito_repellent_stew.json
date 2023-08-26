@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "alexsmobs"
+    }
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "alexsmobs:stink_bottle"
+    },
+    {
+      "item": "alexsmobs:triops_eggs"
+    },
+    {
+      "item": "alexsmobs:triops_eggs"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "item": "alexsmobs:mosquito_repellent_stew"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "experience": 0.5,
+  "cookingtime": 200
+}

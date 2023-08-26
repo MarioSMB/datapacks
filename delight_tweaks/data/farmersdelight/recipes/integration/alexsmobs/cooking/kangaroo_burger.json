@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "alexsmobs"
+    }
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    [
+      {
+        "item": "alexsmobs:kangaroo_meat"
+      },
+      {
+        "item": "alexsmobs:cooked_kangaroo_meat"
+      }
+    ]
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "item": "alexsmobs:kangaroo_burger"
+  },
+  "container": {
+    "item": "minecraft:bread"
+  },
+  "experience": 0.5,
+  "cookingtime": 200
+}

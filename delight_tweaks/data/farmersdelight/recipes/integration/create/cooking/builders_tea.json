@@ -8,21 +8,18 @@
   "type": "farmersdelight:cooking",
   "ingredients": [
     {
-      "item": "minecraft:cocoa_beans"
-    },
-    {
-      "item": "minecraft:sugar"
+      "tag": "minecraft:leaves"
     },
     {
       "tag": "forge:milk"
     }
   ],
-  "recipe_book_tab": "misc",
+  "recipe_book_tab": "drinks",
   "result": {
-    "item": "create:chocolate_glazed_berries"
+    "item": "create:builders_tea"
   },
   "container": {
-    "item": "minecraft:sweet_berries"
+    "item": "minecraft:glass_bottle"
   },
   "experience": 0.2,
   "cookingtime": 200

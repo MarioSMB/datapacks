@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "vampirism"
+    }
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "forge:crops/garlic"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "item": "vampirism:garlic_bread"
+  },
+  "container": {
+    "item": "minecraft:bread"
+  },
+  "experience": 0.5,
+  "cookingtime": 100
+}

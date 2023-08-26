@@ -1,12 +1,12 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_any_ingredient": {
+    "has_garlic": {
       "conditions": {
         "items": [
           {
             "items": [
-              "minecraft:cocoa_beans"
+              "vampirism:item_garlic"
             ]
           }
         ]
@@ -15,20 +15,20 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "farmersdelight:integration/create/cooking/chocolate_glazed_berries"
+        "recipe": "farmersdelight:integration/vampirism/cooking/garlic_bread"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
   },
   "requirements": [
     [
-      "has_any_ingredient",
+      "has_garlic",
       "has_the_recipe"
     ]
   ],
   "rewards": {
     "recipes": [
-      "farmersdelight:integration/create/cooking/chocolate_glazed_berries"
+      "farmersdelight:integration/vampirism/cooking/garlic_bread"
     ]
   },
   "sends_telemetry_event": false

@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    {"id":"supplementaries:flax_seeds","required":false}
+    {"id":"supplementaries:flax_seeds","required":false},
+    {"id":"vampirism:item_garlic","required":false}
   ]
 }
