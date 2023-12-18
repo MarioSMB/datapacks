@@ -1,0 +1,14 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"regions_unexplored"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "regions_unexplored:dead_planks"
+  },
+  "result": "regions_unexplored:dead_fence",
+  "count": 1
+}

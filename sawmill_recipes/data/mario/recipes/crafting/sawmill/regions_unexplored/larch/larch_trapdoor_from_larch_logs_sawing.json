@@ -1,0 +1,14 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"regions_unexplored"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "regions_unexplored:larch_logs"
+  },
+  "result": "regions_unexplored:larch_trapdoor",
+  "count": 1
+}

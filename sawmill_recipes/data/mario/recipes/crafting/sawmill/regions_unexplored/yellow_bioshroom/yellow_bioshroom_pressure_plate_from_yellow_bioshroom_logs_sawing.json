@@ -1,0 +1,14 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"regions_unexplored"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "regions_unexplored:yellow_bioshroom_logs"
+  },
+  "result": "regions_unexplored:yellow_bioshroom_pressure_plate",
+  "count": 2
+}

@@ -1,0 +1,14 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"regions_unexplored"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "regions_unexplored:palm_planks"
+  },
+  "result": "regions_unexplored:palm_stairs",
+  "count": 1
+}

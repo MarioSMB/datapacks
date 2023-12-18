@@ -1,0 +1,14 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"regions_unexplored"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "regions_unexplored:cobalt_logs"
+  },
+  "result": "regions_unexplored:cobalt_trapdoor",
+  "count": 1
+}

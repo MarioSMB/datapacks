@@ -1,0 +1,14 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"aether"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "aether:skyroot_logs"
+  },
+  "result": "aether:skyroot_planks",
+  "count": 4
+}
