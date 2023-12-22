@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "handcrafted"
+    }
+  ],
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "minecraft:stone"
+    },
+    {
+      "item": "handcrafted:hammer"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:stone_bricks"
+    }
+  ]
+}
