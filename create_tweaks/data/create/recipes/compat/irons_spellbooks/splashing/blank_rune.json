@@ -5,7 +5,7 @@
       "modid": "irons_spellbooks"
     }
   ],
-  "type": "create:washing",
+  "type": "create:splashing",
   "ingredients": [
     {
       "tag": "irons_spellbooks:runes"
