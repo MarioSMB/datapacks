@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"#forge:stone","required":false},
+    {"id":"alexscaves:coprolith","required":false},
+    {"id":"aether:holystone","required":false},
+    {"id":"aether:mossy_holystone","required":false}
+  ]
+}
