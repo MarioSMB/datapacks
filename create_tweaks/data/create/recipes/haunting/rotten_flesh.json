@@ -1,0 +1,13 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "minecraft:rotten_flesh"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:phantom_membrane"
+    }
+  ]
+}
