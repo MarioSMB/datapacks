@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"irons_spellbooks:fire_rune","required":false},
+    {"id":"irons_spellbooks:ice_rune","required":false},
+    {"id":"irons_spellbooks:lightning_rune","required":false},
+    {"id":"irons_spellbooks:ender_rune","required":false},
+    {"id":"irons_spellbooks:holy_rune","required":false},
+    {"id":"irons_spellbooks:blood_rune","required":false},
+    {"id":"irons_spellbooks:evocation_rune","required":false},
+    {"id":"irons_spellbooks:arcane_rune","required":false},
+    {"id":"irons_spellbooks:recovery_rune","required":false},
+    {"id":"irons_spellbooks:protection_rune","required":false},
+    {"id":"irons_spellbooks:nature_rune","required":false}
+  ]
+}
