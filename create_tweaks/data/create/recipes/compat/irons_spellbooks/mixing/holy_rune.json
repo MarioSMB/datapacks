@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "irons_spellbooks"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "irons_spellbooks:holy_focus"
+    },
+    {
+      "tag": "irons_spellbooks:holy_focus"
+    },
+    {
+      "tag": "irons_spellbooks:holy_focus"
+    },
+    {
+      "tag": "irons_spellbooks:holy_focus"
+    },
+    {
+      "item": "irons_spellbooks:blank_rune"
+    }
+  ],
+  "results": [
+    {
+      "item": "irons_spellbooks:holy_rune",
+      "count": 1
+    }
+  ]
+}

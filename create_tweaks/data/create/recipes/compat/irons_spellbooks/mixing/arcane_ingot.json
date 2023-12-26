@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "irons_spellbooks"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "irons_spellbooks:arcane_essence"
+    },
+    {
+      "item": "irons_spellbooks:arcane_essence"
+    },
+    {
+      "item": "irons_spellbooks:arcane_essence"
+    },
+    {
+      "item": "irons_spellbooks:arcane_essence"
+    },
+    {
+      "tag": "irons_spellbooks:arcane_ingot_base"
+    }
+  ],
+  "results": [
+    {
+      "item": "irons_spellbooks:arcane_cloth",
+      "count": 1
+    }
+  ]
+}

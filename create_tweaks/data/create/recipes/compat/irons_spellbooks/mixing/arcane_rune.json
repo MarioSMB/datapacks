@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "irons_spellbooks"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "irons_spellbooks:arcane_essence"
+    },
+    {
+      "item": "irons_spellbooks:arcane_essence"
+    },
+    {
+      "item": "irons_spellbooks:arcane_essence"
+    },
+    {
+      "item": "irons_spellbooks:arcane_essence"
+    },
+    {
+      "item": "irons_spellbooks:blank_rune"
+    }
+  ],
+  "results": [
+    {
+      "item": "irons_spellbooks:arcane_rune",
+      "count": 1
+    }
+  ]
+}

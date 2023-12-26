@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "irons_spellbooks"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:phantom_membrane"
+    },
+    {
+      "item": "minecraft:phantom_membrane"
+    },
+    {
+      "item": "minecraft:phantom_membrane"
+    },
+    {
+      "item": "minecraft:phantom_membrane"
+    },
+    {
+      "item": "irons_spellbooks:blank_rune"
+    }
+  ],
+  "results": [
+    {
+      "item": "irons_spellbooks:cooldown_rune",
+      "count": 1
+    }
+  ]
+}
