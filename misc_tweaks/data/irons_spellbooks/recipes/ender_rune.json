@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "irons_spellbooks"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " F ",
+    "FRF",
+    " F "
+  ],
+  "key": {
+    "F": {
+      "tag": "irons_spellbooks:ender_focus"
+    },
+    "R": {
+      "item": "irons_spellbooks:blank_rune"
+    }
+  },
+  "result": {
+    "item": "irons_spellbooks:ender_rune",
+    "count": 1
+  }
+}

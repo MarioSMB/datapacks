@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "irons_spellbooks"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    "ROR",
+    " R "
+  ],
+  "key": {
+    "O": {
+      "item": "irons_spellbooks:upgrade_orb"
+    },
+    "R": {
+      "item": "irons_spellbooks:arcane_rune"
+    }
+  },
+  "result": {
+    "item": "irons_spellbooks:mana_upgrade_orb",
+    "count": 1
+  }
+}
