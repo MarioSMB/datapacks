@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "irons_spellbooks"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluid": "kubejs:rare_ink",
+      "nbt": {},
+      "amount": 1000
+    },
+    {
+      "tag": "forge:ingots/gold"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "kubejs:epic_ink",
+      "amount": 250
+    }
+  ],
+  "heatRequirement": "heated"
+}
