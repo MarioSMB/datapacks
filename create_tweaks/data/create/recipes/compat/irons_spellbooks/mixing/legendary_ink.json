@@ -8,7 +8,7 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "fluid": "kubejs:rare_ink",
+      "fluid": "kubejs:epic_ink",
       "nbt": {},
       "amount": 1000
     },
