@@ -12,9 +12,14 @@
       "nbt": {},
       "amount": 1000
     },
-    {
-      "item": "minecraft:ink_sac"
-    }
+    [
+      {
+        "item": "minecraft:ink_sac"
+      },
+      {
+        "item": "minecraft:glow_ink_sac"
+      }
+    ]
   ],
   "results": [
     {
