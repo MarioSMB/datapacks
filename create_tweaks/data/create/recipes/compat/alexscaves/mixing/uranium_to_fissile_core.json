@@ -1,0 +1,37 @@
+{
+   "conditions":[
+      {
+         "type":"forge:mod_loaded",
+         "modid":"alexscaves"
+      },
+      {
+         "type":"forge:mod_loaded",
+         "modid":"create"
+      }
+   ],
+   "type":"create:mixing",
+   "heatRequirement":"superheated",
+   "ingredients":[
+      {
+         "item":"alexscaves:uranium"
+      },
+      {
+         "item":"alexscaves:uranium"
+      },
+      {
+         "item":"alexscaves:uranium"
+      },
+      {
+         "item":"alexscaves:uranium"
+      },
+      {
+         "fluid":"alexscaves:acid",
+         "amount":1000
+      }
+   ],
+   "results":[
+     {
+        "item":"alexscaves:fissile_core"
+     }
+  ]
+}
