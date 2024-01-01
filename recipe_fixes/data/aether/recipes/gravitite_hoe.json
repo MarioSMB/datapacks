@@ -1,0 +1,27 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"aether"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "aether:enchanted_gravitite"
+    },
+    "/": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "pattern": [
+    "##",
+    " /",
+    " /"
+  ],
+  "result": {
+    "item": "aether:gravitite_hoe"
+  },
+  "show_notification": true
+}

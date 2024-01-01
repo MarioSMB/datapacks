@@ -1,0 +1,27 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"aether"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "G": {
+      "item": "aether:golden_amber"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "P",
+    "P",
+    "G"
+  ],
+  "result": {
+    "item": "aether:golden_dart_shooter"
+  },
+  "show_notification": true
+}

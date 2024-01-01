@@ -1,0 +1,27 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"aether"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "/": {
+      "tag": "forge:rods/wooden"
+    },
+    "A": {
+      "item": "aether:ambrosium_shard"
+    }
+  },
+  "pattern": [
+    "A",
+    "/"
+  ],
+  "result": {
+    "count": 4,
+    "item": "aether:ambrosium_torch"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,27 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"aether"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "wooden_fence_gate",
+  "key": {
+    "/": {
+      "tag": "forge:rods/wooden"
+    },
+    "M": {
+      "item": "aether:skyroot_planks"
+    }
+  },
+  "pattern": [
+    "/M/",
+    "/M/"
+  ],
+  "result": {
+    "item": "aether:skyroot_fence_gate"
+  },
+  "show_notification": true
+}
