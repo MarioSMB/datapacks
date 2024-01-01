@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "regions_unexplored"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "item": "regions_unexplored:peat_dirt"
+    }
+  ],
+  "results": [
+    {
+      "item": "regions_unexplored:peat_coarse_dirt",
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"vampirism"
+    },
+    {
+      "type":"forge:mod_loaded",
+      "modid":"farmersdelight"
+    }
+  ],
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    [
+      {
+        "item": "vampirism:cursed_spruce_wood"
+      },
+      {
+        "item": "vampirism:cursed_spruce_wood_cured"
+      }
+    ]
+  ],
+  "result": [
+    {
+      "item": "vampirism:stripped_cursed_spruce_wood"
+    },
+    {
+      "item": "farmersdelight:tree_bark"
+    }
+  ],
+  "sound": "minecraft:item.axe.strip",
+  "tool": {
+    "type": "farmersdelight:tool_action",
+    "action": "axe_strip"
+  }
+}

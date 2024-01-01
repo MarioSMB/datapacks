@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "aether"
+    }
+  ],
+  "type": "create:pressing",
+  "ingredients": [
+    [
+      {
+        "item": "aether:aether_dirt"
+      }
+    ]
+  ],
+  "results": [
+    {
+      "item": "aether:aether_dirt_path"
+    }
+  ]
+}

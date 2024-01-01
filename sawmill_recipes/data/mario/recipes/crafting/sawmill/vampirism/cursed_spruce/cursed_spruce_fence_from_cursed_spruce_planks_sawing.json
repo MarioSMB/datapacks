@@ -1,0 +1,14 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"vampirism"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "vampirism:cursed_spruce_planks"
+  },
+  "result": "vampirism:cursed_spruce_fence",
+  "count": 1
+}
