@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"aether:golden_oak_log","required":false},
+    {"id":"aether:golden_oak_wood","required":false}
+  ]
+}
