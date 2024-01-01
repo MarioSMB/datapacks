@@ -10,6 +10,9 @@
     [
       {
         "item": "aether:aether_dirt"
+      },
+      {
+        "item": "aether:aether_grass_block"
       }
     ]
   ],

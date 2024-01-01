@@ -10,6 +10,9 @@
     [
       {
         "item": "regions_unexplored:silt_dirt"
+      },
+      {
+        "item": "regions_unexplored:silt_grass_block"
       }
     ]
   ],

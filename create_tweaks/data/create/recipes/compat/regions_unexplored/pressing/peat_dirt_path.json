@@ -10,6 +10,9 @@
     [
       {
         "item": "regions_unexplored:peat_dirt"
+      },
+      {
+        "item": "regions_unexplored:peat_grass_block"
       }
     ]
   ],
