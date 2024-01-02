@@ -1,0 +1,18 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "simplyswords"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "aether"
+    }
+  ],
+  "type": "aether:repairing",
+  "group": "altar_sword_repair",
+  "ingredient": {
+    "item": "simplyswords:dormant_relic"
+  },
+  "repairTime": 2000
+}
