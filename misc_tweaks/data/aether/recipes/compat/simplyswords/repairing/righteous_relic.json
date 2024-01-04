@@ -12,7 +12,7 @@
   "type": "aether:repairing",
   "group": "altar_sword_repair",
   "ingredient": {
-    "item": "simplyswords:riteous_relic"
+    "item": "simplyswords:righteous_relic"
   },
   "repairTime": 2000
 }

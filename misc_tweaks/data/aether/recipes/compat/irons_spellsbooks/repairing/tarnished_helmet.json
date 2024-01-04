@@ -12,7 +12,7 @@
   "type": "aether:repairing",
   "group": "altar_helmet_repair",
   "ingredient": {
-    "item": "irons_spellbooks:tarnished_crown"
+    "item": "irons_spellbooks:tarnished_helmet"
   },
-  "repairTime": 1000
+  "repairTime": 750
 }
