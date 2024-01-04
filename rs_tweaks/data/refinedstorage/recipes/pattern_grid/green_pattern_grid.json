@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "refinedstorage"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "refinedstorage:green_grid"
+    },
+    {
+      "item": "create:precision_mechanism"
+    },
+    {
+      "item": "refinedstorage:pattern"
+    }
+  ],
+  "result": {
+    "item": "refinedstorage:green_pattern_grid"
+  }
+}

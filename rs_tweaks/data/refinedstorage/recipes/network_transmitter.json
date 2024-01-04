@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "refinedstorage"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EPE",
+    "SMS",
+    "ESE"
+  ],
+  "key": {
+    "E": {
+      "item": "create:andesite_alloy"
+    },
+    "P": {
+      "item": "minecraft:redstone_torch"
+    },
+    "S": {
+      "item": "create:cogwheel"
+    },
+    "M": {
+      "tag": "forge:ingots/netherite"
+    }
+  },
+  "result": {
+    "item": "refinedstorage:network_transmitter"
+  }
+}
