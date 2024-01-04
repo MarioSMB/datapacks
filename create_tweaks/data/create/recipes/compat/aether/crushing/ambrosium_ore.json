@@ -14,11 +14,11 @@
   "processingTime": 150,
   "results": [
     {
-      "item": "aether:ambrosium"
+      "item": "aether:ambrosium_shard"
     },
     {
       "chance": 0.75,
-      "item": "aether:ambrosium"
+      "item": "aether:ambrosium_shard"
     },
     {
       "chance": 0.75,
