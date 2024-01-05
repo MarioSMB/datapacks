@@ -5,7 +5,12 @@
     {"id":"#refinedstorage:grid","required":false},
     {"id":"#refinedstorage:crafting_grid","required":false},
     {"id":"#refinedstorage:controller","required":false},
-    {"id":"refinedstorage:external_storage","required":false}
+    {"id":"refinedstorage:external_storage","required":false},
+    {"id":"#refinedstorage:pattern_grid","required":false},
+    {"id":"#refinedstorage:crafter","required":false},
+    {"id":"#refinedstorage:crafting_monitor","required":false},
+    {"id":"#refinedstorage:network_receiver","required":false},
+    {"id":"#refinedstorage:network_transmitter","required":false}
   ]
 }
 
