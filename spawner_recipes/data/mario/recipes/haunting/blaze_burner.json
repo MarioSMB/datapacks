@@ -1,0 +1,13 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "create:blaze_burner"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:blaze_spawn_egg"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "create:blaze_burner"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:empty_blaze_burner",
+    },
+    {
+      "count": 3,
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "chance": 0.25,
+      "count": 3,
+      "item": "minecraft:blaze_powder"
+    }
+  ]
+}

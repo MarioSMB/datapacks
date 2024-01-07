@@ -1,22 +1,20 @@
 {
   "conditions": [
     {
-      "type": "forge:not",
-      "value":
-        {
-          "type": "forge:mod_loaded",
-          "modid": "minecraft"
-        }
+      "type": "forge:mod_loaded",
+      "modid": "refinedstorage"
     }
   ],
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "#"
-    ],
-    "key": {
-        "#": {
-            "item": "minecraft:air"
-        }
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "create:brass_casing"
     },
-    "result": {}
+    {
+      "item": "create:smart_chute"
+    }
+  ],
+  "result": {
+    "item": "refinedstorage:importer"
+  }
 }
