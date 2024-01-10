@@ -12,7 +12,7 @@
   "type":"create:filling",
   "ingredients":[
      {
-        "item":"create:radrock"
+        "item":"alexscaves:radrock"
      },
      {
         "amount":250,
