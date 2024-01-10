@@ -4,6 +4,7 @@
     "mario:entity_drops/blaze_modifier",
     "mario:entity_drops/cave_spider_modifier",
     "mario:entity_drops/creeper_modifier",
+    "mario:entity_drops/nucleeper_modifier",
     "mario:entity_drops/skeleton_modifier",
     "mario:entity_drops/spider_modifier",
     "mario:entity_drops/stray_modifier",
