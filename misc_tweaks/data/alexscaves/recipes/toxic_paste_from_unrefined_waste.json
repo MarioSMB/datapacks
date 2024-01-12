@@ -1,0 +1,18 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "alexscaves"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "alexscaves:unrefined_waste"
+    }
+  ],
+  "result": {
+    "item": "alexscaves:toxic_paste",
+    "count": 9
+  }
+}
