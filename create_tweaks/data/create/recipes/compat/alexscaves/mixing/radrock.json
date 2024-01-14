@@ -1,0 +1,40 @@
+{
+  "conditions":[
+      {
+         "type":"forge:mod_loaded",
+         "modid":"alexscaves"
+      },
+      {
+         "type":"forge:mod_loaded",
+         "modid":"create"
+      }
+   ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluid": "alexscaves:acid",
+      "nbt": {},
+      "amount": 500
+    },
+    {
+      "fluid": "minecraft:lava",
+      "nbt": {},
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "alexscaves:radrock"
+    },
+    {
+      "fluid": "alexscaves:acid",
+      "nbt": {},
+      "amount": 500
+    },
+    {
+      "fluid": "minecraft:lava",
+      "nbt": {},
+      "amount": 500
+    }
+  ]
+}

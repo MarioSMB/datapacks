@@ -1,0 +1,17 @@
+{
+  "conditions":[
+      {
+         "type":"forge:mod_loaded",
+         "modid":"enlightened_end"
+      }
+   ],
+  "type": "minecraft:smelting",
+  "group": "end_stone",
+  "category": "blocks",
+  "experience": 0,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "enlightened_end:palerock"
+  },
+  "result": "minecraft:end_stone"
+}

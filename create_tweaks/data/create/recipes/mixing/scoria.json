@@ -1,0 +1,30 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluid": "create:chocolate",
+      "nbt": {},
+      "amount": 500
+    },
+    {
+      "fluid": "minecraft:lava",
+      "nbt": {},
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "create:scoria"
+    },
+    {
+      "fluid": "create:chocolate",
+      "nbt": {},
+      "amount": 500
+    },
+    {
+      "fluid": "minecraft:lava",
+      "nbt": {},
+      "amount": 500
+    }
+  ]
+}

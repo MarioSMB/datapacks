@@ -1,0 +1,40 @@
+{
+  "conditions":[
+      {
+         "type":"forge:mod_loaded",
+         "modid":"enlightened_end"
+      },
+      {
+         "type":"forge:mod_loaded",
+         "modid":"create"
+      }
+   ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluid": "enlightened_end:ooze_fluid",
+      "nbt": {},
+      "amount": 500
+    },
+    {
+      "fluid": "minecraft:lava",
+      "nbt": {},
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "enlightened_end:void_shale"
+    },
+    {
+      "fluid": "enlightened_end:ooze_fluid",
+      "nbt": {},
+      "amount": 500
+    },
+    {
+      "fluid": "minecraft:lava",
+      "nbt": {},
+      "amount": 500
+    }
+  ]
+}
