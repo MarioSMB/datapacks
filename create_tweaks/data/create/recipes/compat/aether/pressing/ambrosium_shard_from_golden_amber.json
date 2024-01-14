@@ -1,0 +1,19 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "aether"
+    }
+  ],
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "aether:golden_amber"
+    }
+  ],
+  "results": [
+    {
+      "item": "aether:ambrosium_shard"
+    }
+  ]
+}
