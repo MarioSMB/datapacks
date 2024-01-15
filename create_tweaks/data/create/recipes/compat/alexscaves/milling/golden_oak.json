@@ -1,0 +1,20 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "aether"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "aether:golden_oak_logs"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "item": "aether:golden_amber"
+    }
+  ]
+}
