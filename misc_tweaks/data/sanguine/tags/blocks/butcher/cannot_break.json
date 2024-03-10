@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"#comforts:sleeping_bags","required":false},
+    {"id":"#create:toolboxes","required":false},
+    {"id":"create:fluid_tank","required":false},
+    {"id":"#refinedstorage:crafting_grid","required":false},
+    {"id":"refinedstorage:cable","required":false},
+    {"id":"#minecraft:mineable/hoe","required":false}
+  ]
+}
