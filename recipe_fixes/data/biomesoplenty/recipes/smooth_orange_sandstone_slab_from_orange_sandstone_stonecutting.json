@@ -1,0 +1,14 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "biomesoplenty"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "biomesoplenty:orange_sandstone"
+  },
+  "result": "biomesoplenty:smooth_orange_sandstone_slab",
+  "count": 2
+}
