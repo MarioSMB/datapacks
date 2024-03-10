@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    {"id":"hauntedharvest:corn_base","required":false},
-    {"id":"hauntedharvest:corn_middle","required":false},
-    {"id":"hauntedharvest:corn_top","required":false}
-  ]
-}

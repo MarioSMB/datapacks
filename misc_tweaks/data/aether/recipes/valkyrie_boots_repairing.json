@@ -1,8 +1,0 @@
-{
-  "type": "aether:repairing",
-  "group": "altar_boots_repair",
-  "ingredient": {
-    "item": "aether:valkyrie_boots"
-  },
-  "repairTime": 2000
-}

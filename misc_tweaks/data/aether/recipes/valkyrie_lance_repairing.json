@@ -1,8 +1,0 @@
-{
-  "type": "aether:repairing",
-  "group": "altar_sword_repair",
-  "ingredient": {
-    "item": "aether:valkyrie_lance"
-  },
-  "repairTime": 2000
-}

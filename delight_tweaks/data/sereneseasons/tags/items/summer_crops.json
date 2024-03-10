@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    {"id":"farmersdelight:rice_panicle","required":false},
-    {"id":"farmersdelight:tomato","required":false},
-    {"id":"hauntedharvest:corn","required":false}
-  ]
-}

@@ -16,7 +16,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "biomancy:sharp_claw",
+          "name": "biomancy:mob_claw",
           "conditions": [
             {
               "condition": "minecraft:inverted",
