@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "nethersdelight"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "biomancy"
+    }
+  ],
+  "type":"biomancy:digesting",
+  "ingredient": {
+    "item":"nethersdelight:warped_fungus_colony"
+  },
+  "nutrientsCost":1,
+  "processingTime":496,
+  "result": {
+    "count":8,
+    "item":"biomancy:nutrient_paste"
+  }
+}
