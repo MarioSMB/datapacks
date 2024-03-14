@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"farmersdelight:cooked_chicken_cuts","required":false},
+    {"id":"farmersdelight:cooked_bacon","required":false},
+    {"id":"farmersdelight:cooked_cod_slice","required":false},
+    {"id":"farmersdelight:cooked_salmon_slice","required":false},
+    {"id":"farmersdelight:cooked_mutton_chops","required":false},
+    {"id":"naturalist:cooked_duck","required":false},
+    {"id":"naturalist:cooked_catfish","required":false},
+    {"id":"naturalist:cooked_bass","required":false},
+    {"id":"naturalist:cooked_venison","required":false},
+    {"id":"naturalist:cooked_lizard_tail","required":false},
+    {"id":"goated:cooked_chevon","required":false},
+    {"id":"alexscaves:cooked_trilocaris_tail","required":false},
+    {"id":"alexscaves:cooked_lanternfish","required":false},
+    {"id":"alexscaves:cooked_tripodfish","required":false},
+    {"id":"alexscaves:cooked_mussel","required":false},
+    {"id":"alexscaves:cooked_radgill","required":false}
+  ]
+}

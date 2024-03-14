@@ -1,0 +1,23 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"spelunkery"
+    }
+  ],
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "minecraft:crying_obsidian"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "spelunkery:portal_fluid",
+      "amount": 250
+    },
+    {
+      "item": "minecraft:obsidian"
+    }
+  ]
+}

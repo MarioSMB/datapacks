@@ -2,6 +2,13 @@
   "replace": false,
   "values": [
     {"id":"storagedrawers:controller","required":false},
-    {"id":"storagedrawers:controller_slave","required":false}
+    {"id":"storagedrawers:controller_slave","required":false},
+    {"id":"biomancy:primordial_cradle","required":false},
+    {"id":"biomancy:bio_forge","required":false},
+    {"id":"biomancy:decomposer","required":false},
+    {"id":"biomancy:bio_lab","required":false},
+    {"id":"biomancy:digester","required":false},
+    {"id":"biomancy:tongue","required":false},
+    {"id":"biomancy:maw_hopper","required":false}
   ]
 }
