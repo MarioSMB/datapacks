@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "biomancy"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "iceandfire"
+    }
+  ],
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "iceandfire:witherbone"
+    }
+  ],
+  "result": [
+    {
+      "count": 3,
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:coal"
+    },
+    {
+      "item": "biomancy:withered_mob_marrow"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

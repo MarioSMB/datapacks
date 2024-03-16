@@ -1,0 +1,18 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"iceandfire"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "iceandfire:witherbone"
+    }
+  ],
+  "result": {
+    "item": "minecraft:bone_meal",
+    "count": 3
+  }
+}
