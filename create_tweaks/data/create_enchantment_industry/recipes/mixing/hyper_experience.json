@@ -1,0 +1,42 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "biomancy"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create_enchantment_industry"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:glow_ink_sac"
+      },
+      {
+        "item": "biomancy:bio_lumens"
+      }
+    ],
+    [
+      {
+        "item": "minecraft:lapis_lazuli"
+      },
+      {
+        "item": "biomancy:gem_fragments"
+      }
+    ],
+    {
+      "fluid": "create_enchantment_industry:experience",
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "fluid": "create_enchantment_industry:hyper_experience",
+      "amount": 10
+    }
+  ],
+  "heatRequirement": "superheated"
+}
