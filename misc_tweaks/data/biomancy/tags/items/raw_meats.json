@@ -16,6 +16,9 @@
     {"id":"alexscaves:lanternfish","required":false},
     {"id":"alexscaves:tripodfish","required":false},
     {"id":"alexscaves:mussel","required":false},
-    {"id":"alexscaves:radgill","required":false}
+    {"id":"alexscaves:radgill","required":false},
+    {"id":"nethersdelight:hoglin_loin","required":false},
+    {"id":"nethersdelight:strider_slice","required":false},
+    {"id":"nethersdelight:ground_strider","required":false}
   ]
 }

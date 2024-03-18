@@ -16,6 +16,7 @@
     {"id":"alexscaves:cooked_lanternfish","required":false},
     {"id":"alexscaves:cooked_tripodfish","required":false},
     {"id":"alexscaves:cooked_mussel","required":false},
-    {"id":"alexscaves:cooked_radgill","required":false}
+    {"id":"alexscaves:cooked_radgill","required":false},
+    {"id":"nethersdelight:hoglin_sirloin","required":false}
   ]
 }
