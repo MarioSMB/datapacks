@@ -10,10 +10,14 @@
     "item": "minecraft:glass_bottle"
   },
   "nutrientsCost": 1,
-  "processingTime": 50,
+  "processingTime": 38,
   "results": [
-  	{
+    {
+      "countRange": {
+        "type": "constant",
+        "value": 1
+      },
       "item": "biomancy:vial"
-  	}
+    }
   ]
 }
