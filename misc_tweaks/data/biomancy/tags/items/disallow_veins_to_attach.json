@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"biomesoplenty:rose_quartz_bud","required":false},
+    {"id":"biomesoplenty:rose_quartz_cluster","required":false}
+  ]
+}

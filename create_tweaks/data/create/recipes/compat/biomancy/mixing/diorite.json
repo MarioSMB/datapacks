@@ -1,0 +1,40 @@
+{
+  "conditions":[
+      {
+         "type":"forge:mod_loaded",
+         "modid":"biomancy"
+      },
+      {
+         "type":"forge:mod_loaded",
+         "modid":"create"
+      }
+   ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluid": "biomancy:acid",
+      "nbt": {},
+      "amount": 500
+    },
+    {
+      "fluid": "minecraft:lava",
+      "nbt": {},
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:diorite"
+    },
+    {
+      "fluid": "biomancy:acid",
+      "nbt": {},
+      "amount": 500
+    },
+    {
+      "fluid": "minecraft:lava",
+      "nbt": {},
+      "amount": 500
+    }
+  ]
+}
