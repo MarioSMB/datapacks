@@ -1,0 +1,18 @@
+{
+  "values": [
+    {"id":"naturalist:duck","required":false},
+    {"id":"naturalist:venison","required":false},
+    {"id":"naturalist:lizard_tail","required":false},
+    {"id":"goated:chevon","required":false},
+    {"id":"alexscaves:trilocaris_tail","required":false},
+    {"id":"nethersdelight:hoglin_loin","required":false},
+    {"id":"nethersdelight:strider_slice","required":false},
+    {"id":"nethersdelight:ground_strider","required":false},
+    {"id":"naturalist:cooked_duck","required":false},
+    {"id":"naturalist:cooked_venison","required":false},
+    {"id":"naturalist:cooked_lizard_tail","required":false},
+    {"id":"goated:cooked_chevon","required":false},
+    {"id":"alexscaves:cooked_trilocaris_tail","required":false},
+    {"id":"nethersdelight:hoglin_sirloin","required":false}
+  ]
+}
