@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "modid": "create",
+      "type": "forge:mod_loaded"
+    },
+    {
+      "modid": "spelunkery",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluid": "minecraft:water",
+      "nbt": {},
+      "amount": 250
+    },
+    {
+      "item": "minecraft:pointed_dripstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "spelunkery:salt"
+    }
+  ],
+  "heatRequirement": "heated"
+}
