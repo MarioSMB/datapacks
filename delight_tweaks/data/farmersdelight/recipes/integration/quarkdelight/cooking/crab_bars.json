@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quarkdelight"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quark"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    [
+      {
+        "item": "quark:crab_leg"
+      },
+      {
+        "forge:raw_fishes"
+      },
+      {
+        "item": "minecraft:bone_meal"
+      }
+    ]
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "item": "quarkdelight:crab_bars",
+    "count": 4
+  },
+  "experience": 0.5,
+  "cookingtime": 200
+}

@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quark"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "quarkdelight"
+    }
+  ],
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "quark:ancient_fruit"
+    },
+    {
+      "item": "minecraft:melon_slice"
+    },
+    {
+      "item": "minecraft:chorus_fruit"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "quarkdelight:bowl_of_exotic_fruits"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}
