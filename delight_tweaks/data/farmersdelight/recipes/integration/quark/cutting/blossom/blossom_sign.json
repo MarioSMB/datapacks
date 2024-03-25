@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "quark"
+        },
+        {
+          "type": "quark:flag",
+          "flag": "blossom_trees"
+        }
+      ]
+    }
+  ],
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "quark:blossom_sign"
+    }
+  ],
+  "tool": {
+    "type": "farmersdelight:tool_action",
+    "action": "axe_dig"
+  },
+  "result": [
+    {
+      "item": "quark:blossom_planks"
+    }
+  ]
+}

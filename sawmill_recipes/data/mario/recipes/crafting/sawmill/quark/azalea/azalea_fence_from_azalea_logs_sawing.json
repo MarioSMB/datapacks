@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "quark:azalea_logs"
+  },
+  "result": "quark:azalea_fence",
+  "count": 4,
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "quark"
+        },
+        {
+          "type": "quark:flag",
+          "flag": "azalea_wood"
+        }
+      ]
+    }
+  ]
+}
