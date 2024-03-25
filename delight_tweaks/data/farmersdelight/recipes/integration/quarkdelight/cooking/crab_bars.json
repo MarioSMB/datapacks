@@ -20,7 +20,7 @@
         "item": "quark:crab_leg"
       },
       {
-        "forge:raw_fishes"
+        "tag": "forge:raw_fishes"
       },
       {
         "item": "minecraft:bone_meal"
