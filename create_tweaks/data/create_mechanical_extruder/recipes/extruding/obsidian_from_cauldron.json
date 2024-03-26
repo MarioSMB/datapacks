@@ -14,9 +14,12 @@
       "item": "minecraft:lava_cauldron"
     }
   ],
+  "catalyst": {
+    "item": "minecraft:obsidian"
+  },
   "result": {
     "item": "minecraft:obsidian",
     "count": 4
   },
-  "requiredBonks": 5
+  "requiredBonks": 10
 }
