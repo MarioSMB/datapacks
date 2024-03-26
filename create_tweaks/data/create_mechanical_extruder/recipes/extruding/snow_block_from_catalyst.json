@@ -1,0 +1,28 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"create_mechanical_extruder"
+    },
+    {
+      "type":"forge:mod_loaded",
+      "modid":"create_connected"
+    }
+  ],
+  "type": "create_mechanical_extruder:extruding",
+  "ingredients": [
+    {
+      "item": "create_connected:fan_splashing_catalyst"
+    },
+    {
+      "item": "minecraft:powder_snow_cauldron"
+    }
+  ],
+  "catalyst": {
+    "item": "minecraft:blue_ice"
+  },
+  "result": {
+    "item": "minecraft:snow_block",
+    "count": 4
+  }
+}

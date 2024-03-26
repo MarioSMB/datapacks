@@ -1,0 +1,26 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"create_mechanical_extruder"
+    }
+  ],
+  "type": "create_mechanical_extruder:extruding",
+  "ingredients": [
+    {
+      "fluid": "minecraft:water",
+      "amount": 1000
+    },
+    {
+      "fluid": "minecraft:powder_snow",
+      "amount": 1000
+    }
+  ],
+  "catalyst": {
+    "item": "minecraft:blue_ice"
+  },
+  "result": {
+    "item": "minecraft:snow_block",
+    "count": 4
+  }
+}
