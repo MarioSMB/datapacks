@@ -1,0 +1,36 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"create_mechanical_extruder"
+    }
+  ],
+  "type": "create_mechanical_extruder:extruding",
+  "ingredients": [
+    [
+      {
+        "fluid": "create:honey",
+        "amount": 1000
+      },
+      {
+        "item": "minecraft:honey_block"
+      }
+    ],
+    [
+      {
+        "fluid": "minecraft:lava",
+        "amount": 1000
+      },
+      {
+        "item": "minecraft:lava_cauldron"
+      },
+      {
+        "item": "create_connected:fan_blasting_catalyst"
+      }
+    ]
+  ],
+  "result": {
+    "item": "create:limestone",
+    "count": 4
+  }
+}

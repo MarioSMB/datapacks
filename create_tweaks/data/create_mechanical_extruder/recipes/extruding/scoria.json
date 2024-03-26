@@ -1,0 +1,40 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"create_mechanical_extruder"
+    },
+    {
+      "type":"forge:mod_loaded",
+      "modid":"farmersdelight"
+    }
+  ],
+  "type": "create_mechanical_extruder:extruding",
+  "ingredients": [
+    [
+      {
+        "fluid": "create:chocolate",
+        "amount": 1000
+      },
+      {
+        "item": "farmersdelight:chocolate_pie"
+      }
+    ],
+    [
+      {
+        "fluid": "minecraft:lava",
+        "amount": 1000
+      },
+      {
+        "item": "minecraft:lava_cauldron"
+      },
+      {
+        "item": "create_connected:fan_blasting_catalyst"
+      }
+    ]
+  ],
+  "result": {
+    "item": "create:scoria",
+    "count": 4
+  }
+}

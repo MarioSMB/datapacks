@@ -1,0 +1,40 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"create_mechanical_extruder"
+    },
+    {
+      "type":"forge:mod_loaded",
+      "modid":"alexscaves"
+    }
+  ],
+  "type": "create_mechanical_extruder:extruding",
+  "ingredients": [
+    [
+      {
+        "fluid": "alexscaves:acid",
+        "amount": 1000
+      },
+      {
+        "item": "alexscaves:acidic_radrock"
+      }
+    ],
+    [
+      {
+        "fluid": "minecraft:lava",
+        "amount": 1000
+      },
+      {
+        "item": "minecraft:lava_cauldron"
+      },
+      {
+        "item": "create_connected:fan_blasting_catalyst"
+      }
+    ]
+  ],
+  "result": {
+    "item": "alexscaves:radrock",
+    "count": 4
+  }
+}

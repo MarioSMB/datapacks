@@ -1,0 +1,29 @@
+{
+  "conditions":[
+      {
+         "type":"forge:mod_loaded",
+         "modid":"quark"
+      },
+      {
+         "type":"forge:mod_loaded",
+         "modid":"create"
+      },
+      {
+         "type":"forge:mod_loaded",
+         "modid":"create_enchantment_industry"
+      }
+   ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "quark:ancient_fruit",
+    }
+  ],
+  "results": [
+    {
+      "fluid": "create_enchantment_industry:experience",
+      "amount": 50
+    }
+  ],
+  "heatRequirement": "heated"
+}
