@@ -1,0 +1,23 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"create_aquatic_ambitions"
+    },
+    {
+      "type":"forge:mod_loaded",
+      "modid":"farmersdelight"
+    }
+  ],
+  "type": "create_aquatic_ambitions:channeling",
+  "ingredients": [
+    {
+      "item": "farmersdelight:organic_compost"
+    }
+  ],
+  "results": [
+    {
+      "item": "farmersdelight:rich_soil"
+    }
+  ]
+}
