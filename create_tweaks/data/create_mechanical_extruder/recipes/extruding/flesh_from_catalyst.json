@@ -1,0 +1,29 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"create_mechanical_extruder"
+    },
+    {
+      "type":"forge:mod_loaded",
+      "modid":"create_connected"
+    },
+    {
+      "type":"forge:mod_loaded",
+      "modid":"biomesoplenty"
+    }
+  ],
+  "type": "create_mechanical_extruder:extruding",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:flesh"
+    },
+    {
+      "item": "create_connected:fan_blasting_catalyst"
+    }
+  ],
+  "result": {
+    "item": "biomesoplenty:flesh",
+    "count": 4
+  }
+}
