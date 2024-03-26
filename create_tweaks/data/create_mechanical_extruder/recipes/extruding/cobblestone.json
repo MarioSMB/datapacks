@@ -7,30 +7,14 @@
   ],
   "type": "create_mechanical_extruder:extruding",
   "ingredients": [
-    [
-      {
-        "fluid": "minecraft:water",
-        "amount": 1000
-      },
-      {
-        "item": "minecraft:water_cauldron"
-      },
-      {
-        "item": "create_connected:fan_splashing_catalyst"
-      }
-    ],
-    [
-      {
-        "fluid": "minecraft:lava",
-        "amount": 1000
-      },
-      {
-        "item": "minecraft:lava_cauldron"
-      },
-      {
-        "item": "create_connected:fan_blasting_catalyst"
-      }
-    ]
+    {
+      "fluid": "minecraft:water",
+      "amount": 1000
+    },
+    {
+      "fluid": "minecraft:lava",
+      "amount": 1000
+    }
   ],
   "result": {
     "item": "minecraft:cobblestone",

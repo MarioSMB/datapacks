@@ -6,25 +6,20 @@
     },
     {
       "type":"forge:mod_loaded",
-      "modid":"farmersdelight"
+      "modid":"alexscaves"
     }
   ],
   "type": "create_mechanical_extruder:extruding",
   "ingredients": [
     {
-      "fluid": "create:honey",
-      "amount": 1000
+      "item": "alexscaves:acidic_radrock"
     },
     {
-      "fluid": "minecraft:water",
-      "amount": 1000
+      "item": "create_connected:fan_blasting_catalyst"
     }
   ],
-  "catalyst": {
-    "item": "farmersdelight:rich_soil"
-  },
   "result": {
-    "item": "minecraft:calcite",
+    "item": "alexscaves:radrock",
     "count": 4
   }
 }

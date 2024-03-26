@@ -12,12 +12,10 @@
   "type": "create_mechanical_extruder:extruding",
   "ingredients": [
     {
-      "fluid": "create:honey",
-      "amount": 1000
+      "item": "minecraft:honey_block"
     },
     {
-      "fluid": "minecraft:water",
-      "amount": 1000
+      "item": "create_connected:fan_splashing_catalyst"
     }
   ],
   "catalyst": {

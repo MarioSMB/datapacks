@@ -11,27 +11,14 @@
   ],
   "type": "create_mechanical_extruder:extruding",
   "ingredients": [
-    [
-      {
-        "fluid": "alexscaves:acid",
-        "amount": 1000
-      },
-      {
-        "item": "alexscaves:acidic_radrock"
-      }
-    ],
-    [
-      {
-        "fluid": "minecraft:lava",
-        "amount": 1000
-      },
-      {
-        "item": "minecraft:lava_cauldron"
-      },
-      {
-        "item": "create_connected:fan_blasting_catalyst"
-      }
-    ]
+    {
+      "fluid": "alexscaves:acid",
+      "amount": 1000
+    },
+    {
+      "fluid": "minecraft:lava",
+      "amount": 1000
+    }
   ],
   "result": {
     "item": "alexscaves:radrock",

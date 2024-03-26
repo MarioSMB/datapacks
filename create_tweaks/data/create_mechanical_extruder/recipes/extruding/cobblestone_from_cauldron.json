@@ -8,18 +8,14 @@
   "type": "create_mechanical_extruder:extruding",
   "ingredients": [
     {
-      "fluid": "minecraft:lava",
-      "amount": 1000
+      "item": "minecraft:water_cauldron"
     },
     {
-      "item": "minecraft:blue_ice"
+      "item": "minecraft:lava_cauldron"
     }
   ],
-  "catalyst": {
-    "item": "minecraft:soul_soil"
-  },
   "result": {
-    "item": "minecraft:basalt",
+    "item": "minecraft:cobblestone",
     "count": 4
   }
 }

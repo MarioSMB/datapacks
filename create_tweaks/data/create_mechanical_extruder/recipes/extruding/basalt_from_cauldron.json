@@ -3,28 +3,22 @@
     {
       "type":"forge:mod_loaded",
       "modid":"create_mechanical_extruder"
-    },
-    {
-      "type":"forge:mod_loaded",
-      "modid":"farmersdelight"
     }
   ],
   "type": "create_mechanical_extruder:extruding",
   "ingredients": [
     {
-      "fluid": "create:honey",
-      "amount": 1000
+      "item": "minecraft:lava_cauldron"
     },
     {
-      "fluid": "minecraft:water",
-      "amount": 1000
+      "item": "minecraft:blue_ice"
     }
   ],
   "catalyst": {
-    "item": "farmersdelight:rich_soil"
+    "item": "minecraft:soul_soil"
   },
   "result": {
-    "item": "minecraft:calcite",
+    "item": "minecraft:basalt",
     "count": 4
   }
 }
