@@ -16,7 +16,7 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "item": "quark:ancient_fruit",
+      "item": "quark:ancient_fruit"
     }
   ],
   "results": [
