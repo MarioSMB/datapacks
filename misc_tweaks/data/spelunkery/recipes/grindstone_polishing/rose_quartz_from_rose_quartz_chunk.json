@@ -10,7 +10,7 @@
     }
   ],
   "type": "spelunkery:grindstone_polishing",
-  "ingredient": "biomesoplenty:rose_quartz_chunk",
+  "ingredient": "biomesoplenty:rose_quartz_shard",
   "result": "create:polished_rose_quartz",
   "resultCount": 1,
   "byproduct": "minecraft:air",
