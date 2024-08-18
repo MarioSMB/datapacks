@@ -5,31 +5,25 @@
       "modid": "farmersdelight"
     },
     {
-      "type": "forge:not",
-      "value":
-        {
-          "type": "forge:mod_loaded",
-          "modid": "farmersrespite"
-        }
+      "type": "forge:mod_loaded",
+      "modid": "farmersrespite"
     }
   ],
-  "type": "farmersdelight:cooking",
-  "cookingtime": 200,
-  "experience": 1.0,
+  "type": "farmersrespite:brewing",
+  "container": {
+    "item": "farmersdelight:milk_bottle"
+  },
+  "cookingtime": 220,
+  "experience": 0.35,
   "ingredients": [
     {
       "item": "minecraft:glow_berries"
     },
     {
-      "tag": "forge:milk"
-    },
-    {
       "tag": "forge:eggs"
-    },
-    {
-      "item": "minecraft:sugar"
     }
   ],
+  "needwater": false,
   "recipe_book_tab": "drinks",
   "result": {
     "item": "farmersdelight:glow_berry_custard"
