@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersrespite"
+    }
+  ],
+  "type": "farmersrespite:brewing",
+  "container": {
+    "item": "minecraft:glass_bottle"
+  },
+  "cookingtime": 220,
+  "experience": 0.35,
+  "group": "gamblers_tea",
+  "ingredients": [
+    {
+      "item": "farmersrespite:coffee_berries"
+    },
+    {
+      "item": "minecraft:glow_berries"
+    }
+  ],
+  "needwater": true,
+  "recipe_book_tab": "drinks",
+  "result": {
+    "item": "farmersrespite:gamblers_tea"
+  }
+}

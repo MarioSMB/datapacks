@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersrespite"
+    }
+  ],
+  "type": "farmersrespite:brewing",
+  "container": {
+    "item": "minecraft:glass_bottle"
+  },
+  "cookingtime": 20,
+  "experience": 0.1,
+  "group": "melon_juice",
+  "ingredients": [
+    {
+      "item": "minecraft:melon_slice"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "needwater": true,
+  "recipe_book_tab": "drinks",
+  "result": {
+    "item": "farmersdelight:melon_juice"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersrespite"
+    }
+  ],
+  "type": "farmersrespite:brewing",
+  "container": {
+    "item": "minecraft:glass_bottle"
+  },
+  "cookingtime": 220,
+  "experience": 0.35,
+  "group": "coffee",
+  "ingredients": [
+    {
+      "item": "farmersrespite:coffee_beans"
+    },
+    {
+      "item": "farmersrespite:coffee_beans"
+    }
+  ],
+  "needwater": true,
+  "recipe_book_tab": "drinks",
+  "result": {
+    "item": "farmersrespite:coffee"
+  }
+}

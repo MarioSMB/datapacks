@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersrespite"
+    }
+  ],
+  "type": "farmersrespite:brewing",
+  "container": {
+    "item": "minecraft:glass_bottle"
+  },
+  "cookingtime": 220,
+  "experience": 0.35,
+  "group": "black_tea",
+  "ingredients": [
+    {
+      "item": "farmersrespite:black_tea_leaves"
+    },
+    {
+      "item": "farmersrespite:black_tea_leaves"
+    }
+  ],
+  "needwater": true,
+  "recipe_book_tab": "drinks",
+  "result": {
+    "item": "farmersrespite:black_tea"
+  }
+}

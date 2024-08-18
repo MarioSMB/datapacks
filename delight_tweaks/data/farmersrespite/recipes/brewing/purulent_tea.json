@@ -1,0 +1,24 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersrespite"
+    }
+  ],
+  "type": "farmersrespite:brewing",
+  "ingredients": [
+    {
+      "item": "minecraft:nether_wart"
+    },
+    {
+      "item": "minecraft:fermented_spider_eye"
+    }
+  ],
+  "recipe_book_tab": "drinks",
+  "result": {
+    "item": "farmersrespite:purulent_tea"
+  },
+  "experience": 0.35,
+  "brewingtime": 220,
+  "needwater": true
+}
