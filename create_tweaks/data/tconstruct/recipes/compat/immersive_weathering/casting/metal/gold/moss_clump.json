@@ -1,0 +1,19 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersive_weathering"
+    }
+  ],
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "item": "immersive_weathering:moss_clump"
+  },
+  "cast_consumed": true,
+  "cooling_time": 161,
+  "fluid": {
+    "amount": 720,
+    "tag": "forge:molten_gold"
+  },
+  "result": "immersive_weathering:golden_moss_clump"
+}

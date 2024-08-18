@@ -1,0 +1,57 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"create"
+    },
+    {
+      "type":"forge:mod_loaded",
+      "modid":"oreganized"
+    },
+    {
+      "type":"forge:mod_loaded",
+      "modid":"tinkers_reforged"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:tuff"
+    }
+  ],
+  "processingTime": 350,
+  "results": [
+    {
+      "item": "minecraft:flint",
+      "chance": 0.25
+    },
+    {
+      "item": "minecraft:gold_nugget",
+      "chance": 0.1
+    },
+    {
+      "item": "create:copper_nugget",
+      "chance": 0.1
+    },
+    {
+      "item": "create:zinc_nugget",
+      "chance": 0.1
+    },
+    {
+      "item": "minecraft:iron_nugget",
+      "chance": 0.1
+    },
+    {
+      "item": "oreganized:lead_nugget",
+      "chance": 0.1
+    },
+    {
+      "item": "oreganized:silver_nugget",
+      "chance": 0.1
+    },
+    {
+      "item": "tinkers_reforged:aluminum_nugget",
+      "chance": 0.1
+    }
+  ]
+}

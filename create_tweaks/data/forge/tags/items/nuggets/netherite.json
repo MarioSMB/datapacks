@@ -1,0 +1,6 @@
+{
+  "replace": true,
+  "values": [
+    {"id":"oreganized:netherite_nugget","required":false}
+  ]
+}

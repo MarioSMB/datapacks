@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "irons_spellbooks"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create_wizardry"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluid": "create_wizardry:rare_ink",
+      "nbt": {},
+      "amount": 1000
+    },
+    {
+      "fluidTag": "forge:molten_gold",
+      "nbt": {},
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "fluid": "create_wizardry:epic_ink",
+      "amount": 1000
+    }
+  ],
+  "heatRequirement": "heated"
+}

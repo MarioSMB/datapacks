@@ -1,0 +1,45 @@
+{
+  "type": "create:mixing",
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:ingots/enderium"
+      }
+    },
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:ingots/lead"
+      }
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "ingredients": [
+    {
+      "fluidTag": "forge:molten_lead",
+      "nbt": {},
+      "amount": 270
+    },
+    {
+      "tag": "forge:gems/diamond"
+    },
+    {
+      "fluidTag": "forge:ender",
+      "nbt": {},
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tconstruct:molten_enderium",
+      "amount": 180
+    }
+  ],
+  "heatRequirement": "superheated"
+}

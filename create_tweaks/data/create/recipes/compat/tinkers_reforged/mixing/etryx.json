@@ -1,0 +1,32 @@
+{
+  "type": "create:mixing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tinkers_reforged"
+    }
+  ],
+  "ingredients": [
+    {
+      "fluid": "tconstruct:molten_amethyst",
+      "nbt": {},
+      "amount": 100
+    },
+    {
+      "fluid": "tinkers_reforged:titanium",
+      "nbt": {},
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tinkers_reforged:etryx",
+      "amount": 90
+    }
+  ],
+  "heatRequirement": "superheated"
+}

@@ -1,0 +1,6 @@
+{
+  "replace": true,
+  "values": [
+    {"id":"oreganized:silver_block","required":false}
+  ]
+}

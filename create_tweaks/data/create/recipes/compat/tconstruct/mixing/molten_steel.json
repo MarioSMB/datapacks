@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluidTag": "forge:molten_iron",
+      "nbt": {},
+      "amount": 90
+    },
+    {
+      "fluidTag": "tconstruct:molten_quartz",
+      "nbt": {},
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tconstruct:molten_steel",
+      "amount": 90
+    }
+  ],
+  "heatRequirement": "heated"
+}

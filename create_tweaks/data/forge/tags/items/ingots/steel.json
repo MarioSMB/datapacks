@@ -1,0 +1,6 @@
+{
+  "replace": true,
+  "values": [
+    {"id":"createdeco:cast_iron_ingot","required":false}
+  ]
+}

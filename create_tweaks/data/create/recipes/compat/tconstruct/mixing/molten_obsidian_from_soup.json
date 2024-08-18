@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluidTag": "forge:mushroom_stew",
+      "nbt": {},
+      "amount": 250
+    },
+    {
+      "fluid": "minecraft:lava",
+      "nbt": {},
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tconstruct:molten_obsidian",
+      "amount": 250
+    }
+  ],
+  "heatRequirement": "heated"
+}

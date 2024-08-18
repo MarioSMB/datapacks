@@ -1,13 +1,22 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "group": "tconstruct:copper_nugget",
-  "ingredients": [
+  "conditions": [
     {
-      "item": "minecraft:copper_ingot"
+      "type": "forge:not",
+      "value":
+        {
+          "type": "forge:mod_loaded",
+          "modid": "minecraft"
+        }
     }
   ],
-  "result": {
-    "item": "create:copper_nugget",
-    "count": 9
-  }
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:air"
+        }
+    },
+    "result": {}
 }

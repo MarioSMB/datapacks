@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:casting_basin",
+  "cast": {
+    "item": "minecraft:cobblestone"
+  },
+  "cast_consumed": true,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "oreganized"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "cooling_time": 20,
+  "fluid": {
+    "amount": 90,
+    "tag": "forge:molten_lead"
+  },
+  "result": "oreganized:glance"
+}

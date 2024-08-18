@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "create"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "born_in_chaos_v1"
+        }
+      ]
+    }
+  ],
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "create:crushed_raw_osmium"
+    }
+  ],
+  "results": [
+    {
+      "item": "born_in_chaos_v1:pieceofdarkmetal",
+      "count": 9
+    },
+    {
+      "item": "born_in_chaos_v1:phantom_powder",
+      "chance": 0.75
+    }
+  ]
+}

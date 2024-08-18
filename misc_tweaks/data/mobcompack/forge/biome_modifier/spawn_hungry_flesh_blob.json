@@ -1,0 +1,10 @@
+{
+  "type": "mobcompack:spawnmodifiers",
+  "biomes": "#mobcompack:jawbreaker_spawnable",
+  "spawn": {
+    "type": "biomancy:hungry_flesh_blob",
+    "maxCount": 1,
+    "minCount": 1,
+    "weight": 15
+  }
+}

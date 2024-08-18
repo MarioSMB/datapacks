@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "fluidTag": "forge:molten_lead",
+      "nbt": {},
+      "amount": 90
+    }
+  ],
+  "results": [
+    {
+      "item": "oreganized:glance"
+    }
+  ],
+  "conditions": [
+    {
+      "modid": "oreganized",
+      "type": "forge:mod_loaded"
+    },
+    {
+      "modid": "tconstruct",
+      "type": "forge:mod_loaded"
+    }
+  ]
+}

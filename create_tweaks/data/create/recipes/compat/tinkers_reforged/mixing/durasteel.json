@@ -1,0 +1,32 @@
+{
+  "type": "create:mixing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tinkers_reforged"
+    }
+  ],
+  "ingredients": [
+    {
+      "fluid": "tinkers_reforged:kepu",
+      "nbt": {},
+      "amount": 90
+    },
+    {
+      "fluid": "tconstruct:molten_aluminum",
+      "nbt": {},
+      "amount": 270
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tinkers_reforged:durasteel",
+      "amount": 180
+    }
+  ],
+  "heatRequirement": "superheated"
+}

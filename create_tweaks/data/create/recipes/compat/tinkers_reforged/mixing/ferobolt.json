@@ -1,0 +1,32 @@
+{
+  "type": "create:mixing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tinkers_reforged"
+    }
+  ],
+  "ingredients": [
+    {
+      "fluid": "tinkers_reforged:epidote",
+      "nbt": {},
+      "amount": 100
+    },
+    {
+      "fluid": "tinkers_reforged:hureaulite",
+      "nbt": {},
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tinkers_reforged:ferobolt",
+      "amount": 90
+    }
+  ],
+  "heatRequirement": "heated"
+}

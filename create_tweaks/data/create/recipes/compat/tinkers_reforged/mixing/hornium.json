@@ -1,0 +1,32 @@
+{
+  "type": "create:mixing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tinkers_reforged"
+    }
+  ],
+  "ingredients": [
+    {
+      "fluid": "tconstruct:molten_aluminum",
+      "nbt": {},
+      "amount": 90
+    },
+    {
+      "fluid": "tinkers_reforged:gallium",
+      "nbt": {},
+      "amount": 90
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tinkers_reforged:hornium",
+      "amount": 180
+    }
+  ],
+  "heatRequirement": "heated"
+}
