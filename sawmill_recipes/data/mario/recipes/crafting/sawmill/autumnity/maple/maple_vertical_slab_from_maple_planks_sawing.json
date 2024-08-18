@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "autumnity:maple_planks"
+  },
+  "result": "autumnity:maple_vertical_slab",
+  "count": 2,
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type":"forge:mod_loaded",
+          "modid":"autumnity"
+        },
+        {
+          "type": "blueprint:quark_flag",
+          "flag": "vertical_slabs"
+        }
+      ]
+    }
+  ]
+}

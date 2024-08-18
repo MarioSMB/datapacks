@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "environmental:cherry_logs"
+  },
+  "result": "environmental:vertical_cherry_planks",
+  "count": 4,
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type":"forge:mod_loaded",
+          "modid":"environmental"
+        },
+        {
+          "type": "blueprint:quark_flag",
+          "flag": "vertical_planks"
+        }
+      ]
+    }
+  ]
+}
