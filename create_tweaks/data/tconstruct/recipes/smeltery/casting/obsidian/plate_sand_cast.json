@@ -20,7 +20,7 @@
   "cooling_time": 111,
   "fluid": {
     "amount": 250,
-    "tag": "forge:molten_obsidian"
+    "tag": "tconstruct:molten_obsidian"
   },
   "result": {
     "tag": "forge:plates/obsidian"
