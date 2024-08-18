@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "IDAS BOP Integration resources",
+        "pack_format": 9,
+        "_comment": "Integrating Biomes O' Plenty into the Integrated Dungeons and Structures Mod!"
+    }
+}
