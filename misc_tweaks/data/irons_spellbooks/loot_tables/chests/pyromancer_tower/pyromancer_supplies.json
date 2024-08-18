@@ -37,6 +37,11 @@
           "type": "minecraft:item",
           "weight": 3,
           "name": "minecraft:obsidian"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 8,
+          "name": "irons_spellbooks:fire_rune"
         }
       ]
     },
