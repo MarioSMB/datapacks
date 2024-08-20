@@ -1,0 +1,49 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "caverns_and_chasms"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "oreganized"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "caverns_and_chasms:silver_horse_armor"
+    }
+  ],
+  "processingTime": 200,
+  "results": [
+    {
+      "count": 2,
+      "item": "oreganized:silver_ingot"
+    },
+    {
+      "chance": 0.5,
+      "count": 2,
+      "item": "minecraft:leather"
+    },
+    {
+      "chance": 0.5,
+      "count": 2,
+      "item": "oreganized:silver_ingot"
+    },
+    {
+      "chance": 0.25,
+      "count": 2,
+      "item": "minecraft:string"
+    },
+    {
+      "chance": 0.25,
+      "count": 8,
+      "item": "oreganized:silver_nugget"
+    }
+  ]
+}

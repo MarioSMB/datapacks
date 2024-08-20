@@ -5,16 +5,21 @@
       "modid": "farmersrespite"
     }
   ],
-  "type": "minecraft:crafting_shapeless",
+  "type": "create:filling",
   "ingredients": [
     {
       "item": "farmersrespite:green_tea"
     },
     {
-      "item": "minecraft:honey_bottle"
+      "amount": 250,
+      "fluid": "create:honey",
+      "nbt": {}
     }
+
   ],
-  "result": {
-    "item": "farmersrespite:strong_green_tea"
-  }
+  "results": [
+    {
+      "item": "farmersrespite:strong_green_tea"
+    }
+  ]
 }

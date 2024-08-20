@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "born_in_chaos_v1:blocks/black_argillite_brick",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "born_in_chaos_v1:black_argillite_brick"
+        }
+      ]
+    }
+  ]
+}

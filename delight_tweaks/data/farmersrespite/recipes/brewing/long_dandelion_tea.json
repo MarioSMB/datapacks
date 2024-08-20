@@ -5,16 +5,19 @@
       "modid": "farmersrespite"
     }
   ],
-  "type": "minecraft:crafting_shapeless",
+  "type": "create:filling",
   "ingredients": [
     {
       "item": "farmersrespite:dandelion_tea"
     },
     {
-      "tag": "forge:milk"
+      "amount": 250,
+      "fluidTag": "forge:milk"
     }
   ],
-  "result": {
-    "item": "farmersrespite:long_dandelion_tea"
-  }
+  "results": [
+    {
+      "item": "farmersrespite:long_dandelion_tea"
+    }
+  ]
 }

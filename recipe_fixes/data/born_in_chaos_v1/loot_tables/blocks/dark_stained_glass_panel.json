@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "born_in_chaos_v1:blocks/dark_stained_glass_panel",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "born_in_chaos_v1:dark_stained_glass_panel"
+        }
+      ]
+    }
+  ]
+}

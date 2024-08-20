@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "caverns_and_chasms"
+    }
+  ],
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "caverns_and_chasms:silver_horse_armor"
+  },
+  "result": {
+    "amount": 630,
+    "fluid": "tconstruct:molten_silver"
+  },
+  "temperature": 790,
+  "time": 151
+}

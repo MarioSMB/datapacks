@@ -14,16 +14,19 @@
       ]
     }
   ],
-  "type": "minecraft:crafting_shapeless",
+  "type": "create:filling",
   "ingredients": [
     {
       "item": "farmersdelight:apple_cider"
     },
     {
-      "tag": "forge:milk"
+      "amount": 250,
+      "fluidTag": "forge:milk"
     }
   ],
-  "result": {
-    "item": "farmersrespite:long_apple_cider"
-  }
+  "results": [
+    {
+      "item": "farmersrespite:long_apple_cider"
+    }
+  ]
 }

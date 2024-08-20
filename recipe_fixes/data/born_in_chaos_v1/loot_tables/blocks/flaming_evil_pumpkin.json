@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "born_in_chaos_v1:blocks/flaming_evil_pumpkin",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "born_in_chaos_v1:flaming_evil_pumpkin"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "born_in_chaos_v1:blocks/black_argillite_brick_slab",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "born_in_chaos_v1:black_argillite_brick_slab",
+          "functions": [
+            {
+              "conditions": [
+                {
+                  "condition": "minecraft:block_state_property",
+                  "block": "born_in_chaos_v1:black_argillite_brick_slab",
+                  "properties": {
+                    "type": "double"
+                  }
+                }
+              ],
+              "count": 2.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "function": "minecraft:explosion_decay"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
