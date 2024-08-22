@@ -12,7 +12,7 @@
   "type": "create_mechanical_extruder:extruding",
   "ingredients": [
     {
-      "fluid": "tconstruct:ichor_slime",
+      "fluid": "tconstruct:earth_slime",
       "amount": 1000
     },
     {
@@ -21,7 +21,7 @@
     }
   ],
   "result": {
-    "item": "tconstruct:ichor_slime_crystal_block",
+    "item": "tconstruct:earth_slime_crystal_block",
     "count": 4
   }
 }
