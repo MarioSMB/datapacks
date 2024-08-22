@@ -12,7 +12,7 @@
   "type": "create_mechanical_extruder:extruding",
   "ingredients": [
     {
-      "fluid": "tconstruct:ichor_slime",
+      "fluid": "tconstruct:magma",
       "amount": 1000
     },
     {
