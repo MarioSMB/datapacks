@@ -1,0 +1,6 @@
+{
+  "replace": true,
+  "values": [
+    {"id":"createdeco:zinc_sheet","required":false}
+  ]
+}
