@@ -1,0 +1,31 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "forge:gems/diamond"
+    }
+  ],
+  "results": [
+    {
+      "item": "createaddition:diamond_grit"
+    }
+  ],
+  "processingTime": 300,
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:gems/diamond",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    },
+    {
+      "modid": "create",
+      "type": "forge:mod_loaded"
+    },
+    {
+      "modid": "createaddition",
+      "type": "forge:mod_loaded"
+    }
+  ]
+}
