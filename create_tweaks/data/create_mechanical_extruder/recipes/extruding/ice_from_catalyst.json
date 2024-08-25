@@ -1,0 +1,25 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"create_mechanical_extruder"
+    },
+    {
+      "type":"forge:mod_loaded",
+      "modid":"create_connected"
+    }
+  ],
+  "type": "create_mechanical_extruder:extruding",
+  "ingredients": [
+    {
+      "item": "create_connected:fan_splashing_catalyst"
+    },
+    {
+      "item": "create_connected:fan_freezing_catalyst"
+    }
+  ],
+  "result": {
+    "item": "minecraft:ice",
+    "count": 4
+  }
+}
