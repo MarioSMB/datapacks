@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "quark:ancient_logs"
+  },
+  "result": "quark:ancient_door",
+  "count": 2,
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "quark"
+        },
+        {
+          "type": "quark:flag",
+          "flag": "ancient_wood"
+        }
+      ]
+    }
+  ]
+}
