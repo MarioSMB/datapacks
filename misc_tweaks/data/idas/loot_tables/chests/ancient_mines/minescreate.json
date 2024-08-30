@@ -246,7 +246,7 @@
         {
           "type": "minecraft:item",
           "weight": 20,
-          "name": "create:crushed_iron_ore",
+          "name": "create:crushed_raw_iron",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -262,7 +262,7 @@
         {
           "type": "minecraft:item",
           "weight": 5,
-          "name": "create:crushed_gold_ore",
+          "name": "create:crushed_raw_gold",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -278,7 +278,7 @@
         {
           "type": "minecraft:item",
           "weight": 5,
-          "name": "create:crushed_copper_ore",
+          "name": "create:crushed_raw_copper",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -294,7 +294,7 @@
         {
           "type": "minecraft:item",
           "weight": 5,
-          "name": "create:crushed_zinc_ore",
+          "name": "create:crushed_raw_zinc",
           "functions": [
             {
               "function": "minecraft:set_count",

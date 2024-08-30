@@ -181,7 +181,7 @@
         {
           "type": "minecraft:item",
           "weight": 3,
-          "name": "create:crushed_copper_ore",
+          "name": "create:crushed_raw_copper",
           "functions": [
             {
               "function": "minecraft:limit_count",
@@ -237,7 +237,7 @@
         {
           "type": "minecraft:item",
           "weight": 1,
-          "name": "quark:golden_frog_leg",
+          "name": "minecraft:golden_apple",
           "functions": [
             {
               "function": "minecraft:limit_count",
