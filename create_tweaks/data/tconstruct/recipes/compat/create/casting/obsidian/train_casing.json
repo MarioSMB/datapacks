@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:casting_basin",
+  "cast": {
+    "item": "create:brass_casing"
+  },
+  "cast_consumed": true,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "cooling_time": 80,
+  "fluid": {
+    "amount": 250,
+    "tag": "tconstruct:molten_obsidian"
+  },
+  "result": "create:train_casing"
+}

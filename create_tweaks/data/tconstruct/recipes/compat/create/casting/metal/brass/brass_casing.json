@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:casting_basin",
+  "cast": {
+    "tag": "minecraft:logs"
+  },
+  "cast_consumed": true,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "cooling_time": 40,
+  "fluid": {
+    "amount": 90,
+    "tag": "forge:molten_brass"
+  },
+  "result": "create:brass_casing"
+}
