@@ -19,5 +19,5 @@
     "amount": 250,
     "tag": "tconstruct:molten_obsidian"
   },
-  "result": "create:train_casing"
+  "result": "create:railway_casing"
 }
