@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "forge:glass/colorless"
+    }
+  ],
+  "processingTime": 20,
+  "results": [
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ]
+}
