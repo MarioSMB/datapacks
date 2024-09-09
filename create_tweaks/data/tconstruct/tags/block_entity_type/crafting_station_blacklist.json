@@ -1,0 +1,6 @@
+{
+  "values": [
+    {"id":"create:item_vault","required":false},
+    {"id":"create_connected:item_silo","required":false}
+  ]
+}

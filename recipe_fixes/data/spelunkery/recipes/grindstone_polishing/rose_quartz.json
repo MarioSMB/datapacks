@@ -3,6 +3,10 @@
     {
       "modid": "create",
       "type": "forge:mod_loaded"
+    },
+    {
+      "modid": "spelunkery",
+      "type": "forge:mod_loaded"
     }
   ],
   "type": "spelunkery:grindstone_polishing",
