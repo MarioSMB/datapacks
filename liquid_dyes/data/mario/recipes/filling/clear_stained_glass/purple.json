@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "kubejs"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "mario:clear_stained_glass"
+    },
+    {
+      "amount": 250,
+      "fluid": "kubejs:purple_dye",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "tconstruct:purple_clear_stained_glass"
+    }
+  ]
+}

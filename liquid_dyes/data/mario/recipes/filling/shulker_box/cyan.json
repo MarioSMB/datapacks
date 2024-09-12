@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "kubejs"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "mario:shulker_box"
+    },
+    {
+      "amount": 250,
+      "fluid": "kubejs:cyan_dye",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:cyan_shulker_box"
+    }
+  ]
+}

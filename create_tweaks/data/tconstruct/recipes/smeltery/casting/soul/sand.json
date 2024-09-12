@@ -1,0 +1,19 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "tconstruct:casting_basin",
+  "cast": {
+    "tag": "minecraft:sand"
+  },
+  "cast_consumed": true,
+  "cooling_time": 154,
+  "fluid": {
+    "amount": 1000,
+    "tag": "tconstruct:liquid_soul"
+  },
+  "result": "minecraft:soul_sand"
+}
