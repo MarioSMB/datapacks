@@ -1,6 +1,6 @@
 {
   "replace": true,
   "values": [
-    {"id":"oreganized:electrum_nugget","required":false}
+    {"id":"createaddition:electrum_nugget","required":false}
   ]
 }
