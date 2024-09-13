@@ -9,6 +9,21 @@
     {"id":"biomancy:bio_lab","required":false},
     {"id":"biomancy:digester","required":false},
     {"id":"biomancy:tongue","required":false},
-    {"id":"biomancy:maw_hopper","required":false}
+    {"id":"biomancy:maw_hopper","required":false},
+    {"id":"supplementaries:faucet","required":false},
+    {"id":"tconstruct:seared_faucet","required":false},
+    {"id":"tconstruct:seared_channel","required":false},
+    {"id":"tconstruct:seared_table","required":false},
+    {"id":"tconstruct:seared_basin","required":false},
+    {"id":"tconstruct:seared_drain","required":false},
+    {"id":"tconstruct:seared_duct","required":false},
+    {"id":"tconstruct:seared_chute","required":false},
+    {"id":"tconstruct:scorched_faucet","required":false},
+    {"id":"tconstruct:scorched_channel","required":false},
+    {"id":"tconstruct:scorched_table","required":false},
+    {"id":"tconstruct:scorched_basin","required":false},
+    {"id":"tconstruct:scorched_drain","required":false},
+    {"id":"tconstruct:scorched_duct","required":false},
+    {"id":"tconstruct:scorched_chute","required":false}
   ]
 }
