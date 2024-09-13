@@ -15,9 +15,56 @@
   ],
   "type": "create:filling",
   "ingredients": [
-    {
-      "tag": "mario:clear_stained_glass_pane"
-    },
+    [
+      {
+        "item": "tconstruct:clear_glass_pane"
+      },
+      {
+        "item": "tconstruct:white_clear_stained_glass_pane"
+      },
+      {
+        "item": "tconstruct:light_gray_clear_stained_glass_pane"
+      },
+      {
+        "item": "tconstruct:gray_clear_stained_glass_pane"
+      },
+      {
+        "item": "tconstruct:black_clear_stained_glass_pane"
+      },
+      {
+        "item": "tconstruct:brown_clear_stained_glass_pane"
+      },
+      {
+        "item": "tconstruct:red_clear_stained_glass_pane"
+      },
+      {
+        "item": "tconstruct:orange_clear_stained_glass_pane"
+      },
+      {
+        "item": "tconstruct:yellow_clear_stained_glass_pane"
+      },
+      {
+        "item": "tconstruct:green_clear_stained_glass_pane"
+      },
+      {
+        "item": "tconstruct:cyan_clear_stained_glass_pane"
+      },
+      {
+        "item": "tconstruct:light_blue_clear_stained_glass_pane"
+      },
+      {
+        "item": "tconstruct:blue_clear_stained_glass_pane"
+      },
+      {
+        "item": "tconstruct:purple_clear_stained_glass_pane"
+      },
+      {
+        "item": "tconstruct:magenta_clear_stained_glass_pane"
+      },
+      {
+        "item": "tconstruct:pink_clear_stained_glass_pane"
+      }
+    ],
     {
       "amount": 250,
       "fluid": "kubejs:lime_dye",
