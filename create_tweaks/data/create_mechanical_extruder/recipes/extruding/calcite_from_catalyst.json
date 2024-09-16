@@ -22,7 +22,6 @@
     "item": "farmersdelight:rich_soil"
   },
   "result": {
-    "item": "minecraft:calcite",
-    "count": 4
+    "item": "minecraft:calcite"
   }
 }

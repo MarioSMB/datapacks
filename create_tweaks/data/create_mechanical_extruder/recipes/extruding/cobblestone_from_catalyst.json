@@ -19,7 +19,6 @@
     }
   ],
   "result": {
-    "item": "minecraft:cobblestone",
-    "count": 4
+    "item": "minecraft:cobblestone"
   }
 }

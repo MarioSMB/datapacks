@@ -22,8 +22,7 @@
     "item": "minecraft:obsidian"
   },
   "result": {
-    "item": "minecraft:obsidian",
-    "count": 4
+    "item": "minecraft:obsidian"
   },
   "requiredBonks": 10
 }

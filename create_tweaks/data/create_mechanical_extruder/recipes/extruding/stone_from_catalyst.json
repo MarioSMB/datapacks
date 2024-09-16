@@ -19,7 +19,6 @@
     }
   ],
   "result": {
-    "item": "minecraft:stone",
-    "count": 4
+    "item": "minecraft:stone"
   }
 }

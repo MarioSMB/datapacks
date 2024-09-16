@@ -19,7 +19,6 @@
     "item": "minecraft:soul_soil"
   },
   "result": {
-    "item": "minecraft:basalt",
-    "count": 4
+    "item": "minecraft:basalt"
   }
 }
