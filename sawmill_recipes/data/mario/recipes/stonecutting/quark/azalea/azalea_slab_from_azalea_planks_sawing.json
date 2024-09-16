@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "quark:azalea_planks"
+  },
+  "result": "quark:azalea_planks_slab",
+  "count": 2,
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "quark"
+        },
+        {
+          "type": "quark:flag",
+          "flag": "azalea_wood"
+        }
+      ]
+    }
+  ]
+}
