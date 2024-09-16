@@ -16,6 +16,9 @@
       "amount": 1000
     }
   ],
+  "catalyst": {
+    "tag": "minecraft:campfires"
+  },
   "result": {
     "item": "minecraft:stone"
   }
