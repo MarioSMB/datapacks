@@ -1,1 +1,0 @@
-{"type":"biomancy:decomposing","ingredient":{"tag":"forge:bones"},"nutrientsCost":1,"processingTime":30,"results":[{"countRange":{"type":"uniform","max":6,"min":3},"item":"biomancy:bone_fragments"}]}

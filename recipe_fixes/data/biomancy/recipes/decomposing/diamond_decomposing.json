@@ -1,1 +1,0 @@
-{"type":"biomancy:decomposing","ingredient":{"item":"minecraft:diamond"},"nutrientsCost":1,"processingTime":30,"results":[{"countRange":{"type":"uniform","max":8,"min":4},"item":"biomancy:gem_fragments"}]}

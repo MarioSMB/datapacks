@@ -29,10 +29,6 @@
         {
           "type": "quark:flag",
           "flag": "variant_chests"
-        },
-        {
-          "type": "forge:mod_loaded",
-          "modid": "biomesoplenty"
         }
       ]
     }

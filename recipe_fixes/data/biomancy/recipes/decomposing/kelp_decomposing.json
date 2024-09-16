@@ -1,1 +1,0 @@
-{"type":"biomancy:decomposing","ingredient":{"count":2,"item":"minecraft:kelp"},"nutrientsCost":1,"processingTime":30,"results":[{"countRange":{"type":"uniform","max":2,"min":1},"item":"biomancy:organic_matter"}]}
