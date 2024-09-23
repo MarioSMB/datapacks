@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "brewinandchewin"
+    }
+  ],
+  "type": "brewinandchewin:fermenting",
+  "container": {
+    "item": "brewinandchewin:tankard"
+  },
+  "experience": 0.6,
+  "fermentingtime": 12000,
+  "fluiditem": {
+    "item": "minecraft:honey_bottle"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    }
+  ],
+  "recipe_book_tab": "drinks",
+  "result": {
+    "item": "brewinandchewin:mead"
+  },
+  "temperature": 3
+}
