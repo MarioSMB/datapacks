@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "irons_spellbooks"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluid": "minecraft:water",
+      "nbt": {},
+      "amount": 1000
+    },
+    [
+      {
+        "item": "minecraft:ink_sac"
+      },
+      {
+        "item": "minecraft:glow_ink_sac"
+      }
+    ]
+  ],
+  "results": [
+    {
+      "fluid": "kubejs:common_ink",
+      "amount": 250
+    }
+  ],
+  "heatRequirement": "heated"
+}

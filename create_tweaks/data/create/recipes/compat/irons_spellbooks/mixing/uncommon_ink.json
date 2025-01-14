@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "irons_spellbooks"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluid": "kubejs:common_ink",
+      "nbt": {},
+      "amount": 1000
+    },
+    {
+      "tag": "forge:ingots/copper"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "kubejs:uncommon_ink",
+      "amount": 250
+    }
+  ],
+  "heatRequirement": "heated"
+}

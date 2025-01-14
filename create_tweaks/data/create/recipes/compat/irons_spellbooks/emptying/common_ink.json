@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "irons_spellbooks"
+    }
+  ],
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "irons_spellbooks:common_ink"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "fluid": "kubejs:common_ink",
+      "amount": 250
+    }
+  ]
+}
