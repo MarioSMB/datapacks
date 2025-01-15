@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "minecraft:cherry_logs"
+  },
+  "result": "minecraft:cherry_slab",
+  "count": 8
+}
