@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "icarus"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "terramity"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "WWW",
+    "FEF",
+    "F F"
+  ],
+  "key":
+  {
+    "E":
+    {
+      "item": "terramity:angel_feather"
+    },
+    "F":
+    {
+      "tag": "icarus:feathers"
+    },
+    "W":
+    {
+      "item": "minecraft:honeycomb"
+    }
+  },
+  "result":
+  {
+    "item": "icarus:white_feathered_wings"
+  }
+}

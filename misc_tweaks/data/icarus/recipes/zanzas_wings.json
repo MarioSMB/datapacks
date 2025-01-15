@@ -1,0 +1,43 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "icarus"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "terramity"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "WWW",
+    "NEN",
+    "F F"
+  ],
+  "key":
+  {
+    "E":
+    {
+      "item": "terramity:angel_feather"
+    },
+    "F":
+    {
+      "item": "minecraft:glowstone_dust"
+    },
+    "N":
+    {
+      "item": "minecraft:nether_star"
+    },
+    "W":
+    {
+      "item": "minecraft:honeycomb"
+    }
+  },
+  "result":
+  {
+    "item": "icarus:zanzas_wings"
+  }
+}
+
