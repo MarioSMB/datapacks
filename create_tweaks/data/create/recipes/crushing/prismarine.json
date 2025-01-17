@@ -1,4 +1,18 @@
 {
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:not",
+      "value":
+        {
+          "type": "forge:mod_loaded",
+          "modid": "create_aquatic_ambitions"
+        }
+    }
+  ],
   "type": "create:crushing",
   "ingredients": [
     {
