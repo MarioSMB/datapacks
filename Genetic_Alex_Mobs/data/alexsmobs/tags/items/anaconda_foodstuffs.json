@@ -1,0 +1,8 @@
+{
+  "__comment": "Will follow with these items in your hand and breeds when given",
+  "replace": false,
+  "values": [
+    "eanimod:rawchicken_darkbig",
+    "eanimod:cookedchicken_darkbig"
+  ]
+}

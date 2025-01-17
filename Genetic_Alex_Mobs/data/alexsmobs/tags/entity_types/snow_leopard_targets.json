@@ -1,0 +1,26 @@
+{
+  "__comment": "all non-player targets of the snow leopard mob.",
+  "replace": false,
+  "values": [
+    "minecraft:cow",
+	"eanimod:enhanced_cow",
+    "minecraft:chicken",
+	"eanimod:enhanced_chicken",
+    "minecraft:donkey",
+    "minecraft:horse",
+    "minecraft:llama",
+	"eanimod:enhanced_llama",
+    "minecraft:mule",
+    "minecraft:parrot",
+    "minecraft:pig",
+	"eanimod:enhanced_pig",
+    "minecraft:rabbit",
+	"eanimod:enhanced_rabbit",
+    "minecraft:sheep",
+	"eanimod:enhanced_sheep",
+    "minecraft:trader_llama",
+    "alexsmobs:capuchin_monkey",
+    "alexsmobs:crow",
+    "alexsmobs:gelada_monkey"
+  ]
+}

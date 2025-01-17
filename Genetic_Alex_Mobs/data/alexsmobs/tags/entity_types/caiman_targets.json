@@ -1,0 +1,8 @@
+{
+  "__comment": "all non-player targets of the caiman mob.",
+  "replace": false,
+  "values": [
+    "eanimod:enhanced_chicken",
+    "eanimod:enhanced_rabbit"
+  ]
+}
