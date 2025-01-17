@@ -1,0 +1,15 @@
+{
+  "name": "minecraft:gameplay/hero_of_the_village/weaponsmith_gift",
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "irons_spellbooks:arcane_ingot",
+          "weight": 2
+        }
+      ],
+      "name": "main"
+    }
+  ]
+}

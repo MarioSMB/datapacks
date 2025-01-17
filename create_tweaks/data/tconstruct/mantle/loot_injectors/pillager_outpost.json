@@ -1,0 +1,14 @@
+{
+  "name": "minecraft:chests/pillager_outpost",
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "irons_spellbooks:arcane_ingot"
+        }
+      ],
+      "name": "main"
+    }
+  ]
+}
