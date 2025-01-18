@@ -7,10 +7,6 @@
     {
       "type":"forge:mod_loaded",
       "modid":"oreganized"
-    },
-    {
-      "type":"forge:mod_loaded",
-      "modid":"tinkers_reforged"
     }
   ],
   "type": "create:crushing",
@@ -47,10 +43,6 @@
     },
     {
       "item": "oreganized:silver_nugget",
-      "chance": 0.1
-    },
-    {
-      "item": "tinkers_reforged:aluminum_nugget",
       "chance": 0.1
     }
   ]
