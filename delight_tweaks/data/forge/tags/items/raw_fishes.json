@@ -1,5 +1,5 @@
 {
-  "replace": true,
+  "replace": false,
   "values": [
     {"id":"alexsmobs:raw_catfish","required":false},
     {"id":"alexsdelight:raw_catfish_slice","required":false}

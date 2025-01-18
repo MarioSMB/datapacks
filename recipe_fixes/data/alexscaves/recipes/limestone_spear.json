@@ -1,0 +1,26 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"alexscaves"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " L ",
+    "LSL",
+    " S "
+  ],
+  "key": {
+    "L": {
+      "tag": "forge:limestone"
+    },
+    "S": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "alexscaves:limestone_spear",
+    "count": 4
+  }
+}

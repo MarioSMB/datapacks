@@ -1,0 +1,32 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"alexscaves"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ACA",
+    "LDL"
+  ],
+  "key": {
+    "A": {
+      "item": "alexscaves:amber"
+    },
+    "C": {
+      "item": "alexscaves:amber_curiosity"
+    },
+    "L": {
+      "tag": "forge:limestone"
+    },
+    "D": {
+      "tag": "forge:gems/diamond"
+    }
+  },
+  "result": {
+    "item": "alexscaves:amber_monolith",
+    "count": 1
+  }
+}
