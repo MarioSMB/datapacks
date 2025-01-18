@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create_central_kitchen"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "autumnity"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "abnormals_delight"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "farmersdelight:cooked_bacon"
+    },
+    {
+      "fluid": "create_central_kitchen:syrup",
+      "nbt": {},
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "abnormals_delight:maple_glazed_bacon"
+    }
+  ]
+}
