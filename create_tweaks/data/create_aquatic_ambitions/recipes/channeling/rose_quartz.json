@@ -13,6 +13,7 @@
   ],
   "results": [
     {
+      "chance": 0.125,
       "item": "create:rose_quartz"
     }
   ]
