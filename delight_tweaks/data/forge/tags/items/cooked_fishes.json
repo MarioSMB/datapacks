@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    {"id":"alexsmobs:cooked_catfish","required":false},
+    {"id":"alexsdelight:cooked_catfish_slice","required":false}
+  ]
+}

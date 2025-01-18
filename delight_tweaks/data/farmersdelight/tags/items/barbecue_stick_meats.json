@@ -13,6 +13,7 @@
     "#forge:raw_fishes",
     "#forge:cooked_mutton",
     "#forge:raw_mutton",
+    "#forge:raw_venison",
     {"id":"alexsmobs:cooked_kangaroo_meat","required":false},
     {"id":"alexsmobs:kangaroo_meat","required":false},
     {"id":"goated:cooked_chevon","required":false},

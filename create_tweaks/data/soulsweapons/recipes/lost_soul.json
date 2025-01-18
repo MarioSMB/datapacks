@@ -1,0 +1,18 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"soulsweapons"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "minecraft:soul_sand"
+    }
+  ],
+  "result": {
+    "item": "soulsweapons:lost_soul"
+  }
+}

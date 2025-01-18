@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    {"id":"alexsmobs:cooked_bison","required":false},
+    {"id":"alexsdelight:bison_patty","required":false}
+  ]
+}
