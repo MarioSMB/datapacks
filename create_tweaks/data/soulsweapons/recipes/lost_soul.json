@@ -9,7 +9,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "tag": "minecraft:soul_sand"
+      "item": "minecraft:soul_sand"
     }
   ],
   "result": {
