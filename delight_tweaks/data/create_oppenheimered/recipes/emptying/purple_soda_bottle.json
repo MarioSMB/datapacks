@@ -1,0 +1,31 @@
+{
+  "conditions":[
+      {
+         "type":"forge:mod_loaded",
+         "modid":"alexscaves"
+      },
+      {
+         "type":"forge:mod_loaded",
+         "modid":"create"
+      },
+      {
+         "type":"forge:mod_loaded",
+         "modid":"create_oppenheimered"
+      }
+   ],
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "alexscaves:purple_soda_bottle"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "fluid": "alexscaves:purple_soda",
+      "amount": 250
+    }
+  ]
+}
