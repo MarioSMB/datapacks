@@ -17,15 +17,14 @@
     },
     {
       "item": "minecraft:carrot"
-    },
-    {
-      "item": "minecraft:bowl"
     }
   ],
   "recipe_book_tab": "meals",
   "result": {
     "item": "abnormals_delight:seared_venison"
   },
+  "experience": 1.0,
+  "cookingtime": 200,
   "conditions": [
     {
       "type": "forge:mod_loaded",
