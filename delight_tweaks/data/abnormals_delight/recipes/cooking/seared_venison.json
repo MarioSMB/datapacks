@@ -1,0 +1,39 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    [
+      {
+        "tag": "forge:raw_venison"
+      },
+      {
+        "tag": "forge:cooked_venison"
+      }
+    ],
+    {
+      "tag": "forge:fruits/cherry"
+    },
+    {
+      "tag": "forge:fruits/cherry"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "abnormals_delight:seared_venison"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "environmental"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "abnormals_delight"
+    }
+  ]
+}
