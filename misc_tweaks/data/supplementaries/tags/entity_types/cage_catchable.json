@@ -2,7 +2,8 @@
   "replace": false,
   "values": [
     {"id":"alexscaves:raycat","required":false},
-    {"id":"naturalist:duck","required":false}
+    {"id":"naturalist:duck","required":false},
+    {"id":"autumnity:turkey","required":false}
   ]
 }
 
