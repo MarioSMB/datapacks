@@ -21,9 +21,7 @@
       "amount": 1000
     },
     {
-      "fluidTag": "forge:molten_copper",
-      "nbt": {},
-      "amount": 250
+      "tag": "minecraft:small_flowers"
     }
   ],
   "results": [
