@@ -7,10 +7,6 @@
     {
       "type": "forge:mod_loaded",
       "modid": "create_wizardry"
-    },
-    {
-      "type": "forge:mod_loaded",
-      "modid": "tconstruct"
     }
   ],
   "type": "create:mixing",
@@ -21,7 +17,7 @@
       "amount": 1000
     },
     {
-      "fluidTag": "forge:molten_gold",
+      "fluid": "create_wizardry:blood",
       "nbt": {},
       "amount": 250
     }

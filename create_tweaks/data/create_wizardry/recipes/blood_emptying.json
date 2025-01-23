@@ -7,10 +7,6 @@
     {
       "type": "forge:mod_loaded",
       "modid": "create_wizardry"
-    },
-    {
-      "type": "forge:mod_loaded",
-      "modid": "biomesoplenty"
     }
   ],
   "type": "create:emptying",
@@ -25,7 +21,7 @@
     },
     {
       "amount": 250,
-      "fluid": "biomesoplenty:blood"
+      "fluid": "create_wizardry:blood"
     }
   ]
 }

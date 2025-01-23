@@ -1,7 +1,30 @@
 {
   "conditions": [
     {
-      "type": "forge:false"
+      "type": "forge:mod_loaded",
+      "modid": "irons_spellbooks"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create_wizardry"
     }
-  ]
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluid": "create_wizardry:epic_ink",
+      "nbt": {},
+      "amount": 1000
+    },
+    {
+      "tag": "forge:gems/amethyst"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "create_wizardry:legendary_ink",
+      "amount": 1000
+    }
+  ],
+  "heatRequirement": "heated"
 }
