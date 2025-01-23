@@ -1,4 +1,10 @@
 {
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
   "type": "farmersdelight:cooking",
   "ingredients": [
     {
@@ -10,14 +16,9 @@
     {
       "item": "minecraft:carrot"
     },
-    [
-      {
-        "item": "minecraft:cooked_chicken"
-      },
-      {
-        "item": "minecraft:chicken"
-      }
-    ],
+    {
+      "tag": "farmersdelight:roast_chicken_meats"
+    },
     {
       "item": "minecraft:carrot"
     },

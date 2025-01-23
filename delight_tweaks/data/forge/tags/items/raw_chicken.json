@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"eanimod:rawchicken_darksmall","required":false},
+    {"id":"eanimod:rawchicken_dark","required":false},
+    {"id":"eanimod:rawchicken_palesmall","required":false},
+    {"id":"eanimod:rawchicken_pale","required":false},
+    {"id":"autumnity:turkey","required":false},
+    {"id":"autumnity:turkey_piece","required":false}
+  ]
+}
