@@ -1,6 +1,6 @@
 {
   "replace": true,
   "values": [
-    {"id":"createdeco:cast_iron_nugget","required":false}
+    {"id":"cataclysm:black_steel_nugget","required":false}
   ]
 }

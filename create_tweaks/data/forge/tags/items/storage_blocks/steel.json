@@ -1,6 +1,6 @@
 {
   "replace": true,
   "values": [
-    {"id":"createdeco:cast_iron_block","required":false}
+    {"id":"cataclysm:black_steel_block","required":false}
   ]
 }
