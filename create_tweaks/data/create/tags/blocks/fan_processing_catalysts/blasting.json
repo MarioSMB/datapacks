@@ -1,6 +1,5 @@
 {
   "values": [
-    "minecraft:lava_cauldron",
-    {"id":"createaddition:liquid_blaze_burner","required":false}
+    "minecraft:lava_cauldron"
   ]
 }

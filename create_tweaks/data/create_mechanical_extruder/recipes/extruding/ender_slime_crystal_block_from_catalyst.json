@@ -6,10 +6,6 @@
     },
     {
       "type":"forge:mod_loaded",
-      "modid":"create_connected"
-    },
-    {
-      "type":"forge:mod_loaded",
       "modid":"tconstruct"
     }
   ],
@@ -19,7 +15,7 @@
       "item": "tconstruct:ender_congealed_slime"
     },
     {
-      "item": "create_connected:fan_blasting_catalyst"
+      "item": "minecraft:lava_cauldron"
     }
   ],
   "result": {

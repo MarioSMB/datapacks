@@ -15,7 +15,7 @@
       "item": "minecraft:honey_block"
     },
     {
-      "item": "create_connected:fan_splashing_catalyst"
+      "item": "minecraft:water_cauldron"
     }
   ],
   "catalyst": {

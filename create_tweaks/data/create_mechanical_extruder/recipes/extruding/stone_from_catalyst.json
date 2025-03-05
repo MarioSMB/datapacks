@@ -3,19 +3,15 @@
     {
       "type":"forge:mod_loaded",
       "modid":"create_mechanical_extruder"
-    },
-    {
-      "type":"forge:mod_loaded",
-      "modid":"create_connected"
     }
   ],
   "type": "create_mechanical_extruder:extruding",
   "ingredients": [
     {
-      "item": "create_connected:fan_splashing_catalyst"
+      "item": "minecraft:water_cauldron"
     },
     {
-      "item": "create_connected:fan_blasting_catalyst"
+      "item": "minecraft:lava_cauldron"
     }
   ],
   "catalyst": {

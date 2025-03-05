@@ -11,7 +11,7 @@
       "item": "create:scoria"
     },
     {
-      "item": "create_connected:fan_blasting_catalyst"
+      "item": "minecraft:lava_cauldron"
     }
   ],
   "result": {
