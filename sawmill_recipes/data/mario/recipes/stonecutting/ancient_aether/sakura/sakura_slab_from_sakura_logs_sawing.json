@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "ancient_aether:sakura_logs"
+  },
+  "result": "ancient_aether:sakura_slab",
+  "count": 8,
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"ancient_aether"
+    }
+  ]
+}

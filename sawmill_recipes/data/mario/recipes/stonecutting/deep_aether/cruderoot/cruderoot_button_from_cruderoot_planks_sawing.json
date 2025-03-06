@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "deep_aether:cruderoot_planks"
+  },
+  "result": "deep_aether:cruderoot_button",
+  "count": 1,
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"deep_aether"
+    }
+  ]
+}

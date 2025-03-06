@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "deep_aether:yagroot_planks"
+  },
+  "result": "deep_aether:yagroot_slab",
+  "count": 2,
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"deep_aether"
+    }
+  ]
+}

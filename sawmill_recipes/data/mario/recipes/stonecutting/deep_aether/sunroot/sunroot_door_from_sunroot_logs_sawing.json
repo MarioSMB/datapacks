@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "deep_aether:sunroot_logs"
+  },
+  "result": "deep_aether:sunroot_door",
+  "count": 2,
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"deep_aether"
+    }
+  ]
+}
