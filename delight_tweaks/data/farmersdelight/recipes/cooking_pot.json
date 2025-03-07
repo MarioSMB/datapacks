@@ -12,19 +12,14 @@
     "iii"
   ],
   "key": {
-    "b": [
-      {
-        "item": "minecraft:brick"
-      },
-      {
-        "item": "minecraft:nether_brick"
-      }
-    ],
+    "b": {
+      "tag": "farmersdelight:bricks"
+    },
     "i": {
       "tag": "forge:ingots/iron"
     },
     "S": {
-      "item": "minecraft:wooden_shovel"
+      "tag": "farmersdelight:shovels"
     },
     "W": [
       {

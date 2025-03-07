@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:wooden_shovel",
+    {"id":"aether:skyroot_shovel","required":false}
+  ]
+}
