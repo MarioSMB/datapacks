@@ -6,19 +6,20 @@
     },
     {
       "type":"forge:mod_loaded",
-      "modid":"tconstruct"
+      "modid":"aether"
     }
   ],
   "type": "create_mechanical_extruder:extruding",
   "ingredients": [
     {
-      "item": "tconstruct:earth_congealed_slime"
+      "item": "aether:ambrosium_block"
     },
     {
-      "item": "minecraft:magma_block"
+      "fluid": "minecraft:water",
+      "amount": 1000
     }
   ],
   "result": {
-    "item": "tconstruct:earth_slime_crystal_block"
+    "item": "aether:holystone"
   }
 }

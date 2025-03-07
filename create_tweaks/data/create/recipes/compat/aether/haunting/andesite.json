@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "aether"
+    }
+  ],
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "aether:holystone"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:andesite"
+    }
+  ]
+}

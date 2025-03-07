@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "aether"
+    }
+  ],
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "aether:quicksoil"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.25,
+      "item": "aether:ambrosium_shard"
+    },
+    {
+      "chance": 0.125,
+      "item": "minecraft:iron_nugget"
+    }
+  ]
+}

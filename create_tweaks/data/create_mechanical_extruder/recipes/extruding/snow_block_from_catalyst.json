@@ -3,12 +3,16 @@
     {
       "type":"forge:mod_loaded",
       "modid":"create_mechanical_extruder"
+    },
+    {
+      "type":"forge:mod_loaded",
+      "modid":"aether"
     }
   ],
   "type": "create_mechanical_extruder:extruding",
   "ingredients": [
     {
-      "item": "minecraft:water_cauldron"
+      "item": "aether:icestone"
     },
     {
       "item": "minecraft:packed_ice"

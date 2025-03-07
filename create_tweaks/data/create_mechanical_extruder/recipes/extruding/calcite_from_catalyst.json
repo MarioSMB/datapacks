@@ -7,6 +7,10 @@
     {
       "type":"forge:mod_loaded",
       "modid":"farmersdelight"
+    },
+    {
+      "type":"forge:mod_loaded",
+      "modid":"aether"
     }
   ],
   "type": "create_mechanical_extruder:extruding",
@@ -15,7 +19,7 @@
       "item": "minecraft:honey_block"
     },
     {
-      "item": "minecraft:water_cauldron"
+      "item": "aether:icestone"
     }
   ],
   "catalyst": {
