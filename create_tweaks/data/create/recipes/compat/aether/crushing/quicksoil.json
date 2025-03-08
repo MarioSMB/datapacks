@@ -22,15 +22,15 @@
     },
     {
       "chance": 0.1,
-      "item": "aether:ambrosium_shard"
+      "item": "minecraft:clay"
     },
     {
       "chance": 0.1,
-      "item": "minecraft:clay"
+      "item": "aether:ambrosium_shard"
     }
     {
       "chance": 0.05,
-      "item": "minecraft:glowstone_dust"
+      "item": "minecraft:flint"
     }
   ]
 }
