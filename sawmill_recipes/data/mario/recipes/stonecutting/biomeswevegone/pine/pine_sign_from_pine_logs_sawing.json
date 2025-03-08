@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "biomeswevegone:pine_logs"
+  },
+  "result": "biomeswevegone:pine_sign",
+  "count": 2,
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"biomeswevegone"
+    }
+  ]
+}

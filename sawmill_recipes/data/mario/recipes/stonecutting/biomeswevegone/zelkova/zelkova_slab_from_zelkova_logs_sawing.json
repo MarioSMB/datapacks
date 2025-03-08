@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "biomeswevegone:zelkova_logs"
+  },
+  "result": "biomeswevegone:zelkova_slab",
+  "count": 8,
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"biomeswevegone"
+    }
+  ]
+}

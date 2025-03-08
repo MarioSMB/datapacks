@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "biomeswevegone:redwood_planks"
+  },
+  "result": "biomeswevegone:redwood_stairs",
+  "count": 1,
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"biomeswevegone"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "biomeswevegone:mahogany_logs"
+  },
+  "result": "biomeswevegone:mahogany_sign",
+  "count": 2,
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"biomeswevegone"
+    }
+  ]
+}

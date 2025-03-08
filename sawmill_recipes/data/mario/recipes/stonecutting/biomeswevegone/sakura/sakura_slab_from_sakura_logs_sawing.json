@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "biomeswevegone:sakura_logs"
+  },
+  "result": "biomeswevegone:sakura_slab",
+  "count": 8,
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"biomeswevegone"
+    }
+  ]
+}
