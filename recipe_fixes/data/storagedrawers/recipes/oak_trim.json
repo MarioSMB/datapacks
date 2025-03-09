@@ -1,0 +1,19 @@
+{
+    "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "storagedrawers"
+        }
+    ],
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "X/X",
+        "/X/",
+        "X/X"
+    ],
+    "key": {
+        "/": { "tag": "forge:rods/wooden" },
+        "X": { "tag": "storagedrawers:oak_planks" }
+    },
+    "result": { "item": "storagedrawers:oak_trim", "count": 4 }
+}
