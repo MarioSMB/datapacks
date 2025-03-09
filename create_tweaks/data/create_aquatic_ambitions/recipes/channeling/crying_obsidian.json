@@ -1,0 +1,19 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"create_aquatic_ambitions"
+    }
+  ],
+  "type": "create_aquatic_ambitions:channeling",
+  "ingredients": [
+    {
+      "item": "minecraft:obsidian"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:crying_obsidian"
+    }
+  ]
+}
