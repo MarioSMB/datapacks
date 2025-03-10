@@ -1,0 +1,11 @@
+{
+  "values": [
+    {"id":"ancient_aether:highsproot_planks","required":false},
+    {"id":"ancient_aether:sakura_planks","required":false},
+    {"id":"deep_aether:roseroot_planks","required":false},
+    {"id":"deep_aether:yagroot_planks","required":false},
+    {"id":"deep_aether:cruderoot_planks","required":false},
+    {"id":"deep_aether:conberry_planks","required":false},
+    {"id":"deep_aether:sunroot_planks","required":false}
+  ]
+}
