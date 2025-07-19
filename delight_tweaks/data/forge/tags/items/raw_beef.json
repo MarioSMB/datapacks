@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values": [
-    {"id":"alexsmobs:raw_bison","required":false},
+    {"id":"alexsdelight:raw_bison","required":false},
     {"id":"alexsdelight:bison_mince","required":false}
   ]
 }

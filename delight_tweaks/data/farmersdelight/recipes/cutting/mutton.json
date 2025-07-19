@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "tag": "farmersdelight:mutton_chops_meats"
+    }
+  ],
+  "result": [
+    {
+      "count": 2,
+      "item": "farmersdelight:mutton_chops"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

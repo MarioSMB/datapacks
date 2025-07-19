@@ -1,0 +1,34 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "kubejs"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "aether_redux"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "aether_redux:raw_veridium_block"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 9,
+      "item": "kubejs:crushed_raw_veridium"
+    },
+    {
+      "chance": 0.75,
+      "count": 18,
+      "item": "create:experience_nugget"
+    }
+  ]
+}

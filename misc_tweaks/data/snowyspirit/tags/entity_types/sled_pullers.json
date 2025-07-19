@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"dragnpets:australian_shepherd","required":false},
+    {"id":"dragnpets:bernese","required":false},
+    {"id":"dragnpets:bloodhound","required":false},
+    {"id":"dragnpets:border_collie","required":false},
+    {"id":"dragnpets:cocker_spaniel","required":false},
+    {"id":"dragnpets:doberman","required":false},
+    {"id":"dragnpets:husky","required":false},
+    {"id":"dragnpets:labrador","required":false},
+    {"id":"dragnpets:o_wolf","required":false},
+    {"id":"dragnpets:pyrenees","required":false},
+    {"id":"dragnpets:rottweiler","required":false},
+    {"id":"dragnpets:whippet","required":false}
+  ]
+}

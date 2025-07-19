@@ -69,7 +69,7 @@
       }
     ],
     {
-      "amount": 250,
+      "amount": 32,
       "fluid": "kubejs:lime_dye",
       "nbt": {}
     }

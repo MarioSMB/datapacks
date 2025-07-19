@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "dragnlivestock"
+    },
+    {
+      "type": "forge:not",
+      "value":
+        {
+          "type": "forge:mod_loaded",
+          "modid": "farmersdelight"
+        }
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "dragnlivestock:utility_knife"
+    },
+    {
+      "tag": "dragnlivestock:makes_pork_jerky"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "dragnlivestock:pork_strips"
+  }
+}

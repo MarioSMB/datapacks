@@ -1,0 +1,61 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "kubejs"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersrespite"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "vampirism"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "vampiresdelight"
+    }
+  ],
+  "type": "farmersrespite:brewing",
+  "base": {
+    "count": 1000,
+    "fluid": "minecraft:water"
+  },
+  "cookingtime": 2400,
+  "experience": 0.35,
+  "ingredients": [
+    {
+      "type": "forge:nbt",
+      "item": "vampirism:blood_bottle",
+      "nbt": "{Damage:9}"
+    },
+    [
+      {
+        "item": "minecraft:apple"
+      },
+      {
+        "item": "minecraft:sweet_berries"
+      },
+      {
+        "item": "minecraft:glow_berries"
+      },
+      {
+        "item": "vampirism:cursed_roots"
+      },
+      {
+        "item": "vampirism:dark_spruce_leaves"
+      },
+      {
+        "item": "vampirism:dark_spruce_sapling"
+      },
+      {
+        "item": "vampirism:cursed_spruce_sapling"
+      }
+    ]
+  ],
+  "result": {
+    "count": 1000,
+    "fluid": "kubejs:blood_syrup"
+  }
+}

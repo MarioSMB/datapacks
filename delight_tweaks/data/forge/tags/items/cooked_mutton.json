@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"dragnlivestock:cooked_chevon","required":false},
+    {"id":"dragnlivestock:cooked_chevon_rib","required":false},
+    {"id":"dragnlivestock:cooked_chevon_loin","required":false}
+  ]
+}

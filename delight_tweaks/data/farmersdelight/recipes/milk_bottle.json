@@ -9,7 +9,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "minecraft:milk_bucket"
+      "tag": "farmersdelight:milk_buckets"
     },
     {
       "item": "minecraft:glass_bottle"

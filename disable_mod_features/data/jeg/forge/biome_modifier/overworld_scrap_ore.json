@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#jeg:disabled_ore",
+  "features": "jeg:scrap_ore_placed",
+  "step": "underground_ores"
+}

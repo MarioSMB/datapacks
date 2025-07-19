@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#forge:dragon_forest_spawns",
+  "spawners": {
+    "type": "hiccups_legacy:speed_stinger",
+    "weight": 3,
+    "minCount": 1,
+    "maxCount": 3
+  }
+}

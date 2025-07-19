@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:porkchop",
+    {"id":"dragnlivestock:pork_tenderloin","required":false},
+    {"id":"dragnlivestock:pork_rib_chop","required":false}
+  ]
+}
