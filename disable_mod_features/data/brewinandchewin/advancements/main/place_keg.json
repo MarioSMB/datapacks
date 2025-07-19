@@ -1,0 +1,37 @@
+{
+  "parent": "farmersdelight:main/root",
+  "criteria": {
+    "placed_keg": {
+      "conditions": {
+        "location": [
+          {
+            "block": "brewinandchewin:keg",
+            "condition": "minecraft:block_state_property"
+          }
+        ]
+      },
+      "trigger": "minecraft:placed_block"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "brewinandchewin.advancement.place_keg.desc"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "brewinandchewin:keg"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "brewinandchewin.advancement.place_keg"
+    }
+  },
+  "requirements": [
+    [
+      "placed_keg"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

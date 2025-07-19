@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "aether_redux"
+    }
+  ],
+  "type": "farmersdelight:cooking",
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "aether_redux:wynd_oats"
+    },
+    {
+      "item": "aether_redux:wynd_oats"
+    },
+    {
+      "item": "aether_redux:wynd_oats"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "aether_redux:oatmeal"
+  }
+}

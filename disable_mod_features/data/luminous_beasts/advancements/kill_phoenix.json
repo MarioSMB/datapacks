@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "luminous_beasts:phoenix_trophy"
+    },
+    "title": {
+      "translate": "advancements.kill_phoenix.title"
+    },
+    "description": {
+      "translate": "advancements.kill_phoenix.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "kill_phoenix_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 50
+  },
+  "parent": "minecraft:adventure/kill_a_mob"
+}

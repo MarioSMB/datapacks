@@ -1,0 +1,28 @@
+{
+  "parent": "aether:enter_aether",
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.deep_aether.explore_aether.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "deep_aether:roseroot_sapling"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.deep_aether.explore_aether.title"
+    }
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "biomancy"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:ender_pearl"
+    },
+    "E": {
+      "item": "minecraft:spider_eye"
+    },
+    "F": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "P": {
+      "tag": "biomancy:raw_meats"
+    }
+  },
+  "pattern": [
+    "PFP",
+    "#E#",
+    "PFP"
+  ],
+  "result": {
+    "item": "biomancy:primordial_core"
+  },
+  "show_notification": true
+}

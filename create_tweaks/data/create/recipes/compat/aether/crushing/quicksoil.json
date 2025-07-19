@@ -22,11 +22,7 @@
     },
     {
       "chance": 0.1,
-      "item": "minecraft:clay"
-    },
-    {
-      "chance": 0.1,
-      "item": "aether:ambrosium_shard"
+      "item": "minecraft:clay_ball"
     },
     {
       "chance": 0.05,
