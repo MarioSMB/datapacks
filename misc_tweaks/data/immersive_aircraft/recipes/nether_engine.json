@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersive_aircraft"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "N",
+    "E",
+    "R"
+  ],
+  "key": {
+    "R": [
+      {
+        "item": "create:blaze_burner"
+      }
+    ],
+    "N": [
+      {
+        "item": "minecraft:netherite_ingot"
+      }
+    ],
+    "E": [
+      {
+        "item": "create:steam_engine"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:nether_engine"
+  }
+}

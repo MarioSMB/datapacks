@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersive_aircraft"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CH ",
+    "W  ",
+    "   "
+  ],
+  "key": {
+    "C": [
+      {
+        "item": "minecraft:crossbow"
+      }
+    ],
+    "H": [
+      {
+        "item": "minecraft:tripwire_hook"
+      }
+    ],
+    "W": [
+      {
+        "item": "create:andesite_casing"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:heavy_crossbow"
+  }
+}

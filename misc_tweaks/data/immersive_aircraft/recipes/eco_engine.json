@@ -1,0 +1,43 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersive_aircraft"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CNC",
+    "NEN",
+    "RRR"
+  ],
+  "key": {
+    "C": [
+      {
+        "item": "minecraft:slime_ball"
+      }
+    ],
+    "R": [
+      {
+        "item": "minecraft:brick"
+      }
+    ],
+    "N": [
+      {
+        "item": "create:golden_sheet"
+      }
+    ],
+    "E": [
+      {
+        "item": "create:steam_engine"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:eco_engine"
+  }
+}

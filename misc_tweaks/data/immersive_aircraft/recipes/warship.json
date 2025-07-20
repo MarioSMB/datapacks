@@ -1,0 +1,48 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersive_aircraft"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SHS",
+    "EAE",
+    "HGH"
+  ],
+  "key": {
+    "S": [
+      {
+        "item": "create:white_sail"
+      }
+    ],
+    "H": [
+      {
+        "item": "immersive_aircraft:hull"
+      }
+    ],
+    "E": [
+      {
+        "item": "create:steam_engine"
+      }
+    ],
+    "G": [
+      {
+        "item": "immersive_aircraft:industrial_gears"
+      }
+    ],
+    "A": [
+      {
+        "item": "immersive_aircraft:cargo_airship"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:warship"
+  }
+}

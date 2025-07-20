@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "kubejs"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "alexsmobs"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "alexsmobs:blobfish"
+    },
+    {
+      "item": "alexsmobs:blobfish"
+    },
+    {
+      "item": "alexsmobs:blobfish"
+    },
+    {
+      "item": "alexsmobs:blobfish"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "kubejs:fish_oil",
+      "amount": 250
+    }
+  ],
+  "heatRequirement": "heated"
+}

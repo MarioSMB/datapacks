@@ -1,0 +1,38 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersive_aircraft"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PBP",
+    "BEB",
+    "PBP"
+  ],
+  "key": {
+    "E": [
+      {
+        "item": "create:steam_engine"
+      }
+    ],
+    "B": [
+      {
+        "item": "minecraft:bamboo"
+      }
+    ],
+    "P": [
+      {
+        "item": "create:propeller"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:quadrocopter"
+  }
+}
