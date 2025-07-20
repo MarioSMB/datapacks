@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "hiccups_legacy:dead_eel"
+    },
+    "title": {
+      "translate": "advancements.this_is_berk.title"
+    },
+    "description": {
+      "translate": "advancements.this_is_berk.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "this_is_berk_0": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
