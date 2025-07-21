@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		{"id":"hiccups_legacy:dragonroot_seeds","required":false},
+		{"id":"snowyspirit:ginger_flower","required":false}
+	]
+}
