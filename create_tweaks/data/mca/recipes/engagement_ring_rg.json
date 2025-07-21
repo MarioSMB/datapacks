@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mca"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GDG",
+    "G G",
+    "GGG"
+  ],
+  "key": {
+    "G": [
+      { "tag": "forge:ingots/rose_gold" }
+    ],
+    "D": [
+      { "item": "minecraft:diamond" }
+    ]
+  },
+  "result": {
+    "item": "mca:engagement_ring_rg"
+  }
+}
