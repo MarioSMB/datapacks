@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "dragnlivestock:horse",
+      "value": 200
+    },
+    {
+      "id": "dragnlivestock:horse_rib_steak",
+      "value": 150
+    },
+    {
+      "id": "dragnlivestock:horse_sirloin_steak",
+      "value": 150
+    },
+    {
+      "id": "dragnlivestock:beef_rib_steak",
+      "value": 150
+    },
+    {
+      "id": "dragnlivestock:beef_sirloin_steak",
+      "value": 150
+    }
+  ]
+}

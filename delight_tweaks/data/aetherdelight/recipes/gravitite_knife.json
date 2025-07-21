@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+	  {
+      "type": "forge:mod_loaded",
+      "modid": "aether"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "aetherdelight"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "aether_redux"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "2 "
+  ],
+  "key": {
+    "1": {
+      "item": "aether_redux:gravitite_ingot"
+    },
+    "2": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "aetherdelight:gravitite_knife",
+    "count": 1
+  }
+}
