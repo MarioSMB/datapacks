@@ -1,0 +1,34 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "biomesoplenty"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "spelunkery"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:dried_salt"
+    }
+  ],
+  "results": [
+    {
+      "item": "spelunkery:salt",
+      "count": 2,
+      "chance": 0.5
+    },
+    {
+      "item": "minecraft:clay_ball",
+      "chance": 0.25
+    },
+    {
+      "item": "minecraft:bone_meal",
+      "chance": 0.05
+    }
+  ],
+  "processingTime": 150
+}

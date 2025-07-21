@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "biomancy"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "biomancy:nutrient_paste"
+    }
+  ],
+  "processingTime": 150,
+  "results": [
+    {
+      "item": "biomancy:nutrients",
+      "count": 5
+    }
+  ]
+}

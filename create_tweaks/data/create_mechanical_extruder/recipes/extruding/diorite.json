@@ -1,0 +1,26 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"create_mechanical_extruder"
+    },
+    {
+      "type":"forge:mod_loaded",
+      "modid":"biomancy"
+    }
+  ],
+  "type": "create_mechanical_extruder:extruding",
+  "ingredients": [
+    {
+      "fluid": "biomancy:acid",
+      "amount": 1000
+    },
+    {
+      "fluid": "minecraft:lava",
+      "amount": 1000
+    }
+  ],
+  "result": {
+    "item": "minecraft:diorite"
+  }
+}
