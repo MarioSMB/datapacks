@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "duckling:raw_duck",
+      "value": 0
+    },
+    {
+      "id": "duckling:cooked_duck",
+      "value": 0
+    }
+  ]
+}

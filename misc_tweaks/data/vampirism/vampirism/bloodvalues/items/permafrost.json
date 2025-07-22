@@ -1,0 +1,53 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "permafrost:mammoth",
+      "value": 200
+    },
+    {
+      "id": "permafrost:cooked_mammoth",
+      "value": 0
+    },
+    {
+      "id": "permafrost:deinotherium",
+      "value": 200
+    },
+    {
+      "id": "permafrost:cooked_deinotherium",
+      "value": 0
+    },
+    {
+      "id": "permafrost:direwolf",
+      "value": 100
+    },
+    {
+      "id": "permafrost:cooked_direwolf",
+      "value": 0
+    },
+    {
+      "id": "permafrost:cervid",
+      "value": 100
+    },
+    {
+      "id": "permafrost:cooked_cervid",
+      "value": 0
+    },
+    {
+      "id": "permafrost:paraceratherium",
+      "value": 200
+    },
+    {
+      "id": "permafrost:cooked_paraceratherium",
+      "value": 0
+    },
+    {
+      "id": "permafrost:dinofelis",
+      "value": 100
+    },
+    {
+      "id": "permafrost:cooked_dinofelis",
+      "value": 0
+    }
+  ]
+}

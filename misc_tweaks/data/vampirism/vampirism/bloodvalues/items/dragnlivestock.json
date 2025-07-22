@@ -2,6 +2,22 @@
   "replace": false,
   "values": [
     {
+      "id": "dragnlivestock:beef_rib_steak",
+      "value": 150
+    },
+    {
+      "id": "dragnlivestock:beef_sirloin_steak",
+      "value": 150
+    },
+    {
+      "id": "dragnlivestock:cooked_beef_rib_steak",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:cooked_beef_sirloin_steak",
+      "value": 0
+    },
+    {
       "id": "dragnlivestock:horse",
       "value": 200
     },
@@ -14,12 +30,208 @@
       "value": 150
     },
     {
-      "id": "dragnlivestock:beef_rib_steak",
+      "id": "dragnlivestock:cooked_horse",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:cooked_horse_rib_steak",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:cooked_horse_sirloin_steak",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:llama",
+      "value": 100
+    },
+    {
+      "id": "dragnlivestock:llama_rib",
+      "value": 75
+    },
+    {
+      "id": "dragnlivestock:llama_loin",
+      "value": 75
+    },
+    {
+      "id": "dragnlivestock:cooked_llama",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:cooked_llama_rib",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:cooked_llama_loin",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:mutton_loin",
+      "value": 75
+    },
+    {
+      "id": "dragnlivestock:mutton_rib",
+      "value": 75
+    },
+    {
+      "id": "dragnlivestock:cooked_mutton_loin",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:cooked_mutton_rib",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:pork_tenderloin",
+      "value": 75
+    },
+    {
+      "id": "dragnlivestock:pork_rib_chop",
+      "value": 75
+    },
+    {
+      "id": "dragnlivestock:cooked_pork_tenderloin",
+      "value": 75
+    },
+    {
+      "id": "dragnlivestock:cooked_pork_rib_chop",
+      "value": 75
+    },
+    {
+      "id": "dragnlivestock:camel",
+      "value": 200
+    },
+    {
+      "id": "dragnlivestock:camel_rib",
       "value": 150
     },
     {
-      "id": "dragnlivestock:beef_sirloin_steak",
+      "id": "dragnlivestock:camel_loin",
       "value": 150
+    },
+    {
+      "id": "dragnlivestock:cooked_camel",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:cooked_camel_rib",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:cooked_camel_loin",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:chevon",
+      "value": 100
+    },
+    {
+      "id": "dragnlivestock:chevon_rib",
+      "value": 75
+    },
+    {
+      "id": "dragnlivestock:chevon_loin",
+      "value": 75
+    },
+    {
+      "id": "dragnlivestock:cooked_chevon",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:cooked_chevon_rib",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:cooked_chevon_loin",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:chicken_thigh",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:cooked_chicken_thigh",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:rabbit_thigh",
+      "value": 75
+    },
+    {
+      "id": "dragnlivestock:cooked_rabbit_thigh",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:frog",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:cooked_frog",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:grub",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:cooked_grub",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:salmon_roe",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:cod_roe",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:caribou",
+      "value": 200
+    },
+    {
+      "id": "dragnlivestock:caribou_rib_steak",
+      "value": 150
+    },
+    {
+      "id": "dragnlivestock:caribou_sirloin_steak",
+      "value": 150
+    },
+    {
+      "id": "dragnlivestock:cooked_caribou",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:cooked_caribou_rib_steak",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:cooked_caribou_sirloin_steak",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:unicorn",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:unicorn_rib_steak",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:unicorn_sirloin_steak",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:cooked_unicorn",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:cooked_unicorn_rib_steak",
+      "value": 0
+    },
+    {
+      "id": "dragnlivestock:cooked_unicorn_sirloin_steak",
+      "value": 0
     }
   ]
 }
