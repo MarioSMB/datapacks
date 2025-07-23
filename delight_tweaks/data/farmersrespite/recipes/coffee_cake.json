@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersrespite"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": {
+      "item": "farmersrespite:coffee_beans"
+    },
+    "e": {
+      "tag": "forge:eggs"
+    },
+    "m": {
+      "tag": "forge:milk"
+    },
+    "s": {
+      "item": "minecraft:sugar"
+    },
+    "w": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "msm",
+    "cec",
+    "www"
+  ],
+  "result": {
+    "item": "farmersrespite:coffee_cake"
+  },
+  "show_notification": true
+}
