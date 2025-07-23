@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "biomesoplenty"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "alexscaves"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:brimstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "alexscaves:sulfur_dust",
+      "count": 0.3
+    },
+    {
+      "item": "alexscaves:sulfur_dust",
+      "chance": 0.3
+    }
+  ],
+  "processingTime": 150
+}
