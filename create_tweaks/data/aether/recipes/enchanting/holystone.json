@@ -1,0 +1,20 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "aether"
+    }
+  ],
+  "type": "aether:enchanting",
+  "category": "enchanting_misc",
+  "cookingtime": 50,
+  "experience": 0.15,
+  "ingredient": {
+    "tag": "forge:cobblestone"
+  },
+  "result": "aether:holystone"
+}
