@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "biomancy"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "biomancy:flesh"
+    }
+  ],
+  "processingTime": 150,
+  "results": [
+    {
+      "count": 3,
+      "item": "biomancy:flesh_bits"
+    },
+    {
+      "chance": 0.5,
+      "item": "biomancy:flesh_bits"
+    }
+  ]
+}
