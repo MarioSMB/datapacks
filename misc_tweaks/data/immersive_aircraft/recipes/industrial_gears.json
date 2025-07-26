@@ -18,12 +18,12 @@
   "key": {
     "C": [
       {
-        "item": "minecraft:copper_sheet"
+        "item": "create:copper_sheet"
       }
     ],
     "I": [
       {
-        "item": "minecraft:iron_sheet"
+        "item": "create:iron_sheet"
       }
     ],
     "L": [
