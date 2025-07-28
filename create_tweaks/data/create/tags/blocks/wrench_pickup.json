@@ -10,6 +10,7 @@
     {"id":"biomancy:digester","required":false},
     {"id":"biomancy:tongue","required":false},
     {"id":"biomancy:maw_hopper","required":false},
+    {"id":"biomancy:modular_larynx","required":false},
     {"id":"supplementaries:faucet","required":false},
     {"id":"tconstruct:seared_faucet","required":false},
     {"id":"tconstruct:seared_channel","required":false},
