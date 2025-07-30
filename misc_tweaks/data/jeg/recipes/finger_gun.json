@@ -16,8 +16,8 @@
     }
   },
   "pattern": [
-    "R",
-    "L"
+    "L",
+    "R"
   ],
   "result": {
     "item": "jeg:finger_gun"
