@@ -12,6 +12,7 @@
     {"id":"dragnpets:o_wolf","required":false},
     {"id":"dragnpets:pyrenees","required":false},
     {"id":"dragnpets:rottweiler","required":false},
-    {"id":"dragnpets:whippet","required":false}
+    {"id":"dragnpets:whippet","required":false},
+    {"id":"permafrost:direwolf","required":false}
   ]
 }

@@ -1,0 +1,34 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "alexscaves"
+    }
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "create:bar_of_chocolate"
+    },
+    {
+      "tag": "forge:milk"
+    }
+  ],
+  "recipe_book_tab": "drinks",
+  "result": {
+    "item": "alexscaves:hot_chocolate_bottle"
+  },
+  "container": {
+    "item": "minecraft:glass_bottle"
+  },
+  "experience": 0.2,
+  "cookingtime": 200
+}
