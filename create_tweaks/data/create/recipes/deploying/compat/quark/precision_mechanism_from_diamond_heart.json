@@ -1,0 +1,26 @@
+{
+  "conditions":[
+     {
+        "type":"forge:mod_loaded",
+        "modid":"quark"
+     },
+     {
+        "type":"forge:mod_loaded",
+        "modid":"create"
+     }
+  ],
+  "type":"create:deploying",
+  "ingredients":[
+     {
+        "item":"quark:diamond_heart"
+     },
+     {
+        "item":"create:large_cogwheel"
+     }
+  ],
+  "results":[
+     {
+        "item":"create:precision_mechanism"
+     }
+  ]
+}
