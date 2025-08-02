@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "brewinandchewin"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tconstruct:cheese_block"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "brewinandchewin:flaxen_cheese_wedge"
+  }
+}
