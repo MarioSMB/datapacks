@@ -19,7 +19,7 @@
   "pattern": [
     "###",
     "###",
-    "####"
+    "###"
   ],
   "result": {
     "item": "tconstruct:cheese_block"
