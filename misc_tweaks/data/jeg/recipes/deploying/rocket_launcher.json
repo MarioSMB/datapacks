@@ -1,0 +1,26 @@
+{
+  "conditions":[
+     {
+        "type":"forge:mod_loaded",
+        "modid":"jeg"
+     },
+     {
+        "type":"forge:mod_loaded",
+        "modid":"create"
+     }
+  ],
+  "type":"create:deploying",
+  "ingredients":[
+     {
+        "item":"jeg:grenade_launcher"
+     },
+     {
+        "item":"create:train_casing"
+     }
+  ],
+  "results":[
+     {
+        "item":"jeg:rocket_launcher"
+     }
+  ]
+}
