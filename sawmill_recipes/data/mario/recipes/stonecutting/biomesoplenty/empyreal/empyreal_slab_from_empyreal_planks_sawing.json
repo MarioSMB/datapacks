@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "biomesoplenty:empyreal_planks"
+  },
+  "result": "biomesoplenty:empyreal_slab",
+  "count": 2,
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"biomesoplenty"
+    }
+  ]
+}
