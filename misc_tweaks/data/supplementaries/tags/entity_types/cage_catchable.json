@@ -8,7 +8,8 @@
     {"id":"duckling:quackling","required":false},
     {"id":"dragnpets:cockatiel","required":false},
     {"id":"dragnlivestock:o_chicken","required":false},
-    {"id":"dragnlivestock:o_frog","required":false}
+    {"id":"dragnlivestock:o_frog","required":false},
+    {"id":"species:birt","required":false}
   ]
 }
 
