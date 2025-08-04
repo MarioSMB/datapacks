@@ -1,0 +1,23 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"create_aquatic_ambitions"
+    },
+    {
+      "type":"forge:mod_loaded",
+      "modid":"biomesoplenty"
+    }
+  ],
+  "type": "create_aquatic_ambitions:channeling",
+  "ingredients": [
+    {
+      "item": "minecraft:oak_leaves"
+    }
+  ],
+  "results": [
+    {
+      "item": "biomesoplenty:flowering_oak_leaves"
+    }
+  ]
+}

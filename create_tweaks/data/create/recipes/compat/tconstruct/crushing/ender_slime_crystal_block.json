@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "tconstruct:ender_slime_crystal_block"
+    }
+  ],
+  "processingTime": 150,
+  "results": [
+    {
+      "count": 3,
+      "item": "tconstruct:ender_slime_crystal"
+    },
+    {
+      "chance": 0.5,
+      "item": "tconstruct:ender_slime_crystal"
+    }
+  ]
+}
