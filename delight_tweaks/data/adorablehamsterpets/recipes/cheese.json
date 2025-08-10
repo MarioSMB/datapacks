@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "brewinandchewin"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "adorablehamsterpets"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "brewinandchewin:flaxen_cheese_wdge"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "adorablehamsterpets:cheese"
+  }
+}

@@ -9,7 +9,8 @@
     {"id":"dragnpets:cockatiel","required":false},
     {"id":"dragnlivestock:o_chicken","required":false},
     {"id":"dragnlivestock:o_frog","required":false},
-    {"id":"species:birt","required":false}
+    {"id":"species:birt","required":false},
+    {"id":"adorablehamsterpets:hamster","required":false}
   ]
 }
 
