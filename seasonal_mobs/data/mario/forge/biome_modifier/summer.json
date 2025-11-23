@@ -1,6 +1,6 @@
 {
   "type": "forge:add_spawns",
-  "biomes": ["minecraft:plains", "minecraft:forest", "minecraft:birch_forest", "biomesoplenty:seasonal_forest", "biomesoplenty:pumpkin_patch", "biomesoplenty:grassland"],
+  "biomes": "#mario:is_seasonal",
   "spawners" : [
     {
       "type": "minecraft:husk",

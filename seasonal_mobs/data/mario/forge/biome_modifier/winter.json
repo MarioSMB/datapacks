@@ -1,6 +1,6 @@
 {
   "type": "forge:add_spawns",
-  "biomes": ["minecraft:plains", "minecraft:forest", "minecraft:meadow", "minecraft:birch_forest", "biomesoplenty:coniferous_forest", "biomesoplenty:seasonal_forest", "biomesoplenty:pumpkin_patch", "biomesoplenty:grassland"],
+  "biomes": "#mario:is_seasonal",
   "spawners" : [
     {
       "type": "rottencreatures:frostbitten",
@@ -43,18 +43,6 @@
       "maxCount": 1,
       "minCount": 1,
       "weight": 5
-    },
-    {
-      "type": "permafrost:direwolf",
-      "maxCount": 5,
-      "minCount": 1,
-      "weight": 4
-    },
-    {
-      "type": "permafrost:mammoth",
-      "maxCount": 4,
-      "minCount": 1,
-      "weight": 4
     },
     {
       "type": "minecraft:rabbit",

@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:stray",
+    "minecraft:chicken",
+    "minecraft:fox",
+    "minecraft:rabbit",
+    "minecraft:husk",
+    {"id":"rottencreatures:frostbitten","required":false},
+    {"id":"rottencreatures:mummy","required":false},
+    {"id":"creeperoverhaul:snowy_creeper","required":false},
+    {"id":"savage_and_ravage:iceologer","required":false},
+    {"id":"born_in_chaos_v1:door_knight","required":false},
+    {"id":"endermanoverhaul:snowy_enderman","required":false},
+    {"id":"luminous_beasts:yeti","required":false},
+    {"id":"species:quake","required":false},
+    {"id":"mowziesmobs:lantern","required":false},
+    {"id":"alexsmobs:blue_jay","required":false},
+    {"id":"alexsmobs:fly","required":false},
+    {"id":"alexsmobs:tusklin","required":false},
+    {"id":"terramity:blue_fairy","required":false},
+    {"id":"terramity:green_fairy","required":false},
+    {"id":"terramity:pink_fairy","required":false}
+  ]
+}
