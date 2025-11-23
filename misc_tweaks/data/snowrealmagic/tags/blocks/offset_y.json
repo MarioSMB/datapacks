@@ -1,0 +1,14 @@
+{
+	"values": [
+		{"id":"autumnity:orange_maple_leaf_pile","required":false},
+		{"id":"autumnity:yellow_maple_leaf_pile","required":false},
+		{"id":"biomesoplenty:clover","required":false},
+		{"id":"biomeswevegone:clover_patch","required":false},
+		{"id":"environmental:cheerful_plum_leaf_pile","required":false},
+		{"id":"environmental:moody_plum_leaf_pile","required":false},
+		{"id":"environmental:plum_leaf_pile","required":false},
+		{"id":"#immersive_weathering:leaf_piles","required":false},
+		{"id":"minecraft:leaf_litter","required":false},
+		{"id":"minecraft:wildflowers","required":false}
+	]
+}
