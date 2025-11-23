@@ -4,13 +4,7 @@
     {"id":"alexscaves:raycat","required":false},
     {"id":"naturalist:duck","required":false},
     {"id":"autumnity:turkey","required":false},
-    {"id":"duckling:duck","required":false},
-    {"id":"duckling:quackling","required":false},
-    {"id":"dragnpets:cockatiel","required":false},
-    {"id":"dragnlivestock:o_chicken","required":false},
-    {"id":"dragnlivestock:o_frog","required":false},
-    {"id":"species:birt","required":false},
-    {"id":"adorablehamsterpets:hamster","required":false}
+    {"id":"species:birt","required":false}
   ]
 }
 

@@ -1,19 +1,6 @@
 {
   "replace": false,
   "values": [
-    {"id":"gravestone:gravestone","required":false},
-    {"id":"mca:gravelling_headstone","required":false},
-    {"id":"mca:upright_headstone","required":false},
-    {"id":"mca:slanted_headstone","required":false},
-    {"id":"mca:cross_headstone","required":false},
-    {"id":"mca:wall_headstone","required":false},
-    {"id":"mca:cobblestone_upright_headstone","required":false},
-    {"id":"mca:cobblestone_slanted_headstone","required":false},
-    {"id":"mca:wooden_upright_headstone","required":false},
-    {"id":"mca:wooden_slanted_headstone","required":false},
-    {"id":"mca:golden_upright_headstone","required":false},
-    {"id":"mca:golden_slanted_headstone","required":false},
-    {"id":"mca:deepslate_upright_headstone","required":false},
-    {"id":"mca:deepslate_slanted_headstone","required":false}
+    {"id":"gravestone:gravestone","required":false}
   ]
 }

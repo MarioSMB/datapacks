@@ -15,22 +15,6 @@
     "#forge:raw_mutton",
     "#forge:raw_venison",
     {"id":"alexsmobs:cooked_kangaroo_meat","required":false},
-    {"id":"alexsmobs:kangaroo_meat","required":false},
-    {"id":"goated:cooked_chevon","required":false},
-    {"id":"goated:chevon","required":false},
-    {"id":"dragnlivestock:camel","required":false},
-    {"id":"dragnlivestock:camel_rib","required":false},
-    {"id":"dragnlivestock:camel_loin","required":false},
-    {"id":"dragnlivestock:cooked_camel","required":false},
-    {"id":"dragnlivestock:cooked_camel_rib","required":false},
-    {"id":"dragnlivestock:cooked_camel_loin","required":false},
-    {"id":"dragnpets:wolf","required":false},
-    {"id":"dragnpets:cooked_wolf","required":false},
-    {"id":"dragnpets:cat","required":false},
-    {"id":"dragnpets:cooked_cat","required":false},
-    {"id":"permafrost:direwolf","required":false},
-    {"id":"permafrost:cooked_direwolf","required":false},
-    {"id":"permafrost:dinofelis","required":false},
-    {"id":"permafrost:cooked_dinofelis","required":false}
+    {"id":"alexsmobs:kangaroo_meat","required":false}
   ]
 }

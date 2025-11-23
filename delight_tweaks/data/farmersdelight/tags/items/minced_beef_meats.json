@@ -1,28 +1,6 @@
 {
   "replace": false,
   "values": [
-    "minecraft:beef",
-    {"id":"dragnlivestock:beef_rib_steak","required":false},
-    {"id":"dragnlivestock:beef_sirloin_steak","required":false},
-    {"id":"dragnlivestock:horse","required":false},
-    {"id":"dragnlivestock:horse_rib_steak","required":false},
-    {"id":"dragnlivestock:horse_sirloin_steak","required":false},
-    {"id":"dragnlivestock:camel","required":false},
-    {"id":"dragnlivestock:camel_rib","required":false},
-    {"id":"dragnlivestock:camel_loin","required":false},
-    {"id":"dragnlivestock:caribou","required":false},
-    {"id":"dragnlivestock:caribou_rib_steak","required":false},
-    {"id":"dragnlivestock:caribou_sirloin_steak","required":false},
-    {"id":"dragnlivestock:unicorn","required":false},
-    {"id":"dragnlivestock:unicorn_rib_steak","required":false},
-    {"id":"dragnlivestock:unicorn_sirloin_steak","required":false},
-    {"id":"dragnpets:wolf","required":false},
-    {"id":"dragnpets:cat","required":false},
-    {"id":"permafrost:mammoth","required":false},
-    {"id":"permafrost:deinotherium","required":false},
-    {"id":"permafrost:direwolf","required":false},
-    {"id":"permafrost:cervid","required":false},
-    {"id":"permafrost:paraceratherium","required":false},
-    {"id":"permafrost:dinofelis","required":false}
+    "minecraft:beef"
   ]
 }
