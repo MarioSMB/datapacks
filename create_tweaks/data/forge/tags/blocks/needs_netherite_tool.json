@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"terramity:profaned_ore","required":false}
+  ]
+}

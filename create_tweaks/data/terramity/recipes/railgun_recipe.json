@@ -1,0 +1,43 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "terramity"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "ddd",
+    "eef"
+  ],
+  "key": {
+    "a": {
+      "item": "terramity:decayed_bedrock_dust"
+    },
+    "b": {
+      "item": "minecraft:spyglass"
+    },
+    "c": {
+      "item": "terramity:ruby"
+    },
+    "d": {
+      "item": "terramity:conductite"
+    },
+    "e": {
+      "item": "create:precision_mechanism"
+    },
+    "f": {
+      "item": "terramity:sapphire"
+    }
+  },
+  "result": {
+    "item": "terramity:railgun",
+    "count": 1
+  }
+}

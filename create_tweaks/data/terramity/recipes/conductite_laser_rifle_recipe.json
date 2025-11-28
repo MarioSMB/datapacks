@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "terramity"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cd "
+  ],
+  "key": {
+    "a": {
+      "item": "terramity:conductite"
+    },
+    "b": {
+      "item": "terramity:ruby"
+    },
+    "c": {
+      "item": "create:precision_mechanism"
+    },
+    "d": {
+      "item": "terramity:battery"
+    }
+  },
+  "result": {
+    "item": "terramity:conductite_laser_rifle",
+    "count": 1
+  }
+}
