@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "kubejs"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersrespite"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "atmospheric"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "abnormals_delight"
+    }
+  ],
+  "type": "farmersrespite:kettle_pouring",
+  "amount": 250,
+  "container": {
+    "item": "minecraft:glass_bottle"
+  },
+  "fluid": "kubejs:passion_aloe_nectar",
+  "output": {
+    "item": "abnormals_delight:passion_aloe_nectar"
+  }
+}

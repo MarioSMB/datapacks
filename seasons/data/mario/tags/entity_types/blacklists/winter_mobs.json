@@ -41,6 +41,7 @@
     {"id":"alexsmobs:crow","required":false},
     {"id":"alexsmobs:fly","required":false},
     {"id":"autumnity:turkey","required":false},
+    {"id":"environmental:deer","required":false},
     {"id":"species:quake","required":false},
     {"id":"species:wicked","required":false},
     {"id":"terramity:uvogre","required":false},

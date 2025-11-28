@@ -1,0 +1,35 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "kubejs"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersrespite"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "environmental"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "abnormals_delight"
+    }
+  ],
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "abnormals_delight:cherry_cream_soda"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "amount": 250,
+      "fluid": "kubejs:cherry_cream_soda"
+    }
+  ]
+}

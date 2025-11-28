@@ -18,6 +18,7 @@
     {"id":"alexsmobs:blue_jay","required":false},
     {"id":"alexsmobs:fly","required":false},
     {"id":"alexsmobs:tusklin","required":false},
+    {"id":"environmental:deer","required":false},
     {"id":"terramity:blue_fairy","required":false},
     {"id":"terramity:green_fairy","required":false},
     {"id":"terramity:pink_fairy","required":false}
