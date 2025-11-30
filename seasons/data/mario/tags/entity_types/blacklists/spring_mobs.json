@@ -22,6 +22,7 @@
     {"id":"alexsmobs:crow","required":false},
     {"id":"alexsmobs:fly","required":false},
     {"id":"autumnity:turkey","required":false},
+    {"id":"windswept:chilled","required":false},
     {"id":"species:quake","required":false},
     {"id":"species:wicked","required":false}
   ]

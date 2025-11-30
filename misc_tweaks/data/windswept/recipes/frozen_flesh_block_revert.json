@@ -1,0 +1,30 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "caverns_and_chasms"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "rottencreatures"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shapeless",
+        "category": "misc",
+        "ingredients": [
+          {
+            "item": "windswept:frozen_flesh_block"
+          }
+        ],
+        "result": {
+          "count": 9,
+          "item": "rottencreatures:frozen_rotten_flesh"
+        }
+      }
+    }
+  ]
+}

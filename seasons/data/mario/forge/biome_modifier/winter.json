@@ -9,6 +9,12 @@
       "weight": 95
     },
     {
+      "type": "windswept:chilled",
+      "maxCount": 4,
+      "minCount": 4,
+      "weight": 95
+    },
+    {
       "type": "endermanoverhaul:glacial_hunter",
       "maxCount": 1,
       "minCount": 1,
@@ -61,6 +67,12 @@
       "maxCount": 4,
       "minCount": 1,
       "weight": 10
+    },
+    {
+      "type": "windswept:frostbiter",
+      "maxCount": 3,
+      "minCount": 1,
+      "weight": 3
     }
   ]
 }
