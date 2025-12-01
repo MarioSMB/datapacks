@@ -1,7 +1,48 @@
 {
   "conditions": [
     {
-      "type": "forge:false"
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersive_aircraft"
     }
-  ]
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AHA",
+    "GAG",
+    "SES"
+  ],
+  "key": {
+    "S": [
+      {
+        "item": "minecraft:bamboo_slab"
+      }
+    ],
+    "H": [
+      {
+        "item": "minecraft:bamboo_raft"
+      }
+    ],
+    "E": [
+      {
+        "item": "create:steam_engine"
+      }
+    ],
+    "G": [
+      {
+        "item": "minecraft:bamboo_block"
+      }
+    ],
+    "A": [
+      {
+        "item": "create:propeller"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:bamboo_hopper"
+  }
 }

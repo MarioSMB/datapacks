@@ -1,0 +1,27 @@
+{
+  "type": "create_aquatic_ambitions:channeling",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "upgrade_aquatic"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create_aquatic_ambitions"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "upgrade_aquatic:elder_prismarine_coral_shower"
+    }
+  ],
+  "results": [
+    {
+      "item": "upgrade_aquatic:prismarine_coral_shower"
+    },
+    {
+      "chance": 0.25,
+      "item": "upgrade_aquatic:prismarine_coral_shower"
+    }
+  ]
+}

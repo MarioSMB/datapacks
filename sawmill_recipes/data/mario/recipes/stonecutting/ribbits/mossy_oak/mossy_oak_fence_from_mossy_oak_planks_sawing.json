@@ -3,7 +3,7 @@
   "ingredient": {
     "item": "ribbits:mossy_oak_planks"
   },
-  "result": "ribbits:mossy_oak_fence",
+  "result": "ribbits:mossy_oak_planks_fence",
   "count": 1,
   "conditions":[
     {

@@ -9,15 +9,17 @@
   "ingredients": [
     {
       "fluid": "minecraft:water",
-      "amount": 1000
+      "amount": 1000,
+      "nbt": {}
     },
     {
       "fluid": "minecraft:lava",
-      "amount": 1000
+      "amount": 1000,
+      "nbt": {}
     }
   ],
   "catalyst": {
-    "tag": "minecraft:campfires"
+    "item": "minecraft:campfire"
   },
   "result": {
     "item": "minecraft:stone"

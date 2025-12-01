@@ -3,7 +3,7 @@
   "ingredient": {
     "item": "immersive_weathering:charred_log"
   },
-  "result": "immersive_weathering:charred_planks_slab",
+  "result": "immersive_weathering:charred_slab",
   "count": 8,
   "conditions":[
     {

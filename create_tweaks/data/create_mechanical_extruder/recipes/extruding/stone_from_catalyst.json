@@ -19,7 +19,7 @@
     }
   ],
   "catalyst": {
-    "tag": "minecraft:campfires"
+    "item": "minecraft:campfire"
   },
   "result": {
     "item": "minecraft:stone"
