@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"tinore:block_of_tin","required":false}
+  ]
+}

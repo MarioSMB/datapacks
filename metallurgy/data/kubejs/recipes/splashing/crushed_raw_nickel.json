@@ -1,0 +1,25 @@
+
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "create:crushed_raw_nickel"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:nickel_nugget",
+      "count": 9
+    }
+  ],
+  "conditions": [
+    {
+      "modid": "create",
+      "type": "forge:mod_loaded"
+    },
+    {
+      "modid": "kubejs",
+      "type": "forge:mod_loaded"
+    }
+  ]
+}
