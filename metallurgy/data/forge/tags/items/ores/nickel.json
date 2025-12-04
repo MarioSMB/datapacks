@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    {"id":"kubejs:nickel_ore","required":false},
-    {"id":"kubejs:deepslate_nickel_ore","required":false}
-  ]
-}

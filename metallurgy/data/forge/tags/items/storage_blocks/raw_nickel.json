@@ -1,6 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    {"id":"kubejs:raw_nickel_block","required":false}
-  ]
-}
