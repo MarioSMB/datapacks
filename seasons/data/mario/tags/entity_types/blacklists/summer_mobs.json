@@ -25,6 +25,7 @@
     {"id":"autumnity:turkey","required":false},
     {"id":"species:wicked","required":false},
     {"id":"windswept:chilled","required":false},
+    {"id":"windswept:frostbiter","required":false},
     {"id":"terramity:blue_fairy","required":false},
     {"id":"terramity:green_fairy","required":false},
     {"id":"terramity:pink_fairy","required":false}
