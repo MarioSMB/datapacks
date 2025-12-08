@@ -12,6 +12,7 @@
     {"id":"born_in_chaos_v1:skeleton_thrasher","required":false},
     {"id":"born_in_chaos_v1:spiritof_chaos","required":false},
     {"id":"born_in_chaos_v1:dark_vortex","required":false},
+    {"id":"born_in_chaos_v1:lifestealer","required":false},
     {"id":"born_in_chaos_v1:missioner","required":false},
     {"id":"born_in_chaos_v1:seared_spirit","required":false},
     {"id":"born_in_chaos_v1:fallen_chaos_knight","required":false},

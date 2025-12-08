@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "dungeonnowloading:dnl_logo"
+    },
+    "title": {
+      "translate": "advancements.dungeonnowloading.root.title"
+    },
+    "description": {
+      "translate": "advancements.dungeonnowloading.root.description"
+    },
+    "background": "minecraft:textures/block/mossy_cobblestone.png",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "dungeonnowloading_firstload": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
