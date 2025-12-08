@@ -2,10 +2,6 @@
   "values": [
     "minecraft:dark_forest",
     "minecraft:old_growth_birch_forest",
-    {"id":"biomesoplenty:overgrown_greens","required":false},
-    {"id":"biomesoplenty:redwood_forest","required":false},
-    {"id":"biomeswevegone:overgrowth_woodlands","required":false},
-    {"id":"biomeswevegone:weeping_witch_forest","required":false},
     {"id":"environmental:old_growth_pine_barrens","required":false}
   ]
 }

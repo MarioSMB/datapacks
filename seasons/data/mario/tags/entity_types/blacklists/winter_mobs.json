@@ -42,7 +42,6 @@
     {"id":"alexsmobs:skunk","required":false},
     {"id":"alexsmobs:crow","required":false},
     {"id":"alexsmobs:fly","required":false},
-    {"id":"naturalist:firefly","required":false},
     {"id":"autumnity:turkey","required":false},
     {"id":"environmental:deer","required":false},
     {"id":"species:quake","required":false},

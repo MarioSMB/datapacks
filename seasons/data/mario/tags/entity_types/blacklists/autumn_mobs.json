@@ -18,7 +18,6 @@
     {"id":"alexsmobs:blue_jay","required":false},
     {"id":"alexsmobs:fly","required":false},
     {"id":"alexsmobs:tusklin","required":false},
-    {"id":"naturalist:firefly","required":false},
     {"id":"environmental:deer","required":false},
     {"id":"windswept:chilled","required":false},
     {"id":"windswept:frostbiter","required":false},

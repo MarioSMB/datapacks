@@ -1,7 +1,6 @@
 {
   "replace": false,
   "values": [
-    "minecraft:vine",
-    {"id":"biomesoplenty:willow_vine","required":false}
+    "minecraft:vine"
   ]
 }
