@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "modid": "blastfromthepast",
+        "type": "forge:mod_loaded"
+      }
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ecologics"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "ecologics:ice_bricks"
+  },
+  "result": "ecologics:ice_brick_slab"
+}
