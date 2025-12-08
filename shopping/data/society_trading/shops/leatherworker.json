@@ -1,0 +1,69 @@
+{
+  "shop_id": "leatherworker",
+  "name": "Leatherworker",
+  "texture": "quark:textures/block/bonded_leather",
+  "villager_profession": "leatherworker",
+  "jei_catalyst": { "item":"minecraft:cauldron" },
+  "trades": [
+    {
+      "offer": {
+        "item": "minecraft:bundle",
+        "count": 1
+      },
+      "request": {
+        "item": "numismatics:cog",
+        "count": 1
+      },
+      "numismatics_cost": 64,
+      "trade_id": "leatherworker_sell_bundle"
+    },
+    {
+      "offer": {
+        "item": "kubejs:copper_backpack_upgrade",
+        "count": 1
+      },
+      "request": {
+        "item": "numismatics:cog",
+        "count": 2
+      },
+      "numismatics_cost": 128,
+      "trade_id": "leatherworker_sell_copper_backpack_upgrade"
+    },
+    {
+      "offer": {
+        "item": "kubejs:iron_backpack_upgrade",
+        "count": 1
+      },
+      "request": {
+        "item": "numismatics:cog",
+        "count": 4
+      },
+      "numismatics_cost": 256,
+      "trade_id": "leatherworker_sell_iron_backpack_upgrade"
+    },
+    {
+      "offer": {
+        "item": "kubejs:gold_backpack_upgrade",
+        "count": 1
+      },
+      "request": {
+        "item": "numismatics:crown",
+        "count": 2
+      },
+      "numismatics_cost": 1024,
+      "trade_id": "leatherworker_sell_gold_backpack_upgrade"
+    },
+    {
+      "offer": {
+        "item": "kubejs:diamond_backpack_upgrade",
+        "count": 1
+      },
+      "request": {
+        "item": "numismatics:sun",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "leatherworker_sell_diamond_backpack_upgrade"
+    }
+  ]
+}

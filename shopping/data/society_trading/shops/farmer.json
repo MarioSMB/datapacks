@@ -3,6 +3,7 @@
   "name": "Farmer",
   "texture": "minecraft:textures/block/hay_block_side",
   "villager_profession": "farmer",
+  "jei_catalyst": { "item":"minecraft:composter" },
   "hidden_from_selector": true,
   "selector_weight": -20,
   "trades": [
