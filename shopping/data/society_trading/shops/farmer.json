@@ -1,7 +1,7 @@
 {
   "shop_id": "farmer",
   "name": "Farmer",
-  "texture": "minecraft:textures/block/hay_block_side",
+  "texture": "minecraft:textures/block/composter_side",
   "villager_profession": "farmer",
   "jei_catalyst": { "item":"minecraft:composter" },
   "hidden_from_selector": true,
@@ -9,16 +9,80 @@
   "trades": [
     {
       "offer": {
+        "item": "numismatics:spur",
+        "count": 3
+      },
+      "request": {
         "item": "farmersdelight:onion",
         "count": 1
       },
+      "trade_id": "farmer_buy_onion"
+    },
+    {
+      "offer": {
+        "item": "numismatics:spur",
+        "count": 3
+      },
       "request": {
-        "item": "numismatics:cog",
+        "item": "minecraft:potato",
+        "count": 1
+      },
+      "trade_id": "farmer_buy_potato"
+    },
+    {
+      "offer": {
+        "item": "numismatics:spur",
+        "count": 3
+      },
+      "request": {
+        "item": "minecraft:wheat",
+        "count": 1
+      },
+      "trade_id": "farmer_buy_wheat"
+    },
+    {
+      "offer": {
+        "item": "numismatics:spur",
         "count": 4
       },
-      "seasons_required": ["early_spring", "mid_spring", "late_spring"],
-      "numismatics_cost": 256,
-      "trade_id": "farmer_onion_for_money"
+      "request": {
+        "item": "minecraft:beetroot",
+        "count": 1
+      },
+      "trade_id": "farmer_buy_wheat"
+    },
+    {
+      "offer": {
+        "item": "numismatics:spur",
+        "count": 4
+      },
+      "request": {
+        "item": "minecraft:carrot",
+        "count": 1
+      },
+      "trade_id": "farmer_buy_carrot"
+    },
+    {
+      "offer": {
+        "item": "numismatics:spur",
+        "count": 4
+      },
+      "request": {
+        "item": "farmersdelight:tomato",
+        "count": 1
+      },
+      "trade_id": "farmer_buy_tomato"
+    },
+    {
+      "offer": {
+        "item": "numismatics:spur",
+        "count": 7
+      },
+      "request": {
+        "item": "farmersdelight:cabbage",
+        "count": 1
+      },
+      "trade_id": "farmer_buy_cabbage"
     }
   ],
   "random_sets ": []

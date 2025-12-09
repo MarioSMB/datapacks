@@ -7,18 +7,6 @@
   "trades": [
     {
       "offer": {
-        "item": "minecraft:bundle",
-        "count": 1
-      },
-      "request": {
-        "item": "numismatics:cog",
-        "count": 1
-      },
-      "numismatics_cost": 64,
-      "trade_id": "leatherworker_sell_bundle"
-    },
-    {
-      "offer": {
         "item": "kubejs:copper_backpack_upgrade",
         "count": 1
       },
