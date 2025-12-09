@@ -1,0 +1,13 @@
+{
+  "attribute": "shippingbin:crop_sell_multiplier",
+  "input": {
+    "count": 1,
+    "ingredient": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "output": {
+    "item": "numismatics:spur",
+    "count": 4
+  }
+}
