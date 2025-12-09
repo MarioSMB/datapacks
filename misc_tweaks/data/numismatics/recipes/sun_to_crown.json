@@ -1,0 +1,19 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "numismatics"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "numismatics:sun"
+    }
+  ],
+  "result": {
+    "item": "numismatics:crown",
+    "count": 8
+  }
+}

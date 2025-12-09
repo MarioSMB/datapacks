@@ -1,0 +1,19 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "numismatics"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "numismatics:cog"
+    }
+  ],
+  "result": {
+    "item": "numismatics:sprocket",
+    "count": 4
+  }
+}
