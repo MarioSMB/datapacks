@@ -75,8 +75,8 @@
     },
     {
       "offer": {
-        "item": "numismatics:spur",
-        "count": 7
+        "item": "numismatics:bevel",
+        "count": 1
       },
       "request": {
         "item": "farmersdelight:cabbage",
