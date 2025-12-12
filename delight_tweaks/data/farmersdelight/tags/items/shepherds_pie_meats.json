@@ -4,9 +4,9 @@
     "#forge:cooked_mutton",
     "#forge:raw_mutton",
     "#forge:raw_venison",
-    {"id":"alexsmobs:cooked_kangaroo_meat","required":false},
-    {"id":"alexsmobs:kangaroo_meat","required":false},
-    {"id":"goated:cooked_chevon","required":false},
-    {"id":"goated:chevon","required":false}
+    "#forge:cooked_kangaroo",
+    "#forge:raw_kangaroo",
+    {"id":"#forge:cooked_goat","required":false},
+    {"id":"#forge:raw_goat","required":false}
   ]
 }

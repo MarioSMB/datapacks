@@ -10,11 +10,7 @@
     },
     {
       "type": "forge:mod_loaded",
-      "modid": "aether"
-    },
-    {
-      "type": "forge:mod_loaded",
-      "modid": "aetherdelight"
+      "modid": "windswept"
     }
   ],
   "type": "farmersrespite:brewing",
@@ -26,14 +22,14 @@
   "experience": 0.35,
   "ingredients": [
     {
-      "item": "aether:white_flower"
+      "item": "minecraft:sugar"
     },
     {
-      "item": "aether:purple_flower"
+      "item": "windswept:ginger_root"
     }
   ],
   "result": {
     "count": 1000,
-    "fluid": "kubejs:aetherflower_tea"
+    "fluid": "kubejs:ginger_tea"
   }
 }

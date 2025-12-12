@@ -10,11 +10,7 @@
     },
     {
       "type": "forge:mod_loaded",
-      "modid": "aether"
-    },
-    {
-      "type": "forge:mod_loaded",
-      "modid": "aetherdelight"
+      "modid": "windswept"
     }
   ],
   "type": "farmersrespite:kettle_pouring",
@@ -22,8 +18,8 @@
   "container": {
     "item": "minecraft:glass_bottle"
   },
-  "fluid": "kubejs:aetherflower_tea",
+  "fluid": "kubejs:lavender_tea",
   "output": {
-    "item": "aetherdelight:aetherflower_tea"
+    "item": "windswept:lavender_tea"
   }
 }

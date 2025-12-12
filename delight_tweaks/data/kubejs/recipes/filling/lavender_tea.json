@@ -10,11 +10,7 @@
     },
     {
       "type": "forge:mod_loaded",
-      "modid": "aether"
-    },
-    {
-      "type": "forge:mod_loaded",
-      "modid": "aetherdelight"
+      "modid": "windswept"
     }
   ],
   "type": "create:filling",
@@ -24,13 +20,13 @@
     },
     {
       "amount": 250,
-      "fluid": "kubejs:aetherflower_tea",
+      "fluid": "kubejs:lavender_tea",
       "nbt": {}
     }
   ],
   "results": [
     {
-      "item": "aetherdelight:aetherflower_tea"
+      "item": "windswept:lavender_tea"
     }
   ]
 }

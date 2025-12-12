@@ -1,6 +1,6 @@
 {
   "replace": true,
   "values": [
-    {"id":"create:dough","required":false}
+    "#forge:dough/wheat"
   ]
 }

@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    {"id":"alexsmobs:kangaroo_meat","required":false}
+    "#forge:raw_kangaroo",
+    {"id":"#forge:raw_goat","required":false}
   ]
 }

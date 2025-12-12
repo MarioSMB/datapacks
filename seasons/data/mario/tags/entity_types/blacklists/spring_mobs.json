@@ -26,6 +26,7 @@
     {"id":"autumnity:turkey","required":false},
     {"id":"windswept:chilled","required":false},
     {"id":"windswept:frostbiter","required":false},
+    {"id":"opposing_force:slug","required":false},
     {"id":"species:quake","required":false},
     {"id":"species:wicked","required":false}
   ]

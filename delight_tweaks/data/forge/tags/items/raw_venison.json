@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"alexsmobs:moose_ribs","required":false},
+    {"id":"alexsdelight:loose_moose_rib","required":false}
+  ]
+}

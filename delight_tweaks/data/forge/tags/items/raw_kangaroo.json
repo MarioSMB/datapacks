@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"alexsmobs:kangaroo_meat","required":false},
+    {"id":"alexsdelight:kangaroo_shank","required":false}
+  ]
+}
