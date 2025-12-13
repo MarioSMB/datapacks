@@ -1,0 +1,46 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "icarus"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "kubejs"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "WWW",
+    "NEN",
+    "L F"
+  ],
+  "key":
+  {
+    "E":
+    {
+      "item": "kubejs:soul_of_flight"
+    },
+    "F":
+    {
+      "tag": "icarus:feathers"
+    },
+    "L":
+    {
+      "tag": "icarus:leather"
+    },
+    "N":
+    {
+      "item": "minecraft:nether_star"
+    },
+    "W":
+    {
+      "item": "minecraft:honeycomb"
+    }
+  },
+  "result":
+  {
+    "item": "icarus:discords_wings"
+  }
+}
