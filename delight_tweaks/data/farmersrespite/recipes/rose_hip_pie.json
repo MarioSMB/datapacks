@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersrespite"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "h": {
+      "item": "minecraft:honey_bottle"
+    },
+    "p": {
+      "item": "farmersdelight:pie_crust"
+    },
+    "r": {
+      "item": "farmersrespite:rose_hips"
+    },
+    "s": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "pattern": [
+    " h ",
+    "rrr",
+    "sps"
+  ],
+  "result": {
+    "item": "farmersrespite:rose_hip_pie"
+  },
+  "show_notification": true
+}

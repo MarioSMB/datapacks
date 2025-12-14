@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "upgrade_aquatic"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "forge:dough"
+    },
+    "a": {
+      "item": "upgrade_aquatic:mulberry"
+    },
+    "x": {
+      "item": "minecraft:sugar"
+    },
+    "O": {
+      "item": "farmersdelight:pie_crust"
+    }
+  },
+  "pattern": [
+    " # ",
+    "aaa",
+    "xOx"
+  ],
+  "result": {
+    "item": "upgrade_aquatic:mulberry_pie"
+  },
+  "show_notification": true
+}

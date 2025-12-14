@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "upgrade_aquatic"
+    }
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "upgrade_aquatic:mulberry"
+    },
+    {
+      "item": "upgrade_aquatic:mulberry"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "item": "farmersdelight:pie_crust"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "item": "upgrade_aquatic:mulberry_pie"
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}

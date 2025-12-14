@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersrespite"
+    }
+  ],
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "farmersrespite:mulberry"
+    },
+    {
+      "item": "farmersrespite:mulberry"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    },
+    {
+      "item": "farmersdelight:pie_crust"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "item": "farmersrespite:rose_hip_pie"
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}
