@@ -13,13 +13,10 @@
   "pattern": [
     " PSP ",
     "PYXYP",
-    "PCECP",
+    "PC CP",
     " C C "
   ],
   "key": {
-    "E": {
-      "item": "kubejs:soul_of_flight"
-    },
     "C": {
       "item": "create:chute"
     },

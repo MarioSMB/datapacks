@@ -3,25 +3,15 @@
     {
       "type": "forge:mod_loaded",
       "modid": "farmersdelight"
-    },
-    {
-      "type": "forge:mod_loaded",
-      "modid": "farmersrespite"
     }
   ],
   "type": "farmersdelight:cooking",
   "ingredients": [
     {
-      "item": "farmersrespite:rose_hips"
+      "item": "farmersdelight:pumpkin_slice"
     },
     {
-      "item": "farmersrespite:rose_hips"
-    },
-    {
-      "item": "minecraft:sugar"
-    },
-    {
-      "item": "minecraft:honey_bottle"
+      "item": "farmersdelight:pumpkin_slice"
     },
     {
       "item": "farmersdelight:pie_crust"
@@ -29,7 +19,7 @@
   ],
   "recipe_book_tab": "misc",
   "result": {
-    "item": "farmersrespite:rose_hip_pie"
+    "item": "minecraft:pumpkin_pie"
   },
   "experience": 0.35,
   "cookingtime": 200
