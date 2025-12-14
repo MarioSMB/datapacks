@@ -2,42 +2,19 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "icarus"
+      "modid": "aether"
     },
     {
       "type": "forge:mod_loaded",
-      "modid": "kubejs"
+      "modid": "icarus"
     }
   ],
-  "type": "minecraft:crafting_shaped",
-  "pattern":
-  [
-    "WWW",
-    "NEN",
-    "F F"
-  ],
-  "key":
-  {
-    "E":
-    {
-      "item": "kubejs:soul_of_flight"
-    },
-    "F":
-    {
-      "item": "minecraft:glowstone_dust"
-    },
-    "N":
-    {
-      "item": "minecraft:nether_star"
-    },
-    "W":
-    {
-      "item": "minecraft:honeycomb"
-    }
+  "type": "aether:enchanting",
+  "category": "enchanting_misc",
+  "cookingtime": 50,
+  "experience": 0.0,
+  "ingredient": {
+    "tag": "icarus:melts"
   },
-  "result":
-  {
-    "item": "icarus:zanzas_wings"
-  }
+  "result": "icarus:zanzas_wings"
 }
-
