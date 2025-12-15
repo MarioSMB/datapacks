@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "darkerdepths"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "tag": "forge:ingots/bronze"
+    },
+    "D": {
+      "item": "darkerdepths:duskrock"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "R": {
+      "item": "darkerdepths:void_soul_requiem"
+    }
+  },
+  "pattern": [
+    "BBB",
+    "DRD",
+    "DOD"
+  ],
+  "result": {
+    "item": "darkerdepths:death_anchor"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "darkerdepths"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "tag": "forge:ingots/bronze"
+    },
+    "D": {
+      "item": "darkerdepths:duskrock"
+    },
+    "S": {
+      "item": "darkerdepths:darkslate"
+    }
+  },
+  "pattern": [
+    " B ",
+    "DDD",
+    "SSS"
+  ],
+  "result": {
+    "item": "darkerdepths:tomb"
+  },
+  "show_notification": true
+}
