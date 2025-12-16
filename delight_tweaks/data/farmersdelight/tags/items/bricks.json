@@ -2,7 +2,6 @@
   "replace": false,
   "values": [
     "minecraft:brick",
-    "minecraft:nether_brick",
-    {"id":"ancient_aether:valkyrie_brick","required":false}
+    "minecraft:nether_brick"
   ]
 }

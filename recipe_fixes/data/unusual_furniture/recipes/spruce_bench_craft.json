@@ -1,0 +1,27 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "unusual_furniture"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "aba",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:spruce_planks"
+    },
+    "b": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "result": {
+    "item": "unusual_furniture:spruce_bench",
+    "count": 2
+  }
+}

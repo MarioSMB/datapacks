@@ -49,19 +49,6 @@
           "type": "minecraft:item",
           "name": "minecraft:shield",
           "weight": 2
-        },
-        {
-          "type": "minecraft:item",
-          "name": "ancient_aether:hermes_ring"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "ancient_aether:hermes_pendant"
-        },
-        {
-          "type": "minecraft:loot_table",
-          "name": "ancient_aether:chests/dungeon/armor_trims",
-          "weight": 2
         }
       ],
       "rolls": {

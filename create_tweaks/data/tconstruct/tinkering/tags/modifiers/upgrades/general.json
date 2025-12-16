@@ -1,0 +1,17 @@
+{
+  "values": [
+    {"id":"constructs_casting:mana_upgrade","required":false},
+    {"id":"constructs_casting:cooldown_upgrade","required":false},
+    {"id":"constructs_casting:fire_upgrade","required":false},
+    {"id":"constructs_casting:ice_upgrade","required":false},
+    {"id":"constructs_casting:lightning_upgrade","required":false},
+    {"id":"constructs_casting:ender_upgrade","required":false},
+    {"id":"constructs_casting:holy_upgrade","required":false},
+    {"id":"constructs_casting:blood_upgrade","required":false},
+    {"id":"constructs_casting:nature_upgrade","required":false},
+    {"id":"constructs_casting:eldritch_upgrade","required":false},
+    {"id":"constructs_casting:technomancy_upgrade","required":false},
+    {"id":"constructs_casting:abyssal_upgrade","required":false},
+    {"id":"constructs_casting:expedient","required":false}
+  ]
+}
