@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"alexscaves:jelly_bean","required":false},
+    {"id":"caverns_and_chasms:tether_potion","required":false},
+    {"id":"caverns_and_chasms:impact_potion","required":false},
+    {"id":"caverns_and_chasms:trail_potion","required":false}
+  ]
+}
