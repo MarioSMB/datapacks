@@ -23,10 +23,9 @@
         "count": 1
       },
       "request": {
-        "item": "numismatics:sprocket",
+        "item": "minecraft:emerald",
         "count": 1
       },
-      "numismatics_cost": 16,
       "trade_id": "blacksmith_copper_ingot_for_sprocket"
     },
     {
@@ -35,24 +34,10 @@
         "count": 1
       },
       "request": {
-        "item": "numismatics:cog",
+        "item": "minecraft:emerald",
         "count": 1
       },
-      "numismatics_cost": 64,
       "trade_id": "blacksmith_iron_ingot_for_cog"
-    },
-    {
-      "offer": {
-        "item": "minecraft:gold_ingot",
-        "count": 1
-      },
-      "request": {
-        "item": "numismatics:cog",
-        "count": 4
-      },
-      "seasons_required": ["late_winter"],
-      "numismatics_cost": 256,
-      "trade_id": "blacksmith_gold_ingot_for_cog"
     },
     {
       "offer": {
@@ -60,11 +45,10 @@
         "count": 1
       },
       "request": {
-        "item": "numismatics:sprocket",
+        "item": "minecraft:emerald",
         "count": 1
       },
       "stage_required": "blacksmith_redstone",
-      "numismatics_cost": 16,
       "trade_id": "blacksmith_redstone_for_sprocket"
     },
     {
@@ -73,14 +57,13 @@
         "count": 1
       },
       "request": {
-        "item": "numismatics:sun",
+        "item": "minecraft:emerald",
         "count": 22
       },
       "second_request": {
         "item": "minecraft:diamond",
         "count": 9
       },
-      "numismatics_cost": 99112,
       "trade_id": "blacksmith_netherite_upgrade_smithing_template_for_sun_diamond"
     }
   ],

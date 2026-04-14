@@ -1,0 +1,17 @@
+
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 81284932,
+    "frequency": 0.0,
+    "frequency_reduction_method": "legacy_type_1",
+    "separation": 10,
+    "spacing": 32
+  },
+  "structures": [
+    {
+      "structure": "spore:church",
+      "weight": 1
+    }
+  ]
+}

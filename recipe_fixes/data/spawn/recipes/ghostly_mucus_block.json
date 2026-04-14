@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "spawn"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "autumnity"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#G#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "autumnity:snail_goo_block"
+    },
+    "G": {
+      "item": "minecraft:phantom_membrane"
+    }
+  },
+  "result": {
+    "item": "spawn:ghostly_mucus_block",
+    "count": 4
+  }
+}

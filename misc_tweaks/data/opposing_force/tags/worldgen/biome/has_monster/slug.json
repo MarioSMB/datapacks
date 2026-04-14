@@ -1,0 +1,6 @@
+{
+  "replace": true,
+  "values": [
+    {"id":"autumnity:maple_forest","required":false}
+  ]
+}

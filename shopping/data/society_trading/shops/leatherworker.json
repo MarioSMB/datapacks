@@ -11,10 +11,9 @@
         "count": 1
       },
       "request": {
-        "item": "numismatics:cog",
+        "item": "minecraft:emerald",
         "count": 2
       },
-      "numismatics_cost": 128,
       "trade_id": "leatherworker_sell_copper_backpack_upgrade"
     },
     {
@@ -23,10 +22,9 @@
         "count": 1
       },
       "request": {
-        "item": "numismatics:cog",
+        "item": "minecraft:emerald",
         "count": 4
       },
-      "numismatics_cost": 256,
       "trade_id": "leatherworker_sell_iron_backpack_upgrade"
     },
     {
@@ -35,10 +33,9 @@
         "count": 1
       },
       "request": {
-        "item": "numismatics:crown",
+        "item": "minecraft:emerald",
         "count": 2
       },
-      "numismatics_cost": 1024,
       "trade_id": "leatherworker_sell_gold_backpack_upgrade"
     },
     {
@@ -47,10 +44,9 @@
         "count": 1
       },
       "request": {
-        "item": "numismatics:sun",
+        "item": "minecraft:emerald",
         "count": 1
       },
-      "numismatics_cost": 4096,
       "trade_id": "leatherworker_sell_diamond_backpack_upgrade"
     }
   ]

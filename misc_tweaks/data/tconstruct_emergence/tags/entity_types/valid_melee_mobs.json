@@ -1,0 +1,8 @@
+{
+  "values": [
+    {"id":"rottencreatures:burned","required":false},
+    {"id":"rottencreatures:burned_obsidian","required":false},
+    {"id":"rottencreatures:frostbitten","required":false},
+    {"id":"rottencreatures:swampy","required":false}
+  ]
+}

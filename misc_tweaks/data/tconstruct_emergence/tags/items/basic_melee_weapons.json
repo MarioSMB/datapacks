@@ -1,0 +1,6 @@
+{
+  "values": [
+    {"id":"tconstruct:sword","required":false},
+    {"id":"tconstruct:dagger","required":false}
+  ]
+}
