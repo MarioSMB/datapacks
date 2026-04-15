@@ -1,0 +1,46 @@
+{
+  "type": "minecraft:archaeology",
+  "pools": [
+    {
+      "name": "main",
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:walker_egg"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:stroll_pottery_sherd",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:ancient_upgrade_smithing_template"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:frozen_ancient_meat",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:saddle",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:arrow",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:emerald",
+          "weight": 3
+        }
+      ]
+    }
+  ],
+  "random_sequence": "wan_ancient_beasts:archaeology/ice_castle"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:archaeology",
+  "pools": [
+    {
+      "name": "main",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:feather",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:emerald",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:frozen_ancient_meat",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:beak_pottery_sherd",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:ancient_upgrade_smithing_template",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:soarer_egg",
+          "weight": 2
+        }
+      ]
+    }
+  ],
+  "random_sequence": "wan_ancient_beasts:archaeology/ancient_nest"
+}

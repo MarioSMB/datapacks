@@ -1,0 +1,94 @@
+{
+  "type": "minecraft:archaeology",
+  "pools": [
+    {
+      "name": "main",
+      "rolls": {
+        "type": "minecraft:constant",
+        "value": 1
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:howl_pottery_sherd",
+          "weight": 30
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:explorer_pottery_sherd",
+          "weight": 30
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:fern",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:raw_iron",
+          "weight": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_ingot",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:emerald",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:amethyst_shard",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:eater_tooth",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:glider_feather",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:crusher_spike",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_relic",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:sniff_armor_trim_smithing_template",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sniffer_egg",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:crusher_egg",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:sniffer_skull"
+        }
+      ]
+    }
+  ],
+  "random_sequence": "wan_ancient_beasts:archaeology/digsite_taiga"
+}

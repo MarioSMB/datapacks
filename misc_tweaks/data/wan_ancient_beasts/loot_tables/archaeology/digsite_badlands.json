@@ -1,0 +1,84 @@
+{
+  "type": "minecraft:archaeology",
+  "pools": [
+    {
+      "name": "main",
+      "rolls": {
+        "type": "minecraft:constant",
+        "value": 1
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:miner_pottery_sherd",
+          "weight": 30
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:jaw_pottery_sherd",
+          "weight": 30
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bone",
+          "weight": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:raw_gold",
+          "weight": 30
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gold_ingot",
+          "weight": 30
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:emerald",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:eater_tooth",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:crusher_spike",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_relic",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:ancient_upgrade_smithing_template",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "legendary_monsters:skeletosaurus_egg",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:crusher_egg",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:crusher_skull"
+        }
+      ]
+    }
+  ],
+  "random_sequence": "wan_ancient_beasts:archaeology/digsite_badlands"
+}

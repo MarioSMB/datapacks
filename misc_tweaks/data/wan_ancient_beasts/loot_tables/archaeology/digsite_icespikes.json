@@ -1,0 +1,72 @@
+{
+  "type": "minecraft:archaeology",
+  "pools": [
+    {
+      "name": "main",
+      "rolls": {
+        "type": "minecraft:constant",
+        "value": 1
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:angler_pottery_sherd",
+          "weight": 30
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:stroll_pottery_sherd",
+          "weight": 30
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:frozen_ancient_meat",
+          "weight": 35
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:emerald",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_relic",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:sniff_armor_trim_smithing_template",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sniffer_egg",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:walker_egg",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:soarer_egg",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:sniffer_skull"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:walker_skull"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:soarer_skull"
+        }
+      ]
+    }
+  ],
+  "random_sequence": "wan_ancient_beasts:archaeology/digsite_icespikes"
+}
