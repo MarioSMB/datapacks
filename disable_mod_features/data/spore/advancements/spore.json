@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "spore:proto_spawnegg"
+    },
+    "title":{"translate": "advancement.spore.spore.title"},
+    "description":{"translate": "advancement.spore.spore.description"},
+    "background": "spore:textures/block/laboratory_block3.png",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

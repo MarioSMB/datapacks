@@ -1,0 +1,30 @@
+{
+  "parent": "betterend:enter_end",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.betterend.all_the_biomes.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "betterend:aeternium_boots",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.betterend.all_the_biomes.title"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

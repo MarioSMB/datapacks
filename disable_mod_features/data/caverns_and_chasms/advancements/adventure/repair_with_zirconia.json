@@ -1,0 +1,29 @@
+{
+  "parent": "caverns_and_chasms:adventure/bejeweled_anvil_repair",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.caverns_and_chasms.adventure.repair_with_zirconia.description"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "caverns_and_chasms:zirconia"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.caverns_and_chasms.adventure.repair_with_zirconia.title"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

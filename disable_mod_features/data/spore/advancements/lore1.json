@@ -1,0 +1,28 @@
+{
+  "parent": "spore:spore",
+  "display": {
+    "icon": {
+      "item": "spore:corrupted_record"
+    },
+    "title": {
+      "translate": "advancement.spore.lore_1.title"
+    },
+    "description": {
+      "translate": "advancement.spore.lore_1.description"
+    },
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

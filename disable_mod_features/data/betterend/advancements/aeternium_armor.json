@@ -1,0 +1,30 @@
+{
+  "parent": "betterend:aeternium_plate",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.betterend.aeternium_armor.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "betterend:aeternium_chestplate",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.betterend.aeternium_armor.title"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

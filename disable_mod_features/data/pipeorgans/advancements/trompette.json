@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "pipeorgans:trompette"
+    },
+    "title": {
+      "translate": "advancement.pipeorgans.trompette"
+    },
+    "description": {
+      "translate": "advancement.pipeorgans.trompette.desc"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "parent": "pipeorgans:reed",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

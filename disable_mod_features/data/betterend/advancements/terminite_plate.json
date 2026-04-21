@@ -1,0 +1,29 @@
+{
+  "parent": "betterend:terminite_anvil",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.betterend.terminite_plate.description"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "betterend:terminite_forged_plate"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.betterend.terminite_plate.title"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

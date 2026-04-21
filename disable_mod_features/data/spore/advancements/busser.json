@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "spore:busser_spawnegg"
+    },
+    "title":{"translate": "advancement.spore.busser.title"},
+    "description":{"translate": "advancement.spore.busser.description"},
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+
+  "parent": "spore:inf_human",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

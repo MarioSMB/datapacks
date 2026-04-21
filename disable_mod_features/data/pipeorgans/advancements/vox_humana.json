@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "pipeorgans:vox_humana"
+    },
+    "title": {
+      "translate": "advancement.pipeorgans.vox_humana"
+    },
+    "description": {
+      "translate": "advancement.pipeorgans.vox_humana.desc"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "parent": "pipeorgans:reed",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "spore:howitzer_spawnegg"
+    },
+    "title":{"translate": "advancement.spore.howitzer.title"},
+    "description":{"translate": "advancement.spore.howitzer.description"},
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+
+  "parent": "spore:reconstructor",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

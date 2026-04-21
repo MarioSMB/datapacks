@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "spore:prot_spawnegg"
+    },
+    "title":{"translate": "advancement.spore.protector.title"},
+    "description":{"translate": "advancement.spore.protector.description"},
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+
+  "parent": "spore:inf_player",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

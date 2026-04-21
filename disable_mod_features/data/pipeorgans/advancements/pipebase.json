@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "pipeorgans:base"
+    },
+    "title": {
+      "translate": "advancement.pipeorgans.pipebase"
+    },
+    "description": {
+      "translate": "advancement.pipeorgans.pipebase.desc"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true,
+    "background": "minecraft:textures/block/cut_copper.png"
+  },
+  "parent": "pipeorgans:csosintro",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

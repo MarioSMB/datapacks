@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "spore:levi_spawnegg"
+    },
+    "title":{"translate": "advancement.spore.leviathan.title"},
+    "description":{"translate": "advancement.spore.leviathan.description"},
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+
+  "parent": "spore:reconstructor",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

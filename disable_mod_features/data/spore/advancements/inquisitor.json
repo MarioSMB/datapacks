@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "spore:inquisitor_spawnegg"
+    },
+    "title":{"translate": "advancement.spore.inquisitor.title"},
+    "description":{"translate": "advancement.spore.inquisitor.description"},
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+
+  "parent": "spore:knight",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

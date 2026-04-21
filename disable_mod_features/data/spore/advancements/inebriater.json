@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "spore:inebriater_spawnegg"
+    },
+    "title":{"translate": "advancement.spore.inebriater.title"},
+    "description":{"translate": "advancement.spore.inebriater.description"},
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+
+  "parent": "spore:inf_hazmat",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

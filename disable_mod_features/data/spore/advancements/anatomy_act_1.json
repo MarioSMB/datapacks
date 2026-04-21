@@ -1,0 +1,28 @@
+{
+  "parent": "spore:scanning_world",
+  "display": {
+    "icon": {
+      "item": "spore:claw_fragment"
+    },
+    "title": {
+      "translate": "advancement.spore.anatomy_act_1.title"
+    },
+    "description": {
+      "translate": "advancement.spore.anatomy_act_1.description"
+    },
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

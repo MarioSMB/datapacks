@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "spore:mutated_fiber"
+    },
+    "title":{"translate": "advancement.spore.inf_mobs.title"},
+    "description":{"translate": "advancement.spore.inf_mobs.description"},
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+
+  "parent": "spore:spore",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

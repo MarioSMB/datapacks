@@ -6,47 +6,23 @@
   "jei_catalyst": { "item":"minecraft:cauldron" },
   "trades": [
     {
-      "offer": {
-        "item": "kubejs:copper_backpack_upgrade",
-        "count": 1
-      },
-      "request": {
-        "item": "minecraft:emerald",
-        "count": 2
-      },
+      "offer": {"item": "kubejs:copper_backpack_upgrade","count": 1},
+      "request": {"item": "minecraft:emerald","count": 16},
       "trade_id": "leatherworker_sell_copper_backpack_upgrade"
     },
     {
-      "offer": {
-        "item": "kubejs:iron_backpack_upgrade",
-        "count": 1
-      },
-      "request": {
-        "item": "minecraft:emerald",
-        "count": 4
-      },
+      "offer": {"item": "kubejs:iron_backpack_upgrade","count": 1},
+      "request": {"item": "minecraft:emerald","count": 64},
       "trade_id": "leatherworker_sell_iron_backpack_upgrade"
     },
     {
-      "offer": {
-        "item": "kubejs:gold_backpack_upgrade",
-        "count": 1
-      },
-      "request": {
-        "item": "minecraft:emerald",
-        "count": 2
-      },
+      "offer": {"item": "kubejs:gold_backpack_upgrade","count": 1},
+      "request": {"item": "minecraft:emerald","count": 128},
       "trade_id": "leatherworker_sell_gold_backpack_upgrade"
     },
     {
-      "offer": {
-        "item": "kubejs:diamond_backpack_upgrade",
-        "count": 1
-      },
-      "request": {
-        "item": "minecraft:emerald",
-        "count": 1
-      },
+      "offer": {"item": "kubejs:diamond_backpack_upgrade","count": 1},
+      "request": {"item": "minecraft:emerald","count": 256},
       "trade_id": "leatherworker_sell_diamond_backpack_upgrade"
     }
   ]

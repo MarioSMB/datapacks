@@ -1,0 +1,29 @@
+{
+  "parent": "betterend:aeternium_anvil",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.betterend.aeternium_hammer_head.description"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "betterend:aeternium_hammer_head"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.betterend.aeternium_hammer_head.title"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

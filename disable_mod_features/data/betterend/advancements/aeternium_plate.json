@@ -1,0 +1,29 @@
+{
+  "parent": "betterend:aeternium_hammer",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.betterend.aeternium_plate.description"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "item": "betterend:aeternium_forged_plate"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.betterend.aeternium_plate.title"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

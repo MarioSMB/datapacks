@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "spore:specter_spawnegg"
+    },
+    "title":{"translate": "advancement.spore.specter.title"},
+    "description":{"translate": "advancement.spore.specter.description"},
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+
+  "parent": "spore:inf_trader",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

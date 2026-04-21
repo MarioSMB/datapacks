@@ -1,0 +1,29 @@
+{
+  "parent": "betterend:root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.betterend.enter_end.description"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "betterend:cave_moss"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.betterend.enter_end.title"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,30 @@
+{
+  "parent": "betterend:aeternium_tool_head",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.betterend.aeternium_tool.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "betterend:aeternium_pickaxe",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.betterend.aeternium_tool.title"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

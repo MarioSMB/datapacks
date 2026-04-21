@@ -1,0 +1,28 @@
+{
+  "parent": "spore:scanning_world",
+  "display": {
+    "icon": {
+      "item": "spore:acidic_gland"
+    },
+    "title": {
+      "translate": "advancement.spore.anatomy_act_12.title"
+    },
+    "description": {
+      "translate": "advancement.spore.anatomy_act_12.description"
+    },
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

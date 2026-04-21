@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "pipeorgans:prestant"
+    },
+    "title": {
+      "translate": "advancement.pipeorgans.prestant"
+    },
+    "description": {
+      "translate": "advancement.pipeorgans.prestant.desc"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "parent": "pipeorgans:diapason",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

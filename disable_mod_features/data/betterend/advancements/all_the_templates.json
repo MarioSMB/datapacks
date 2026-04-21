@@ -1,0 +1,29 @@
+{
+  "parent": "betterend:enter_end",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.betterend.all_the_templates.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "betterend:tool_assembly_smithing_template"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.betterend.all_the_templates.title"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

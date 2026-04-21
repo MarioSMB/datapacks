@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "pipeorgans:subbass"
+    },
+    "title": {
+      "translate": "advancement.pipeorgans.subbass"
+    },
+    "description": {
+      "translate": "advancement.pipeorgans.subbass.desc"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "parent": "pipeorgans:pipebase",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

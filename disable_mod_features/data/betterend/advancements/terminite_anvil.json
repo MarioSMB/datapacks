@@ -1,0 +1,29 @@
+{
+  "parent": "betterend:thallasium_anvil",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.betterend.terminite_anvil.description"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "betterend:terminite_anvil"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.betterend.terminite_anvil.title"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

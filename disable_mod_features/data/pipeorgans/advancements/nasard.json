@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "pipeorgans:nasard"
+    },
+    "title": {
+      "translate": "advancement.pipeorgans.nasard"
+    },
+    "description": {
+      "translate": "advancement.pipeorgans.nasard.desc"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "parent": "pipeorgans:pipebase",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

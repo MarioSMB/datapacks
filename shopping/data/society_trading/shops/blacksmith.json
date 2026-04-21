@@ -26,7 +26,7 @@
         "item": "minecraft:emerald",
         "count": 1
       },
-      "trade_id": "blacksmith_copper_ingot_for_sprocket"
+      "trade_id": "blacksmith_copper_ingot"
     },
     {
       "offer": {
@@ -37,7 +37,7 @@
         "item": "minecraft:emerald",
         "count": 1
       },
-      "trade_id": "blacksmith_iron_ingot_for_cog"
+      "trade_id": "blacksmith_iron_ingot"
     },
     {
       "offer": {
@@ -49,7 +49,7 @@
         "count": 1
       },
       "stage_required": "blacksmith_redstone",
-      "trade_id": "blacksmith_redstone_for_sprocket"
+      "trade_id": "blacksmith_redstone"
     },
     {
       "offer": {
@@ -64,7 +64,7 @@
         "item": "minecraft:diamond",
         "count": 9
       },
-      "trade_id": "blacksmith_netherite_upgrade_smithing_template_for_sun_diamond"
+      "trade_id": "blacksmith_netherite_upgrade_smithing_template"
     }
   ],
   "random_sets ": []

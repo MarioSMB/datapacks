@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "spore:conductor_spawnegg"
+    },
+    "title":{"translate": "advancement.spore.conductor.title"},
+    "description":{"translate": "advancement.spore.conductor.description"},
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+
+  "parent": "spore:inf_hazmat",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

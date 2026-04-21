@@ -1,0 +1,29 @@
+{
+  "parent": "betterend:terminite_anvil",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.betterend.aeternium_anvil.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "betterend:aeternium_anvil"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.betterend.aeternium_anvil.title"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

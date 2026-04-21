@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "spore:groberfub_spawnegg"
+    },
+    "title":{"translate": "advancement.spore.grober.title"},
+    "description":{"translate": "advancement.spore.grober.description"},
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+
+  "parent": "spore:braiomil",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

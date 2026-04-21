@@ -8,81 +8,44 @@
   "selector_weight": -20,
   "trades": [
     {
-      "offer": {
-        "item": "numismatics:spur",
-        "count": 3
-      },
-      "request": {
-        "item": "farmersdelight:onion",
-        "count": 1
-      },
+      "offer": {"item": "minecraft:emerald","count": 1},
+      "request": {"item": "minecraft:wheat","count": 16},
+      "trade_id": "farmer_buy_wheat"
+    },
+    {
+      "offer": {"item": "minecraft:emerald","count": 1},
+      "request": {"item": "minecraft:beetroot","count": 16},
+      "trade_id": "farmer_buy_beetroot"
+    },
+    {
+      "offer": {"item": "minecraft:emerald","count": 1},
+      "request": {"item": "minecraft:pumpkin","count": 4},
+      "trade_id": "farmer_buy_pumpkin"
+    },
+    {
+      "offer": {"item": "minecraft:emerald","count": 1},
+      "request": {"item": "farmersdelight:onion","count": 16},
       "trade_id": "farmer_buy_onion"
     },
     {
-      "offer": {
-        "item": "numismatics:spur",
-        "count": 3
-      },
-      "request": {
-        "item": "minecraft:potato",
-        "count": 1
-      },
-      "trade_id": "farmer_buy_potato"
-    },
-    {
-      "offer": {
-        "item": "numismatics:spur",
-        "count": 3
-      },
-      "request": {
-        "item": "minecraft:wheat",
-        "count": 1
-      },
-      "trade_id": "farmer_buy_wheat"
-    },
-    {
-      "offer": {
-        "item": "numismatics:spur",
-        "count": 4
-      },
-      "request": {
-        "item": "minecraft:beetroot",
-        "count": 1
-      },
-      "trade_id": "farmer_buy_wheat"
-    },
-    {
-      "offer": {
-        "item": "numismatics:spur",
-        "count": 4
-      },
-      "request": {
-        "item": "minecraft:carrot",
-        "count": 1
-      },
-      "trade_id": "farmer_buy_carrot"
-    },
-    {
-      "offer": {
-        "item": "numismatics:spur",
-        "count": 4
-      },
-      "request": {
-        "item": "farmersdelight:tomato",
-        "count": 1
-      },
-      "trade_id": "farmer_buy_tomato"
-    },
-    {
-      "offer": {
-        "item": "numismatics:bevel",
-        "count": 1
-      },
-      "request": {
-        "item": "farmersdelight:cabbage",
-        "count": 1
-      },
+      "offer": {"item": "minecraft:emerald","count": 1},
+      "request": {"item": "farmersdelight:cabbage","count": 16},
       "trade_id": "farmer_buy_cabbage"
+    },
+    {
+      "offer": {"item": "minecraft:emerald","count": 1},
+      "request": {"item": "farmersdelight:onion","count": 16},
+      "trade_id": "farmer_buy_onion"
+    },
+    {
+      "offer": {"item": "minecraft:emerald","count": 1},
+      "request": {"item": "farmersdelight:rice","count": 16},
+      "trade_id": "farmer_buy_rice"
+    },
+    {
+      "offer": {"item": "minecraft:emerald","count": 1},
+      "request": {"item": "farmersdelight:tomato","count": 16},
+      "trade_id": "farmer_buy_tomato"
     }
   ],
   "random_sets ": []

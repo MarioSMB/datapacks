@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "spore:hvindicator_spawnegg"
+    },
+    "title":{"translate": "advancement.spore.hindicator.title"},
+    "description":{"translate": "advancement.spore.hindicator.description"},
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+
+  "parent": "spore:inf_vindicator",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

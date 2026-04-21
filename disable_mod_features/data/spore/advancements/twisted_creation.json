@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "spore:surgery_table"
+    },
+    "title":{"translate": "advancement.spore.surgery_table.title"},
+    "description":{"translate": "advancement.spore.surgery_table.description"},
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+
+  "parent": "spore:lost_technology",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

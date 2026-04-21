@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "spore:naiad_spawnegg"
+    },
+    "title":{"translate": "advancement.spore.naiad.title"},
+    "description":{"translate": "advancement.spore.naiad.description"},
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "parent": "spore:inf_drowned",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "announce_to_chat": false
+}

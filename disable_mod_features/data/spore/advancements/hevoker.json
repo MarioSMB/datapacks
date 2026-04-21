@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "spore:hevoker_spawnegg"
+    },
+    "title":{"translate": "advancement.spore.hevoker.title"},
+    "description":{"translate": "advancement.spore.hevoker.description"},
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+
+  "parent": "spore:inf_evoker",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

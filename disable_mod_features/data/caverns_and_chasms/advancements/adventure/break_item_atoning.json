@@ -1,0 +1,29 @@
+{
+  "parent": "caverns_and_chasms:adventure/atone_item",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.caverns_and_chasms.adventure.break_item_atoning.description"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "caverns_and_chasms:atoning_table"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.caverns_and_chasms.adventure.break_item_atoning.title"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "sends_telemetry_event": false
+}
