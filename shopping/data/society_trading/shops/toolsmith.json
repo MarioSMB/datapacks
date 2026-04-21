@@ -1,0 +1,31 @@
+{
+  "shop_id": "toolsmith",
+  "name": "Toolsmith",
+  "texture": "minecraft:textures/block/smithing_table_side",
+  "villager_profession": "toolsmith",
+  "hidden_from_selector": true,
+  "selector_weight": -20,
+  "trades": [
+    {
+      "offer": {"item": "opposing_force:emerald_shovel","count": 1},
+      "request": {"item": "minecraft:emerald","count": 8},
+      "trade_id": "toolsmith_sell_emerald_shovel"
+    },
+    {
+      "offer": {"item": "opposing_force:emerald_pickaxe","count": 1},
+      "request": {"item": "minecraft:emerald","count": 16},
+      "trade_id": "toolsmith_sell_emerald_pickaxe"
+    },
+    {
+      "offer": {"item": "opposing_force:emerald_axe","count": 1},
+      "request": {"item": "minecraft:emerald","count": 20},
+      "trade_id": "toolsmith_sell_emerald_axe"
+    },
+    {
+      "offer": {"item": "opposing_force:emerald_hoe","count": 1},
+      "request": {"item": "minecraft:emerald","count": 10},
+      "trade_id": "toolsmith_sell_emerald_hoe"
+    }
+  ],
+  "random_sets ": []
+}

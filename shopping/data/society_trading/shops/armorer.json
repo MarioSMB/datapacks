@@ -1,0 +1,36 @@
+{
+  "shop_id": "armorer",
+  "name": "Blacksmith",
+  "texture": "minecraft:textures/block/blast_furnace_front",
+  "villager_profession": "armorer",
+  "hidden_from_selector": true,
+  "selector_weight": -20,
+  "trades": [
+    {
+      "offer": {"item": "minecraft:shield","count": 1},
+      "request": {"item": "minecraft:emerald","count": 6},
+      "trade_id": "armorer_sell_shield"
+    },
+    {
+      "offer": {"item": "opposing_force:emerald_mask","count": 1},
+      "request": {"item": "minecraft:emerald","count": 14},
+      "trade_id": "armorer_sell_emerald_mask"
+    },
+    {
+      "offer": {"item": "opposing_force:emerald_chestplate","count": 1},
+      "request": {"item": "minecraft:emerald","count": 30},
+      "trade_id": "armorer_sell_emerald_chestplate"
+    },
+    {
+      "offer": {"item": "opposing_force:emerald_leggings","count": 1},
+      "request": {"item": "minecraft:emerald","count": 21},
+      "trade_id": "armorer_sell_emerald_leggings"
+    },
+    {
+      "offer": {"item": "opposing_force:emerald_boots","count": 1},
+      "request": {"item": "minecraft:emerald","count": 12},
+      "trade_id": "armorer_sell_emerald_boots"
+    }
+  ],
+  "random_sets ": []
+}

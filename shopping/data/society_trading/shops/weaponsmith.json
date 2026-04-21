@@ -1,0 +1,16 @@
+{
+  "shop_id": "weaponsmith",
+  "name": "Weaponsmith",
+  "texture": "minecraft:textures/block/grindstone_side",
+  "villager_profession": "weaponsmith",
+  "hidden_from_selector": true,
+  "selector_weight": -20,
+  "trades": [
+    {
+      "offer": {"item": "opposing_force:emerald_sword","count": 1},
+      "request": {"item": "minecraft:emerald","count": 18},
+      "trade_id": "weaponsmith_sell_emerald_sword"
+    }
+  ],
+  "random_sets ": []
+}
