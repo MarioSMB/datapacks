@@ -1,0 +1,87 @@
+{
+  "shop_id": "fisherman",
+  "name": "Fisherman",
+  "texture": "minecraft:textures/block/barrel_side",
+  "villager_profession": "fisherman",
+  "jei_catalyst": { "item":"minecraft:barrel" },
+  "hidden_from_selector": true,
+  "selector_weight": -20,
+  "trades": [
+    {
+      "offer": {"item": "minecraft:emerald","count": 1},
+      "request": {"item": "minecraft:cod","count": 4},
+      "trade_id": "fisherman_buy_cod"
+    },
+    {
+      "offer": {"item": "minecraft:emerald","count": 1},
+      "request": {"item": "minecraft:salmon","count": 3},
+      "trade_id": "fisherman_buy_salmon"
+    },
+    {
+      "offer": {"item": "minecraft:emerald","count": 1},
+      "request": {"item": "minecraft:pufferfish","count": 1},
+      "trade_id": "fisherman_buy_pufferfish"
+    },
+    {
+      "offer": {"item": "minecraft:emerald","count": 1},
+      "request": {"item": "upgrade_aquatic:perch","count": 1},
+      "trade_id": "fisherman_buy_perch"
+    },
+    {
+      "offer": {"item": "minecraft:emerald","count": 1},
+      "request": {"item": "upgrade_aquatic:pike","count": 1},
+      "trade_id": "fisherman_buy_pike"
+    },
+    {
+      "offer": {"item": "minecraft:emerald","count": 3},
+      "request": {"item": "upgrade_aquatic:lionfish","count": 1},
+      "trade_id": "fisherman_buy_lionfish"
+    },
+    {
+      "offer": {"item": "minecraft:emerald","count": 1},
+      "request": {"item": "caverns_and_chasms:cavefish","count": 2},
+      "trade_id": "fisherman_buy_cavefish"
+    },
+    {
+      "offer": {"item": "minecraft:emerald","count": 2},
+      "request": {"item": "environmental:koi","count": 1},
+      "trade_id": "fisherman_buy_koi"
+    },
+    {
+      "offer": {"item": "minecraft:emerald","count": 2},
+      "request": {"item": "minecraft:tropical_fish","count": 1},
+      "trade_id": "fisherman_buy_tropical_fish"
+    },
+    {
+      "offer": {"item": "minecraft:emerald","count": 1},
+      "request": {"item": "betterend:end_fish_raw","count": 3},
+      "trade_id": "fisherman_buy_end_fish"
+    },
+    {
+      "offer": {"item": "minecraft:emerald","count": 1},
+      "request": {"item": "spawn:herring","count": 4},
+      "trade_id": "fisherman_buy_herring"
+    },
+    {
+      "offer": {"item": "minecraft:emerald","count": 5},
+      "request": {"item": "wan_ancient_beasts:toxlacanth","count": 1},
+      "trade_id": "fisherman_buy_toxlacanth"
+    },
+    {
+      "offer": {"item": "minecraft:emerald","count": 6},
+      "request": {"item": "alexscaves:radgill","count": 1},
+      "trade_id": "fisherman_buy_radgill"
+    },
+    {
+      "offer": {"item": "minecraft:emerald","count": 2},
+      "request": {"item": "alexscaves:lanternfish","count": 1},
+      "trade_id": "fisherman_buy_lanternfish"
+    },
+    {
+      "offer": {"item": "minecraft:emerald","count": 2},
+      "request": {"item": "alexscaves:tripodfish","count": 1},
+      "trade_id": "fisherman_buy_tripodfish"
+    }
+  ],
+  "random_sets ": []
+}

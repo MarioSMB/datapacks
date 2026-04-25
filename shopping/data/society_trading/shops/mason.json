@@ -1,0 +1,341 @@
+{
+  "shop_id": "mason",
+  "name": "Mason",
+  "texture": "minecraft:textures/block/stonecutter_top",
+  "villager_profession": "mason",
+  "hidden_from_selector": true,
+  "selector_weight": -20,
+  "trades": [
+    {
+      "offer": {"item": "unusual_furniture:industrial_table","count": 1},
+      "request": {"item": "minecraft:emerald","count": 4},
+      "trade_id": "mason_sell_industrial_table"
+    },
+    {
+      "offer": {"item": "unusual_furniture:industrial_coffee_table","count": 1},
+      "request": {"item": "minecraft:emerald","count": 3},
+      "trade_id": "mason_sell_industrial_coffee_table"
+    },
+    {
+      "offer": {"item": "unusual_furniture:black_sofa","count": 1},
+      "request": {"item": "minecraft:emerald","count": 6},
+      "trade_id": "mason_sell_black_sofa"
+    },
+    {
+      "offer": {"item": "unusual_furniture:blue_sofa","count": 1},
+      "request": {"item": "minecraft:emerald","count": 6},
+      "trade_id": "mason_sell_blue_sofa"
+    },
+    {
+      "offer": {"item": "unusual_furniture:brown_sofa","count": 1},
+      "request": {"item": "minecraft:emerald","count": 6},
+      "trade_id": "mason_sell_brown_sofa"
+    },
+    {
+      "offer": {"item": "unusual_furniture:cyan_sofa","count": 1},
+      "request": {"item": "minecraft:emerald","count": 6},
+      "trade_id": "mason_sell_cyan_sofa"
+    },
+    {
+      "offer": {"item": "unusual_furniture:gray_sofa","count": 1},
+      "request": {"item": "minecraft:emerald","count": 6},
+      "trade_id": "mason_sell_gray_sofa"
+    },
+    {
+      "offer": {"item": "unusual_furniture:green_sofa","count": 1},
+      "request": {"item": "minecraft:emerald","count": 6},
+      "trade_id": "mason_sell_green_sofa"
+    },
+    {
+      "offer": {"item": "unusual_furniture:light_blue_sofa","count": 1},
+      "request": {"item": "minecraft:emerald","count": 6},
+      "trade_id": "mason_sell_light_blue_sofa"
+    },
+    {
+      "offer": {"item": "unusual_furniture:light_gray_sofa","count": 1},
+      "request": {"item": "minecraft:emerald","count": 6},
+      "trade_id": "mason_sell_light_gray_sofa"
+    },
+    {
+      "offer": {"item": "unusual_furniture:lime_sofa","count": 1},
+      "request": {"item": "minecraft:emerald","count": 6},
+      "trade_id": "mason_sell_lime_sofa"
+    },
+    {
+      "offer": {"item": "unusual_furniture:magenta_sofa","count": 1},
+      "request": {"item": "minecraft:emerald","count": 6},
+      "trade_id": "mason_sell_magenta_sofa"
+    },
+    {
+      "offer": {"item": "unusual_furniture:orange_sofa","count": 1},
+      "request": {"item": "minecraft:emerald","count": 6},
+      "trade_id": "mason_sell_orange_sofa"
+    },
+    {
+      "offer": {"item": "unusual_furniture:pink_sofa","count": 1},
+      "request": {"item": "minecraft:emerald","count": 6},
+      "trade_id": "mason_sell_pink_sofa"
+    },
+    {
+      "offer": {"item": "unusual_furniture:purple_sofa","count": 1},
+      "request": {"item": "minecraft:emerald","count": 6},
+      "trade_id": "mason_sell_purple_sofa"
+    },
+    {
+      "offer": {"item": "unusual_furniture:red_sofa","count": 1},
+      "request": {"item": "minecraft:emerald","count": 6},
+      "trade_id": "mason_sell_red_sofa"
+    },
+    {
+      "offer": {"item": "unusual_furniture:white_sofa","count": 1},
+      "request": {"item": "minecraft:emerald","count": 6},
+      "trade_id": "mason_sell_white_sofa"
+    },
+    {
+      "offer": {"item": "unusual_furniture:yellow_sofa","count": 1},
+      "request": {"item": "minecraft:emerald","count": 6},
+      "trade_id": "mason_sell_yellow_sofa"
+    },
+    {
+      "offer": {"item": "unusual_furniture:black_curtain","count": 1},
+      "request": {"item": "minecraft:emerald","count": 2},
+      "trade_id": "mason_sell_black_curtain"
+    },
+    {
+      "offer": {"item": "unusual_furniture:blue_curtain","count": 1},
+      "request": {"item": "minecraft:emerald","count": 2},
+      "trade_id": "mason_sell_blue_curtain"
+    },
+    {
+      "offer": {"item": "unusual_furniture:brown_curtains","count": 1},
+      "request": {"item": "minecraft:emerald","count": 2},
+      "trade_id": "mason_sell_brown_curtains"
+    },
+    {
+      "offer": {"item": "unusual_furniture:cyan_curtain","count": 1},
+      "request": {"item": "minecraft:emerald","count": 2},
+      "trade_id": "mason_sell_cyan_curtain"
+    },
+    {
+      "offer": {"item": "unusual_furniture:gray_curtain","count": 1},
+      "request": {"item": "minecraft:emerald","count": 2},
+      "trade_id": "mason_sell_gray_curtain"
+    },
+    {
+      "offer": {"item": "unusual_furniture:green_curtain","count": 1},
+      "request": {"item": "minecraft:emerald","count": 2},
+      "trade_id": "mason_sell_green_curtain"
+    },
+    {
+      "offer": {"item": "unusual_furniture:light_blue_curtain","count": 1},
+      "request": {"item": "minecraft:emerald","count": 2},
+      "trade_id": "mason_sell_light_blue_curtain"
+    },
+    {
+      "offer": {"item": "unusual_furniture:light_gray_curtain","count": 1},
+      "request": {"item": "minecraft:emerald","count": 2},
+      "trade_id": "mason_sell_light_gray_curtain"
+    },
+    {
+      "offer": {"item": "unusual_furniture:lime_curtain","count": 1},
+      "request": {"item": "minecraft:emerald","count": 2},
+      "trade_id": "mason_sell_lime_curtain"
+    },
+    {
+      "offer": {"item": "unusual_furniture:magenta_curtain","count": 1},
+      "request": {"item": "minecraft:emerald","count": 2},
+      "trade_id": "mason_sell_magenta_curtain"
+    },
+    {
+      "offer": {"item": "unusual_furniture:orange_curtain","count": 1},
+      "request": {"item": "minecraft:emerald","count": 2},
+      "trade_id": "mason_sell_orange_curtain"
+    },
+    {
+      "offer": {"item": "unusual_furniture:pink_curtain","count": 1},
+      "request": {"item": "minecraft:emerald","count": 2},
+      "trade_id": "mason_sell_pink_curtain"
+    },
+    {
+      "offer": {"item": "unusual_furniture:purple_curtain","count": 1},
+      "request": {"item": "minecraft:emerald","count": 2},
+      "trade_id": "mason_sell_purple_curtain"
+    },
+    {
+      "offer": {"item": "unusual_furniture:red_curtain","count": 1},
+      "request": {"item": "minecraft:emerald","count": 2},
+      "trade_id": "mason_sell_red_curtain"
+    },
+    {
+      "offer": {"item": "unusual_furniture:white_curtain","count": 1},
+      "request": {"item": "minecraft:emerald","count": 2},
+      "trade_id": "mason_sell_white_curtain"
+    },
+    {
+      "offer": {"item": "unusual_furniture:yellow_curtain","count": 1},
+      "request": {"item": "minecraft:emerald","count": 2},
+      "trade_id": "mason_sell_yellow_curtain"
+    },
+    {
+      "offer": {"item": "unusual_furniture:tropical_plant","count": 1},
+      "request": {"item": "minecraft:emerald","count": 4},
+      "trade_id": "mason_sell_tropical_plant"
+    },
+    {
+      "offer": {"item": "unusual_furniture:mushroom_patch","count": 1},
+      "request": {"item": "minecraft:emerald","count": 4},
+      "trade_id": "mason_sell_mushroom_patch"
+    },
+    {
+      "offer": {"item": "unusual_furniture:pebble_bag","count": 1},
+      "request": {"item": "minecraft:emerald","count": 4},
+      "trade_id": "mason_sell_pebble_bag"
+    },
+    {
+      "offer": {"item": "unusual_furniture:water_plants","count": 1},
+      "request": {"item": "minecraft:emerald","count": 4},
+      "trade_id": "mason_sell_water_plants"
+    },
+    {
+      "offer": {"item": "unusual_furniture:blackstone_pot","count": 1},
+      "request": {"item": "minecraft:emerald","count": 3},
+      "trade_id": "mason_sell_blackstone_pot"
+    },
+    {
+      "offer": {"item": "unusual_furniture:fudge_pot","count": 1},
+      "request": {"item": "minecraft:emerald","count": 3},
+      "trade_id": "mason_sell_fudge_pot"
+    },
+    {
+      "offer": {"item": "unusual_furniture:greek_pot","count": 1},
+      "request": {"item": "minecraft:emerald","count": 3},
+      "trade_id": "mason_sell_greek_pot"
+    },
+    {
+      "offer": {"item": "unusual_furniture:hanging_pot","count": 1},
+      "request": {"item": "minecraft:emerald","count": 5},
+      "trade_id": "mason_sell_hanging_pot"
+    },
+    {
+      "offer": {"item": "unusual_furniture:huge_pot","count": 1},
+      "request": {"item": "minecraft:emerald","count": 5},
+      "trade_id": "mason_sell_huge_pot"
+    },
+    {
+      "offer": {"item": "unusual_furniture:large_hanging_pot","count": 1},
+      "request": {"item": "minecraft:emerald","count": 6},
+      "trade_id": "mason_sell_large_hanging_pot"
+    },
+    {
+      "offer": {"item": "unusual_furniture:stone_pot","count": 1},
+      "request": {"item": "minecraft:emerald","count": 3},
+      "trade_id": "mason_sell_stone_pot"
+    },
+    {
+      "offer": {"item": "unusual_furniture:tall_clay_pot","count": 1},
+      "request": {"item": "minecraft:emerald","count": 4},
+      "trade_id": "mason_sell_tall_clay_pot"
+    },
+    {
+      "offer": {"item": "unusual_furniture:vintage_flower_pot","count": 1},
+      "request": {"item": "minecraft:emerald","count": 4},
+      "trade_id": "mason_sell_vintage_flower_pot"
+    },
+    {
+      "offer": {"item": "unusual_furniture:wooden_hanging_pot","count": 1},
+      "request": {"item": "minecraft:emerald","count": 5},
+      "trade_id": "mason_sell_wooden_hanging_pot"
+    },
+    {
+      "offer": {"item": "unusual_furniture:poster","count": 1},
+      "request": {"item": "minecraft:emerald","count": 1},
+      "trade_id": "mason_sell_poster"
+    },
+    {
+      "offer": {"item": "unusual_furniture:trash","count": 1},
+      "request": {"item": "minecraft:emerald","count": 6},
+      "trade_id": "mason_sell_trash"
+    },
+    {
+      "offer": {"item": "unusual_furniture:fire_hydrant","count": 1},
+      "request": {"item": "minecraft:emerald","count": 4},
+      "trade_id": "mason_sell_fire_hydrant"
+    },
+    {
+      "offer": {"item": "unusual_furniture:emergency_fire_hydrant","count": 1},
+      "request": {"item": "minecraft:emerald","count": 4},
+      "trade_id": "mason_sell_emergency_fire_hydrant"
+    },
+    {
+      "offer": {"item": "unusual_furniture:manhole","count": 1},
+      "request": {"item": "minecraft:emerald","count": 4},
+      "trade_id": "mason_sell_manhole"
+    },
+    {
+      "offer": {"item": "unusual_furniture:decorative_toolbox","count": 1},
+      "request": {"item": "minecraft:emerald","count": 4},
+      "trade_id": "mason_sell_decorative_toolbox"
+    },
+    {
+      "offer": {"item": "unusual_furniture:warning_barrier","count": 1},
+      "request": {"item": "minecraft:emerald","count": 5},
+      "trade_id": "mason_sell_warning_barrier"
+    },
+    {
+      "offer": {"item": "unusual_furniture:road_works_barrier","count": 1},
+      "request": {"item": "minecraft:emerald","count": 5},
+      "trade_id": "mason_sell_road_works_barrier"
+    },
+    {
+      "offer": {"item": "unusual_furniture:danger_barrier","count": 1},
+      "request": {"item": "minecraft:emerald","count": 5},
+      "trade_id": "mason_sell_danger_barrier"
+    },
+    {
+      "offer": {"item": "unusual_furniture:wooden_barrier","count": 1},
+      "request": {"item": "minecraft:emerald","count": 5},
+      "trade_id": "mason_sell_wooden_barrier"
+    },
+    {
+      "offer": {"item": "unusual_furniture:blackboard_menu","count": 1},
+      "request": {"item": "minecraft:emerald","count": 5},
+      "trade_id": "mason_sell_blackboard_menu"
+    },
+    {
+      "offer": {"item": "unusual_furniture:wooden_clock","count": 1},
+      "request": {"item": "minecraft:emerald","count": 6},
+      "trade_id": "mason_sell_wooden_clock"
+    },
+    {
+      "offer": {"item": "unusual_furniture:spruce_floor_lamp","count": 1},
+      "request": {"item": "minecraft:emerald","count": 5},
+      "trade_id": "mason_sell_spruce_floor_lamp"
+    },
+    {
+      "offer": {"item": "unusual_furniture:mystery_crate","count": 1},
+      "request": {"item": "minecraft:emerald","count": 10},
+      "trade_id": "mason_sell_mystery_crate"
+    },
+    {
+      "offer": {"item": "unusual_furniture:sphere_lamp","count": 1},
+      "request": {"item": "minecraft:emerald","count": 5},
+      "trade_id": "mason_sell_sphere_lamp"
+    },
+    {
+      "offer": {"item": "unusual_furniture:floor_lamp_decoration_bat","count": 1},
+      "request": {"item": "minecraft:emerald","count": 5},
+      "trade_id": "mason_sell_floor_lamp_decoration_bat"
+    },
+    {
+      "offer": {"item": "unusual_furniture:floor_lamp_decoration_villager","count": 1},
+      "request": {"item": "minecraft:emerald","count": 5},
+      "trade_id": "mason_sell_floor_lamp_decoration_villager"
+    },
+    {
+      "offer": {"item": "unusual_furniture:iron_lamp","count": 1},
+      "request": {"item": "minecraft:emerald","count": 5},
+      "trade_id": "mason_sell_iron_lamp"
+    }
+  ],
+  "random_sets ": []
+}
