@@ -1,0 +1,35 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "jeg"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:gunpowder"
+    },
+    "X": {
+      "tag": "forge:nuggets/brass"
+    },
+    "Y": {
+      "tag": "forge:ingots/brass"
+    }
+  },
+  "pattern": [
+    "X",
+    "#",
+    "Y"
+  ],
+  "result": {
+    "count": 8,
+    "item": "jeg:pistol_ammo"
+  },
+  "show_notification": true
+}
