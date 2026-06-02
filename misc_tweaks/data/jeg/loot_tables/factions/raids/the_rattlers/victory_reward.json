@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "jeg:compound_bow",
+          "name": "jeg:combat_pistol",
           "weight": 1,
           "conditions": []
         }
