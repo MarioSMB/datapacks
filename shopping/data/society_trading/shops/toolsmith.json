@@ -1,6 +1,7 @@
 {
   "shop_id": "toolsmith",
   "name": "Toolsmith",
+  "display_type": "default",
   "texture": "minecraft:textures/block/smithing_table_side",
   "villager_profession": "toolsmith",
   "hidden_from_selector": true,

@@ -1,6 +1,7 @@
 {
   "shop_id": "weaponsmith",
   "name": "Weaponsmith",
+  "display_type": "default",
   "texture": "minecraft:textures/block/grindstone_side",
   "villager_profession": "weaponsmith",
   "hidden_from_selector": true,
