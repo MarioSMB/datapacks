@@ -1,0 +1,27 @@
+{
+  "type": "create:emptying",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "upgrade_aquatic"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create_central_kitchen"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "upgrade_aquatic:mulberry_jam_bottle"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "amount": 250,
+      "fluid": "create_central_kitchen:mulberry_jam"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "conditions": [
     {
-      "type": "forge:mod_loaded",
-      "modid": "neapolitan"
+      "modid": "neapolitan",
+      "type": "forge:mod_loaded"
     },
     {
       "type": "forge:mod_loaded",
@@ -10,8 +10,13 @@
     }
   ],
   "type": "minecraft:crafting_shapeless",
-  "category": "misc",
   "ingredients": [
+    {
+      "item": "alexscaves:sweetberry_ice_cream_scoop"
+    },
+    {
+      "item": "alexscaves:sweetberry_ice_cream_scoop"
+    },
     {
       "item": "alexscaves:sweetberry_ice_cream_scoop"
     },
@@ -21,6 +26,5 @@
   ],
   "result": {
     "item": "neapolitan:strawberry_ice_cream"
-  },
-  "show_notification": false
+  }
 }
