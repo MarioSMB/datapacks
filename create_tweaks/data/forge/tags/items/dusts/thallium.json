@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"kubejs:crushed_raw_thallium","required":false}
+  ]
+}

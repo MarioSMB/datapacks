@@ -1,0 +1,40 @@
+{
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "create"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "kubejs"
+        },
+        {
+          "value": {
+            "tag": "forge:raw_materials/yttrium",
+            "type": "forge:tag_empty"
+          },
+          "type": "forge:not"
+        }
+      ]
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "forge:raw_materials/yttrium"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:crushed_raw_yttrium"
+    },
+    {
+      "item": "create:experience_nugget",
+      "chance": 0.75
+    }
+  ],
+  "processingTime": 400
+}

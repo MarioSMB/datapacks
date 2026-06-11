@@ -1,0 +1,6 @@
+{
+  "replace": true,
+  "values": [
+    {"id":"createmetallurgy:crushed_raw_tungsten","required":false}
+  ]
+}

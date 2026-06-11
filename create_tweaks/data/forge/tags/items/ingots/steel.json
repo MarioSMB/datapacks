@@ -1,6 +1,6 @@
 {
   "replace": true,
   "values": [
-    {"id":"cataclysm:black_steel_ingot","required":false}
+    {"id":"createmetallurgy:steel_ingot","required":false}
   ]
 }

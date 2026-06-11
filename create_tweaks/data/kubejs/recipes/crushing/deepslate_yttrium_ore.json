@@ -1,0 +1,48 @@
+{
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "create"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "kubejs"
+        },
+        {
+          "value": {
+            "tag": "forge:ores/yttrium",
+            "type": "forge:tag_empty"
+          },
+          "type": "forge:not"
+        }
+      ]
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "tinkers_reforged:deepslate_yttrium_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:crushed_raw_yttrium"
+    },
+    {
+      "item": "kubejs:crushed_raw_yttrium",
+      "chance": 0.75
+    },
+    {
+      "item": "create:experience_nugget",
+      "chance": 0.75
+    },
+    {
+      "item": "minecraft:cobbled_deepslate",
+      "chance": 0.125
+    }
+  ],
+  "processingTime": 350
+}

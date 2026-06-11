@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "create"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "kubejs"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "betterend"
+        }
+      ]
+    }
+  ],
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "kubejs:crushed_raw_thallasium"
+    }
+  ],
+  "results": [
+    {
+      "item": "betterend:thallasium_nugget",
+      "count": 9
+    },
+    {
+      "item": "betterend:ender_shard",
+      "chance": 0.75
+    }
+  ]
+}

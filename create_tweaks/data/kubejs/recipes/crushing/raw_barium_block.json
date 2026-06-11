@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "create"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "kubejs"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "tinkers_reforged"
+        }
+      ]
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "tinkers_reforged:barium_raw_block"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 9,
+      "item": "kubejs:crushed_raw_barium"
+    },
+    {
+      "chance": 0.75,
+      "count": 18,
+      "item": "create:experience_nugget"
+    }
+  ]
+}

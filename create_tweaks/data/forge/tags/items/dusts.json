@@ -1,6 +1,10 @@
 {
   "replace": false,
   "values": [
-    "#forge:dusts/obsidian"
+    "#forge:dusts/obsidian",
+    "#forge:dusts/yttrium",
+    "#forge:dusts/thallium",
+    "#forge:dusts/barium",
+    "#forge:dusts/tungsten"
   ]
 }
