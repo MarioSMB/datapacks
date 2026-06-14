@@ -1,0 +1,27 @@
+{
+  "type": "tconstruct:alloy",
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "modid": "createmetallurgy",
+        "type": "forge:mod_loaded"
+      }
+    }
+  ],
+  "inputs": [
+    {
+      "amount": 750,
+      "tag": "constructs_casting:common_ink"
+    },
+    {
+      "amount": 90,
+      "tag": "forge:molten_copper"
+    }
+  ],
+  "result": {
+    "amount": 250,
+    "fluid": "irons_spellbooks:uncommon_ink"
+  },
+  "temperature": 300
+}

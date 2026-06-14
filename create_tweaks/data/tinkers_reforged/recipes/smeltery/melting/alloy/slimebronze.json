@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "modid": "createmetallurgy",
+        "type": "forge:mod_loaded"
+      }
+    }
+  ],
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "amount": 1000,
+      "tag": "forge:charred_prismarine"
+    },
+    {
+      "amount": 180,
+      "tag": "forge:molten_copper"
+    },
+    {
+      "amount": 500,
+      "fluid": "tconstruct:earth_slime"
+    }
+  ],
+  "result": {
+    "amount": 180,
+    "tag": "forge:molten_slimebronze"
+  },
+  "temperature": 450
+}

@@ -1,0 +1,34 @@
+{
+  "type": "createmetallurgy:alloying",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tcompat"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "betterend"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "createmetallurgy"
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 90,
+      "nbt": {},
+      "fluidTag": "forge:molten_iron"
+    },
+    {
+      "item": "minecraft:ender_pearl"
+    }
+  ],
+  "results": [
+    {
+      "amount": 90,
+      "fluid": "tcompat:molten_terminite"
+    }
+  ],
+  "heatRequirement": "heated"
+}

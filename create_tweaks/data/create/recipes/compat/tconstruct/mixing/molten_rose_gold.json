@@ -3,6 +3,13 @@
     {
       "type": "forge:mod_loaded",
       "modid": "tconstruct"
+    },
+    {
+      "type": "forge:not",
+      "value": {
+        "modid": "createmetallurgy",
+        "type": "forge:mod_loaded"
+      }
     }
   ],
   "type": "create:mixing",

@@ -1,0 +1,27 @@
+{
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "modid": "createmetallurgy",
+        "type": "forge:mod_loaded"
+      }
+    }
+  ],
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "amount": 90,
+      "tag": "forge:molten_barium"
+    },
+    {
+      "amount": 90,
+      "tag": "forge:molten_cobalt"
+    }
+  ],
+  "result": {
+    "amount": 180,
+    "tag": "forge:molten_actinium"
+  },
+  "temperature": 1700
+}

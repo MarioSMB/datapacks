@@ -1,0 +1,27 @@
+{
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "modid": "createmetallurgy",
+        "type": "forge:mod_loaded"
+      }
+    }
+  ],
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "amount": 500,
+      "tag": "tconstruct:ichor"
+    },
+    {
+      "amount": 250,
+      "tag": "tconstruct:blazing_blood"
+    }
+  ],
+  "result": {
+    "amount": 500,
+    "tag": "forge:molten_uranophane"
+  },
+  "temperature": 1500
+}

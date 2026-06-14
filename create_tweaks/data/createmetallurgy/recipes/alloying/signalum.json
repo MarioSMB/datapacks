@@ -1,0 +1,67 @@
+{
+  "type": "createmetallurgy:alloying",
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:ingots/signalum"
+      }
+    },
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:ingots/copper"
+      }
+    },
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:ingots/silver"
+      }
+    },
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "mantle:tag_empty",
+        "registry": "minecraft:fluid",
+        "tag": "forge:redstone"
+      }
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "createmetallurgy"
+    }
+  ],
+  "ingredients": [
+    {
+      "fluidTag": "forge:molten_copper",
+      "nbt": {},
+      "amount": 270
+    },
+    {
+      "fluidTag": "forge:molten_silver",
+      "nbt": {},
+      "amount": 90
+    },
+    {
+      "tag": "forge:dusts/redstone"
+    },
+    {
+      "tag": "forge:dusts/redstone"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tconstruct:molten_signalum",
+      "amount": 360
+    }
+  ],
+  "heatRequirement": "superheated"
+}

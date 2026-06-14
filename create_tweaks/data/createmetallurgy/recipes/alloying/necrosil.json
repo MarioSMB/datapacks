@@ -1,0 +1,166 @@
+{
+  "type": "forge:conditional",
+  "conditions": [
+    {
+      "type": "mantle:tag_filled",
+      "tag": "forge:ingots/nicrosil"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "createmetallurgy"
+    }
+  ],
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:and",
+          "values": [
+            {
+              "type": "mantle:tag_filled",
+              "tag": "forge:ingots/chromium"
+            },
+            {
+              "type": "mantle:tag_filled",
+              "tag": "forge:ingots/nickel"
+            }
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "createmetallurgy:alloying",
+        "ingredients": [
+          {
+            "amount": 180,
+            "nbt": {},
+            "fluidTag": "forge:molten_nickel"
+          },
+          {
+            "amount": 90,
+            "nbt": {},
+            "fluidTag": "forge:molten_chromium"
+          },
+          {
+            "tag": "forge:gems/quartz"
+          }
+        ],
+        "results": [
+          {
+            "amount": 360,
+            "fluid": "tconstruct:molten_nicrosil"
+          }
+        ]
+      }
+    },
+    {
+      "conditions": [
+        {
+          "type": "forge:and",
+          "values": [
+            {
+              "type": "mantle:tag_filled",
+              "tag": "forge:ingots/tin"
+            },
+            {
+              "type": "mantle:tag_filled",
+              "tag": "forge:ingots/nickel"
+            }
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "createmetallurgy:alloying",
+        "ingredients": [
+          {
+            "amount": 180,
+            "nbt": {},
+            "fluidTag": "forge:molten_nickel"
+          },
+          {
+            "amount": 90,
+            "nbt": {},
+            "fluidTag": "forge:molten_tin"
+          },
+          {
+            "tag": "forge:gems/quartz"
+          }
+        ],
+        "results": [
+          {
+            "amount": 360,
+            "fluid": "tconstruct:molten_nicrosil"
+          }
+        ]
+      }
+    },
+    {
+      "conditions": [
+        {
+          "type": "mantle:tag_filled",
+          "tag": "forge:ingots/chromium"
+        }
+      ],
+      "recipe": {
+        "type": "createmetallurgy:alloying",
+        "ingredients": [
+          {
+            "amount": 180,
+            "nbt": {},
+            "fluidTag": "forge:molten_chromium"
+          },
+          {
+            "amount": 90,
+            "nbt": {},
+            "fluidTag": "forge:molten_iron"
+          },
+          {
+            "tag": "forge:gems/quartz"
+          }
+        ],
+        "results": [
+          {
+            "amount": 360,
+            "fluid": "tconstruct:molten_nicrosil"
+          }
+        ]
+      }
+    },
+    {
+      "conditions": [
+        {
+          "type": "mantle:tag_filled",
+          "tag": "forge:ingots/tin"
+        }
+      ],
+      "recipe": {
+        "type": "createmetallurgy:alloying",
+        "ingredients": [
+          {
+            "amount": 180,
+            "nbt": {},
+            "fluidTag": "forge:molten_tin"
+          },
+          {
+            "amount": 90,
+            "nbt": {},
+            "fluidTag": "forge:molten_iron"
+          },
+          {
+            "tag": "forge:gems/quartz"
+          }
+        ],
+        "results": [
+          {
+            "amount": 360,
+            "fluid": "tconstruct:molten_nicrosil"
+          }
+        ]
+      }
+    }
+  ],
+  "heatRequirement": "superheated"
+}

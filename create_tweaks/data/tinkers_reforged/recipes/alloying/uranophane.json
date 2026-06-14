@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tinkers_reforged"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "createmetallurgy"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "createmetallurgy:alloying",
+  "ingredients": [
+    {
+      "fluidTag": "tconstruct:ichor",
+      "nbt": {},
+      "amount": 500
+    },
+    {
+      "fluidTag": "tconstruct:blazing_blood",
+      "nbt": {},
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tinkers_reforged:molten_uranophane",
+      "amount": 500
+    }
+  ],
+  "heatRequirement": "superheated"
+}

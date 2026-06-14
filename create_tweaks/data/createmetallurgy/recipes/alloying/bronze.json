@@ -1,0 +1,46 @@
+{
+  "type": "createmetallurgy:alloying",
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:ingots/bronze"
+      }
+    },
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:ingots/tin"
+      }
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "createmetallurgy"
+    }
+  ],
+  "ingredients": [
+    {
+      "fluidTag": "forge:molten_copper",
+      "nbt": {},
+      "amount": 270
+    },
+    {
+      "fluidTag": "forge:molten_tin",
+      "nbt": {},
+      "amount": 144
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tconstruct:molten_bronze",
+      "amount": 360
+    }
+  ],
+  "heatRequirement": "heated"
+}

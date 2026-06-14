@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tinkers_reforged"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "createmetallurgy"
+    }
+  ],
+  "type": "createmetallurgy:alloying",
+  "ingredients": [
+    {
+      "fluidTag": "forge:molten_thallium",
+      "nbt": {},
+      "amount": 270
+    },
+    {
+      "fluidTag": "forge:molten_netherite",
+      "nbt": {},
+      "amount": 90
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tinkers_reforged:molten_berkelium",
+      "amount": 360
+    }
+  ],
+  "heatRequirement": "superheated"
+}

@@ -1,0 +1,10 @@
+{
+  "values": [
+    {"id":"createmetallurgy:graphite_blank_mold","required":false},
+    {"id":"createmetallurgy:graphite_gear_mold","required":false},
+    {"id":"createmetallurgy:graphite_ingot_mold","required":false},
+    {"id":"createmetallurgy:graphite_nugget_mold","required":false},
+    {"id":"createmetallurgy:graphite_plate_mold","required":false},
+    {"id":"createmetallurgy:graphite_rod_mold","required":false}
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "tconstruct:alloy",
+  "conditions": [
+    {
+      "type": "mantle:tag_filled",
+      "tag": "forge:ingots/duralumin"
+    },
+    {
+      "type": "mantle:tag_filled",
+      "tag": "forge:ingots/aluminum"
+    },
+    {
+      "type": "forge:not",
+      "value": {
+        "modid": "createmetallurgy",
+        "type": "forge:mod_loaded"
+      }
+    }
+  ],
+  "inputs": [
+    {
+      "amount": 270,
+      "tag": "forge:molten_aluminum"
+    },
+    {
+      "amount": 90,
+      "tag": "forge:molten_copper"
+    }
+  ],
+  "result": {
+    "amount": 360,
+    "tag": "forge:molten_duralumin"
+  },
+  "temperature": 625
+}

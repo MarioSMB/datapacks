@@ -1,0 +1,27 @@
+{
+  "type": "tconstruct:alloy",
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "modid": "createmetallurgy",
+        "type": "forge:mod_loaded"
+      }
+    }
+  ],
+  "inputs": [
+    {
+      "amount": 750,
+      "tag": "constructs_casting:epic_ink"
+    },
+    {
+      "amount": 100,
+      "tag": "tconstruct:molten_amethyst"
+    }
+  ],
+  "result": {
+    "amount": 250,
+    "fluid": "irons_spellbooks:legendary_ink"
+  },
+  "temperature": 300
+}

@@ -1,0 +1,35 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "createmetallurgy"
+    }
+  ],
+  "type": "createmetallurgy:alloying",
+  "ingredients": [
+    {
+      "fluidTag": "forge:molten_iron",
+      "nbt": {},
+      "amount": 90
+    },
+    {
+      "fluidTag": "tconstruct:meat_soup",
+      "nbt": {},
+      "amount": 500
+    },
+    {
+      "item": "minecraft:honey_block"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tconstruct:molten_pig_iron",
+      "amount": 180
+    }
+  ],
+  "heatRequirement": "heated"
+}
