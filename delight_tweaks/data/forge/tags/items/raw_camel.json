@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"dragnlivestock:camel","required":false},
+    {"id":"dragnloextras:camel_brisket","required":false},
+    {"id":"dragnloextras:camel_chuck","required":false},
+    {"id":"dragnloextras:camel_rib","required":false},
+    {"id":"dragnloextras:camel_shank","required":false}
+  ]
+}

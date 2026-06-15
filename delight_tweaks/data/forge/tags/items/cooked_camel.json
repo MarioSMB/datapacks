@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"dragnlivestock:cooked_camel","required":false},
+    {"id":"dragnloextras:cooked_camel_brisket","required":false},
+    {"id":"dragnloextras:cooked_camel_chuck","required":false},
+    {"id":"dragnloextras:cooked_camel_rib","required":false},
+    {"id":"dragnloextras:cooked_camel_shank","required":false}
+  ]
+}

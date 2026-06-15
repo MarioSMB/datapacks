@@ -17,6 +17,8 @@
     "#forge:cooked_kangaroo",
     "#forge:raw_kangaroo",
     {"id":"#forge:cooked_goat","required":false},
-    {"id":"#forge:raw_goat","required":false}
+    {"id":"#forge:raw_goat","required":false},
+    {"id":"#forge:cooked_camel","required":false},
+    {"id":"#forge:raw_camel","required":false}
   ]
 }

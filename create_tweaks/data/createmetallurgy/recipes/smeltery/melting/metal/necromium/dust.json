@@ -1,0 +1,26 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "type": "mantle:tag_filled",
+      "tag": "forge:dusts/necromium"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "createmetallurgy"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:dusts/necromium"
+  },
+  "result": {
+    "amount": 90,
+    "tag": "forge:molten_necromium"
+  },
+  "temperature": 1100,
+  "time": 52
+}

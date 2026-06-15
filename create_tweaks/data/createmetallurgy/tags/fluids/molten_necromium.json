@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"createmetallurgy:molten_necromium","required":false}
+  ]
+}

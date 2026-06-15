@@ -1,0 +1,30 @@
+{
+  "type": "tconstruct:damagable_melting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "createmetallurgy"
+    }
+  ],
+  "byproducts": [
+    {
+      "amount": 200,
+      "fluid": "tconstruct:molten_diamond",
+      "unit_size": 25
+    }
+  ],
+  "ingredient": {
+    "tag": "createmetallurgy:melting/necromium/tools_costing_2"
+  },
+  "result": {
+    "amount": 90,
+    "tag": "forge:molten_necromium",
+    "unit_size": 10
+  },
+  "temperature": 1100,
+  "time": 70
+}

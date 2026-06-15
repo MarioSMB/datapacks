@@ -1,0 +1,33 @@
+{
+  "type": "createmetallurgy:alloying",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "createmetallurgy"
+    }
+  ],
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "amount": 120,
+      "fluidTag": "forge:molten_silver",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "amount": 45,
+      "fluid": "createmetallurgy:molten_necromium"
+    }
+  ]
+}

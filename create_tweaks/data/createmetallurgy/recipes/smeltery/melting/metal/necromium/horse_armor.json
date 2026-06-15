@@ -1,0 +1,28 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "createmetallurgy"
+    }
+  ],
+  "byproducts": [
+    {
+      "amount": 800,
+      "fluid": "tconstruct:molten_diamond"
+    }
+  ],
+  "ingredient": {
+    "item": "caverns_and_chasms:necromium_horse_armor"
+  },
+  "result": {
+    "amount": 90,
+    "tag": "forge:molten_necromium"
+  },
+  "temperature": 1100,
+  "time": 72
+}

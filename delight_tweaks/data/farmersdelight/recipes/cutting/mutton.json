@@ -3,6 +3,14 @@
     {
       "type": "forge:mod_loaded",
       "modid": "farmersdelight"
+    },
+    {
+      "type": "forge:not",
+      "value":
+        {
+          "type": "forge:mod_loaded",
+          "modid": "dragnloextras"
+        }
     }
   ],
   "type": "farmersdelight:cutting",
