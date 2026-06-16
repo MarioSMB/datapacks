@@ -1,0 +1,10 @@
+{
+  "values": [
+    "minecraft:lantern",
+    "minecraft:soul_lantern",
+    {"id":"caverns_and_chasms:cupric_lantern","required":false},
+    {"id":"infernalexp:glowlight_lantern","required":false},
+    {"id":"netherexp:ancient_lantern","required":false},
+    {"id":"endergetic:ender_lantern","required":false}
+  ]
+}

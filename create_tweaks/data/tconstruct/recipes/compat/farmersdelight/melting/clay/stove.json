@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "farmersdelight"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "farmersdelight:stove"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_clay",
+		"amount": 4000
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_iron",
+			"amount": 270
+		}
+	],
+	"temperature": 450,
+	"time": 120
+}

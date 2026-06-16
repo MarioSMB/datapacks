@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "netherexp"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "netherexp:soul_soil_layer"
+	},
+	"result": {
+		"fluid": "tconstruct:liquid_soul",
+		"amount": 125
+	},
+	"temperature": 400,
+	"time": 20
+}

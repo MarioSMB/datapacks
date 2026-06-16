@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "caverns_and_chasms"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "caverns_and_chasms:cut_amethyst"
+		},
+		{
+			"item": "caverns_and_chasms:cut_amethyst_bricks"
+		},
+		{
+			"item": "caverns_and_chasms:cut_amethyst_brick_stairs"
+		},
+		{
+			"item": "caverns_and_chasms:cut_amethyst_brick_wall"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_amethyst",
+		"amount": 400
+	},
+	"temperature": 950,
+	"time": 128
+}

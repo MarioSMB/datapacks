@@ -1,0 +1,47 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "caverns_and_chasms"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "caverns_and_chasms:floodlight"
+		},
+		{
+			"item": "caverns_and_chasms:exposed_floodlight"
+		},
+		{
+			"item": "caverns_and_chasms:weathered_floodlight"
+		},
+		{
+			"item": "caverns_and_chasms:oxidized_floodlight"
+		},
+		{
+			"item": "caverns_and_chasms:waxed_floodlight"
+		},
+		{
+			"item": "caverns_and_chasms:waxed_exposed_floodlight"
+		},
+		{
+			"item": "caverns_and_chasms:waxed_weathered_floodlight"
+		},
+		{
+			"item": "caverns_and_chasms:waxed_oxidized_floodlight"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_copper",
+		"amount": 360
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:molten_amethyst",
+			"amount": 100
+		}
+	],
+	"temperature": 500,
+	"time": 66
+}

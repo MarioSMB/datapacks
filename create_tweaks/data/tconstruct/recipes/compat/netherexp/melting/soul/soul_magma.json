@@ -1,0 +1,24 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "netherexp"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "netherexp:soul_magma_block"
+	},
+	"result": {
+		"fluid": "tconstruct:liquid_soul",
+		"amount": 500
+	},
+	"byproducts": [
+		{
+			"fluid": "tconstruct:magma",
+			"amount": 250
+		}
+	],
+	"temperature": 400,
+	"time": 60
+}

@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexscaves"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "alexscaves:remote_detonator"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 60
+	},
+	"temperature": 800,
+	"time": 16
+}

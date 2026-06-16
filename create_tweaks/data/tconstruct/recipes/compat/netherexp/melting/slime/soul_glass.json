@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "netherexp"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "netherexp:soul_glass"
+	},
+	"result": {
+		"fluid": "tconstruct:earth_slime",
+		"amount": 500
+	},
+	"temperature": 50,
+	"time": 28
+}

@@ -1,0 +1,71 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "netherexp"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "netherexp:inscribed_panel"
+		},
+		{
+			"item": "netherexp:soul_slate"
+		},
+		{
+			"item": "netherexp:soul_slate_stairs"
+		},
+		{
+			"item": "netherexp:soul_slate_wall"
+		},
+		{
+			"item": "netherexp:soul_slate_bricks"
+		},
+		{
+			"item": "netherexp:chiseled_soul_slate_bricks"
+		},
+		{
+			"item": "netherexp:cracked_soul_slate_bricks"
+		},
+		{
+			"item": "netherexp:etched_soul_slate_bricks"
+		},
+		{
+			"item": "netherexp:soul_slate_brick_pillar"
+		},
+		{
+			"item": "netherexp:soul_slate_brick_stairs"
+		},
+		{
+			"item": "netherexp:soul_slate_brick_wall"
+		},
+		{
+			"item": "netherexp:pale_soul_slate"
+		},
+		{
+			"item": "netherexp:soul_slate_tiles"
+		},
+		{
+			"item": "netherexp:chiseled_soul_slate_tiles"
+		},
+		{
+			"item": "netherexp:etched_soul_slate_tiles"
+		},
+		{
+			"item": "netherexp:soul_slate_tile_stairs"
+		},
+		{
+			"item": "netherexp:soul_slate_tile_wall"
+		},
+		{
+			"item": "netherexp:souled_geyser"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:liquid_soul",
+		"amount": 2000
+	},
+	"temperature": 400,
+	"time": 80
+}

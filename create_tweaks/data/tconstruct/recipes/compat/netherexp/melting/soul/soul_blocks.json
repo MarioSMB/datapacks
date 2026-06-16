@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "netherexp"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "netherexp:ecto_soul_sand"
+		},
+		{
+			"item": "netherexp:soul_permafrost"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:liquid_soul",
+		"amount": 500
+	},
+	"temperature": 400,
+	"time": 60
+}

@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "storagedrawers"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "storagedrawers:compacting_drawers_3"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 270
+	},
+	"temperature": 800,
+	"time": 68
+}

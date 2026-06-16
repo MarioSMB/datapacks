@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "netherexp"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "netherexp:skull_on_a_stick"
+		},
+		{
+			"item": "netherexp:skeleton_skull_candle"
+		},
+		{
+			"item": "netherexp:soul_skeleton_skull_candle"
+		},
+		{
+			"item": "netherexp:ancient_skeleton_skull_candle"
+		}
+	],
+	"result": {
+		"fluid": "minecraft:milk",
+		"amount": 250
+	},
+	"temperature": 0,
+	"time": 48
+}

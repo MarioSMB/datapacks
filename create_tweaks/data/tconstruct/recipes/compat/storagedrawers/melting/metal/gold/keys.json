@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "storagedrawers"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "storagedrawers:drawer_key"
+		},
+		{
+			"item": "storagedrawers:personal_key"
+		},
+		{
+			"item": "storagedrawers:personal_key_ftb"
+		},
+		{
+			"item": "storagedrawers:pause_key"
+		},
+		{
+			"item": "storagedrawers:quantify_key"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_gold",
+		"amount": 190
+	},
+	"temperature": 700,
+	"time": 40
+}

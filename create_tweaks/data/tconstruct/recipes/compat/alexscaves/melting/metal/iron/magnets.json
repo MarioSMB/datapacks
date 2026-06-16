@@ -1,0 +1,23 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexscaves"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "alexscaves:azure_magnet"
+		},
+		{
+			"item": "alexscaves:scarlet_magnet"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 1530
+	},
+	"temperature": 800,
+	"time": 80
+}

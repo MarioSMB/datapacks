@@ -1,7 +1,24 @@
 {
   "conditions": [
     {
-      "type": "forge:false"
+      "type": "forge:mod_loaded",
+      "modid": "caverns_and_chasms"
     }
-  ]
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "forge:ingots/silver"
+    }
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 16,
+    "item": "caverns_and_chasms:silver_bars"
+  },
+  "show_notification": true
 }

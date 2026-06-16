@@ -1,0 +1,31 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "quark"
+		}
+	],
+	"type": "tconstruct:ore_melting",
+	"ingredient": [
+		{
+			"item": "quark:raw_iron_bricks_slab"
+		},
+		{
+			"item": "quark:raw_iron_bricks_vertical_slab"
+		}
+	],
+	"rate": "metal",
+	"result": {
+		"tag": "forge:molten_iron",
+		"amount": 400
+	},
+	"byproducts": [
+		{
+			"tag": "forge:molten_steel",
+			"amount": 135,
+			"rate": "metal"
+		}
+	],
+	"temperature": 800,
+	"time": 250
+}

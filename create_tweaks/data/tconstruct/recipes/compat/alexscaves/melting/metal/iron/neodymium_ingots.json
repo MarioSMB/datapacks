@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexscaves"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": [
+		{
+			"item": "alexscaves:azure_neodymium_ingot"
+		},
+		{
+			"item": "alexscaves:scarlet_neodymium_ingot"
+		},
+		{
+			"item": "alexscaves:holocoder"
+		}
+	],
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 270
+	},
+	"temperature": 800,
+	"time": 72
+}

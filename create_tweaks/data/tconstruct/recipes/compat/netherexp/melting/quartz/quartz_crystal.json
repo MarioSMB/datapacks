@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "netherexp"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "netherexp:quartz_crystal"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_quartz",
+		"amount": 300
+	},
+	"temperature": 637,
+	"time": 66
+}

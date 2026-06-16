@@ -1,0 +1,18 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "storagedrawers"
+		}
+	],
+	"type": "tconstruct:melting",
+	"ingredient": {
+		"item": "storagedrawers:drawer_puller"
+	},
+	"result": {
+		"fluid": "tconstruct:molten_iron",
+		"amount": 180
+	},
+	"temperature": 800,
+	"time": 40
+}
