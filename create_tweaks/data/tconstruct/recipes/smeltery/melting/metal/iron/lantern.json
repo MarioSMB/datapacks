@@ -1,10 +1,8 @@
 {
   "type": "tconstruct:melting",
-  "ingredient": [
-    {
-      "tag": "#tconstruct:lanterns/iron"
-    }
-  ],
+  "ingredient": {
+    "tag": "tconstruct:lanterns/iron"
+  },
   "result": {
     "amount": 80,
     "tag": "forge:molten_iron"

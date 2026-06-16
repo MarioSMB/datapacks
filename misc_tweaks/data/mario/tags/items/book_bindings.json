@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:leather",
+        {"id":"farmersdelight:canvas","required":false},
+        {"id":"create:cardboard","required":false}
+    ]
+}

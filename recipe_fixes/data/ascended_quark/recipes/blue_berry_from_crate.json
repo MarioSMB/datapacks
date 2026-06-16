@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ascended_quark:blue_berry_crate"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "aether:blue_berry"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ascended_quark"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "aether"
+    },
+    {
+      "type": "ascended_quark:flag",
+      "flag": "blue_berry_crate"
+    }
+  ]
+}

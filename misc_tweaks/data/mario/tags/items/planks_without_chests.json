@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "values": [
+        {"id":"alexscaves:pewen_planks","required":false},
+        {"id":"alexscaves:thornwood_planks","required":false},
+        {"id":"darkerdepths:petrified_planks","required":false},
+        {"id":"spawn:date_planks","required":false},
+        {"id":"spawn:rotten_planks","required":false},
+        {"id":"spawn:cracked_rotten_planks","required":false},
+        {"id":"wan_ancient_beasts:ginkgo_planks","required":false},
+        {"id":"netherexp:claret_planks","required":false},
+        {"id":"infernalexp:luminous_planks","required":false}
+    ]
+}

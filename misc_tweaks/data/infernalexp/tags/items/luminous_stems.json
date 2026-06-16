@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"infernalexp:luminous_stem","required":false},
+    {"id":"infernalexp:stripped_luminous_stem","required":false},
+    {"id":"infernalexp:luminous_hyphae","required":false},
+    {"id":"infernalexp:stripped_luminous_hyphae","required":false}
+  ]
+}

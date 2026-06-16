@@ -1,0 +1,20 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "infernalexp"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "luminous_planks",
+  "ingredients": [
+    {
+      "tag": "infernalexp:luminous_stems"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "infernalexp:luminous_planks"
+  }
+}

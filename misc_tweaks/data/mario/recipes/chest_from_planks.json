@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "mario:planks_without_chests"
+    }
+  },
+  "result": {
+    "item": "minecraft:chest",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "mario:planks_without_chests"
+      }
+    },
+    {
+      "type": "quark:flag",
+      "flag": "variant_chests"
+    }
+  ]
+} 

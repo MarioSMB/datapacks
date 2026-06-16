@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:bookshelf",
+        {"id":"irons_spellbooks:wisewood_bookshelf","required":false}
+    ]
+}
