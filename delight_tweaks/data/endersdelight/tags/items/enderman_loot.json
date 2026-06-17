@@ -1,7 +1,0 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:ender_pearl",
-    {"id":"betterend:ender_shard","required":false}
-  ]
-}
