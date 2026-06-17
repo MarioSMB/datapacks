@@ -1,0 +1,21 @@
+{
+  "type": "jeg:blueprint_workbench",
+  "materials": [
+    {
+      "tag": "forge:ingots/iron",
+      "count": 12
+    },
+    {
+      "tag": "forge:ingots/steel",
+      "count": 24
+    },
+    {
+      "item": "create:andesite_alloy",
+      "count": 70
+    }
+  ],
+  "result": {
+    "item": "jeg:light_machine_gun"
+  },
+  "time": 30
+}

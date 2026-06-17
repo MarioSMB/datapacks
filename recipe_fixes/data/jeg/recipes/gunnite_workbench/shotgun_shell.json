@@ -1,0 +1,21 @@
+{
+  "type": "jeg:gunnite_workbench",
+  "materials": [
+    {
+      "tag": "forge:plates/copper",
+      "count": 1
+    },
+    {
+      "tag": "forge:ingots/brass",
+      "count": 1
+    },
+    {
+      "tag": "forge:gunpowder",
+      "count": 4
+    }
+  ],
+  "result": {
+    "item": "jeg:shotgun_shell",
+    "count": 14
+  }
+}

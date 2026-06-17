@@ -1,0 +1,21 @@
+{
+  "type": "jeg:gunmetal_workbench",
+  "materials": [
+    {
+      "tag": "forge:ingots/steel",
+      "count": 14
+    },
+    {
+      "item": "minecraft:gunpowder",
+      "count": 10
+    },
+    {
+      "item": "create:andesite_alloy",
+      "count": 40
+    }
+  ],
+  "result": {
+    "item": "jeg:pump_shotgun"
+  },
+  "time": 30
+}

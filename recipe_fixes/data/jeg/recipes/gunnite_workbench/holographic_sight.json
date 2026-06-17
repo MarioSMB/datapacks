@@ -1,0 +1,21 @@
+{
+  "type": "jeg:gunnite_workbench",
+  "materials": [
+    {
+      "tag": "forge:plates/copper",
+      "count": 2
+    },
+    {
+      "item": "minecraft:amethyst_shard",
+      "count": 6
+    },
+    {
+      "item": "create:cog",
+      "count": 4
+    }
+  ],
+  "result": {
+    "item": "jeg:holographic_sight"
+  },
+  "time": 30
+}

@@ -1,0 +1,17 @@
+{
+  "type": "jeg:gunnite_workbench",
+  "materials": [
+    {
+      "tag": "forge:ingots/netherite",
+      "count": 1
+    },
+    {
+      "item": "create:andesite_alloy",
+      "count": 12
+    }
+  ],
+  "result": {
+    "item": "jeg:combat_pistol"
+  },
+  "time": 30
+}

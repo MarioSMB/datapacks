@@ -1,0 +1,25 @@
+{
+  "type": "jeg:blueprint_workbench",
+  "materials": [
+    {
+      "tag": "forge:ingots/steel",
+      "count": 18
+    },
+    {
+      "tag": "forge:ingots/gold",
+      "count": 32
+    },
+    {
+      "item": "create:andesite_alloy",
+      "count": 64
+    },
+    {
+      "item": "aether:ambrosium_shard",
+      "count": 20
+    }
+  ],
+  "result": {
+    "item": "jeg:holy_shotgun"
+  },
+  "time": 30
+}

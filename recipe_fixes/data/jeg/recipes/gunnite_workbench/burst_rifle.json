@@ -1,0 +1,25 @@
+{
+  "type": "jeg:gunnite_workbench",
+  "materials": [
+    {
+      "tag": "forge:ingots/netherite",
+      "count": 1
+    },
+    {
+      "tag": "forge:dyes/black",
+      "count": 3
+    },
+    {
+      "item": "create:andesite_alloy",
+      "count": 45
+    },
+    {
+      "item": "minecraft:repeater",
+      "count": 3
+    }
+  ],
+  "result": {
+    "item": "jeg:burst_rifle"
+  },
+  "time": 30
+}

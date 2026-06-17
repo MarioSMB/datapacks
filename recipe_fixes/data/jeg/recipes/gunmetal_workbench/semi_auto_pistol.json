@@ -1,0 +1,17 @@
+{
+  "type": "jeg:gunmetal_workbench",
+  "materials": [
+    {
+      "tag": "forge:ingots/steel",
+      "count": 10
+    },
+    {
+      "item": "create:andesite_alloy",
+      "count": 8
+    }
+  ],
+  "result": {
+    "item": "jeg:semi_auto_pistol"
+  },
+  "time": 30
+}

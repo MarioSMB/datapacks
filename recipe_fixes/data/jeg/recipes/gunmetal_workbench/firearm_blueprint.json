@@ -1,0 +1,17 @@
+{
+  "type": "jeg:gunmetal_workbench",
+  "materials": [
+    {
+      "item": "minecraft:paper",
+      "count": 1
+    },
+    {
+      "tag": "forge:dyes/blue",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "jeg:firearm_blueprint",
+    "count": 1
+  }
+}

@@ -126,7 +126,8 @@
             "amount": 360,
             "fluid": "tconstruct:molten_nicrosil"
           }
-        ]
+        ],
+        "heatRequirement": "superheated"
       }
     },
     {
@@ -158,9 +159,9 @@
             "amount": 360,
             "fluid": "tconstruct:molten_nicrosil"
           }
-        ]
+        ],
+        "heatRequirement": "superheated"
       }
     }
-  ],
-  "heatRequirement": "superheated"
+  ]
 }

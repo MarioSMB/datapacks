@@ -1,0 +1,17 @@
+{
+  "type": "jeg:gunnite_workbench",
+  "materials": [
+    {
+      "tag": "forge:plates/copper",
+      "count": 3
+    },
+    {
+      "item": "create:andesite_alloy",
+      "count": 10
+    }
+  ],
+  "result": {
+    "item": "jeg:angled_grip"
+  },
+  "time": 30
+}

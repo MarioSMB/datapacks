@@ -1,0 +1,17 @@
+{
+  "type": "jeg:scrap_workbench",
+  "materials": [
+    {
+      "item": "create:brass_hand",
+      "count": 1
+    },
+    {
+      "tag": "forge:rods/wooden",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "jeg:finger_gun"
+  },
+  "time": 20
+}

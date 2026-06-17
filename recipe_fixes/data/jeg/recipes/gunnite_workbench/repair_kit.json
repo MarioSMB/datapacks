@@ -1,0 +1,17 @@
+{
+  "type": "jeg:gunnite_workbench",
+  "materials": [
+    {
+      "tag": "forge:plates/copper",
+      "count": 1
+    },
+    {
+      "item": "create:andesite_alloy",
+      "count": 8
+    }
+  ],
+  "result": {
+    "item": "jeg:repair_kit"
+  },
+  "time": 30
+}

@@ -1,0 +1,25 @@
+{
+  "type": "jeg:blueprint_workbench",
+  "materials": [
+    {
+      "tag": "forge:ingots/iron",
+      "count": 40
+    },
+    {
+      "tag": "forge:ingots/steel",
+      "count": 30
+    },
+    {
+      "item": "create:andesite_alloy",
+      "count": 40
+    },
+    {
+      "item": "minecraft:lever",
+      "count": 2
+    }
+  ],
+  "result": {
+    "item": "jeg:rocket_launcher"
+  },
+  "time": 30
+}
