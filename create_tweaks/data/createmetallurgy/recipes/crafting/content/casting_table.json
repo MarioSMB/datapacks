@@ -1,32 +1,7 @@
 {
   "conditions": [
     {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:mod_loaded",
-      "modid": "tconstruct"
-    },
-    {
-      "type": "forge:mod_loaded",
-      "modid": "createmetallurgy"
+      "type": "forge:false"
     }
-  ],
-  "type": "minecraft:crafting_shaped",
-  "category": "misc",
-  "key": {
-    "A": {
-      "item": "create:andesite_alloy"
-    }
-  },
-  "pattern": [
-    "AAA",
-    "A A",
-    "A A"
-  ],
-  "result": {
-    "item": "tconstruct:seared_table"
-  },
-  "show_notification": true
+  ]
 }
