@@ -1,6 +1,0 @@
-{
-  "replace": true,
-  "values": [
-    {"id":"createmetallurgy:steel_ingot","required":false}
-  ]
-}

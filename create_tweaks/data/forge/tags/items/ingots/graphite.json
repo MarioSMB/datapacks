@@ -1,6 +1,0 @@
-{
-  "replace": true,
-  "values": [
-    {"id":"createmetallurgy:graphite","required":false}
-  ]
-}

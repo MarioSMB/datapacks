@@ -4,13 +4,6 @@
     {
       "type": "forge:mod_loaded",
       "modid": "betterend"
-    },
-    {
-      "type": "forge:not",
-      "value": {
-        "modid": "createmetallurgy",
-        "type": "forge:mod_loaded"
-      }
     }
   ],
   "inputs": [

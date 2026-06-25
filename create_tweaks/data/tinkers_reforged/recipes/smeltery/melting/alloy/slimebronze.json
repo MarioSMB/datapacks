@@ -1,13 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:not",
-      "value": {
-        "modid": "createmetallurgy",
-        "type": "forge:mod_loaded"
-      }
-    }
-  ],
   "type": "tconstruct:alloy",
   "inputs": [
     {

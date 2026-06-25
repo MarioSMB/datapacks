@@ -1,6 +1,0 @@
-{
-  "type": "forge:add_features",
-  "biomes": "#jeg:disabled_ore",
-  "features": "jeg:nether_brimstone_ore_placed",
-  "step": "underground_ores"
-}
