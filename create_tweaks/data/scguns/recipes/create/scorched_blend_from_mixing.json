@@ -1,0 +1,45 @@
+{
+  "type": "create:mixing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "scguns"
+    }
+  ],
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "scguns:nether_star_fragment"
+    },
+    {
+      "amount": 90,
+      "fluidTag": "forge:molten_netherite",
+      "nbt": {}
+    },
+    {
+      "item": "minecraft:dragon_breath"
+    },
+    {
+      "amount": 250,
+      "fluid": "create_central_kitchen:dragon_breath",
+      "nbt": {}
+    },
+    {
+      "item": "scguns:vehement_coal"
+    }
+  ],
+  "results": [
+    {
+      "item": "scguns:scorched_blend",
+      "count": 4
+    },
+    {
+      "chance": 0.15,
+      "item": "scguns:scorched_blend"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "type": "create:mixing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "scguns_oregunized"
+    }
+  ],
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "amount": 90,
+      "fluidTag": "forge:molten_iron",
+      "nbt": {}
+    },
+    {
+      "tag": "forge:dusts/saltpeter"
+    },
+    {
+      "item": "minecraft:charcoal"
+    },
+    {
+      "item": "minecraft:flint"
+    }
+  ],
+  "results": [
+    {
+      "item": "scguns:treated_iron_blend",
+      "count": 3
+    },
+    {
+      "chance": 0.1,
+      "item": "scguns:treated_iron_blend"
+    }
+  ]
+}

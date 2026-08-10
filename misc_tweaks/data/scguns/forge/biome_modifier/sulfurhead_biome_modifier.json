@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "minecraft:sulfur_caves",
+  "spawners": {
+    "type": "scguns:sulfurhead",
+    "weight": 18,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

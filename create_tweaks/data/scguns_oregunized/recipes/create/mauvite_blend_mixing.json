@@ -1,0 +1,42 @@
+{
+  "type": "create:mixing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "scguns_oregunized"
+    }
+  ],
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "amount": 90,
+      "fluidTag": "forge:molten_copper",
+      "nbt": {}
+    },
+    {
+      "amount": 90,
+      "fluidTag": "forge:molten_lead",
+      "nbt": {}
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:flint"
+    }
+  ],
+  "results": [
+    {
+      "item": "scguns_oregunized:mauvite_blend",
+      "count": 2
+    },
+    {
+      "chance": 0.1,
+      "item": "scguns_oregunized:mauvite_blend"
+    }
+  ]
+}
