@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "irons_spellbooks"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "legendary_monsters"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "ASA"
+  ],
+  "key": {
+    "#": {
+      "item": "irons_spellbooks:ice_rune"
+    },
+    "A": {
+      "item": "legendary_monsters:primal_ice_shard"
+    },
+    "S": {
+      "item": "minecraft:shield"
+    }
+  },
+  "result": {
+    "item": "legendary_monsters:frostbitten_shield",
+    "count": 1
+  }
+}

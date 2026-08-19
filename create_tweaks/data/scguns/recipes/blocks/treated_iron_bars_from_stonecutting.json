@@ -1,0 +1,18 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "scguns"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "count": 8,
+  "ingredient": {
+    "item": "tconstruct:steel_ingot"
+  },
+  "result": "scguns:treated_iron_bars"
+}

@@ -1,0 +1,52 @@
+{
+  "type": "create:mechanical_crafting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "scguns"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "acceptMirrored": true,
+  "key": {
+    "Q": {
+      "item": "scguns:gun_grip"
+    },
+    "C": {
+      "item": "minecraft:iron_ingot"
+    },
+    "L": {
+      "item": "scguns:firing_unit"
+    },
+    "R": {
+      "item": "scguns:gun_magazine"
+    },
+    "S": {
+      "item": "scguns:gun_barrel"
+    },
+    "I": {
+      "item": "scguns:gun_parts"
+    },
+    "X": {
+      "item": "tconstruct:steel_ingot"
+    },
+    "M": {
+      "item": "scguns:iron_blueprint"
+    }
+  },
+  "pattern": [
+    "XIM",
+    "LRS",
+    "Q C"
+  ],
+  "result": {
+    "item": "scguns:trenchur"
+  }
+}

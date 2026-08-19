@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "scguns"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "X": {
+      "item": "scguns:beacon_grenade"
+    },
+    "L": {
+      "item": "tconstruct:steel_ingot"
+    },
+    "R": {
+      "tag": "forge:storage_blocks/brass"
+    },
+    "M": {
+      "item": "scguns:anthralite_ingot"
+    }
+  },
+  "pattern": [
+    "LXL",
+    "MRM"
+  ],
+  "result": {
+    "item": "scguns:scamp_package",
+    "count": 1
+  }
+}

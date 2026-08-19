@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "scguns"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "scguns:anthralite_ingot"
+    },
+    "X": {
+      "item": "minecraft:redstone_block"
+    },
+    "Q": {
+      "item": "tconstruct:steel_ingot"
+    },
+    "R": {
+      "item": "scguns:gun_parts"
+    }
+  },
+  "pattern": [
+
+    "QRQ",
+    "#X#"
+  ],
+  "result": {
+    "item": "scguns:turret_platform"
+  }
+}

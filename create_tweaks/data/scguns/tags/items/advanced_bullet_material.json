@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "scguns:anthralite_ingot",
+    {"id": "tconstruct:steel_ingot",  "required":false}
+    {"id":"immersiveengineering:ingot_steel",  "required":false},
+    {"id":"magistuarmory:steel_ingot",  "required":false},
+    {"id": "tfmg:steel_ingot",  "required":false}
+  ]
+}

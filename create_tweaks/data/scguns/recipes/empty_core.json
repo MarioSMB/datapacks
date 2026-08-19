@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "scguns"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "tconstruct:steel_nugget"
+    },
+    "Q": {
+      "item": "tconstruct:steel_ingot"
+    }
+  },
+  "pattern": [
+    " Q ",
+    " # ",
+    " Q "
+  ],
+  "result": {
+    "item": "scguns:empty_core"
+  }
+}

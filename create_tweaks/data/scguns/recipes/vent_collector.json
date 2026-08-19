@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "scguns"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "Q": {
+      "item": "scguns:anthralite_ingot"
+    },
+    "X": {
+      "item": "tconstruct:steel_ingot"
+    },
+    "M": {
+      "item": "minecraft:hopper"
+    }
+  },
+  "pattern": [
+    " QQ",
+    "XM ",
+    "QQ "
+  ],
+  "result": {
+    "item": "scguns:vent_collector"
+  }
+}

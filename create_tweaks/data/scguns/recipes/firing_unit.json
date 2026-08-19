@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "scguns"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "scguns:anthralite_ingot"
+    },
+    "X": {
+      "item": "tconstruct:steel_ingot"
+    },
+    "Q": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "pattern": [
+    "  Q",
+    " # ",
+    "X  "
+  ],
+  "result": {
+    "item": "scguns:firing_unit"
+  }
+}

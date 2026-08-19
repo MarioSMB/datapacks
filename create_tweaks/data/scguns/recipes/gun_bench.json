@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "scguns"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "Q": {
+      "item": "tconstruct:steel_ingot"
+    },
+    "M": {
+      "item": "minecraft:flint"
+    },
+    "X": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "QM ",
+    "XX "
+  ],
+  "result": {
+    "item": "scguns:gun_bench"
+  }
+}

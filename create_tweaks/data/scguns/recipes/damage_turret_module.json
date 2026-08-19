@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "scguns"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "scguns:anthralite_ingot"
+    },
+    "Q": {
+      "item": "tconstruct:steel_ingot"
+    },
+    "M": {
+      "item": "scguns:heavy_gun_parts"
+    }
+  },
+  "pattern": [
+    " # ",
+    "#M#",
+    "Q#Q"
+  ],
+  "result": {
+    "item": "scguns:damage_turret_module"
+  }
+}

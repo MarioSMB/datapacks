@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "scguns"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "throwable",
+  "key": {
+    "#": {
+      "item": "tconstruct:steel_ingot"
+    },
+    "X": {
+      "item": "minecraft:glass_bottle"
+    },
+    "Q": {
+      "tag": "forge:dusts/sulfur"
+    },
+    "T": {
+      "tag": "forge:dusts/phosphorus"
+    }
+  },
+  "pattern": [
+    " T ",
+    "QXQ",
+    " # "
+  ],
+  "result": {
+    "item": "scguns:gas_grenade",
+    "count": 2
+  }
+}

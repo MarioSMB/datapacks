@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "scguns"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "tag": "forge:ingots/brass"
+    },
+    "X": {
+      "item": "scguns:gun_barrel"
+    },
+    "Q": {
+      "item": "scguns:gun_grip"
+    }
+  },
+  "pattern": [
+    "  X",
+    " # ",
+    "Q  "
+  ],
+  "result": {
+    "item": "scguns:flare_pistol"
+  }
+}

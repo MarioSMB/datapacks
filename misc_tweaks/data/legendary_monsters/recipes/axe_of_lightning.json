@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "wind_spellbooks"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "legendary_monsters"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iI ",
+    "i/i",
+    " / "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/iron"
+    },
+    "I": {
+      "item": "wind_spellbooks:wind_rune"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "legendary_monsters:axe_of_lightning",
+    "count": 1
+  }
+}

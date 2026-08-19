@@ -1,0 +1,45 @@
+{
+  "type": "create:mechanical_crafting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "scguns"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "acceptMirrored": true,
+  "key": {
+    "Q": {
+      "item": "scguns:gun_grip"
+    },
+    "C": {
+      "item": "tconstruct:steel_ingot"
+    },
+    "R": {
+      "item": "scguns:firing_unit"
+    },
+    "K": {
+      "item": "scguns:heavy_gun_parts"
+    },
+    "S": {
+      "item": "scguns:heavy_gun_barrel"
+    },
+    "P": {
+      "item": "scguns:wrecker_blueprint"
+    }
+  },
+  "pattern": [
+    "CRKS",
+    "  QP"
+  ],
+  "result": {
+    "item": "scguns:stiletto"
+  }
+}

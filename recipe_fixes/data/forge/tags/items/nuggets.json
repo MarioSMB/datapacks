@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"constructs_casting:exilite_nugget","required":false},
+    {"id":"constructs_casting:mithril_nugget","required":false},
+    {"id":"constructs_casting:arcane_nugget","required":false},
+    {"id":"constructs_casting:pyrium_nugget","required":false}
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"constructs_casting:exilite_ingot","required":false}
+  ]
+}

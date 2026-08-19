@@ -1,0 +1,56 @@
+{
+  "type": "create:mechanical_crafting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "scguns_cnc"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "scguns"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "acceptMirrored": true,
+  "pattern": [
+    "ABC ",
+    "DEFG",
+    "H H "
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:ingots/tin"
+    },
+    "B": {
+      "item": "tconstruct:steel_block"
+    },
+    "C": {
+      "item": "tconstruct:steel_ingot"
+    },
+    "D": {
+      "tag": "forge:storage_blocks/tin"
+    },
+    "E": {
+      "item": "scguns_cnc:vault_gun_parts"
+    },
+    "F": {
+      "item": "scguns_cnc:lustre_part"
+    },
+    "G": {
+      "item": "caverns_and_chasms:zirconia"
+    },
+    "H": {
+      "item": "scguns:gun_grip"
+    }
+  },
+  "result": {
+    "item": "scguns_cnc:lustre"
+  }
+}

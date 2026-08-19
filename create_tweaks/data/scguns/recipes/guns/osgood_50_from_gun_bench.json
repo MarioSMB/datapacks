@@ -1,0 +1,43 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "scguns"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "scguns:gun_bench",
+  "result": {
+    "item": "scguns:osgood_50",
+    "count": 1
+  },
+  "ingredients": {
+    "blueprint": {
+      "item": "scguns:treated_brass_blueprint"
+    },
+    "gun_internal_1": {
+      "item": "scguns:firing_unit"
+    },
+    "gun_internal_2": {
+      "item": "scguns:gun_magazine"
+    },
+    "gun_top_internal_2": {
+      "tag": "forge:ingots/brass"
+    },
+    "gun_top_internal_1": {
+      "tag": "forge:ingots/brass"
+    },
+    "gun_barrel_1": {
+      "item": "scguns:heavy_gun_barrel"
+    },
+    "gun_grip": {
+      "item": "scguns:gun_grip"
+    },
+    "gun_magazine": {
+      "item": "scguns:heavy_gun_parts"
+    }
+  }
+}

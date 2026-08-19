@@ -1,0 +1,6 @@
+{
+  "replace": true,
+  "values": [
+    {"id":"scguns:crushed_raw_anthralite","required":false}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "irons_spellbooks"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "legendary_monsters"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "iIi"
+  ],
+  "key": {
+    "#": {
+      "item": "irons_spellbooks:ice_rune"
+    },
+    "i": {
+      "item": "legendary_monsters:primal_ice_shard"
+    },
+    "I": {
+      "item": "minecraft:iron_sword"
+    }
+  },
+  "result": {
+    "item": "legendary_monsters:the_great_frost",
+    "count": 1
+  }
+}

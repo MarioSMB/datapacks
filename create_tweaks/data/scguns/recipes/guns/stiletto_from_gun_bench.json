@@ -1,0 +1,37 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "scguns"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "scguns:gun_bench",
+  "result": {
+    "item": "scguns:stiletto",
+    "count": 1
+  },
+  "ingredients": {
+    "blueprint": {
+      "item": "scguns:wrecker_blueprint"
+    },
+    "gun_internal_1": {
+      "item": "tconstruct:steel_ingot"
+    },
+    "gun_internal_2": {
+      "item": "scguns:firing_unit"
+    },
+    "gun_barrel_2": {
+      "item": "scguns:heavy_gun_barrel"
+    },
+    "gun_barrel_1": {
+      "item": "scguns:heavy_gun_parts"
+    },
+    "gun_magazine": {
+      "item": "scguns:gun_grip"
+    }
+  }
+}

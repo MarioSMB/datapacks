@@ -1,0 +1,36 @@
+{
+  "criteria": {
+    "egg": {
+      "conditions": {
+        "items": [
+          {
+            "tag": "wan_ancient_beasts:ancient_eggs"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "wan_ancient_beasts:textures/gui/advancements/backgrounds/beasts.png",
+    "description": {
+      "translate": "advancements.beasts.root.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "wan_ancient_beasts:eater_egg"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.beasts.root.title"
+    }
+  },
+  "requirements": [
+    [
+      "egg"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

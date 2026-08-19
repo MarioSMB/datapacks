@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "alexscaves"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "vanillabackport"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:sulfur"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "item": "alexscaves:sulfur_dust"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "create:mechanical_crafting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "scguns"
+    }
+  ],
+  "acceptMirrored": true,
+  "key": {
+    "Q": {
+      "item": "scguns:gun_grip"
+    },
+    "L": {
+      "item": "scguns:rapid_firing_unit"
+    },
+    "R": {
+      "item": "scguns:heavy_gun_parts"
+    },
+    "J": {
+      "item": "scguns:heavy_gun_barrel"
+    },
+    "M": {
+      "tag": "forge:ingots/brass"
+    },
+    "X": {
+      "item": "scguns:treated_brass_blueprint"
+    },
+    "K": {
+      "item": "scguns:treated_brass_gun_frame"
+    },
+    "A": {
+      "item": "scguns:gun_magazine"
+    }
+
+  },
+  "pattern": [
+    "MKMX",
+    "LRJJ",
+    "Q A "
+  ],
+  "result": {
+    "item": "scguns:howler_conversion"
+  }
+}

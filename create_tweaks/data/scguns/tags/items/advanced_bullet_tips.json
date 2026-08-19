@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "scguns:hardened_bullet",
+    "scguns:anthralite_nugget",
+    {"id":"tconstruct:steel_nugget",  "required":false}
+    {"id":"immersiveengineering:nugget_steel",  "required":false},
+    {"id":"magistuarmory:steel_nugget",  "required":false}
+  ]
+}

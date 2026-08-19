@@ -1,0 +1,35 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "wind_spellbooks"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "legendary_monsters"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "k",
+    "i"
+  ],
+  "key": {
+    "#": {
+      "item": "wind_spellbooks:wind_rune"
+    },
+    "i": {
+      "tag": "forge:ingots/iron"
+    },
+    "k": {
+      "item": "legendary_monsters:cloud_rod"
+    }
+  },
+
+
+  "result": {
+    "item": "legendary_monsters:wand_of_clouds",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "scguns"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "Q": {
+      "item": "tconstruct:steel_ingot"
+    },
+    "X": {
+      "item": "tconstruct:steel_nugget"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "X X",
+    "QQQ"
+  ],
+  "result": {
+    "item": "scguns:ammo_box"
+  }
+}

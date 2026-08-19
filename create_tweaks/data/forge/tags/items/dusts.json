@@ -1,7 +1,6 @@
 {
   "replace": false,
   "values": [
-    "#forge:dusts/obsidian",
-    "#forge:dusts/tungsten"
+    "#forge:dusts/obsidian"
   ]
 }

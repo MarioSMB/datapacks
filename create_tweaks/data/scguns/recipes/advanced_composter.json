@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "scguns"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "Q": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "L": {
+      "item": "tconstruct:steel_ingot"
+    },
+    "R": {
+      "tag": "minecraft:wooden_trapdoors"
+    }
+  },
+  "pattern": [
+    "QRQ",
+    "L L",
+    "QQQ"
+  ],
+  "result": {
+    "item": "scguns:advanced_composter"
+  }
+}

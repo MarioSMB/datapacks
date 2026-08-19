@@ -1,0 +1,20 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "constructs_casting"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "constructs_casting:exilite_nugget",
+  "ingredients": [
+    {
+      "item": "constructs_casting:exilite_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "constructs_casting:exilite_nugget"
+  }
+}

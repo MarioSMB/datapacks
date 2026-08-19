@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "scguns"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "Q": {
+      "item": "minecraft:paper"
+    },
+    "R": {
+      "item": "minecraft:black_dye"
+    },
+    "N": {
+      "item": "tconstruct:steel_ingot"
+    }
+  },
+  "pattern": [
+    "QQQ",
+    "QRQ",
+    "QNQ"
+  ],
+  "result": {
+    "item": "scguns:magnum_ammo_box"
+  }
+}

@@ -21,9 +21,6 @@
       "nbt": {}
     },
     {
-      "item": "minecraft:dragon_breath"
-    },
-    {
       "amount": 250,
       "fluid": "create_central_kitchen:dragon_breath",
       "nbt": {}

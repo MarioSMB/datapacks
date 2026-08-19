@@ -1,0 +1,48 @@
+{
+  "type": "create:mechanical_crafting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "scguns"
+    }
+  ],
+  "acceptMirrored": true,
+  "key": {
+    "Q": {
+      "item": "scguns:gun_grip"
+    },
+    "C": {
+      "tag": "minecraft:planks"
+    },
+    "L": {
+      "item": "scguns:firing_unit"
+    },
+    "R": {
+      "item": "scguns:gun_magazine"
+    },
+    "S": {
+      "item": "scguns:gun_barrel"
+    },
+    "I": {
+      "item": "scguns:heavy_gun_parts"
+    },
+    "X": {
+      "tag": "forge:ingots/brass"
+    },
+    "O": {
+      "item": "scguns:ocean_blueprint"
+    }
+  },
+  "pattern": [
+    "XIO  ",
+    "LRSS ",
+    "Q C  "
+  ],
+  "result": {
+    "item": "scguns:sequoia"
+  }
+}

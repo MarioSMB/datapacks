@@ -34,11 +34,6 @@
     },
     {
       "offer": {"item": "minecraft:emerald","count": 1},
-      "request": {"item": "farmersdelight:onion","count": 16},
-      "trade_id": "farmer_buy_onion"
-    },
-    {
-      "offer": {"item": "minecraft:emerald","count": 1},
       "request": {"item": "farmersdelight:rice","count": 16},
       "trade_id": "farmer_buy_rice"
     },
