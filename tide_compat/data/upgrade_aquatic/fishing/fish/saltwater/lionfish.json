@@ -1,0 +1,28 @@
+{
+    "associated_mods": ["upgrade_aquatic"],
+    "fish": "upgrade_aquatic:lionfish",
+    "bucket": "upgrade_aquatic:lionfish_bucket",
+    "journal_profile": {
+        "description": "journal.description.upgrade_aquatic.lionfish",
+        "group": "saltwater",
+        "location": "biome.minecraft.warm_ocean",
+        "rarity": "common"
+    },
+    "display_data": {
+        "entity": "upgrade_aquatic:lionfish",
+        "x": -0.1,
+        "y": -0.15,
+        "z": 0.06
+    },
+    "conditions": [
+        { "type": "tide:saltwater" },
+        { "type": "tide:dimension", "dimensions": ["minecraft:overworld"] },
+        { "type": "tide:fluid", "fluid": "water" },
+        { "type": "tide:above", "y": 40 },
+        { "type": "tide:found_in", "biomes": ["minecraft:warm_ocean"] }
+    ],
+    "selection_weight": 30.0,
+    "size": { "record_high_cm": 80.0, "typical_high_cm": 48.0, "typical_low_cm": 12.0 },
+    "speed": 1.0,
+    "strength": 0.3
+}

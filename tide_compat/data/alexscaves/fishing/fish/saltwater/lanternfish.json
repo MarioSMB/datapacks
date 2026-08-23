@@ -1,0 +1,26 @@
+{
+    "associated_mods": ["alexscaves"],
+    "fish": "alexscaves:lanternfish",
+    "bucket": "alexscaves:lanternfish_bucket",
+    "journal_profile": {
+        "description": "journal.description.alexscaves.lanternfish",
+        "group": "saltwater",
+        "location": "biome.alexscaves.abyssal_chasm",
+        "rarity": "rare"
+    },
+    "display_data": {
+        "entity": "alexscaves:lanternfish",
+        "roll": -90.0,
+        "y": -0.2,
+        "z": 0.12
+    },
+    "conditions": [
+        { "type": "tide:saltwater" },
+        { "type": "tide:dimension", "dimensions": ["minecraft:overworld"] },
+        { "type": "tide:fluid", "fluid": "water" },
+        { "type": "tide:found_in", "biomes": ["alexscaves:abyssal_chasm"] }
+    ],
+    "selection_weight": 15.0,
+    "size": { "record_high_cm": 80.0, "typical_high_cm": 50.0, "typical_low_cm": 5.0 },
+    "strength": 0.3
+}

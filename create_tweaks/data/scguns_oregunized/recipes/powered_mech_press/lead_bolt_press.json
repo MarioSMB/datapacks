@@ -1,17 +1,13 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "scguns_oregunized"
-    }
-  ],
   "type": "scguns:powered_mechanical_pressing",
   "processingTime": 25,
   "energyUse": 750,
   "ingredients": [
     {
-      "item": "oreganized:lead_block"
-    }
+  "ingredients": [
+      {
+        "item": "oreganized:lead_block"
+      }
   ],
   "mold": {
     "item": "scguns:large_casing_mold"

@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"spawn:sandy_island","required":false}
+  ]
+}

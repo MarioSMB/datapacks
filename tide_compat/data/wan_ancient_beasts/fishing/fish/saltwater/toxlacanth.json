@@ -1,0 +1,27 @@
+{
+    "associated_mods": ["wan_ancient_beasts"],
+    "fish": "wan_ancient_beasts:toxlacanth",
+    "bucket": "wan_ancient_beasts:toxlacanth_bucket",
+    "journal_profile": {
+        "description": "journal.description.wan_ancient_beasts.toxlacanth",
+        "group": "freshwater",
+        "location": "journal.info.location.swamp",
+        "rarity": "uncommon"
+    },
+    "display_data": {
+        "entity": "wan_ancient_beasts:toxlacanth",
+        "shape": "2x1",
+        "y": -0.1,
+        "z": -0.1
+    },
+    "conditions": [
+        { "type": "tide:dimension", "dimensions": ["minecraft:overworld"] },
+        { "type": "tide:fluid", "fluid": "water" },
+        { "type": "tide:above", "y": 40 },
+        { "type": "tide:found_in", "biomes": ["#tide:has_swamp_fish"] }
+    ],
+    "selection_weight": 20.0,
+    "size": { "record_high_cm": 250.0, "typical_high_cm": 140.0, "typical_low_cm": 90.0 },
+    "speed": 0.8,
+    "strength": 0.6
+}

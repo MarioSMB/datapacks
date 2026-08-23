@@ -1,0 +1,27 @@
+{
+    "associated_mods": ["alexscaves"],
+    "fish": "alexscaves:sweetish_fish_pink",
+    "bucket": "alexscaves:sweetish_fish_pink_bucket",
+    "journal_profile": {
+        "description": "journal.description.alexscaves.sweetish_fish_pink",
+        "group": "underground",
+        "location": "biome.alexscaves.candy_cavity",
+        "rarity": "rare"
+    },
+    "display_data": {
+        "entity": "alexscaves:sweetish_fish",
+        "nbt": { "GummyColor": 4 },
+        "roll": -90,
+        "y": -0.18,
+        "z": 0.15
+    },
+    "conditions": [
+        { "type": "tide:dimension", "dimensions": ["minecraft:overworld"] },
+        { "type": "tide:fluid", "fluid": "water" },
+        { "type": "tide:found_in", "biomes": ["alexscaves:candy_cavity"] }
+    ],
+    "selection_weight": 15.0,
+    "size": { "record_high_cm": 190.0, "typical_high_cm": 170.0, "typical_low_cm": 85.0 },
+    "speed": 1.0,
+    "strength": 0.5
+}

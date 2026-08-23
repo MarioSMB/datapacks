@@ -1,0 +1,23 @@
+{
+    "associated_mods": ["alexscaves"],
+    "fish": "alexscaves:sea_pig",
+    "bucket": "alexscaves:sea_pig_bucket",
+    "journal_profile": {
+        "description": "journal.description.alexscaves.sea_pig",
+        "group": "saltwater",
+        "location": "biome.alexscaves.abyssal_chasm",
+        "rarity": "rare"
+    },
+    "display_data": {
+        "entity": "alexscaves:sea_pig"
+    },
+    "conditions": [
+        { "type": "tide:saltwater" },
+        { "type": "tide:dimension", "dimensions": ["minecraft:overworld"] },
+        { "type": "tide:fluid", "fluid": "water" },
+        { "type": "tide:found_in", "biomes": ["alexscaves:abyssal_chasm"] }
+    ],
+    "selection_weight": 15.0,
+    "size": { "record_high_cm": 100.0, "typical_high_cm": 65.0, "typical_low_cm": 12.0 },
+    "strength": 0.4
+}

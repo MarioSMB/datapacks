@@ -1,0 +1,25 @@
+{
+    "associated_mods": ["aquamirae"],
+    "fish": "aquamirae:spinefish",
+    "bucket": "aquamirae:spinefish_bucket",
+    "journal_profile": {
+        "description": "journal.description.aquamirae.spinefish",
+        "group": "saltwater",
+        "location": "biome.minecraft.deep_frozen_ocean",
+        "rarity": "common"
+    },
+    "display_data": {
+        "entity": "aquamirae:spinefish",
+        "z": 0.05
+    },
+    "conditions": [
+        { "type": "tide:saltwater" },
+        { "type": "tide:dimension", "dimensions": ["minecraft:overworld"] },
+        { "type": "tide:fluid", "fluid": "water" },
+        { "type": "tide:above", "y": 40 },
+        { "type": "tide:found_in", "biomes": ["minecraft:deep_frozen_ocean"] }
+    ],
+    "selection_weight": 60.0,
+    "size": { "record_high_cm": 180.0, "typical_high_cm": 120.0, "typical_low_cm": 80.0 },
+    "strength": 0.3
+}

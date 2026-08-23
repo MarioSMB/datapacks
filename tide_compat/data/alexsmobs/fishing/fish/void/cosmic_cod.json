@@ -1,0 +1,26 @@
+{
+    "associated_mods": ["alexsmobs"],
+    "fish": "alexsmobs:cosmic_cod",
+    "bucket": "alexsmobs:cosmic_cod_bucket",
+    "journal_profile": {
+        "description": "journal.description.alexsmobs.cosmic_cod",
+        "group": "void",
+        "location": "journal.info.location.void",
+        "rarity": "common"
+    },
+    "display_data": {
+        "entity": "alexsmobs:cosmic_cod",
+        "roll": -90,
+        "x": 0.1,
+        "y": -0.15,
+        "z": 0.15
+    },
+    "conditions": [
+        { "type": "tide:dimension", "dimensions": ["minecraft:the_end"] },
+        { "type": "tide:fluid", "fluid": "void" }
+    ],
+    "selection_weight": 30.0,
+    "size": { "record_high_cm": 190.0, "typical_high_cm": 125.0, "typical_low_cm": 70.0 },
+    "speed": 1.1,
+    "strength": 0.3
+}

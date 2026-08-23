@@ -1,0 +1,28 @@
+{
+    "associated_mods": ["spawn"],
+    "fish": "spawn:angler_fish",
+    "bucket": "spawn:angler_fish_bucket",
+    "journal_profile": {
+        "description": "journal.description.spawn.angler_fish",
+        "group": "saltwater",
+        "location": "journal.info.location.deep_ocean",
+        "rarity": "common"
+    },
+    "display_data": {
+        "entity": "spawn:angler_fish",
+        "roll": -90,
+        "y": -0.2,
+        "z": 0.23
+    },
+    "conditions": [
+        { "type": "tide:saltwater" },
+        { "type": "tide:dimension", "dimensions": ["minecraft:overworld"] },
+        { "type": "tide:fluid", "fluid": "water" },
+        { "type": "tide:above", "y": 30 },
+        { "type": "tide:found_in", "biomes": ["#minecraft:is_deep_ocean"] }
+    ],
+    "selection_weight": 30.0,
+    "size": { "record_high_cm": 80.0, "typical_high_cm": 55.0, "typical_low_cm": 35.0 },
+    "speed": 0.3,
+    "strength": 0.5
+}

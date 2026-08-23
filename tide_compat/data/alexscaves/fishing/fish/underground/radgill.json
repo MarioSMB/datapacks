@@ -1,0 +1,26 @@
+{
+    "associated_mods": ["alexscaves"],
+    "fish": "alexscaves:radgill",
+    "bucket": "alexscaves:radgill_bucket",
+    "journal_profile": {
+        "description": "journal.description.alexscaves.radgill",
+        "group": "underground",
+        "location": "biome.alexscaves.toxic_caves",
+        "rarity": "rare"
+    },
+    "display_data": {
+        "entity": "alexscaves:radgill",
+        "shape": "2x1",
+        "x": 0.2,
+        "z": 0.04
+    },
+    "conditions": [
+        { "type": "tide:dimension", "dimensions": ["minecraft:overworld"] },
+        { "type": "tide:fluid", "fluid": "water" },
+        { "type": "tide:found_in", "biomes": ["alexscaves:toxic_caves"] }
+    ],
+    "selection_weight": 15.0,
+    "size": { "record_high_cm": 250.0, "typical_high_cm": 190.0, "typical_low_cm": 70.0 },
+    "speed": 1.2,
+    "strength": 0.6
+}

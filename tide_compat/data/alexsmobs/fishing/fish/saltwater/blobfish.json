@@ -1,0 +1,25 @@
+{
+    "associated_mods": ["alexsmobs"],
+    "fish": "alexsmobs:blobfish",
+    "bucket": "alexsmobs:blobfish_bucket",
+    "journal_profile": {
+        "description": "journal.description.alexsmobs.blobfish",
+        "group": "saltwater",
+        "location": "journal.info.location.deep_ocean",
+        "rarity": "uncommon"
+    },
+    "display_data": {
+        "entity": "alexsmobs:blobfish",
+        "z": 0.05
+    },
+    "conditions": [
+        { "type": "tide:saltwater" },
+        { "type": "tide:dimension", "dimensions": ["minecraft:overworld"] },
+        { "type": "tide:fluid", "fluid": "water" },
+        { "type": "tide:above", "y": 30 },
+        { "type": "tide:found_in", "biomes": ["#minecraft:is_deep_ocean"] }
+    ],
+    "selection_weight": 20.0,
+    "size": { "record_high_cm": 140.0, "typical_high_cm": 110.0, "typical_low_cm": 55.0 },
+    "strength": 0.6
+}

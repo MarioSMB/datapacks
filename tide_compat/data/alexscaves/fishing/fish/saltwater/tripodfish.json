@@ -1,0 +1,29 @@
+{
+    "associated_mods": ["alexscaves"],
+    "fish": "alexscaves:tripodfish",
+    "bucket": "alexscaves:tripodfish_bucket",
+    "journal_profile": {
+        "description": "journal.description.alexscaves.tripodfish",
+        "group": "saltwater",
+        "location": "biome.alexscaves.abyssal_chasm",
+        "rarity": "rare"
+    },
+    "display_data": {
+        "entity": "alexscaves:tripodfish",
+        "shape": "2x1",
+        "roll": -90.0,
+        "x": 0.25,
+        "y": -0.15,
+        "z": 0.15
+    },
+    "conditions": [
+        { "type": "tide:saltwater" },
+        { "type": "tide:dimension", "dimensions": ["minecraft:overworld"] },
+        { "type": "tide:fluid", "fluid": "water" },
+        { "type": "tide:found_in", "biomes": ["alexscaves:abyssal_chasm"] }
+    ],
+    "selection_weight": 15.0,
+    "size": { "record_high_cm": 200.0, "typical_high_cm": 170.0, "typical_low_cm": 90.0 },
+    "speed": 0.7,
+    "strength": 1.0
+}

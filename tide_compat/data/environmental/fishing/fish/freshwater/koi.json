@@ -1,0 +1,29 @@
+{
+    "associated_mods": ["environmental"],
+    "fish": "environmental:koi",
+    "bucket": "environmental:koi_bucket",
+    "journal_profile": {
+        "description": "journal.description.environmental.koi",
+        "group": "freshwater",
+        "location": "journal.info.location.cherry_grove",
+        "rarity": "uncommon"
+    },
+    "display_data": {
+        "entity": "environmental:koi",
+        "nbt": { "Variant": 0 },
+        "pitch": 5,
+        "y": -0.1,
+        "z": 0.08
+    },
+    "conditions": [
+        { "type": "tide:freshwater" },
+        { "type": "tide:dimension", "dimensions": ["minecraft:overworld"] },
+        { "type": "tide:fluid", "fluid": "water" },
+        { "type": "tide:above", "y": 40 },
+        { "type": "tide:found_in", "biomes": ["#tide:has_cherry_grove_fish", "environmental:blossom_woods", "environmental:blossom_valleys"] }
+    ],
+    "selection_weight": 20.0,
+    "size": { "record_high_cm": 80.0, "typical_high_cm": 40.0, "typical_low_cm": 10.0 },
+    "speed": 0.7,
+    "strength": 0.3
+}

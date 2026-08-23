@@ -1,0 +1,10 @@
+{
+    "associated_mods": ["betterend"],
+    "conditions": [
+        { "type": "tide:dimension", "dimensions": ["minecraft:the_end"] },
+        { "type": "tide:fluid", "fluid": "water" }
+    ],
+    "loot_table": "betterend:gameplay/fishing/junk",
+    "quality": -2.0,
+    "weight": 18.0
+}

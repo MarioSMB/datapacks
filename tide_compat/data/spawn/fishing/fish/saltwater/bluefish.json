@@ -1,0 +1,28 @@
+{
+    "associated_mods": ["spawn"],
+    "fish": "spawn:bluefish",
+    "bucket": "spawn:bluefish_bucket",
+    "journal_profile": {
+        "description": "journal.description.spawn.bluefish",
+        "group": "saltwater",
+        "location": "journal.info.location.saltwater",
+        "rarity": "common"
+    },
+    "display_data": {
+        "entity": "spawn:bluefish",
+        "pitch": 5.0,
+        "y": -0.1,
+        "z": 0.12
+    },
+    "conditions": [
+        { "type": "tide:saltwater" },
+        { "type": "tide:dimension", "dimensions": ["minecraft:overworld"] },
+        { "type": "tide:fluid", "fluid": "water" },
+        { "type": "tide:above", "y": 40 },
+        { "type": "tide:found_in", "biomes": ["minecraft:ocean", "minecraft:cold_ocean"] }
+    ],
+    "selection_weight": 40.0,
+    "size": { "record_high_cm": 60.0, "typical_high_cm": 30.0, "typical_low_cm": 20.0 },
+    "speed": 1.0,
+    "strength": 0.45
+}

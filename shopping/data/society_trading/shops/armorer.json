@@ -1,6 +1,7 @@
 {
   "shop_id": "armorer",
   "name": "Blacksmith",
+  "display_type": "default",
   "texture": "minecraft:textures/block/blast_furnace_front",
   "villager_profession": "armorer",
   "hidden_from_selector": true,
@@ -9,7 +10,8 @@
     {
       "offer": {"item": "minecraft:shield","count": 1},
       "request": {"item": "minecraft:emerald","count": 6},
-      "trade_id": "armorer_sell_shield"
+      "trade_id": "armorer_sell_shield",
+      "advancement_required": "minecraft:story/shiny_gear"
     },
     {
       "offer": {"item": "opposing_force:emerald_mask","count": 1},
