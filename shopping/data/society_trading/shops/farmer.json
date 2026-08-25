@@ -8,39 +8,9 @@
   "selector_weight": -20,
   "trades": [
     {
-      "offer": {"item": "minecraft:emerald","count": 1},
-      "request": {"item": "minecraft:wheat","count": 16},
-      "trade_id": "farmer_buy_wheat"
-    },
-    {
-      "offer": {"item": "minecraft:emerald","count": 1},
-      "request": {"item": "minecraft:beetroot","count": 16},
-      "trade_id": "farmer_buy_beetroot"
-    },
-    {
-      "offer": {"item": "minecraft:emerald","count": 1},
-      "request": {"item": "minecraft:pumpkin","count": 4},
-      "trade_id": "farmer_buy_pumpkin"
-    },
-    {
-      "offer": {"item": "minecraft:emerald","count": 1},
-      "request": {"item": "farmersdelight:onion","count": 16},
-      "trade_id": "farmer_buy_onion"
-    },
-    {
-      "offer": {"item": "minecraft:emerald","count": 1},
-      "request": {"item": "farmersdelight:cabbage","count": 16},
-      "trade_id": "farmer_buy_cabbage"
-    },
-    {
-      "offer": {"item": "minecraft:emerald","count": 1},
-      "request": {"item": "farmersdelight:rice","count": 16},
-      "trade_id": "farmer_buy_rice"
-    },
-    {
-      "offer": {"item": "minecraft:emerald","count": 1},
-      "request": {"item": "farmersdelight:tomato","count": 16},
-      "trade_id": "farmer_buy_tomato"
+      "offer": {"item": "selling_bin:selling_bin","count": 1},
+      "request": {"item": "minecraft:emerald","count": 10},
+      "trade_id": "farmer_sell_selling_bin"
     }
   ],
   "random_sets ": []

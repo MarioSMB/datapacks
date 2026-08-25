@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"wyrmroost:platinum_ore","required":false}
+  ]
+}
