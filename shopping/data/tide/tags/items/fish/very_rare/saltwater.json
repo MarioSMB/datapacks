@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"tide:aquathorn","required":false},
+    {"id":"tide:great_white_shark","required":false},
+    {"id":"tide:marstilus","required":false},
+    {"id":"tide:neptune_koi","required":false},
+    {"id":"tide:pluto_snail","required":false},
+    {"id":"tide:saturn_cuttlefish","required":false},
+    {"id":"tide:sun_emblem","required":false},
+    {"id":"tide:uranias_pisces","required":false}
+  ]
+}

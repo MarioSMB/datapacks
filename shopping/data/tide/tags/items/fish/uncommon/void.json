@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"tide:blue_neonfish","required":false},
+    {"id":"tide:chorus_cod","required":false},
+    {"id":"tide:deep_blue","required":false},
+    {"id":"tide:endergazer","required":false},
+    {"id":"tide:ender_glider","required":false},
+    {"id":"tide:judgment_fish","required":false},
+    {"id":"tide:violet_carp","required":false}
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:salmon",
+    {"id":"tide:black_crappie","required":false},
+    {"id":"tide:bluegill","required":false},
+    {"id":"tide:brook_trout","required":false},
+    {"id":"tide:carp","required":false},
+    {"id":"tide:largemouth_bass","required":false},
+    {"id":"tide:pike","required":false},
+    {"id":"tide:rainbow_trout","required":false},
+    {"id":"tide:smallmouth_bass","required":false},
+    {"id":"tide:white_crappie","required":false},
+    {"id":"tide:yellow_perch","required":false},
+    {"id":"betterend:end_fish_raw","required":false},
+    {"id":"upgrade_aquatic:perch","required":false},
+    {"id":"upgrade_aquatic:pike","required":false}
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"tide:ash_perch","required":false},
+    {"id":"tide:ember_koi","required":false},
+    {"id":"tide:magma_mackerel","required":false}
+  ]
+}

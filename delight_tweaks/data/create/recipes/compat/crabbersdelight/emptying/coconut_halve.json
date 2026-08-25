@@ -1,0 +1,23 @@
+{
+  "conditions":[
+    {
+      "type":"forge:mod_loaded",
+      "modid":"crabbersdelight"
+    }
+  ],
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "crabbersdelight:coconut_halve"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "kubejs:coconut_milk",
+      "amount": 250
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ]
+}

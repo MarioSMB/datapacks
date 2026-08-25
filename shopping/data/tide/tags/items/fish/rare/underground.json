@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"tide:bedrock_tetra","required":false},
+    {"id":"tide:crystalline_carp","required":false},
+    {"id":"tide:gilded_minnow","required":false},
+    {"id":"tide:luminescent_jellyfish","required":false},
+    {"id":"alexscaves:radgill","required":false},
+    {"id":"alexscaves:sweetish_fish_blue","required":false},
+    {"id":"alexscaves:sweetish_fish_green","required":false},
+    {"id":"alexscaves:sweetish_fish_pink","required":false},
+    {"id":"alexscaves:sweetish_fish_red","required":false},
+    {"id":"alexscaves:sweetish_fish_yellow","required":false}
+  ]
+}

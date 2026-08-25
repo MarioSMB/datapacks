@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"tide:mahi_mahi","required":false},
+    {"id":"tide:manta_ray","required":false},
+    {"id":"tide:sailfish","required":false},
+    {"id":"tide:spore_stalker","required":false},
+    {"id":"tide:swordfish","required":false},
+    {"id":"alexscaves:lanternfish","required":false},
+    {"id":"alexscaves:sea_pig","required":false},
+    {"id":"alexscaves:tripodfish","required":false},
+    {"id":"cataclysm:lionfish","required":false}
+  ]
+}

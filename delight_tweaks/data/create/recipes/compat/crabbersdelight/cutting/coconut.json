@@ -1,0 +1,21 @@
+{
+  "type": "create:cutting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "crabbersdelight"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "crabbersdelight:coconut"
+    }
+  ],
+  "processingTime": 25,
+  "results": [
+    {
+      "item": "crabbersdelight:coconut_halve",
+      "count": 2
+    }
+  ]
+}

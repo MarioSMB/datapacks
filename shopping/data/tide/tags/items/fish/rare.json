@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#tide:fish/rare/freshwater",
+    "#tide:fish/rare/saltwater",
+    "#tide:fish/rare/lava",
+    "#tide:fish/rare/underground",
+    "#tide:fish/rare/void"
+  ]
+}

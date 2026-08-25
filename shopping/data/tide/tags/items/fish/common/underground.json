@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"tide:cave_crawler","required":false},
+    {"id":"tide:cave_eel","required":false},
+    {"id":"tide:deep_grouper","required":false},
+    {"id":"tide:shadow_snapper","required":false}
+  ]
+}

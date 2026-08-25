@@ -11,6 +11,27 @@
       ]
     },
 
+    "#tide:fish/common": {
+      "base_value": 75,
+      "processors": []
+    },
+    "#tide:fish/uncommon": {
+      "base_value": 150,
+      "processors": []
+    },
+    "#tide:fish/rare": {
+      "base_value": 250,
+      "processors": []
+    },
+    "#tide:fish/very_rare": {
+      "base_value": 700,
+      "processors": []
+    },
+    "#tide:fish/legendary": {
+      "base_value": 2500,
+      "processors": []
+    },
+
     "minecraft:cake": {
       "base_value": 200,
       "processors": []

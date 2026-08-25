@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"tide:angelfish","required":false},
+    {"id":"minecraft:pufferfish","required":false},
+    {"id":"alexsmobs:blobfish","required":false},
+    {"id":"wan_ancient_beasts:toxlacanth","required":false}
+  ]
+}

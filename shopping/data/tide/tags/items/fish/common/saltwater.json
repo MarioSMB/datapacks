@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:cod",
+    "minecraft:tropical_fish",
+    {"id":"tide:anchovy","required":false},
+    {"id":"tide:flounder","required":false},
+    {"id":"tide:mackerel","required":false},
+    {"id":"tide:ocean_perch","required":false},
+    {"id":"tide:red_snapper","required":false},
+    {"id":"tide:snook","required":false},
+    {"id":"tide:tuna","required":false},
+    {"id":"alexsmobs:flying_fish","required":false},
+    {"id":"aquamirae:spinefish","required":false},
+    {"id":"spawn:angler_fish","required":false},
+    {"id":"spawn:bluefish","required":false},
+    {"id":"spawn:herring","required":false},
+    {"id":"upgrade_aquatic:lionfish","required":false}
+  ]
+}

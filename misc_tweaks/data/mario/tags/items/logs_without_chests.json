@@ -8,6 +8,8 @@
         {"id":"#spawn:rotten_logs","required":false},
         {"id":"#wan_ancient_beasts:ginkgo_logs","required":false},
         {"id":"#netherexp:claret_stems","required":false},
-        {"id":"#infernalexp:luminous_stems","required":false}
+        {"id":"#infernalexp:luminous_stems","required":false},
+        {"id":"#crabbersdelight:palm_logs","required":false},
+        {"id":"#backport:poplar_logs","required":false}
     ]
 }

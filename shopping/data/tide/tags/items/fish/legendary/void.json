@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"tide:alpha_fish","required":false},
+    {"id":"tide:dragon_fish","required":false},
+    {"id":"tide:voidseeker","required":false}
+  ]
+}

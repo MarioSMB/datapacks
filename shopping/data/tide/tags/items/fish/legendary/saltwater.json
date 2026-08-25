@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"tide:coelacanth","required":false},
+    {"id":"tide:shooting_starfish","required":false}
+  ]
+}

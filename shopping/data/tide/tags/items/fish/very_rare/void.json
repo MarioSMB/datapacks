@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"tide:darkness_eater","required":false},
+    {"id":"tide:mantyvern","required":false},
+    {"id":"tide:shadow_shark","required":false},
+    {"id":"tide:snatcher_squid","required":false}
+  ]
+}

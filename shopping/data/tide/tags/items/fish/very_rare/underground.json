@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"tide:chasm_eel","required":false},
+    {"id":"tide:echo_snapper","required":false}
+  ]
+}

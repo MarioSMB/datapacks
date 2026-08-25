@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"tide:catfish","required":false},
+    {"id":"tide:guppy","required":false},
+    {"id":"tide:walleye","required":false},
+    {"id":"environmental:koi","required":false}
+  ]
+}

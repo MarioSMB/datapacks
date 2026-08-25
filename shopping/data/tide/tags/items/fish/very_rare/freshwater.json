@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"tide:bull_shark","required":false},
+    {"id":"tide:mooneye","required":false}
+  ]
+}

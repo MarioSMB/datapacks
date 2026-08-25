@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"tide:amber_rockfish","required":false},
+    {"id":"tide:bedrock_bug","required":false},
+    {"id":"tide:enderfin","required":false},
+    {"id":"tide:incandescent_larva","required":false},
+    {"id":"tide:pale_clubfish","required":false},
+    {"id":"tide:sleepy_carp","required":false},
+    {"id":"alexsmobs:cosmic_cod","required":false}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"tide:dutchman_sock","required":false},
+    {"id":"tide:elytrout","required":false},
+    {"id":"tide:nephrosilu","required":false},
+    {"id":"tide:pentapus","required":false},
+    {"id":"tide:red_40","required":false},
+    {"id":"tide:vengeance","required":false}
+  ]
+}

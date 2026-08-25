@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"tide:arapaima","required":false},
+    {"id":"tide:blossom_bass","required":false},
+    {"id":"tide:frostbite_flounder","required":false},
+    {"id":"tide:mirage_catfish","required":false},
+    {"id":"tide:sand_tiger_shark","required":false},
+    {"id":"tide:slimy_salmon","required":false},
+    {"id":"tide:sturgeon","required":false}
+  ]
+}

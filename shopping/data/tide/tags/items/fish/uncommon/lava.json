@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"tide:obsidian_pike","required":false},
+    {"id":"tide:volcano_tuna","required":false}
+  ]
+}

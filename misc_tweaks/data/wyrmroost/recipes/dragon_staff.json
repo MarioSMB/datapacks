@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "wyrmroost"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
+      "item": "wyrmroost:drake_backplate"
+    },
+    "|": {
+      "item": "minecraft:bone"
+    }
+  },
+  "pattern": [
+    "X",
+    "|"
+  ],
+  "result": {
+    "item": "wyrmroost:dragon_staff"
+  },
+  "show_notification": true
+}

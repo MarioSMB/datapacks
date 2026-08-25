@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"tide:crimson_fangjaw","required":false},
+    {"id":"tide:inferno_guppy","required":false},
+    {"id":"tide:soulscale","required":false},
+    {"id":"tide:warped_guppy","required":false},
+    {"id":"tide:witherfin","required":false}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"tide:abyss_angler","required":false},
+    {"id":"tide:anglerfish","required":false},
+    {"id":"tide:crystal_shrimp","required":false},
+    {"id":"tide:dripstone_darter","required":false},
+    {"id":"tide:glowfish","required":false},
+    {"id":"tide:iron_tetra","required":false},
+    {"id":"tide:lapis_lanternfish","required":false}
+  ]
+}
