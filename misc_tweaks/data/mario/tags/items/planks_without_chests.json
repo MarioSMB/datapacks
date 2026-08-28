@@ -8,9 +8,6 @@
         {"id":"spawn:rotten_planks","required":false},
         {"id":"spawn:cracked_rotten_planks","required":false},
         {"id":"wan_ancient_beasts:ginkgo_planks","required":false},
-        {"id":"netherexp:claret_planks","required":false},
-        {"id":"infernalexp:luminous_planks","required":false},
-        {"id":"crabbersdelight:palm_planks","required":false},
-        {"id":"backport:poplar_planks","required":false}
+        {"id":"netherexp:claret_planks","required":false}
     ]
 }
