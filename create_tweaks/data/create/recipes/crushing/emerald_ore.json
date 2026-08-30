@@ -3,7 +3,7 @@
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "spelunkery"
+      "modid": "create"
     }
   ],
   "ingredients": [
@@ -15,7 +15,7 @@
   "results": [
     {
       "count": 18,
-      "item": "spelunkery:emerald_shard"
+      "item": "kubejs:emerald_shard"
     },
     {
       "chance": 0.75,

@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"scguns_oregunized:avantrima","required":false},
+    {"id":"scguns_oregunized:canter","required":false},
+    {"id":"scguns_oregunized:haretrot","required":false},
+    {"id":"scguns_oregunized:hermes","required":false},
+    {"id":"scguns_oregunized:jackrabbit","required":false},
+    {"id":"scguns_oregunized:jupiter","required":false},
+    {"id":"scguns_oregunized:volter_sp","required":false},
+    {"id":"scguns_oregunized:whirlwind","required":false},
+    {"id":"scguns_oregunized:mactricia","required":false},
+    {"id":"scguns_oregunized:stellar_order_flare","required":false}
+  ]
+}

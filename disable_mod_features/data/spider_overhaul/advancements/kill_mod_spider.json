@@ -1,0 +1,28 @@
+{
+  "parent": "spider_overhaul:root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true,
+    "description": {
+      "translate": "advancements.spider_overhaul.kill_mod_spider.description"
+    },
+    "icon": {
+      "item": "minecraft:spider_eye"
+    },
+    "title": {
+      "translate": "advancements.spider_overhaul.kill_mod_spider.title"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,29 @@
+{
+  "parent": "spider_overhaul:kill_mod_spider",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.spider_overhaul.kill_all_spiders.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "item": "minecraft:iron_sword"
+    },
+    "title": {
+      "translate": "advancements.spider_overhaul.kill_all_spiders.title"
+    },
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

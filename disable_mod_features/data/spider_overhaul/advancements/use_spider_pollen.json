@@ -1,0 +1,28 @@
+{
+  "parent": "spider_overhaul:root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true,
+    "description": {
+      "translate": "advancements.spider_overhaul.use_spider_pollen.description"
+    },
+    "icon": {
+      "item": "spider_overhaul:bottle_of_spider_pollen"
+    },
+    "title": {
+      "translate": "advancements.spider_overhaul.use_spider_pollen.title"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

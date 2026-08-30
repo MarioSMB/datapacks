@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true,
+    "background": "spider_overhaul:textures/gui/advancements/backgrounds/white_wool.png",
+    "description": {
+      "translate": "advancements.spider_overhaul.root.description"
+    },
+    "icon": {
+      "item": "minecraft:string"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.spider_overhaul.root.title"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "sends_telemetry_event": false
+}
