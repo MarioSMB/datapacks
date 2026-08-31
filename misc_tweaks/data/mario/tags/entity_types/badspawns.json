@@ -2,7 +2,6 @@
   "replace": false,
   "values": [
     {"id":"caverns_and_chasms:rat","required":false},
-    {"id":"caverns_and_chasms:cavefish","required":false},
-    {"id":"monsterexpansion:kobeko","required":false}
+    {"id":"caverns_and_chasms:cavefish","required":false}
   ]
 }

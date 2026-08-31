@@ -19,10 +19,6 @@
     },
     {
       "chance": 0.3,
-      "item": "create:brass_ingot"
-    },
-    {
-      "chance": 0.3,
       "item": "oreganized:electrum_ingot"
     },
     {
