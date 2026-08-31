@@ -1,0 +1,11 @@
+{
+  "input": {
+    "item": "alexscaves:sweetish_fish_blue"
+  },
+  "result": {
+    "id": "alexscaves:sweetish_fish",
+    "nbt": {
+      "GummyColor": 3
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "conditions": [
+    {
+      "type": "tide:saltwater"
+    },
+    {
+      "type": "tide:dimension",
+      "dimensions": [
+        "minecraft:overworld"
+      ]
+    },
+    {
+      "type": "tide:time_of_day",
+      "ranges": [
+        {
+          "max": 24000,
+          "min": 12000
+        }
+      ]
+    },
+    {
+      "type": "tide:fluid",
+      "fluid": "water"
+    },
+    {
+      "type": "tide:above",
+      "y": 40
+    }
+  ],
+  "loot_table": "spider_overhaul:gameplay/fishing/ocean_spider",
+  "quality": -3.0,
+  "weight": 12.0
+}
