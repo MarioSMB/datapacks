@@ -1,0 +1,16 @@
+{
+  "shop_id": "leatherworker",
+  "name": "Leatherworker",
+  "texture": "quark:textures/block/bonded_leather",
+  "villager_profession": "leatherworker",
+  "hidden_from_selector": true,
+  "selector_weight": -20,
+  "trades": [
+    {
+      "offer": {"item": "backpacked:backpack","count": 1},
+      "request": {"item": "minecraft:emerald","count": 25},
+      "trade_id": "leatherworker_sell_backpack"
+    }
+  ],
+  "random_sets ": []
+}

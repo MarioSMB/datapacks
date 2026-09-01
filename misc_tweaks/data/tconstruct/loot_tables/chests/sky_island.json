@@ -106,7 +106,7 @@
             },
             {
               "function": "minecraft:set_potion",
-              "id": "minecraft:strong_regeneration"
+              "id": "minecraft:slow_falling"
             }
           ],
           "name": "minecraft:potion",
@@ -135,7 +135,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:book",
+          "name": "minecraft:phantom_membrane",
           "weight": 5
         },
         {
