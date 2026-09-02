@@ -1,0 +1,27 @@
+{
+  "shop_id": "gunsmith",
+  "name": "Gunsmith",
+  "display_type": "default",
+  "texture": "scguns:textures/block/chiseled_anthralite_block",
+  "villager_profession": "scguns:gunsmith",
+  "hidden_from_selector": true,
+  "selector_weight": -20,
+  "trades": [
+    {
+      "offer": {"item": "scguns:flintlock_pistol","count": 1},
+      "request": {"item": "minecraft:emerald","count": 11},
+      "trade_id": "gunsmith_sell_flintlock_pistol"
+    },
+    {
+      "offer": {"item": "scguns:musket","count": 1},
+      "request": {"item": "minecraft:emerald","count": 16},
+      "trade_id": "gunsmith_sell_musket"
+    },
+    {
+      "offer": {"item": "scguns:powder_and_ball","count": 1},
+      "request": {"item": "minecraft:emerald","count": 3},
+      "trade_id": "gunsmith_sell_powder_and_ball"
+    }
+  ],
+  "random_sets ": []
+}
