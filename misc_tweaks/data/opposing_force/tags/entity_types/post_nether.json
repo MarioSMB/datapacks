@@ -1,0 +1,8 @@
+{
+  "values": [
+    "minecraft:enderman",
+    {"id":"species:quake","required":false},
+    {"id":"species:wicked","required":false},
+    {"id":"species:bewereager","required":false}
+  ]
+}
