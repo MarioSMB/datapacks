@@ -3,7 +3,7 @@
   "name": "Gunsmith",
   "display_type": "default",
   "texture": "scguns:textures/block/chiseled_anthralite_block",
-  "villager_profession": "scguns:gunsmith",
+  "villager_profession": "gunsmith",
   "hidden_from_selector": true,
   "selector_weight": -20,
   "trades": [
