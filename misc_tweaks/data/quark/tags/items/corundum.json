@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    {"id":"galosphere:lumiere_block","required":false},
-    {"id":"galosphere:allurite_block","required":false}
-  ]
-}
