@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "aether:gravitite_hoe",
+      "required": false
+    },
+    {
+      "id": "aether:valkyrie_hoe",
+      "required": false
+    },
+    {
+      "id": "cataclysm:black_steel_hoe",
+      "required": false
+    }
+  ]
+}

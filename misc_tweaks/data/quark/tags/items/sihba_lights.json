@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "endergetic:ender_torch",
+      "required": false
+    },
+    {
+      "id": "infernalexp:glowlight_torch",
+      "required": false
+    },
+    {
+      "id": "alexscaves:bioluminescent_torch",
+      "required": false
+    },
+    {
+      "id": "aether:ambrosium_torch",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "farmersrespite:tea_seeds",
+      "required": false
+    },
+    {
+      "id": "netherexp:cerebrage_seeds",
+      "required": false
+    },
+    {
+      "id": "species:alphacene_mushroom",
+      "required": false
+    },
+    {
+      "id": "infernalexp:luminous_fungus",
+      "required": false
+    }
+  ]
+}
