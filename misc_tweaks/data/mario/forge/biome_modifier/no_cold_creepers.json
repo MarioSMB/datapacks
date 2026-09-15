@@ -1,0 +1,5 @@
+{
+  "type": "forge:remove_spawns",
+  "biomes": "#forge:is_cold",
+  "entity_types": "minecraft:creeper"
+}
