@@ -1,21 +1,28 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "IFI"
+    "S",
+    "N",
+    "I"
   ],
   "key": {
     "I": [
       {
-        "item": "create:iron_sheet"
+        "item": "create:blaze_burner"
       }
     ],
-    "F": [
+    "S": [
+      {
+        "item": "create:steam_engine"
+      }
+    ],
+    "N": [
       {
         "item": "create:fluid_tank"
       }
     ]
   },
   "result": {
-    "item": "immersive_aircraft:steel_boiler"
+    "item": "immersive_aircraft:boiler"
   }
 }

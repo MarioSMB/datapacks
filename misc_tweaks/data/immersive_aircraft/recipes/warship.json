@@ -1,34 +1,36 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:mod_loaded",
-      "modid": "immersive_aircraft"
-    }
-  ],
-  "type": "minecraft:crafting_shaped",
+  "type": "create:mechanical_crafting",
   "pattern": [
-    "SHS",
-    "EAE",
-    "HGH"
+    " SSSSSS",
+    "SSIIIEP",
+    " ~~ ~~ ",
+    "i_CGHEP",
+    "cHHHH  "
   ],
   "key": {
-    "S": [
-      {
-        "item": "create:white_sail"
-      }
-    ],
     "H": [
       {
-        "item": "immersive_aircraft:hull"
+        "item": "immersive_aircraft:hull_reinforcement"
       }
     ],
-    "E": [
+    "I": [
       {
-        "item": "create:steam_engine"
+        "item": "create:industrial_iron_block"
+      }
+    ],
+    "i": [
+      {
+        "item": "create:industrial_iron_window"
+      }
+    ],
+    "C": [
+      {
+        "item": "immersive_aircraft:cargo_airship"
+      }
+    ],
+    "c": [
+      {
+        "item": "immersive_aircraft:heavy_crossbow"
       }
     ],
     "G": [
@@ -36,13 +38,34 @@
         "item": "immersive_aircraft:industrial_gears"
       }
     ],
-    "A": [
+    "E": [
       {
-        "item": "immersive_aircraft:cargo_airship"
+        "item": "immersive_aircraft:engine"
+      }
+    ],
+    "P": [
+      {
+        "item": "immersive_aircraft:propeller"
+      }
+    ],
+    "S": [
+      {
+        "item": "immersive_aircraft:sail"
+      }
+    ],
+    "~": [
+      {
+        "item": "minecraft:string"
+      }
+    ],
+    "_": [
+      {
+        "tag": "create:seats"
       }
     ]
   },
   "result": {
     "item": "immersive_aircraft:warship"
-  }
+  },
+  "acceptMirrored": true
 }

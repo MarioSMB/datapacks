@@ -1,21 +1,22 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "ICI"
+    "E",
+    "C"
   ],
   "key": {
     "C": [
       {
-        "item": "create:cogwheel"
+        "item": "minecraft:compass"
       }
     ],
-    "I": [
+    "E": [
       {
-        "item": "create:iron_sheet"
+        "item": "create:electron_tube"
       }
     ]
   },
   "result": {
-    "item": "immersive_aircraft:industrial_gears"
+    "item": "immersive_aircraft:gyroscope"
   }
 }

@@ -1,19 +1,11 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:mod_loaded",
-      "modid": "immersive_aircraft"
-    }
-  ],
-  "type": "minecraft:crafting_shaped",
+  "type": "create:mechanical_crafting",
   "pattern": [
-    " H ",
-    "HEP",
-    " H "
+    "   S ",
+    "S  S ",
+    "HH_EP",
+    "S  S ",
+    "   S "
   ],
   "key": {
     "H": [
@@ -23,16 +15,27 @@
     ],
     "E": [
       {
-        "item": "create:steam_engine"
+        "item": "immersive_aircraft:engine"
       }
     ],
     "P": [
       {
-        "item": "create:propeller"
+        "item": "immersive_aircraft:propeller"
+      }
+    ],
+    "S": [
+      {
+        "item": "immersive_aircraft:sail"
+      }
+    ],
+    "_": [
+      {
+        "tag": "create:seats"
       }
     ]
   },
   "result": {
     "item": "immersive_aircraft:biplane"
-  }
+  },
+  "acceptMirrored": true
 }

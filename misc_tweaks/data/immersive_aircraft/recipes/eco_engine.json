@@ -1,39 +1,28 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:mod_loaded",
-      "modid": "immersive_aircraft"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "CNC",
-    "NEN",
-    "RRR"
+    "IWI",
+    "CEC"
   ],
   "key": {
     "C": [
       {
-        "item": "minecraft:slime_ball"
+        "item": "create:copper_sheet"
       }
     ],
-    "R": [
+    "W": [
       {
-        "item": "minecraft:brick"
+        "item": "minecraft:water_bucket"
       }
     ],
-    "N": [
+    "I": [
       {
-        "item": "create:golden_sheet"
+        "item": "create:iron_sheet"
       }
     ],
     "E": [
       {
-        "item": "create:steam_engine"
+        "item": "immersive_aircraft:boiler"
       }
     ]
   },

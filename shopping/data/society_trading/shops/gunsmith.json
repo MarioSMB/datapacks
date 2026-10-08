@@ -8,19 +8,71 @@
   "selector_weight": -20,
   "trades": [
     {
-      "offer": {"item": "scguns:flintlock_pistol","count": 1},
+      "offer": {"item": "scguns:antique_blueprint","count": 1},
       "request": {"item": "minecraft:emerald","count": 11},
-      "trade_id": "gunsmith_sell_flintlock_pistol"
+      "trade_id": "gunsmith_sell_antique_blueprint"
     },
     {
-      "offer": {"item": "scguns:musket","count": 1},
+      "offer": {"item": "scguns:frontier_blueprint","count": 1},
       "request": {"item": "minecraft:emerald","count": 16},
-      "trade_id": "gunsmith_sell_musket"
+      "trade_id": "gunsmith_sell_frontier_blueprint",
+      "advancement_required": "minecraft:adventure/kill_a_mob"
+    },
+    {
+      "offer": {"item": "scguns:standard_bullet","count": 1},
+      "request": {"item": "minecraft:emerald","count": 1},
+      "trade_id": "gunsmith_sell_standard_bullet"
     },
     {
       "offer": {"item": "scguns:powder_and_ball","count": 1},
-      "request": {"item": "minecraft:emerald","count": 3},
+      "request": {"item": "minecraft:emerald","count": 2},
       "trade_id": "gunsmith_sell_powder_and_ball"
+    },
+    {
+      "offer": {"item": "scguns:grapeshot","count": 1},
+      "request": {"item": "minecraft:emerald","count": 3},
+      "trade_id": "gunsmith_sell_grapeshot"
+    },
+    {
+      "offer": {"item": "scguns:buckshot","count": 1},
+      "request": {"item": "minecraft:emerald","count": 6},
+      "trade_id": "gunsmith_sell_buckshot"
+    },
+    {
+      "offer": {"item": "scguns:compact_copper_round","count": 1},
+      "request": {"item": "minecraft:emerald","count": 4},
+      "trade_id": "gunsmith_sell_compact_copper_round",
+      "advancement_required": "minecraft:story/enter_the_nether"
+    },
+    {
+      "offer": {"item": "scguns:copper_round","count": 1},
+      "request": {"item": "minecraft:emerald","count": 4},
+      "trade_id": "gunsmith_sell_copper_round",
+      "advancement_required": "minecraft:story/enter_the_nether"
+    },
+    {
+      "offer": {"item": "scguns:shotgun_shell","count": 1},
+      "request": {"item": "minecraft:emerald","count": 8},
+      "trade_id": "gunsmith_sell_shotgun_shell",
+      "advancement_required": "minecraft:story/enter_the_nether"
+    },
+    {
+      "offer": {"item": "scguns:compact_advanced_round","count": 1},
+      "request": {"item": "minecraft:emerald","count": 8},
+      "trade_id": "gunsmith_sell_compact_advanced_round",
+      "advancement_required": "aether:enter_aether"
+    },
+    {
+      "offer": {"item": "scguns:advanced_round","count": 1},
+      "request": {"item": "minecraft:emerald","count": 8},
+      "trade_id": "gunsmith_sell_advanced_round",
+      "advancement_required": "aether:enter_aether"
+    },
+    {
+      "offer": {"item": "scguns:shulkshot","count": 1},
+      "request": {"item": "minecraft:emerald","count": 8},
+      "trade_id": "gunsmith_sell_shulkshot",
+      "advancement_required": "minecraft:end/kill_dragon"
     }
   ],
   "random_sets ": []

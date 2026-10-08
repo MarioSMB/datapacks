@@ -1,19 +1,8 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:mod_loaded",
-      "modid": "immersive_aircraft"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "LLL",
-    "III",
-    "LLL"
+    "LIL",
+    "LIL"
   ],
   "key": {
     "L": [
@@ -23,7 +12,7 @@
     ],
     "I": [
       {
-        "item": "create:iron_sheet"
+        "item": "minecraft:iron_ingot"
       }
     ]
   },

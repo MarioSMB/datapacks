@@ -11,6 +11,62 @@
       "offer": {"item": "selling_bin:selling_bin","count": 1},
       "request": {"item": "minecraft:emerald","count": 10},
       "trade_id": "farmer_sell_selling_bin"
+    },
+    {
+      "offer": {"item": "farmersdelight:cooking_pot","count": 1},
+      "request": {"item": "minecraft:emerald","count": 21},
+      "trade_id": "farmer_sell_cooking_pot"
+    },
+    {
+      "offer": {"item": "quark:seed_pouch","count": 1},
+      "request": {"item": "minecraft:emerald","count": 14},
+      "trade_id": "farmer_sell_seed_pouch"
+    },
+    {
+      "offer": {"item": "minecraft:wheat_seeds","count": 4},
+      "request": {"item": "minecraft:emerald","count": 1},
+      "trade_id": "farmer_sell_wheat_seeds"
+    },
+    {
+      "offer": {"item": "minecraft:beetroot_seeds","count": 4},
+      "request": {"item": "minecraft:emerald","count": 1},
+      "trade_id": "farmer_sell_beetroot_seeds"
+    },
+    {
+      "offer": {"item": "farmersdelight:cabbage_seeds","count": 1},
+      "request": {"item": "minecraft:emerald","count": 4},
+      "trade_id": "farmer_sell_cabbage_seeds"
+    },
+    {
+      "offer": {"item": "farmersdelight:tomato_seeds","count": 1},
+      "request": {"item": "minecraft:emerald","count": 2},
+      "trade_id": "farmer_sell_tomato_seeds"
+    },
+    {
+      "offer": {"item": "minecraft:pumpkin_seeds","count": 1},
+      "request": {"item": "minecraft:emerald","count": 2},
+      "trade_id": "farmer_sell_pumpkin_seeds"
+    },
+    {
+      "offer": {"item": "minecraft:melon_seeds","count": 1},
+      "request": {"item": "minecraft:emerald","count": 3},
+      "trade_id": "farmer_sell_melon_seeds"
+    },
+    {
+      "offer": {"item": "farmersrespite:tea_seeds","count": 1},
+      "request": {"item": "minecraft:emerald","count": 9},
+      "trade_id": "farmer_sell_tea_seeds"
+    },
+    {
+      "offer": {"item": "farmersrespite:tea_seeds","count": 1},
+      "request": {"item": "minecraft:emerald","count": 9},
+      "trade_id": "farmer_sell_tea_seeds"
+    },
+    {
+      "offer": {"item": "minecraft:nether_wart","count": 1},
+      "request": {"item": "minecraft:emerald","count": 6},
+      "trade_id": "farmer_sell_nether_wart",
+      "advancement_required": "minecraft:story/enter_the_nether"
     }
   ],
   "random_sets ": []

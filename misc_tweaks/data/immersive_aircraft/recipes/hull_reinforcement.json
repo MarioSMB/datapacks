@@ -1,19 +1,7 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:mod_loaded",
-      "modid": "immersive_aircraft"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "III",
-    "HHH",
-    "III"
+    "IHI"
   ],
   "key": {
     "H": [

@@ -1,48 +1,56 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:mod_loaded",
-      "modid": "immersive_aircraft"
-    }
-  ],
-  "type": "minecraft:crafting_shaped",
+  "type": "create:mechanical_crafting",
   "pattern": [
-    "AHA",
-    "GAG",
-    "SES"
+    " C SC ",
+    "SCcCBI",
+    " CPE_I",
+    "SCcCBI",
+    " C SC "
   ],
   "key": {
-    "S": [
+    "C": [
       {
-        "item": "minecraft:bamboo_slab"
+        "item": "create:copper_casing"
       }
     ],
-    "H": [
+    "c": [
       {
-        "item": "minecraft:bamboo_raft"
+        "item": "minecraft:copper_ingot"
       }
     ],
     "E": [
       {
-        "item": "create:steam_engine"
+        "item": "immersive_aircraft:engine"
       }
     ],
-    "G": [
+    "B": [
       {
-        "item": "minecraft:bamboo_block"
+        "item": "immersive_aircraft:biplane"
       }
     ],
-    "A": [
+    "P": [
       {
-        "item": "create:propeller"
+        "item": "immersive_aircraft:propeller"
+      }
+    ],
+    "S": [
+      {
+        "item": "immersive_aircraft:sail"
+      }
+    ],
+    "I": [
+      {
+        "item": "create:industrial_iron_window"
+      }
+    ],
+    "_": [
+      {
+        "tag": "create:seats"
       }
     ]
   },
   "result": {
     "item": "immersive_aircraft:bamboo_hopper"
-  }
+  },
+  "acceptMirrored": true
 }

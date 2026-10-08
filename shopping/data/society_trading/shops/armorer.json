@@ -10,8 +10,7 @@
     {
       "offer": {"item": "minecraft:shield","count": 1},
       "request": {"item": "minecraft:emerald","count": 6},
-      "trade_id": "armorer_sell_shield",
-      "advancement_required": "minecraft:story/shiny_gear"
+      "trade_id": "armorer_sell_shield"
     },
     {
       "offer": {"item": "opposing_force:emerald_mask","count": 1},

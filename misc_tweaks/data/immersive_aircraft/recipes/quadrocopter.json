@@ -1,29 +1,24 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:mod_loaded",
-      "modid": "immersive_aircraft"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "PBP",
-    "BEB",
-    "PBP"
+    "PAP",
+    " S ",
+    "PEP"
   ],
   "key": {
     "E": [
       {
-        "item": "create:steam_engine"
+        "item": "immersive_aircraft:boiler"
       }
     ],
-    "B": [
+    "A": [
       {
-        "item": "minecraft:bamboo"
+        "item": "immersive_aircraft:hull"
+      }
+    ],
+    "S": [
+      {
+        "item": "minecraft:string"
       }
     ],
     "P": [

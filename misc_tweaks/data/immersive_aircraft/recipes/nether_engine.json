@@ -1,34 +1,28 @@
 {
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create"
-    },
-    {
-      "type": "forge:mod_loaded",
-      "modid": "immersive_aircraft"
-    }
-  ],
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "N",
-    "E",
-    "R"
+    "ILI",
+    "SES"
   ],
   "key": {
-    "R": [
+    "S": [
       {
-        "item": "create:blaze_burner"
+        "item": "create:sturdy_sheet"
       }
     ],
-    "N": [
+    "L": [
       {
-        "item": "minecraft:netherite_ingot"
+        "item": "minecraft:lava_bucket"
+      }
+    ],
+    "I": [
+      {
+        "item": "create:iron_sheet"
       }
     ],
     "E": [
       {
-        "item": "create:steam_engine"
+        "item": "immersive_aircraft:boiler"
       }
     ]
   },
