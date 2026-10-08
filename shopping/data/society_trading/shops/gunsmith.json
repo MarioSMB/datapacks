@@ -45,9 +45,9 @@
       "advancement_required": "minecraft:story/enter_the_nether"
     },
     {
-      "offer": {"item": "scguns:copper_round","count": 1},
+      "offer": {"item": "scguns:standard_copper_round","count": 1},
       "request": {"item": "minecraft:emerald","count": 4},
-      "trade_id": "gunsmith_sell_copper_round",
+      "trade_id": "gunsmith_sell_standard_copper_round",
       "advancement_required": "minecraft:story/enter_the_nether"
     },
     {

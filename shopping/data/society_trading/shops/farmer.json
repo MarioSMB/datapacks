@@ -58,11 +58,6 @@
       "trade_id": "farmer_sell_tea_seeds"
     },
     {
-      "offer": {"item": "farmersrespite:tea_seeds","count": 1},
-      "request": {"item": "minecraft:emerald","count": 9},
-      "trade_id": "farmer_sell_tea_seeds"
-    },
-    {
       "offer": {"item": "minecraft:nether_wart","count": 1},
       "request": {"item": "minecraft:emerald","count": 6},
       "trade_id": "farmer_sell_nether_wart",
