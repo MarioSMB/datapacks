@@ -1,0 +1,33 @@
+{
+  "shop_id": "fletcher",
+  "name": "Fletcher",
+  "display_type": "default",
+  "texture": "minecraft:textures/block/fletching_table_side",
+  "villager_profession": "fletcher",
+  "hidden_from_selector": true,
+  "selector_weight": -20,
+  "trades": [
+    {
+      "offer": {"item": "minecraft:bow","count": 1},
+      "request": {"item": "minecraft:emerald","count": 6},
+      "trade_id": "fletcher_sell_bow"
+    },
+    {
+      "offer": {"item": "minecraft:crossbow","count": 1},
+      "request": {"item": "minecraft:emerald","count": 10},
+      "trade_id": "fletcher_sell_crossbow"
+    },
+    {
+      "offer": {"item": "minecraft:arrow","count": 1},
+      "request": {"item": "minecraft:emerald","count": 1},
+      "trade_id": "fletcher_sell_arrow"
+    },
+    {
+      "offer": {"item": "caverns_and_chasms:large_arrow","count": 1},
+      "request": {"item": "minecraft:emerald","count": 2},
+      "trade_id": "fletcher_sell_large_arrow",
+      "advancement_required": "minecraft:story/enter_the_nether"
+    }
+  ],
+  "random_sets ": []
+}

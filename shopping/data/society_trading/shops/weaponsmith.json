@@ -9,8 +9,89 @@
   "trades": [
     {
       "offer": {"item": "opposing_force:emerald_sword","count": 1},
-      "request": {"item": "minecraft:emerald","count": 18},
+      "request": {"item": "minecraft:emerald","count": 26},
       "trade_id": "weaponsmith_sell_emerald_sword"
+    },
+    {
+      "offer": {"item": "simplyswords:iron_longsword","count": 1},
+      "request": {"item": "minecraft:emerald","count": 6},
+      "trade_id": "weaponsmith_sell_iron_longsword"
+    },
+    {
+      "offer": {"item": "simplyswords:iron_rapier","count": 1},
+      "request": {"item": "minecraft:emerald","count": 5},
+      "trade_id": "weaponsmith_sell_iron_rapier"
+    },
+    {
+      "offer": {"item": "simplyswords:iron_twinblade","count": 1},
+      "request": {"item": "minecraft:emerald","count": 5},
+      "trade_id": "weaponsmith_sell_iron_twinblade"
+    },
+    {
+      "offer": {"item": "simplyswords:iron_katana","count": 1},
+      "request": {"item": "minecraft:emerald","count": 7},
+      "trade_id": "weaponsmith_sell_iron_katana"
+    },
+    {
+      "offer": {"item": "simplyswords:iron_sai","count": 1},
+      "request": {"item": "minecraft:emerald","count": 3},
+      "trade_id": "weaponsmith_sell_iron_sai"
+    },
+    {
+      "offer": {"item": "simplyswords:iron_spear","count": 1},
+      "request": {"item": "minecraft:emerald","count": 4},
+      "trade_id": "weaponsmith_sell_iron_spear"
+    },
+    {
+      "offer": {"item": "simplyswords:iron_glaive","count": 1},
+      "request": {"item": "minecraft:emerald","count": 6},
+      "trade_id": "weaponsmith_sell_iron_glaive"
+    },
+    {
+      "offer": {"item": "simplyswords:iron_warglaive","count": 1},
+      "request": {"item": "minecraft:emerald","count": 7},
+      "trade_id": "weaponsmith_sell_iron_warglaive"
+    },
+    {
+      "offer": {"item": "simplyswords:iron_cutlass","count": 1},
+      "request": {"item": "minecraft:emerald","count": 6},
+      "trade_id": "weaponsmith_sell_iron_cutlass"
+    },
+    {
+      "offer": {"item": "simplyswords:iron_claymore","count": 1},
+      "request": {"item": "minecraft:emerald","count": 9},
+      "trade_id": "weaponsmith_sell_iron_claymore"
+    },
+    {
+      "offer": {"item": "simplyswords:iron_greathammer","count": 1},
+      "request": {"item": "minecraft:emerald","count": 11},
+      "trade_id": "weaponsmith_sell_iron_greathammer"
+    },
+    {
+      "offer": {"item": "simplyswords:iron_greataxe","count": 1},
+      "request": {"item": "minecraft:emerald","count": 12},
+      "trade_id": "weaponsmith_sell_iron_greataxe"
+    },
+    {
+      "offer": {"item": "simplyswords:iron_chakram","count": 1},
+      "request": {"item": "minecraft:emerald","count": 5},
+      "trade_id": "weaponsmith_sell_iron_chakram"
+    },
+    {
+      "offer": {"item": "simplyswords:iron_scythe","count": 1},
+      "request": {"item": "minecraft:emerald","count": 7},
+      "trade_id": "weaponsmith_sell_iron_scythe"
+    },
+    {
+      "offer": {"item": "simplyswords:iron_halberd","count": 1},
+      "request": {"item": "minecraft:emerald","count": 7},
+      "trade_id": "weaponsmith_sell_iron_halberd"
+    },
+    {
+      "offer": {"item": "legendary_monsters:spiky_shield","count": 1},
+      "request": {"item": "minecraft:emerald","count": 22},
+      "trade_id": "weaponsmith_sell_spiky_shield",
+      "advancement_required": "minecraft:story/enter_the_nether"
     }
   ],
   "random_sets ": []
