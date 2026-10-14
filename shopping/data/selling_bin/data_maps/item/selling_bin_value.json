@@ -51,6 +51,90 @@
     "minecraft:ominous_bottle": {
       "base_value": 0,
       "processors": []
+    },
+    "minecraft:wheat": {
+      "base_value": 25,
+      "processors": []
+    },
+    "minecraft:carrot": {
+      "base_value": 35,
+      "processors": []
+    },
+    "minecraft:sweet_berries": {
+      "base_value": 80,
+      "processors": []
+    },
+    "minecraft:potato": {
+      "base_value": 30,
+      "processors": []
+    },
+    "minecraft:beetroot": {
+      "base_value": 20,
+      "processors": []
+    },
+    "minecraft:sugar_cane": {
+      "base_value": 30,
+      "processors": []
+    },
+    "minecraft:apple": {
+      "base_value": 100,
+      "processors": []
+    },
+    "minecraft:pumpkin": {
+      "base_value": 100,
+      "processors": []
+    },
+    "minecraft:melon": {
+      "base_value": 250,
+      "processors": []
+    },
+    "minecraft:melon_slice": {
+      "base_value": 30,
+      "processors": []
+    },
+    "farmersdelight:tomato": {
+      "base_value": 60,
+      "processors": []
+    },
+    "farmersdelight:onion": {
+      "base_value": 16,
+      "processors": []
+    },
+    "farmersdelight:rice_panicle": {
+      "base_value": 100,
+      "processors": []
+    },
+    "farmersdelight:cabbage": {
+      "base_value": 80,
+      "processors": []
+    },
+    "neapolitan:strawberries": {
+      "base_value": 75,
+      "processors": []
+    },
+    "alexsmobs:banana": {
+      "base_value": 150,
+      "processors": []
+    },
+    "environmental:cherries": {
+      "base_value": 20,
+      "processors": []
+    },
+    "atmospheric:dragon_fruit": {
+      "base_value": 150,
+      "processors": []
+    },
+    "atmospheric:currant": {
+      "base_value": 55,
+      "processors": []
+    },
+    "windswept:wild_berries": {
+      "base_value": 60,
+      "processors": []
+    },
+    "upgrade_aquatic:mulberry": {
+      "base_value": 70,
+      "processors": []
     }
   }
 }
