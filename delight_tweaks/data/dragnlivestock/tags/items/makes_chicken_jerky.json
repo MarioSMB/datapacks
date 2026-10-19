@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "farmersdelight:chicken_cuts",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "environmental:pine_log", "required": false },
+    { "id": "environmental:pine_wood", "required": false },
+    { "id": "environmental:stripped_pine_log", "required": false },
+    { "id": "environmental:stripped_pine_wood", "required": false }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "comforts:sleeping_bag",
+  "pattern": [
+    "ccc",
+    "www"
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:red_carpet"
+    },
+    "w": {
+      "item": "minecraft:red_wool"
+    }
+  },
+  "result": {
+    "item": "comforts:sleeping_bag_red"
+  }
+}
