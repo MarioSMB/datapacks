@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersrespite"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "windswept"
+    }
+  ],
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "windswept:red_rose_bush"
+    }
+  ],
+  "result": [
+    {
+      "count": 2,
+      "item": "farmersrespite:rose_hips"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}
