@@ -1,9 +1,0 @@
-{
-  "dimension": "minecraft:overworld",
-  "weight": 3,
-  "biomes": [
-    "darkerdepths:glowshroom_forest",
-    "darkerdepths:sandy_catacombs",
-    "darkerdepths:molten_caverns"
-  ]
-}
