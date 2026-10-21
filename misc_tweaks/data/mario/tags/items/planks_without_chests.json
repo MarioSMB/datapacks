@@ -3,7 +3,6 @@
     "values": [
         {"id":"alexscaves:pewen_planks","required":false},
         {"id":"alexscaves:thornwood_planks","required":false},
-        {"id":"darkerdepths:petrified_planks","required":false},
         {"id":"spawn:date_planks","required":false},
         {"id":"spawn:rotten_planks","required":false},
         {"id":"spawn:cracked_rotten_planks","required":false},
