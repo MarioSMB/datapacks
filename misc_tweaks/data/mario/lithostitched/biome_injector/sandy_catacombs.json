@@ -1,0 +1,18 @@
+{
+  "type": "lithostitched:replace_partially",
+  "dimension": "minecraft:overworld",
+  "targets": [
+    "minecraft:dripstone_caves",
+    "terralith:desert_caves",
+    "terralith:sandstone_chasm"
+  ],
+  "replacement": "darkerdepths:sandy_catacombs",
+  "parameters": {
+    "temperature": {
+      "min_inclusive": 0.5
+    },
+    "humidity": {
+      "max_exclusive": 0.2
+    }
+  }
+}
