@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "minecraft:spawner"
+    "minecraft:spawner",
+    {"id":"immersive_furniture:furniture_proxy","required":false}
   ]
 }

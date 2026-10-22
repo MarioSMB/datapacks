@@ -1,6 +1,10 @@
 {
   "values": [
     {"id":"netherexp:shroomnight","required":false},
-    {"id":"netherexp:shroomnight_tear","required":false}
+    {"id":"netherexp:shroomnight_tear","required":false},
+    {"id":"netherexp:warped_wart_beard","required":false},
+    {"id":"minecraft:twisting_vines_plant","required":false},
+    {"id":"minecraft:twisting_vines","required":false},
+    {"id":"netherexp:warped_roots","required":false}
   ]
 }
