@@ -18,13 +18,13 @@
       "trade_id": "fletcher_sell_crossbow"
     },
     {
-      "offer": {"item": "minecraft:arrow","count": 1},
-      "request": {"item": "minecraft:emerald","count": 1},
+      "offer": {"item": "minecraft:arrow","count": 4},
+      "request": {"item": "minecraft:emerald","count": 2},
       "trade_id": "fletcher_sell_arrow"
     },
     {
-      "offer": {"item": "caverns_and_chasms:large_arrow","count": 1},
-      "request": {"item": "minecraft:emerald","count": 2},
+      "offer": {"item": "caverns_and_chasms:large_arrow","count": 4},
+      "request": {"item": "minecraft:emerald","count": 5},
       "trade_id": "fletcher_sell_large_arrow",
       "advancement_required": "minecraft:story/enter_the_nether"
     }
