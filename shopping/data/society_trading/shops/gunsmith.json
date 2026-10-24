@@ -74,13 +74,13 @@
       "advancement_required": "aether:enter_aether"
     },
     {
-      "offer": {"item": "scguns_oregunized:compact_hex_round","count": 4},
+      "offer": {"item": "scguns_cnc:compact_hex_round","count": 4},
       "request": {"item": "minecraft:emerald","count": 6},
       "trade_id": "gunsmith_sell_compact_hex_round",
       "advancement_required": "aether:enter_aether"
     },
     {
-      "offer": {"item": "scguns_oregunized:hex_round","count": 4},
+      "offer": {"item": "scguns_cnc:hex_round","count": 4},
       "request": {"item": "minecraft:emerald","count": 6},
       "trade_id": "gunsmith_sell_hex_round",
       "advancement_required": "aether:enter_aether"
