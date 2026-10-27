@@ -1,0 +1,18 @@
+{
+    "unlock_challenge": {
+        "formatter": "backpacked:shear_x_of_x",
+        "challenge": {
+            "type": "backpacked:interact_with_entity",
+            "entity": {
+                "type": "dragnlivestock:o_sheep",
+                "nbt": "{\"Sheared\":false}"
+            },
+            "item": {
+                "items": [
+                    "minecraft:shears"
+                ]
+            },
+            "count": 10
+        }
+    }
+}
