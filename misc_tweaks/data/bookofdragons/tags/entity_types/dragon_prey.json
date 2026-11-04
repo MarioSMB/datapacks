@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"dragnlivestock:o_chicken","required":false},
+    {"id":"dragnlivestock:o_mooshroom","required":false},
+    {"id":"dragnlivestock:o_pig","required":false},
+    {"id":"dragnlivestock:o_cow","required":false},
+    {"id":"dragnlivestock:o_goat","required":false},
+    {"id":"dragnlivestock:o_sheep","required":false},
+    {"id":"dragnlivestock:o_rabbit","required":false}
+  ]
+}
+
