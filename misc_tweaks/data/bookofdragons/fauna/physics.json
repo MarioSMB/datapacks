@@ -1,0 +1,287 @@
+{
+  "flight": {
+    "turn_rate": 15.0,
+    "turn_speed_penalty": 0.8,
+    "pitch_rate": 0.95,
+    "yaw_rate": 0.95,
+    "roll_rate": 0.243,
+    "bank_rate": 10.0,
+    "banking": 42.0,
+    "roll_reference_speed": 1.36,
+    "bank_yaw_low": 1.5,
+    "bank_yaw_high": 1.0,
+    "auto_level_pitch": 0.85,
+    "auto_level_roll": 1.05,
+    "response": 1.0,
+    "vertical_drag": 0.97,
+    "dive_overdrive_cap": 1.85,
+    "forward_overdrive_cap": 0.99,
+    "overdrive_bleed": 0.0028,
+    "glide_bleed": 0.0011,
+    "climb_bleed": 0.075,
+    "dive_gain": 0.4,
+    "stall_angle": 80.0,
+    "stall_recover_angle": 45.0,
+    "spin_drag": 0.97,
+    "vane": 0.08,
+    "vane_speed": 1.0,
+    "hover_pitch_limit": 30.0,
+    "hover_box_rate": 6.0,
+    "strafe_speed": 0.5,
+    "strafe_lean": 30.0,
+    "strafe_lean_rate": 0.25,
+    "pitch_pull": 0.4
+  },
+  "ride": {
+    "launch_throttle": 0.8,
+    "launch_angle": 45.0,
+    "push_off_ticks": 10,
+    "double_tap_ticks": 10,
+    "dodge_distance": 6.0,
+    "dodge_ticks": 14,
+    "dodge_stamina": 12.0,
+    "dodge_wait_ticks": 10,
+    "dodge_min_speed": 0.5,
+    "dodge_roll_rate": 4500.0,
+    "dodge_roll_gain": 0.35,
+    "dodge_overshoot": 40.0,
+    "dodge_bounce": 0.3,
+    "dodge_drift": 0.5
+  },
+  "attitude": {
+    "envelope_low": 0.10,
+    "envelope_high": 0.75,
+    "smoothing": 0.15,
+    "pitch_authority_hover": 0.30,
+    "yaw_authority_hover": 0.45,
+    "roll_authority_hover": 0.08,
+    "rotation_penalty_scale": 3.0,
+    "bank_yaw_gain": 25.0,
+    "bank_pitch_drop": 15.0,
+    "level_aero": 20.0,
+    "level_aero_floor": 0.05,
+    "level_aero_fade": 0.8,
+    "level_hover_roll": 60.0,
+    "level_hover_pitch": 20.0,
+    "level_hover_fade": 3.0,
+    "free_look_level": 0.15,
+    "free_look_snap": 0.5,
+    "free_look_exit_ticks": 25,
+    "free_look_exit_lerp": 0.1,
+    "roll_deadzone": 8.0,
+    "roll_deadzone_full": 400.0,
+    "roll_deadzone_time": 0.25,
+    "roll_agility": 1.0,
+    "roll_inertia": 0.15
+  },
+  "throttle": {
+    "step": 0.2,
+    "boost": 0.8,
+    "brake": 0.6,
+    "power_ramp_ticks": 20,
+    "boost_ramp_ticks": 10,
+    "cruise_hold_ticks": 60,
+    "cruise_throttle": 0.8,
+    "overdrive_gate": 0.85,
+    "overdrive_pitch_start": 30.0,
+    "overdrive_pitch_full": 70.0,
+    "roll_bleed": 0.004,
+    "ai_tracking_band": 0.02,
+    "response_penalty": 0.1
+  },
+  "chase": {
+    "pitch_scale": 75.0,
+    "climb_factor": 4.0,
+    "dive_factor": 6.0
+  },
+  "ai_bank": {
+    "per_degree": 2.0,
+    "max": 90.0,
+    "rate_min": 2.0,
+    "rate_max": 10.0,
+    "rate_scale": 1.2
+  },
+  "rider_2d": {
+    "deadzone_air": 15.0,
+    "deadzone_ground": 30.0,
+    "deadzone_delay_air": 10,
+    "deadzone_delay_ground": 20,
+    "bank_saturation": 45.0,
+    "bank_max": 60.0,
+    "bank_ease": 0.35,
+    "roll_speed": 0.225,
+    "roll_throttle_scale": 0.375,
+    "roll_auto_center": 0.12
+  },
+  "landing": {
+    "terminal_base": 0.6,
+    "terminal_per_height": 0.05,
+    "flare_decay": 0.78,
+    "flare_entry": 0.5,
+    "window_ticks": 60
+  },
+  "takeoff": {
+    "headroom": 4,
+    "launch_window_ticks": 20,
+    "cruise_seed": 0.6,
+    "leap_height": 1.0,
+    "leap_speed": 0.5,
+    "leap_ticks": 6
+  },
+  "dive_break": {
+    "range": 25.0,
+    "min_speed": 0.35,
+    "curve": 2.0,
+    "raycast_range": 40.0,
+    "raycast_step": 0.5
+  },
+  "ground": {
+    "accel_time": 0.75,
+    "response": 0.55,
+    "turn_speed_coupling": 0.18
+  },
+  "grip": {
+    "swing": {"rate": 0.26, "damping": 0.75},
+    "beat": {"rate": 2.8, "damping": 0.3},
+    "hang": 60,
+    "sweep": 70,
+    "trail": 30,
+    "tuck": 0.2,
+    "pull": 0.3,
+    "bite": 1.0,
+    "curl_max": 100,
+    "fling": 2.0,
+    "thrown_drag": 0.99
+  },
+  "water": {
+    "sensitivity": 0.8,
+    "turn": 0.7,
+    "turn_penalty": 0.6,
+    "roll": 0.3,
+    "banking": 2.2,
+    "smoothing": 0.3,
+    "rest_authority": 0.6,
+    "righting": 220.0,
+    "pitch_righting": 20.0,
+    "surface_roll": 15.0,
+    "surface_pitch": 10.0,
+    "lift": 1.0,
+    "diver_lift": 0.06,
+    "damping": 0.8,
+    "axial": 0.06,
+    "cross": 0.25,
+    "stroke": 2.0,
+    "glide_bleed": 0.025,
+    "sprint": 1.5,
+    "strafe": 0.5,
+    "sink": 0.5,
+    "duck_ticks": 60,
+    "breach_speed": 0.25,
+    "leap_height": 4.0,
+    "porpoise_ticks": 80,
+    "breath_ticks": 600,
+    "air_low": 0.3,
+    "surface_margin": 0.15,
+    "enter_share": 0.8,
+    "exit_share": 0.4,
+    "skim_speed": 0.5,
+    "skim_drag": 0.05,
+    "skim_bounce": 0.3
+  },
+  "weight_classes": {
+    "FEATHER": { "gravity": 0.03, "inertia": 0.6, "health": 0.6, "armor": 0.5,  "speed": 1.15, "camera_distance": 1.0, "camera_shake": 0.05, "float_line": 0.4, "mass": 10, "lift": 0.0, "load_drag": 1.0 },
+    "LIGHT":   { "gravity": 0.05, "inertia": 0.8, "health": 0.8, "armor": 0.75, "speed": 1.05, "camera_distance": 1.0, "camera_shake": 0.1, "float_line": 0.45, "mass": 60, "lift": 0.0, "load_drag": 1.0 },
+    "MEDIUM":  { "gravity": 0.08, "inertia": 1.0, "health": 1.0, "armor": 1.0,  "speed": 1.0, "camera_distance": 1.0, "camera_shake": 0.5, "float_line": 0.5, "mass": 900, "lift": 1.2, "load_drag": 1.0 },
+    "HEAVY":   { "gravity": 0.11, "inertia": 1.4, "health": 1.3, "armor": 1.3,  "speed": 0.85, "camera_distance": 1.5, "camera_shake": 1.0, "float_line": 0.6, "mass": 2400, "lift": 1.0, "load_drag": 1.0 },
+    "TITANIC": { "gravity": 0.14, "inertia": 2.0, "health": 1.8, "armor": 1.6,  "speed": 0.7, "camera_distance": 2.0, "camera_shake": 1.5, "float_line": 0.65, "mass": 8000, "lift": 1.0, "load_drag": 1.0 }
+  },
+  "body_plans": {
+    "FALCON":      { "top_speed": 0.9,  "agility": 1.0, "stall_speed": 0.35, "climb_bleed": 1.0, "dive_gain": 1.3, "auto_level": 1.0, "bank_yaw": 1.0 },
+    "CONDOR":      { "top_speed": 0.98, "agility": 1.0, "stall_speed": 0.2, "climb_bleed": 1.2, "dive_gain": 1.0, "dive_cap": 2.1, "auto_level": 1.5, "bank_yaw": 1.2 },
+    "SPARROW":     { "top_speed": 0.85, "agility": 1.0, "stall_speed": 0.25, "climb_bleed": 0.8, "dive_gain": 1.0, "dive_cap": 2.1, "auto_level": 0.6, "bank_yaw": 1.0 },
+    "HUMMINGBIRD": { "top_speed": 0.75, "agility": 1.1, "stall_speed": 0.1, "climb_bleed": 0.6, "dive_gain": 0.8, "dive_cap": 2.2, "auto_level": 1.2, "bank_yaw": 0.8 },
+    "LOONG":       { "top_speed": 1.1,  "agility": 1.0, "stall_speed": 0.0, "climb_bleed": 0.5, "dive_gain": 0.7, "dive_cap": 2.2, "auto_level": 0.0, "bank_yaw": 1.0 }
+  },
+  "stats": {
+    "health": {
+      "stat": "CON",
+      "at0": 100.0,
+      "at100": 300.0
+    },
+    "armor": {
+      "stat": "CON",
+      "at0": 6.0,
+      "at100": 18.0
+    },
+    "regen": {
+      "stat": "CON",
+      "at0": 0.005,
+      "at100": 0.02
+    },
+    "metabolism": {
+      "stat": "CON",
+      "at0": 1.0,
+      "at100": 0.4
+    },
+    "air_speed": {
+      "stat": "ATH",
+      "at0": 0.4,
+      "at100": 1.6
+    },
+    "ground_speed": {
+      "stat": "ATH",
+      "at0": 0.1,
+      "at100": 0.25
+    },
+    "water_speed": {
+      "stat": "ATH",
+      "at0": 0.1,
+      "at100": 0.4
+    },
+    "acceleration": {
+      "stat": "ATH",
+      "at0": 0.02,
+      "at100": 0.12
+    },
+    "agility": {
+      "stat": "AGI",
+      "at0": 0.2,
+      "at100": 1.0
+    },
+    "ground_turn": {
+      "stat": "AGI",
+      "at0": 3.5,
+      "at100": 9.5
+    },
+    "melee_damage": {
+      "stat": "PRW",
+      "at0": 4.0,
+      "at100": 20.0
+    },
+    "knockback_resist": {
+      "stat": "PRW",
+      "at0": 0.0,
+      "at100": 0.8
+    },
+    "breath_power": {
+      "stat": "POT",
+      "at0": 0.6,
+      "at100": 1.4
+    },
+    "breath_cost": {
+      "stat": "POT",
+      "at0": 1.3,
+      "at100": 0.7
+    },
+    "stamina": {
+      "stat": "VIG",
+      "at0": 40.0,
+      "at100": 140.0
+    },
+    "stamina_regen": {
+      "stat": "VIG",
+      "at0": 1.0,
+      "at100": 5.0
+    }
+  }
+}
