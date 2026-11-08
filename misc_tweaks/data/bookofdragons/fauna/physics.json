@@ -14,8 +14,8 @@
     "auto_level_roll": 1.05,
     "response": 1.0,
     "vertical_drag": 0.97,
-    "dive_overdrive_cap": 1.85,
-    "forward_overdrive_cap": 0.99,
+    "dive_overdrive_cap": 1.5,
+    "forward_overdrive_cap": 1.1,
     "overdrive_bleed": 0.0028,
     "glide_bleed": 0.0011,
     "climb_bleed": 0.075,
@@ -30,6 +30,7 @@
     "strafe_speed": 0.5,
     "strafe_lean": 30.0,
     "strafe_lean_rate": 0.25,
+    "fin_mode": {"speed": 0.75, "bank_yaw": 1.6, "roll_rate": 1.25},
     "pitch_pull": 0.4
   },
   "ride": {
@@ -64,10 +65,6 @@
     "level_hover_roll": 60.0,
     "level_hover_pitch": 20.0,
     "level_hover_fade": 3.0,
-    "free_look_level": 0.15,
-    "free_look_snap": 0.5,
-    "free_look_exit_ticks": 25,
-    "free_look_exit_lerp": 0.1,
     "roll_deadzone": 8.0,
     "roll_deadzone_full": 400.0,
     "roll_deadzone_time": 0.25,
@@ -189,11 +186,11 @@
     "skim_bounce": 0.3
   },
   "weight_classes": {
-    "FEATHER": { "gravity": 0.03, "inertia": 0.6, "health": 0.6, "armor": 0.5,  "speed": 1.15, "camera_distance": 1.0, "camera_shake": 0.05, "float_line": 0.4, "mass": 10, "lift": 0.0, "load_drag": 1.0 },
-    "LIGHT":   { "gravity": 0.05, "inertia": 0.8, "health": 0.8, "armor": 0.75, "speed": 1.05, "camera_distance": 1.0, "camera_shake": 0.1, "float_line": 0.45, "mass": 60, "lift": 0.0, "load_drag": 1.0 },
-    "MEDIUM":  { "gravity": 0.08, "inertia": 1.0, "health": 1.0, "armor": 1.0,  "speed": 1.0, "camera_distance": 1.0, "camera_shake": 0.5, "float_line": 0.5, "mass": 900, "lift": 1.2, "load_drag": 1.0 },
-    "HEAVY":   { "gravity": 0.11, "inertia": 1.4, "health": 1.3, "armor": 1.3,  "speed": 0.85, "camera_distance": 1.5, "camera_shake": 1.0, "float_line": 0.6, "mass": 2400, "lift": 1.0, "load_drag": 1.0 },
-    "TITANIC": { "gravity": 0.14, "inertia": 2.0, "health": 1.8, "armor": 1.6,  "speed": 0.7, "camera_distance": 2.0, "camera_shake": 1.5, "float_line": 0.65, "mass": 8000, "lift": 1.0, "load_drag": 1.0 }
+    "FEATHER": { "gravity": 0.03, "inertia": 0.6, "health": 0.25, "speed": 1.15, "camera_distance": 1.0, "camera_shake": 0.05, "float_line": 0.4, "mass": 10, "lift": 0.0, "load_drag": 1.0 },
+    "LIGHT":   { "gravity": 0.05, "inertia": 0.8, "health": 0.5,  "speed": 1.05, "camera_distance": 1.0, "camera_shake": 0.1, "float_line": 0.45, "mass": 60, "lift": 0.0, "load_drag": 1.0 },
+    "MEDIUM":  { "gravity": 0.08, "inertia": 1.0, "health": 1.2,  "speed": 1.0, "camera_distance": 1.0, "camera_shake": 0.5, "float_line": 0.5, "mass": 900, "lift": 1.2, "load_drag": 1.0 },
+    "HEAVY":   { "gravity": 0.11, "inertia": 1.4, "health": 1.5,  "speed": 0.85, "camera_distance": 1.5, "camera_shake": 1.0, "float_line": 0.6, "mass": 2400, "lift": 1.0, "load_drag": 1.0 },
+    "TITANIC": { "gravity": 0.14, "inertia": 2.0, "health": 1.8,  "speed": 0.7, "camera_distance": 2.0, "camera_shake": 1.5, "float_line": 0.65, "mass": 8000, "lift": 1.0, "load_drag": 1.0 }
   },
   "body_plans": {
     "FALCON":      { "top_speed": 0.9,  "agility": 1.0, "stall_speed": 0.35, "climb_bleed": 1.0, "dive_gain": 1.3, "auto_level": 1.0, "bank_yaw": 1.0 },
@@ -205,13 +202,18 @@
   "stats": {
     "health": {
       "stat": "CON",
-      "at0": 100.0,
-      "at100": 300.0
+      "at0": 70.0,
+      "at100": 130.0
     },
     "armor": {
       "stat": "CON",
-      "at0": 6.0,
+      "at0": 1.0,
       "at100": 18.0
+    },
+    "toughness": {
+      "stat": "CON",
+      "at0": 0.0,
+      "at100": 8.0
     },
     "regen": {
       "stat": "CON",
@@ -257,11 +259,6 @@
       "stat": "PRW",
       "at0": 4.0,
       "at100": 20.0
-    },
-    "knockback_resist": {
-      "stat": "PRW",
-      "at0": 0.0,
-      "at100": 0.8
     },
     "breath_power": {
       "stat": "POT",
