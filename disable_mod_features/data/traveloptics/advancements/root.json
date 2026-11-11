@@ -1,0 +1,21 @@
+{
+  "display": {
+    "icon": {
+      "item": "traveloptics:archive_of_abyssal_secrets"
+    },
+    "title": {
+      "translate": "advancements.traveloptics.root.title"
+    },
+    "description": {
+      "translate": "advancements.traveloptics.root.description"
+    },
+    "background": "minecraft:textures/block/obsidian.png",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "custom_test_name": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
