@@ -1,6 +1,6 @@
 {
   "replace": true,
   "values": [
-    {"id":"create:copper_nugget","required":false}
+    {"id":"minecraft:copper_nugget","required":false}
   ]
 }

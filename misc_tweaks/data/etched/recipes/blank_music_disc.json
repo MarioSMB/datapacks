@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "vanillabackport"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "etched"
+    }
+  ],
+  "type": "create:pressing",
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:resin_clump"
+      }
+    ]
+  ],
+  "results": [
+    {
+      "item": "etched:blank_music_disc"
+    }
+  ]
+}
