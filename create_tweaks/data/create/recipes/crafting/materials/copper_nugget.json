@@ -3,7 +3,7 @@
   "group": "minecraft:copper_nugget",
   "ingredients": [
     {
-      "tag": "minecraft:copper_ingot"
+      "item": "minecraft:copper_ingot"
     }
   ],
   "result": {
