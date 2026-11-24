@@ -1,0 +1,19 @@
+{
+  "type":"crafting_shaped",
+  "category": "pilots",
+  "group": "pilots",
+  "pattern": [
+    " I ",
+    "# #",
+    "III"
+  ],
+  "key":{
+    "#":{
+      "tag":"forge:sheets/copper"
+    },
+    "I":{
+      "tag":"forge:nuggets/copper"
+    }
+  },
+  "result":{"item":"bellsandwhistles:copper_pilot"}
+}

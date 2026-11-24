@@ -1,0 +1,21 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "CWC",
+    "   "
+  ],
+  "key": {
+    "C": {
+      "tag": "forge:nuggets/copper"
+    },
+    "W": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "result": {
+    "item": "fluid:fluid_manifest",
+    "count": 1
+  }
+}
+
