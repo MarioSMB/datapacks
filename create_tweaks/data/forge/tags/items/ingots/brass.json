@@ -1,5 +1,6 @@
 {
   "values": [
-    {"id":"scguns:ancient_brass","required":false}
+    {"id":"scguns:ancient_brass","required":false},
+    {"id":"scguns:treated_brass","required":false}
   ]
 }
